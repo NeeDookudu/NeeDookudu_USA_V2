@@ -1,0 +1,935 @@
+{
+  "last_updated": "2026-03-18 03:46:51 PM",
+  "errors": [
+    {
+      "state": "MA",
+      "city": "Lowell",
+      "zip": "01851",
+      "theater_name": "Showcase Cinema de Lux Lowell",
+      "chainName": "National Amusement",
+      "chainCode": "NATA",
+      "showtime_id": 538707701,
+      "date": "2026-03-18+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Downingtown",
+      "zip": "19335",
+      "theater_name": "Regal Downingtown & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 538409762,
+      "date": "2026-03-18+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Downingtown",
+      "zip": "19335",
+      "theater_name": "Regal Downingtown & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 538383326,
+      "date": "2026-03-18+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Gastonia",
+      "zip": "28054",
+      "theater_name": "Regal Franklin Square",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 535871298,
+      "date": "2026-03-18+13:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Gastonia",
+      "zip": "28054",
+      "theater_name": "Regal Franklin Square",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 535871300,
+      "date": "2026-03-18+17:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30009",
+      "theater_name": "Regal Avalon",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 538995010,
+      "date": "2026-03-18+15:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538401113,
+      "date": "2026-03-18+12:38",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538401114,
+      "date": "2026-03-18+16:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538401132,
+      "date": "2026-03-18+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cumming",
+      "zip": "30041",
+      "theater_name": "AMC Avenue Forsyth 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538071557,
+      "date": "2026-03-18+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Albany",
+      "zip": "31707",
+      "theater_name": "AMC CLASSIC Albany 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538655944,
+      "date": "2026-03-18+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tallahassee",
+      "zip": "32317",
+      "theater_name": "CMX Fallschase",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 538848456,
+      "date": "2026-03-18+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Altamonte Springs",
+      "zip": "32701",
+      "theater_name": "AMC Altamonte Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538712522,
+      "date": "2026-03-18+12:38",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Altamonte Springs",
+      "zip": "32701",
+      "theater_name": "AMC Altamonte Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538712523,
+      "date": "2026-03-18+16:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Vero Beach",
+      "zip": "32966",
+      "theater_name": "AMC CLASSIC Indian River 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538501676,
+      "date": "2026-03-18+19:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Miami",
+      "zip": "33172",
+      "theater_name": "CMX Dolphin 19 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 538796506,
+      "date": "2026-03-18+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "South Miami",
+      "zip": "33143",
+      "theater_name": "AMC Sunset Place 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538412060,
+      "date": "2026-03-18+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33609",
+      "theater_name": "AMC West Shore 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538218233,
+      "date": "2026-03-18+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538125179,
+      "date": "2026-03-18+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538125180,
+      "date": "2026-03-18+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335466,
+      "date": "2026-03-18+12:38",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335467,
+      "date": "2026-03-18+16:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335456,
+      "date": "2026-03-18+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43219",
+      "theater_name": "AMC Easton Town Center 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538400025,
+      "date": "2026-03-18+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43219",
+      "theater_name": "AMC Easton Town Center 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538400026,
+      "date": "2026-03-18+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538329255,
+      "date": "2026-03-18+12:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Madison Heights",
+      "zip": "48071",
+      "theater_name": "AMC Star John R 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538428807,
+      "date": "2026-03-18+14:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Madison Heights",
+      "zip": "48071",
+      "theater_name": "AMC Star John R 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538378517,
+      "date": "2026-03-18+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Auburn Hills",
+      "zip": "48326",
+      "theater_name": "AMC Star Great Lakes 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 537927343,
+      "date": "2026-03-18+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538133860,
+      "date": "2026-03-18+16:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Ashwaubenon",
+      "zip": "54304",
+      "theater_name": "Marcus Bay Park Cinemas",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 538575677,
+      "date": "2026-03-18+17:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538676549,
+      "date": "2026-03-18+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Edina",
+      "zip": "55435",
+      "theater_name": "AMC Southdale 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538712238,
+      "date": "2026-03-18+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Edina",
+      "zip": "55435",
+      "theater_name": "AMC Southdale 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538712242,
+      "date": "2026-03-18+16:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Edina",
+      "zip": "55435",
+      "theater_name": "AMC Southdale 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538712253,
+      "date": "2026-03-18+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538618999,
+      "date": "2026-03-18+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Creve Coeur",
+      "zip": "63141",
+      "theater_name": "AMC Creve Coeur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538062905,
+      "date": "2026-03-18+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Creve Coeur",
+      "zip": "63141",
+      "theater_name": "AMC Creve Coeur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538062897,
+      "date": "2026-03-18+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Independence",
+      "zip": "64057",
+      "theater_name": "AMC Independence Commons 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538625771,
+      "date": "2026-03-18+17:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Baton Rouge",
+      "zip": "70816",
+      "theater_name": "AMC Baton Rouge 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538649888,
+      "date": "2026-03-18+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Baton Rouge",
+      "zip": "70836",
+      "theater_name": "AMC Mall of Louisiana 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538127970,
+      "date": "2026-03-18+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Baton Rouge",
+      "zip": "70836",
+      "theater_name": "AMC Mall of Louisiana 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538127971,
+      "date": "2026-03-18+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Little Rock",
+      "zip": "72211",
+      "theater_name": "AMC Chenal 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538057767,
+      "date": "2026-03-18+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538412922,
+      "date": "2026-03-18+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74132",
+      "theater_name": "AMC Tulsa Hills 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538631498,
+      "date": "2026-03-18+17:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "theater_name": "AMC Lakeline 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538552283,
+      "date": "2026-03-18+14:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538044160,
+      "date": "2026-03-18+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538044161,
+      "date": "2026-03-18+20:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539121806,
+      "date": "2026-03-18+11:38",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539121804,
+      "date": "2026-03-18+17:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539121805,
+      "date": "2026-03-18+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78205",
+      "theater_name": "AMC Rivercenter 11 with Alamo IMAX",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538626344,
+      "date": "2026-03-18+16:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78205",
+      "theater_name": "AMC Rivercenter 11 with Alamo IMAX",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538626351,
+      "date": "2026-03-18+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80016",
+      "theater_name": "AMC DINE-IN Southlands 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538569107,
+      "date": "2026-03-18+10:38",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80016",
+      "theater_name": "AMC Arapahoe Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538216679,
+      "date": "2026-03-18+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84088",
+      "theater_name": "AMC West Jordan 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538177706,
+      "date": "2026-03-18+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85050",
+      "theater_name": "AMC Desert Ridge 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335877,
+      "date": "2026-03-18+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89119",
+      "theater_name": "AMC Town Square 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538532912,
+      "date": "2026-03-18+12:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fullerton",
+      "zip": "92832",
+      "theater_name": "AMC DINE-IN Fullerton 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538429767,
+      "date": "2026-03-18+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92108",
+      "theater_name": "AMC Fashion Valley 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538805594,
+      "date": "2026-03-18+19:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98004",
+      "theater_name": "Cinemark Lincoln Square",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 537797327,
+      "date": "2026-03-18+18:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lynnwood",
+      "zip": "98037",
+      "theater_name": "AMC Loews Alderwood Mall 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538578268,
+      "date": "2026-03-18+20:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    }
+  ]
+}
