@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 01:21:02 AM",
+  "last_updated": "2026-03-19 03:26:43 AM",
   "errors": [
     {
       "state": "PA",
@@ -479,21 +479,6 @@
       "language": "Hindi",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cordova",
-      "zip": "38018",
-      "theater_name": "Malco Cordova Cinema",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 539654998,
-      "date": "2026-03-18+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 400
       }
     },
     {
