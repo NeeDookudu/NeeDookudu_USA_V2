@@ -2,10 +2,15 @@ name: Hourly USA_RUN Scraper
 
 on:
   schedule:
-    # Runs at minute 0 past every hour (e.g., 1:00, 2:00, 3:00 UTC)
+    # Runs at minute 0 past every hour
     - cron: '0 * * * *'
   workflow_dispatch: 
     # Allows manual triggering from the Actions tab
+
+# Prevents multiple scrapers from running at the exact same time and corrupting the git history
+concurrency:
+  group: usa-scraper-group
+  cancel-in-progress: false
 
 permissions:
   contents: write # Needed to push the new data back to the repo
@@ -17,6 +22,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          # Fetches full history so the rebase has the necessary context
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,12 +34,10 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          # Includes all required packages, plus cryptography for decryption
           pip install requests aiohttp aiohttp_retry tqdm cryptography
 
       - name: Run Encrypted Scraper
         env:
-          # Passes the GitHub Secret into the environment for os.getenv("SUPER_KEY")
           SUPER_KEY: ${{ secrets.SUPER_KEY }}
         run: |
           python USA_RUN.py
@@ -42,13 +48,18 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # Add the data folder and any updated txt/json files
-          # Removed the broken logs/ directory command
           git add data/ *.json zipcodes.txt || true
           
           # Only commit and push if there are actual new changes
           if ! git diff-index --quiet HEAD; then
             git commit -m "Auto-update: Movie showtime data [skip ci]"
-            git push
+            
+            # Pull the latest changes from the remote to avoid push rejections
+            # Using rebase avoids messy merge commits
+            git pull --rebase origin main
+            
+            # Push the updated data back to the repository
+            git push origin main
           else
             echo "No new data changes to commit."
           fi
