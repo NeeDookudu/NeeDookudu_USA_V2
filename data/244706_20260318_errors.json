@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 05:47:47 PM",
+  "last_updated": "2026-03-18 10:22:05 PM",
   "errors": [
     {
       "state": "MA",
@@ -162,6 +162,36 @@
       "date": "2026-03-18+15:00",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-03-18+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 539640976,
+      "date": "2026-03-18+19:20",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
