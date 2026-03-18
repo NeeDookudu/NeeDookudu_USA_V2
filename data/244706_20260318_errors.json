@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 10:22:05 PM",
+  "last_updated": "2026-03-19 01:26:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -194,6 +194,51 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Jonesboro",
+      "zip": "72404",
+      "theater_name": "Malco Jonesboro Towne Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 539484243,
+      "date": "2026-03-18+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pasadena",
+      "zip": "77503",
+      "theater_name": "Cinemark Hollywood Pasadena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 537636660,
+      "date": "2026-03-18+11:38",
+      "format": "XD",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pasadena",
+      "zip": "77503",
+      "theater_name": "Cinemark Hollywood Pasadena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 537659294,
+      "date": "2026-03-18+11:38",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
       }
     }
   ]

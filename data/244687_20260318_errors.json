@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 10:17:54 PM",
+  "last_updated": "2026-03-19 01:21:02 AM",
   "errors": [
     {
       "state": "PA",
@@ -467,33 +467,48 @@
       }
     },
     {
-      "state": "FL",
-      "city": "Gainesville",
-      "zip": "32608",
-      "theater_name": "Regal Butler Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 536720034,
-      "date": "2026-03-18+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78753",
-      "theater_name": "AMC DINE-IN Tech Ridge 10",
+      "state": "GA",
+      "city": "Cumming",
+      "zip": "30041",
+      "theater_name": "AMC Avenue Forsyth 12",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 539647121,
-      "date": "2026-03-18+18:15",
+      "showtime_id": 539653190,
+      "date": "2026-03-18+21:10",
       "format": "Standard",
       "language": "Hindi",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Cordova",
+      "zip": "38018",
+      "theater_name": "Malco Cordova Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 539654998,
+      "date": "2026-03-18+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 539659490,
+      "date": "2026-03-18+20:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
       }
     }
   ]
