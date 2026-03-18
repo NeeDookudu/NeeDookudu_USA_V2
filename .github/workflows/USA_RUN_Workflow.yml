@@ -1,4 +1,4 @@
-name: Hourly USA_RUN Scraper
+name: Hourly Combined USA Scrapers
 
 on:
   schedule:
@@ -36,11 +36,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests aiohttp aiohttp_retry tqdm cryptography
 
-      - name: Run Encrypted Scraper
+      - name: Run First Encrypted Scraper (USA_RUN)
         env:
           SUPER_KEY: ${{ secrets.SUPER_KEY }}
         run: |
           python USA_RUN.py
+
+      - name: Run Second Encrypted Scraper (USA_RUN_UBS)
+        env:
+          SUPER_KEY: ${{ secrets.SUPER_KEY }}
+        run: |
+          python USA_RUN_UBS.py
 
       - name: Commit and Push Data Changes
         run: |
@@ -52,7 +58,7 @@ jobs:
           
           # Only commit and push if there are actual new changes
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Auto-update: Movie showtime data [skip ci]"
+            git commit -m "Auto-update: Combined movie showtime data [skip ci]"
             
             # Pull the latest changes from the remote to avoid push rejections
             # Using rebase avoids messy merge commits
