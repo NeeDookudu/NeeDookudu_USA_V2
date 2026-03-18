@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 01:39:42 PM",
+  "last_updated": "2026-03-18 01:49:34 PM",
   "errors": [
     {
       "state": "MA",
@@ -32066,6 +32066,36 @@
       "showtime_id": 536873550,
       "date": "2026-03-18+19:00",
       "format": "XD",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 537483706,
+      "date": "2026-03-18+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Angelo",
+      "zip": "76904",
+      "theater_name": "Cinemark Tinseltown USA San Angelo",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 537512411,
+      "date": "2026-03-18+18:00",
+      "format": "Standard",
       "language": "Hindi",
       "error": {
         "status": 403
