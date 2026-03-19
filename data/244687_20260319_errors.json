@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 02:38:14 AM",
+  "last_updated": "2026-03-20 04:35:59 AM",
   "errors": [
     {
       "state": "NJ",
@@ -775,6 +775,36 @@
       "chainCode": "AMC",
       "showtime_id": 539702565,
       "date": "2026-03-19+14:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Warner Robins",
+      "zip": "31028",
+      "theater_name": "Houston Lakes",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 539716696,
+      "date": "2026-03-19+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Walnut Creek",
+      "zip": "94596",
+      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539719370,
+      "date": "2026-03-19+13:45",
       "format": "Standard",
       "language": "Hindi",
       "error": {
