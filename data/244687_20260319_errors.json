@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-03-19 01:47:29 PM",
+  "last_updated": "2026-03-19 04:57:08 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "Edison",
-      "zip": "08837",
-      "theater_name": "AMC DINE-IN Menlo Park 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539087997,
-      "date": "2026-03-19+16:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Edison",
-      "zip": "08837",
-      "theater_name": "AMC DINE-IN Menlo Park 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538411281,
-      "date": "2026-03-19+14:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "NJ",
       "city": "Jersey City",
@@ -194,51 +164,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Asheville",
-      "zip": "28805",
-      "theater_name": "AMC River Hills 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539135681,
-      "date": "2026-03-19+14:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29212",
-      "theater_name": "AMC Harbison 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539182683,
-      "date": "2026-03-19+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29212",
-      "theater_name": "AMC Harbison 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539298583,
-      "date": "2026-03-19+20:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -482,36 +407,6 @@
       }
     },
     {
-      "state": "AL",
-      "city": "Hoover",
-      "zip": "35244",
-      "theater_name": "AMC Patton Creek 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 537478594,
-      "date": "2026-03-19+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Montgomery",
-      "zip": "36117",
-      "theater_name": "AMC Chantilly 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538080360,
-      "date": "2026-03-19+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -533,42 +428,12 @@
       "theater_name": "AMC Easton Town Center 30",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 536913413,
-      "date": "2026-03-19+20:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 538641320,
       "date": "2026-03-19+19:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Grove City",
-      "zip": "43123",
-      "theater_name": "AMC Grove City 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539341320,
-      "date": "2026-03-19+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -603,21 +468,6 @@
     },
     {
       "state": "IN",
-      "city": "Plainfield",
-      "zip": "46168",
-      "theater_name": "AMC Perry Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538905368,
-      "date": "2026-03-19+19:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IN",
       "city": "Bloomington",
       "zip": "47404",
       "theater_name": "AMC CLASSIC Bloomington 12",
@@ -629,51 +479,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538628717,
-      "date": "2026-03-19+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538624719,
-      "date": "2026-03-19+19:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Crestwood",
-      "zip": "60148",
-      "theater_name": "AMC Crestwood 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539495380,
-      "date": "2026-03-19+19:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -768,21 +573,6 @@
     },
     {
       "state": "IL",
-      "city": "Lombard",
-      "zip": "60148",
-      "theater_name": "AMC Yorktown 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538031482,
-      "date": "2026-03-19+18:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
       "city": "Peoria",
       "zip": "61615",
       "theater_name": "GQT Willow Knolls 14",
@@ -798,21 +588,6 @@
     },
     {
       "state": "CO",
-      "city": "Broomfield",
-      "zip": "80021",
-      "theater_name": "AMC Flatiron Crossing 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539075742,
-      "date": "2026-03-19+15:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CO",
       "city": "Aurora",
       "zip": "80016",
       "theater_name": "AMC DINE-IN Southlands 16",
@@ -824,36 +599,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Northridge",
-      "zip": "91324",
-      "theater_name": "AMC Northridge 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539053268,
-      "date": "2026-03-19+14:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Northridge",
-      "zip": "91324",
-      "theater_name": "AMC Northridge 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 537117397,
-      "date": "2026-03-19+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -974,126 +719,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539622199,
-      "date": "2026-03-19+13:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 537634683,
-      "date": "2026-03-19+14:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539646592,
-      "date": "2026-03-19+19:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538368695,
-      "date": "2026-03-19+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Clinton Township",
-      "zip": "48035",
-      "theater_name": "AMC Star Gratiot 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539315716,
-      "date": "2026-03-19+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78753",
-      "theater_name": "AMC DINE-IN Tech Ridge 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539114432,
-      "date": "2026-03-19+14:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78753",
-      "theater_name": "AMC DINE-IN Tech Ridge 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538897759,
-      "date": "2026-03-19+18:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78753",
-      "theater_name": "AMC DINE-IN Tech Ridge 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539661913,
-      "date": "2026-03-19+20:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
