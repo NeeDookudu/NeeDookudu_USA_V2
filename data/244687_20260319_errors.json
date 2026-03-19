@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 08:26:43 PM",
+  "last_updated": "2026-03-19 11:43:35 PM",
   "errors": [
     {
       "state": "NJ",
@@ -719,6 +719,36 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Silver Spring",
+      "zip": "20910",
+      "theater_name": "Regal Majestic & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 539696950,
+      "date": "2026-03-19+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Silver Spring",
+      "zip": "20910",
+      "theater_name": "Regal Majestic & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 539695176,
+      "date": "2026-03-19+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
       }
     }
   ]
