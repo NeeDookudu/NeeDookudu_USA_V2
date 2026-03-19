@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 11:47:58 PM",
+  "last_updated": "2026-03-20 02:41:31 AM",
   "errors": [
     {
       "state": "PA",
@@ -175,6 +175,21 @@
       "chainCode": "GLXY",
       "showtime_id": 538939690,
       "date": "2026-03-19+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Barboursville",
+      "zip": "25504",
+      "theater_name": "Cinemark Huntington Mall",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539702804,
+      "date": "2026-03-19+15:20",
       "format": "Standard",
       "language": "Telugu",
       "error": {

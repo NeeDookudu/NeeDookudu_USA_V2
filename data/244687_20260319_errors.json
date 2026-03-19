@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 11:43:35 PM",
+  "last_updated": "2026-03-20 02:38:14 AM",
   "errors": [
     {
       "state": "NJ",
@@ -749,6 +749,36 @@
       "language": "Hindi",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Barboursville",
+      "zip": "25504",
+      "theater_name": "Cinemark Huntington Mall",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539702811,
+      "date": "2026-03-19+13:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539702565,
+      "date": "2026-03-19+14:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
