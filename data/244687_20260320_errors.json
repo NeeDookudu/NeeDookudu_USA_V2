@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 01:28:30 AM",
+  "last_updated": "2026-03-21 02:38:10 AM",
   "errors": [
     {
       "state": "NY",
@@ -902,21 +902,6 @@
       }
     },
     {
-      "state": "NC",
-      "city": "Durham",
-      "zip": "27713",
-      "theater_name": "AMC Southpoint 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539736490,
-      "date": "2026-03-20+22:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "KY",
       "city": "Lexington",
       "zip": "40509",
@@ -955,6 +940,21 @@
       "chainCode": "REGL",
       "showtime_id": 539739637,
       "date": "2026-03-20+12:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539754240,
+      "date": "2026-03-20+15:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {
