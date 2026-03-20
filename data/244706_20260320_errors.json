@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 03:44:01 PM",
+  "last_updated": "2026-03-20 05:39:28 PM",
   "errors": [
     {
       "state": "PA",
@@ -137,21 +137,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Dublin",
-      "zip": "43017",
-      "theater_name": "AMC Dublin Village 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539210719,
-      "date": "2026-03-20+15:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IA",
       "city": "Dubuque",
       "zip": "52002",
@@ -224,21 +209,6 @@
       "language": "Telugu",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Little Rock",
-      "zip": "72211",
-      "theater_name": "AMC Chenal 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539066361,
-      "date": "2026-03-20+20:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
