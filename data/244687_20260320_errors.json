@@ -1,81 +1,6 @@
 {
-  "last_updated": "2026-03-20 01:37:14 PM",
+  "last_updated": "2026-03-20 03:41:16 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Littleton ",
-      "zip": "01460",
-      "theater_name": "O'Neil Cinemas at the Point",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538821110,
-      "date": "2026-03-20+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Littleton ",
-      "zip": "01460",
-      "theater_name": "O'Neil Cinemas at the Point",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538821111,
-      "date": "2026-03-20+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Londonderry",
-      "zip": "03053",
-      "theater_name": "O'Neil Cinemas Londonderry",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538822727,
-      "date": "2026-03-20+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Londonderry",
-      "zip": "03053",
-      "theater_name": "O'Neil Cinemas Londonderry",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538822728,
-      "date": "2026-03-20+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Jersey City",
-      "zip": "07310",
-      "theater_name": "AMC Newport Centre 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539495269,
-      "date": "2026-03-20+22:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "NY",
       "city": "New York",
@@ -288,21 +213,6 @@
     },
     {
       "state": "NC",
-      "city": "Cary",
-      "zip": "27519",
-      "theater_name": "Hooky Entertainment Cary",
-      "chainName": "Hooky Entertainment",
-      "chainCode": "HOOK",
-      "showtime_id": 538391753,
-      "date": "2026-03-20+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NC",
       "city": "Jacksonville",
       "zip": "28546",
       "theater_name": "AMC CLASSIC Jacksonville 16",
@@ -422,21 +332,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Morrow",
-      "zip": "30260",
-      "theater_name": "AMC Southlake 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539733040,
-      "date": "2026-03-20+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "AL",
       "city": "Dothan",
       "zip": "36303",
@@ -513,36 +408,6 @@
     },
     {
       "state": "FL",
-      "city": "Lake Buena Vista",
-      "zip": "32830",
-      "theater_name": "AMC DINE-IN Disney Springs™ 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539458431,
-      "date": "2026-03-20+12:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Lake Buena Vista",
-      "zip": "32830",
-      "theater_name": "AMC DINE-IN Disney Springs™ 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538992944,
-      "date": "2026-03-20+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Miami",
       "zip": "33175",
       "theater_name": "AMC Tamiami 18",
@@ -550,36 +415,6 @@
       "chainCode": "AMC",
       "showtime_id": 539481704,
       "date": "2026-03-20+16:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33175",
-      "theater_name": "AMC Tamiami 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539481721,
-      "date": "2026-03-20+18:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33175",
-      "theater_name": "AMC Tamiami 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539481749,
-      "date": "2026-03-20+21:35",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -767,21 +602,6 @@
       }
     },
     {
-      "state": "KY",
-      "city": "Newport",
-      "zip": "41071",
-      "theater_name": "AMC Newport On The Levee 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538003265,
-      "date": "2026-03-20+12:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "OH",
       "city": "Findlay",
       "zip": "45840",
@@ -842,51 +662,6 @@
       }
     },
     {
-      "state": "MI",
-      "city": "Fort Gratiot",
-      "zip": "48059",
-      "theater_name": "AMC Birchwood 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539355007,
-      "date": "2026-03-20+15:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Lansing",
-      "zip": "48912",
-      "theater_name": "NCG Eastwood Cinema",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 538801435,
-      "date": "2026-03-20+11:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Lansing",
-      "zip": "48912",
-      "theater_name": "NCG Eastwood Cinema",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 538801437,
-      "date": "2026-03-20+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IA",
       "city": "Dubuque",
       "zip": "52002",
@@ -914,36 +689,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Fitchburg",
-      "zip": "53719",
-      "theater_name": "AMC Fitchburg 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539074197,
-      "date": "2026-03-20+11:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Fitchburg",
-      "zip": "53719",
-      "theater_name": "AMC Fitchburg 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539074217,
-      "date": "2026-03-20+18:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -1082,21 +827,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78205",
-      "theater_name": "AMC Rivercenter 11 with Alamo IMAX",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539074946,
-      "date": "2026-03-20+21:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CO",
       "city": "Aurora",
       "zip": "80016",
@@ -1109,111 +839,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92122",
-      "theater_name": "AMC UTC 14 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539286051,
-      "date": "2026-03-20+11:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92122",
-      "theater_name": "AMC UTC 14 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539286036,
-      "date": "2026-03-20+13:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92122",
-      "theater_name": "AMC UTC 14 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539286042,
-      "date": "2026-03-20+16:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92122",
-      "theater_name": "AMC UTC 14 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538020852,
-      "date": "2026-03-20+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92122",
-      "theater_name": "AMC UTC 14 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539286050,
-      "date": "2026-03-20+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95123",
-      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537485095,
-      "date": "2026-03-20+10:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sunnyvale",
-      "zip": "94086",
-      "theater_name": "AMC Sunnyvale 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539443555,
-      "date": "2026-03-20+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
