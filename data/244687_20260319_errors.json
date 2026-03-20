@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 04:35:59 AM",
+  "last_updated": "2026-03-20 10:41:25 AM",
   "errors": [
     {
       "state": "NJ",
@@ -805,6 +805,126 @@
       "chainCode": "CNMK",
       "showtime_id": 539719370,
       "date": "2026-03-19+13:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 539719685,
+      "date": "2026-03-19+22:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Pooler",
+      "zip": "31322",
+      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 539720161,
+      "date": "2026-03-19+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Eden Prairie",
+      "zip": "55344",
+      "theater_name": "AMC Eden Prairie Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539728181,
+      "date": "2026-03-19+22:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "North Aurora",
+      "zip": "60542",
+      "theater_name": "Cinemark Tinseltown USA Aurora",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539720211,
+      "date": "2026-03-19+18:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 539720722,
+      "date": "2026-03-19+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Hillsboro",
+      "zip": "97123",
+      "theater_name": "Regal Movies On TV",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 539724530,
+      "date": "2026-03-19+19:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Federal Way",
+      "zip": "98003",
+      "theater_name": "Cinemark Century Federal Way and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539729040,
+      "date": "2026-03-19+19:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Federal Way",
+      "zip": "98003",
+      "theater_name": "Cinemark Century Federal Way and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539729039,
+      "date": "2026-03-19+21:10",
       "format": "Standard",
       "language": "Hindi",
       "error": {
