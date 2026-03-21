@@ -1,81 +1,6 @@
 {
-  "last_updated": "2026-03-21 12:47:14 PM",
+  "last_updated": "2026-03-21 02:39:37 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Littleton ",
-      "zip": "01460",
-      "theater_name": "O'Neil Cinemas at the Point",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538821114,
-      "date": "2026-03-21+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Littleton ",
-      "zip": "01460",
-      "theater_name": "O'Neil Cinemas at the Point",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538821115,
-      "date": "2026-03-21+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Londonderry",
-      "zip": "03053",
-      "theater_name": "O'Neil Cinemas Londonderry",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538822729,
-      "date": "2026-03-21+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Londonderry",
-      "zip": "03053",
-      "theater_name": "O'Neil Cinemas Londonderry",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538822730,
-      "date": "2026-03-21+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "South Plainfield",
-      "zip": "07080",
-      "theater_name": "Regal Hadley Theatre",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 536731055,
-      "date": "2026-03-21+17:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
     {
       "state": "NJ",
       "city": "Morristown",
@@ -359,21 +284,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Durham",
-      "zip": "27713",
-      "theater_name": "AMC Southpoint 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539767604,
-      "date": "2026-03-21+22:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -902,51 +812,6 @@
       }
     },
     {
-      "state": "MI",
-      "city": "Sterling Heights",
-      "zip": "48314",
-      "theater_name": "AMC Forum 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539369851,
-      "date": "2026-03-21+14:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Lansing",
-      "zip": "48912",
-      "theater_name": "NCG Eastwood Cinema",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 538801439,
-      "date": "2026-03-21+14:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Lansing",
-      "zip": "48912",
-      "theater_name": "NCG Eastwood Cinema",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 538801436,
-      "date": "2026-03-21+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IA",
       "city": "Dubuque",
       "zip": "52002",
@@ -1052,21 +917,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537407341,
-      "date": "2026-03-21+10:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "CO",
       "city": "Aurora",
       "zip": "80016",
@@ -1079,51 +929,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Mesa",
-      "zip": "85201",
-      "theater_name": "Cinemark Mesa 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537287847,
-      "date": "2026-03-21+16:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Chandler",
-      "zip": "85226",
-      "theater_name": "Harkins Chandler Fashion 20",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 539619833,
-      "date": "2026-03-21+11:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Modesto",
-      "zip": "95354",
-      "theater_name": "Brenden Modesto 18 & JBX",
-      "chainName": "Brenden Theatres",
-      "chainCode": "BRND",
-      "showtime_id": 539261293,
-      "date": "2026-03-21+20:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
       }
     },
     {

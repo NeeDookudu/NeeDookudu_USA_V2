@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 12:50:19 PM",
+  "last_updated": "2026-03-21 02:42:54 PM",
   "errors": [
     {
       "state": "NJ",
@@ -29,36 +29,6 @@
       "language": "Telugu",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Charlottesville",
-      "zip": "22901",
-      "theater_name": "Regal Stonefield & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 539108367,
-      "date": "2026-03-21+22:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Cary",
-      "zip": "27519",
-      "theater_name": "Hooky Entertainment Cary",
-      "chainName": "Hooky Entertainment",
-      "chainCode": "HOOK",
-      "showtime_id": 538391787,
-      "date": "2026-03-21+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -153,21 +123,6 @@
     },
     {
       "state": "FL",
-      "city": "Pompano Beach",
-      "zip": "33062",
-      "theater_name": "AMC Pompano Beach 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538350789,
-      "date": "2026-03-21+16:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Tampa",
       "zip": "33647",
       "theater_name": "AMC Highwoods 20",
@@ -194,36 +149,6 @@
       "language": "Telugu",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Flint",
-      "zip": "48532",
-      "theater_name": "Cinemark Flint West 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539067436,
-      "date": "2026-03-21+22:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Lansing",
-      "zip": "48917",
-      "theater_name": "Regal Lansing Mall & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 539664133,
-      "date": "2026-03-21+12:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -284,21 +209,6 @@
       "language": "Telugu",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Independence",
-      "zip": "64057",
-      "theater_name": "AMC Independence Commons 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539243101,
-      "date": "2026-03-21+17:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {

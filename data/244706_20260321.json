@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-21 12:50:19 PM",
+  "last_updated": "2026-03-21 02:42:54 PM",
   "movie_id": 244706,
   "movie_details": {
     "title": "Ustaad Bhagat Singh (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244706/UBS-27x40.jpg",
     "overview": "The story follows Bhagat Singh, a powerful police officer from Mahankali Police Station in Pathar Gunj, Pathabasti, as he wages a fierce war against crime and injustice.",
     "stats": {
-      "total_gross_usd": 62385.71,
-      "total_shows": 657,
-      "avg_occupancy": 5.86,
-      "tickets_sold": 3691,
-      "unique_venues": 362
+      "total_gross_usd": 66241.03,
+      "total_shows": 675,
+      "avg_occupancy": 6.07,
+      "tickets_sold": 3920,
+      "unique_venues": 373
     }
   },
   "showtimes": [
@@ -709,11 +709,11 @@
       "date": "2026-03-21+17:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 49,
-      "occupancy": 39.2,
-      "totalAvailableSeatCount": 76,
+      "totalSeatSold": 48,
+      "occupancy": 38.4,
+      "totalAvailableSeatCount": 77,
       "totalSeatCount": 125,
-      "grossRevenueUSD": 888.37,
+      "grossRevenueUSD": 870.24,
       "adultTicketPrice": 18.13
     },
     {
@@ -1909,9 +1909,12 @@
       "date": "2026-03-21+22:15",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 1,
+      "occupancy": 0.64,
+      "totalAvailableSeatCount": 155,
+      "totalSeatCount": 156,
+      "grossRevenueUSD": 16.49,
+      "adultTicketPrice": 16.49
     },
     {
       "state": "VA",
@@ -2158,9 +2161,10 @@
       "date": "2026-03-21+18:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "NC",
@@ -2209,11 +2213,11 @@
       "date": "2026-03-21+22:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 14,
-      "occupancy": 28.0,
-      "totalAvailableSeatCount": 36,
+      "totalSeatSold": 10,
+      "occupancy": 20.0,
+      "totalAvailableSeatCount": 40,
       "totalSeatCount": 50,
-      "grossRevenueUSD": 255.36,
+      "grossRevenueUSD": 182.4,
       "adultTicketPrice": 18.24
     },
     {
@@ -3793,9 +3797,10 @@
       "date": "2026-03-21+16:45",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "FL",
@@ -5530,9 +5535,12 @@
       "date": "2026-03-21+22:10",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 282,
+      "totalSeatCount": 282,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 17.0
     },
     {
       "state": "MI",
@@ -5581,9 +5589,12 @@
       "date": "2026-03-21+12:10",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
+      "totalSeatSold": 1,
+      "occupancy": 0.46,
+      "totalAvailableSeatCount": 218,
+      "totalSeatCount": 219,
+      "grossRevenueUSD": 17.0,
+      "adultTicketPrice": 17.0
     },
     {
       "state": "MI",
@@ -6664,9 +6675,10 @@
       "date": "2026-03-21+17:45",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "MO",
@@ -6697,11 +6709,11 @@
       "date": "2026-03-21+12:05",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 14,
-      "occupancy": 25.0,
-      "totalAvailableSeatCount": 42,
+      "totalSeatSold": 15,
+      "occupancy": 26.79,
+      "totalAvailableSeatCount": 41,
       "totalSeatCount": 56,
-      "grossRevenueUSD": 263.76,
+      "grossRevenueUSD": 282.6,
       "adultTicketPrice": 18.84
     },
     {
@@ -8227,11 +8239,11 @@
       "date": "2026-03-21+15:25",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 15,
-      "occupancy": 21.43,
-      "totalAvailableSeatCount": 55,
+      "totalSeatSold": 16,
+      "occupancy": 22.86,
+      "totalAvailableSeatCount": 54,
       "totalSeatCount": 70,
-      "grossRevenueUSD": 170.55,
+      "grossRevenueUSD": 181.92,
       "adultTicketPrice": 11.37
     },
     {
@@ -9826,11 +9838,11 @@
       "date": "2026-03-21+16:40",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 20,
-      "occupancy": 18.87,
-      "totalAvailableSeatCount": 86,
+      "totalSeatSold": 21,
+      "occupancy": 19.81,
+      "totalAvailableSeatCount": 85,
       "totalSeatCount": 106,
-      "grossRevenueUSD": 283.4,
+      "grossRevenueUSD": 297.57,
       "adultTicketPrice": 14.17
     },
     {
@@ -10204,11 +10216,11 @@
       "date": "2026-03-21+15:10",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 71,
+      "totalSeatSold": 2,
+      "occupancy": 2.82,
+      "totalAvailableSeatCount": 69,
       "totalSeatCount": 71,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 34.0,
       "adultTicketPrice": 17.0
     },
     {
@@ -10294,11 +10306,11 @@
       "date": "2026-03-21+21:25",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 142,
+      "totalSeatSold": 1,
+      "occupancy": 0.7,
+      "totalAvailableSeatCount": 141,
       "totalSeatCount": 142,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 17.0,
       "adultTicketPrice": 17.0
     },
     {
@@ -11086,11 +11098,11 @@
       "date": "2026-03-21+16:15",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 1,
-      "occupancy": 1.61,
-      "totalAvailableSeatCount": 61,
+      "totalSeatSold": 3,
+      "occupancy": 4.84,
+      "totalAvailableSeatCount": 59,
       "totalSeatCount": 62,
-      "grossRevenueUSD": 17.0,
+      "grossRevenueUSD": 51.0,
       "adultTicketPrice": 17.0
     },
     {
@@ -11392,11 +11404,11 @@
       "date": "2026-03-21+17:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 15,
-      "occupancy": 21.74,
-      "totalAvailableSeatCount": 54,
+      "totalSeatSold": 17,
+      "occupancy": 24.64,
+      "totalAvailableSeatCount": 52,
       "totalSeatCount": 69,
-      "grossRevenueUSD": 240.0,
+      "grossRevenueUSD": 272.0,
       "adultTicketPrice": 16.0
     },
     {
@@ -11500,11 +11512,11 @@
       "date": "2026-03-21+12:50",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 4,
-      "occupancy": 7.84,
-      "totalAvailableSeatCount": 47,
+      "totalSeatSold": 6,
+      "occupancy": 11.76,
+      "totalAvailableSeatCount": 45,
       "totalSeatCount": 51,
-      "grossRevenueUSD": 68.0,
+      "grossRevenueUSD": 102.0,
       "adultTicketPrice": 17.0
     },
     {
@@ -12169,6 +12181,222 @@
       "totalSeatCount": 64,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 13.25
+    },
+    {
+      "state": "NJ",
+      "city": "Cherry Hill",
+      "zip": "08002",
+      "theater_name": "AMC Cherry Hill 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539327303,
+      "date": "2026-03-21+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 4,
+      "occupancy": 4.26,
+      "totalAvailableSeatCount": 90,
+      "totalSeatCount": 94,
+      "grossRevenueUSD": 72.52,
+      "adultTicketPrice": 18.13
+    },
+    {
+      "state": "SC",
+      "city": "Columbia",
+      "zip": "29212",
+      "theater_name": "AMC Harbison 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539516012,
+      "date": "2026-03-21+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 16,
+      "occupancy": 39.02,
+      "totalAvailableSeatCount": 25,
+      "totalSeatCount": 41,
+      "grossRevenueUSD": 201.44,
+      "adultTicketPrice": 12.59
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539687517,
+      "date": "2026-03-21+11:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 11,
+      "occupancy": 30.56,
+      "totalAvailableSeatCount": 25,
+      "totalSeatCount": 36,
+      "grossRevenueUSD": 162.47,
+      "adultTicketPrice": 14.77
+    },
+    {
+      "state": "KS",
+      "city": "Olathe",
+      "zip": "66062",
+      "theater_name": "AMC Studio 28",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539336777,
+      "date": "2026-03-21+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 7,
+      "occupancy": 4.73,
+      "totalAvailableSeatCount": 141,
+      "totalSeatCount": 148,
+      "grossRevenueUSD": 84.21,
+      "adultTicketPrice": 12.03
+    },
+    {
+      "state": "OK",
+      "city": "Oklahoma City",
+      "zip": "73134",
+      "theater_name": "AMC Quail Springs Mall 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539370316,
+      "date": "2026-03-21+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 135,
+      "totalSeatCount": 135,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 18.47
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "AMC Grapevine Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539355437,
+      "date": "2026-03-21+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 23,
+      "occupancy": 12.04,
+      "totalAvailableSeatCount": 168,
+      "totalSeatCount": 191,
+      "grossRevenueUSD": 423.2,
+      "adultTicketPrice": 18.4
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539253186,
+      "date": "2026-03-21+10:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 25,
+      "occupancy": 48.08,
+      "totalAvailableSeatCount": 27,
+      "totalSeatCount": 52,
+      "grossRevenueUSD": 460.0,
+      "adultTicketPrice": 18.4
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539253181,
+      "date": "2026-03-21+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 37,
+      "occupancy": 74.0,
+      "totalAvailableSeatCount": 13,
+      "totalSeatCount": 50,
+      "grossRevenueUSD": 680.8,
+      "adultTicketPrice": 18.4
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539762582,
+      "date": "2026-03-21+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 25,
+      "occupancy": 58.14,
+      "totalAvailableSeatCount": 18,
+      "totalSeatCount": 43,
+      "grossRevenueUSD": 351.5,
+      "adultTicketPrice": 14.06
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539253182,
+      "date": "2026-03-21+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 34,
+      "occupancy": 68.0,
+      "totalAvailableSeatCount": 16,
+      "totalSeatCount": 50,
+      "grossRevenueUSD": 625.6,
+      "adultTicketPrice": 18.4
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539787075,
+      "date": "2026-03-21+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 10,
+      "occupancy": 19.23,
+      "totalAvailableSeatCount": 42,
+      "totalSeatCount": 52,
+      "grossRevenueUSD": 140.6,
+      "adultTicketPrice": 14.06
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539253183,
+      "date": "2026-03-21+22:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 28,
+      "occupancy": 56.0,
+      "totalAvailableSeatCount": 22,
+      "totalSeatCount": 50,
+      "grossRevenueUSD": 515.2,
+      "adultTicketPrice": 18.4
     }
   ]
 }
