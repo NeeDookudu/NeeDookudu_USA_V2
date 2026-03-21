@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 12:41:03 AM",
+  "last_updated": "2026-03-22 02:31:16 AM",
   "errors": [
     {
       "state": "NJ",
@@ -1049,6 +1049,36 @@
       "language": "Hindi",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "CT",
+      "city": "North Haven",
+      "zip": "06473",
+      "theater_name": "Cinemark North Haven and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539795513,
+      "date": "2026-03-21+16:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539794034,
+      "date": "2026-03-21+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
       }
     }
   ]
