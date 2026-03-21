@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 08:32:31 PM",
+  "last_updated": "2026-03-21 09:27:41 PM",
   "errors": [
     {
       "state": "NJ",
@@ -265,21 +265,6 @@
       "chainCode": "AMC",
       "showtime_id": 539767607,
       "date": "2026-03-21+17:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Durham",
-      "zip": "27713",
-      "theater_name": "AMC Southpoint 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539767602,
-      "date": "2026-03-21+21:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -1030,6 +1015,21 @@
       "chainCode": "AMC",
       "showtime_id": 538449677,
       "date": "2026-03-21+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 539303854,
+      "date": "2026-03-21+17:40",
       "format": "Standard",
       "language": "Hindi",
       "error": {
