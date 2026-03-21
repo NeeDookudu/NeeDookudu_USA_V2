@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 05:34:47 AM",
+  "last_updated": "2026-03-21 10:30:08 AM",
   "errors": [
     {
       "state": "PA",
@@ -280,6 +280,21 @@
       "chainCode": "CNMK",
       "showtime_id": 539736899,
       "date": "2026-03-20+23:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74135",
+      "theater_name": "AMC Southroads 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539783035,
+      "date": "2026-03-20+22:20",
       "format": "Standard",
       "language": "Telugu",
       "error": {

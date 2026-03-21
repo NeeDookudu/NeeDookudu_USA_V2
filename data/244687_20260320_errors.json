@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 05:31:32 AM",
+  "last_updated": "2026-03-21 10:27:48 AM",
   "errors": [
     {
       "state": "NY",
@@ -1045,6 +1045,231 @@
       "chainCode": "CNMK",
       "showtime_id": 537108794,
       "date": "2026-03-20+15:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Stamford",
+      "zip": "06905",
+      "theater_name": "AMC Landmark 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539774265,
+      "date": "2026-03-20+20:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539780840,
+      "date": "2026-03-20+22:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "East Brunswick",
+      "zip": "08816",
+      "theater_name": "AMC Brunswick Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539779637,
+      "date": "2026-03-20+21:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539780640,
+      "date": "2026-03-20+21:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bartlett",
+      "zip": "38134",
+      "theater_name": "Hollywood 20 Cinema",
+      "chainName": "Bartlett Cinemas",
+      "chainCode": "BART",
+      "showtime_id": 539777440,
+      "date": "2026-03-20+19:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bartlett",
+      "zip": "38134",
+      "theater_name": "Hollywood 20 Cinema",
+      "chainName": "Bartlett Cinemas",
+      "chainCode": "BART",
+      "showtime_id": 539779491,
+      "date": "2026-03-20+20:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539772843,
+      "date": "2026-03-20+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539765875,
+      "date": "2026-03-20+22:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Eden Prairie",
+      "zip": "55344",
+      "theater_name": "AMC Eden Prairie Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539782232,
+      "date": "2026-03-20+22:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "AMC Grand Prairie 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539776622,
+      "date": "2026-03-20+21:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Creve Coeur",
+      "zip": "63141",
+      "theater_name": "AMC Creve Coeur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539778235,
+      "date": "2026-03-20+21:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75025",
+      "theater_name": "Cinemark Legacy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539784106,
+      "date": "2026-03-20+22:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Dallas",
+      "zip": "75234",
+      "theater_name": "Cinemark Dallas XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539780108,
+      "date": "2026-03-20+23:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Dallas",
+      "zip": "75234",
+      "theater_name": "Cinemark Dallas XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539780107,
+      "date": "2026-03-20+23:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Manteca",
+      "zip": "95337",
+      "theater_name": "AMC Manteca 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539785447,
+      "date": "2026-03-20+20:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
