@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 04:36:57 AM",
+  "last_updated": "2026-03-21 05:31:32 AM",
   "errors": [
     {
       "state": "NY",
@@ -962,36 +962,6 @@
       }
     },
     {
-      "state": "NJ",
-      "city": "Moorestown",
-      "zip": "08057",
-      "theater_name": "Regal Moorestown Mall & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 539764565,
-      "date": "2026-03-20+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Pompano Beach",
-      "zip": "33062",
-      "theater_name": "AMC Pompano Beach 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539768397,
-      "date": "2026-03-20+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "IN",
       "city": "Carmel",
       "zip": "46033",
@@ -1022,51 +992,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "AMC Stonebriar 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539755916,
-      "date": "2026-03-20+20:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "AMC Stonebriar 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539755917,
-      "date": "2026-03-20+22:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77064",
-      "theater_name": "AMC Willowbrook 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539762583,
-      "date": "2026-03-20+21:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "AZ",
       "city": "Mesa",
       "zip": "85201",
@@ -1090,6 +1015,36 @@
       "chainCode": "CNMK",
       "showtime_id": 539461126,
       "date": "2026-03-20+15:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Huntsville",
+      "zip": "35806",
+      "theater_name": "Cinemark Bridge Street and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 537108795,
+      "date": "2026-03-20+10:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Huntsville",
+      "zip": "35806",
+      "theater_name": "Cinemark Bridge Street and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 537108794,
+      "date": "2026-03-20+15:35",
       "format": "Standard",
       "language": "Hindi",
       "error": {
