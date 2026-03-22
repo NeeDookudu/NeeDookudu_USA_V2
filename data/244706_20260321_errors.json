@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 05:20:29 AM",
+  "last_updated": "2026-03-22 10:46:50 AM",
   "errors": [
     {
       "state": "NJ",
@@ -239,6 +239,36 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Baton Rouge",
+      "zip": "70836",
+      "theater_name": "AMC Mall of Louisiana 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539442088,
+      "date": "2026-03-21+16:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85706",
+      "theater_name": "Harkins Tucson Spectrum 18",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 539804148,
+      "date": "2026-03-21+19:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
       }
     }
   ]
