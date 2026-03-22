@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 08:33:45 PM",
+  "last_updated": "2026-03-22 09:28:18 PM",
   "errors": [
     {
       "state": "NJ",
@@ -929,6 +929,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Glen Allen",
+      "zip": "23060",
+      "theater_name": "Regal Virginia Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 539809842,
+      "date": "2026-03-22+11:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
