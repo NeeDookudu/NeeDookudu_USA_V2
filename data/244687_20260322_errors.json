@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 02:32:10 AM",
+  "last_updated": "2026-03-23 03:27:38 AM",
   "errors": [
     {
       "state": "NJ",
@@ -955,6 +955,21 @@
       "chainCode": "AMC",
       "showtime_id": 539809829,
       "date": "2026-03-22+12:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bee Cave",
+      "zip": "78738",
+      "theater_name": "Cinemark Hill Country Galleria",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 539812094,
+      "date": "2026-03-22+09:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
