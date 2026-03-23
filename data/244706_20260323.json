@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-03-23 02:19:27 PM",
+  "last_updated": "2026-03-23 05:12:21 PM",
   "movie_id": 244706,
   "movie_details": {
     "title": "Ustaad Bhagat Singh (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244706/UBS-27x40.jpg",
     "overview": "The story follows Bhagat Singh, a powerful police officer from Mahankali Police Station in Pathar Gunj, Pathabasti, as he wages a fierce war against crime and injustice.",
     "stats": {
-      "total_gross_usd": 12099.55,
-      "total_shows": 637,
-      "avg_occupancy": 1.47,
-      "tickets_sold": 868,
+      "total_gross_usd": 12142.64,
+      "total_shows": 638,
+      "avg_occupancy": 1.48,
+      "tickets_sold": 871,
       "unique_venues": 344
     }
   },
@@ -2770,11 +2770,11 @@
       "date": "2026-03-23+19:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 37,
-      "occupancy": 41.11,
-      "totalAvailableSeatCount": 53,
+      "totalSeatSold": 38,
+      "occupancy": 42.22,
+      "totalAvailableSeatCount": 52,
       "totalSeatCount": 90,
-      "grossRevenueUSD": 677.47,
+      "grossRevenueUSD": 695.78,
       "adultTicketPrice": 18.31
     },
     {
@@ -9244,9 +9244,12 @@
       "date": "2026-03-23+12:10",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 2,
+      "occupancy": 4.88,
+      "totalAvailableSeatCount": 39,
+      "totalSeatCount": 41,
+      "grossRevenueUSD": 24.78,
+      "adultTicketPrice": 12.39
     },
     {
       "state": "CO",

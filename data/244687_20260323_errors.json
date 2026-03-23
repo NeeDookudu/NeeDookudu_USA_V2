@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-03-23 02:16:08 PM",
+  "last_updated": "2026-03-23 05:09:23 PM",
   "errors": [
-    {
-      "state": "CT",
-      "city": "Manchester",
-      "zip": "06042",
-      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539362162,
-      "date": "2026-03-23+21:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 536804274,
-      "date": "2026-03-23+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
     {
       "state": "PA",
       "city": "Pittsburgh",
@@ -104,21 +74,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 539813743,
-      "date": "2026-03-23+13:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -513,51 +468,6 @@
     },
     {
       "state": "IN",
-      "city": "Noblesville",
-      "zip": "46060",
-      "theater_name": "Emagine Noblesville",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 539398829,
-      "date": "2026-03-23+11:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Noblesville",
-      "zip": "46060",
-      "theater_name": "Emagine Noblesville",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 538932092,
-      "date": "2026-03-23+14:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Noblesville",
-      "zip": "46060",
-      "theater_name": "Emagine Noblesville",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 538932093,
-      "date": "2026-03-23+19:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IN",
       "city": "Bloomington",
       "zip": "47404",
       "theater_name": "AMC CLASSIC Bloomington 12",
@@ -707,21 +617,6 @@
       }
     },
     {
-      "state": "MN",
-      "city": "Lakeville",
-      "zip": "55044",
-      "theater_name": "Emagine Lakeville ",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 539784835,
-      "date": "2026-03-23+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "IL",
       "city": "Peoria",
       "zip": "61615",
@@ -764,36 +659,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Oklahoma City",
-      "zip": "73134",
-      "theater_name": "AMC Quail Springs Mall 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539370418,
-      "date": "2026-03-23+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Hanford",
-      "zip": "93230",
-      "theater_name": "Cinemark Hanford Movies 8",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537473517,
-      "date": "2026-03-23+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
