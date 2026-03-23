@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 05:09:23 PM",
+  "last_updated": "2026-03-23 09:16:38 PM",
   "errors": [
     {
       "state": "PA",
@@ -393,21 +393,6 @@
     },
     {
       "state": "TN",
-      "city": "Franklin",
-      "zip": "37067",
-      "theater_name": "AMC Thoroughbred 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 537754539,
-      "date": "2026-03-23+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
       "theater_name": "AMC CLASSIC Murfreesboro 16",
@@ -488,38 +473,8 @@
       "theater_name": "AMC Roosevelt Collection 16",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 539584300,
-      "date": "2026-03-23+12:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60605",
-      "theater_name": "AMC Roosevelt Collection 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 539584304,
       "date": "2026-03-23+16:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60605",
-      "theater_name": "AMC Roosevelt Collection 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538908738,
-      "date": "2026-03-23+20:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -732,6 +687,51 @@
       "date": "2026-03-23+18:00",
       "format": "Standard",
       "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Indian Trail",
+      "zip": "28079",
+      "theater_name": "Sun Valley Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 539401110,
+      "date": "2026-03-23+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Indian Trail",
+      "zip": "28079",
+      "theater_name": "Sun Valley Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 539401116,
+      "date": "2026-03-23+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Indian Trail",
+      "zip": "28079",
+      "theater_name": "Sun Valley Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 539401103,
+      "date": "2026-03-23+18:30",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
