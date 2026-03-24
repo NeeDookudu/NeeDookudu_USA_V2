@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 03:36:39 AM",
+  "last_updated": "2026-03-24 05:33:17 AM",
   "errors": [
     {
       "state": "PA",
@@ -760,6 +760,21 @@
       "chainCode": "REGL",
       "showtime_id": 539822503,
       "date": "2026-03-23+13:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Frederick",
+      "zip": "21704",
+      "theater_name": "Regal Westview & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 539893903,
+      "date": "2026-03-23+19:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
