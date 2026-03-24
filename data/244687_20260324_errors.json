@@ -1,51 +1,6 @@
 {
-  "last_updated": "2026-03-24 01:44:10 PM",
+  "last_updated": "2026-03-24 05:11:56 PM",
   "errors": [
-    {
-      "state": "CT",
-      "city": "Manchester",
-      "zip": "06042",
-      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539362241,
-      "date": "2026-03-24+10:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Manchester",
-      "zip": "06042",
-      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539362240,
-      "date": "2026-03-24+15:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Manchester",
-      "zip": "06042",
-      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539362218,
-      "date": "2026-03-24+17:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "MA",
       "city": "Danvers",
@@ -59,36 +14,6 @@
       "language": "Hindi",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Londonderry",
-      "zip": "03053",
-      "theater_name": "O'Neil Cinemas Londonderry",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538822735,
-      "date": "2026-03-24+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Londonderry",
-      "zip": "03053",
-      "theater_name": "O'Neil Cinemas Londonderry",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538822736,
-      "date": "2026-03-24+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -483,21 +408,6 @@
     },
     {
       "state": "OH",
-      "city": "Anderson Township",
-      "zip": "45255",
-      "theater_name": "AMC DINE-IN Anderson Towne Center 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539648484,
-      "date": "2026-03-24+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "OH",
       "city": "Findlay",
       "zip": "45840",
       "theater_name": "AMC CLASSIC Findlay 12",
@@ -692,111 +602,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Grand Prairie",
-      "zip": "75052",
-      "theater_name": "Cinemark Grand Prairie",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539735317,
-      "date": "2026-03-24+21:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539403006,
-      "date": "2026-03-24+15:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tempe",
-      "zip": "85281",
-      "theater_name": "Harkins Tempe Marketplace 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 539612811,
-      "date": "2026-03-24+11:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tempe",
-      "zip": "85281",
-      "theater_name": "Harkins Tempe Marketplace 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 539612815,
-      "date": "2026-03-24+14:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tempe",
-      "zip": "85281",
-      "theater_name": "Harkins Tempe Marketplace 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 539612812,
-      "date": "2026-03-24+16:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tempe",
-      "zip": "85281",
-      "theater_name": "Harkins Tempe Marketplace 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 539612816,
-      "date": "2026-03-24+19:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tempe",
-      "zip": "85281",
-      "theater_name": "Harkins Tempe Marketplace 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 539612813,
-      "date": "2026-03-24+21:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "OR",
       "city": "Corvallis",
       "zip": "97330",
@@ -884,6 +689,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Westbury",
+      "zip": "11590",
+      "theater_name": "AMC Raceway 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539288445,
+      "date": "2026-03-24+15:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
       }
     }
   ]
