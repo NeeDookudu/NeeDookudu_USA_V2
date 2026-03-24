@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 05:11:56 PM",
+  "last_updated": "2026-03-24 09:24:02 PM",
   "errors": [
     {
       "state": "MA",
@@ -689,21 +689,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Westbury",
-      "zip": "11590",
-      "theater_name": "AMC Raceway 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539288445,
-      "date": "2026-03-24+15:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     }
   ]
