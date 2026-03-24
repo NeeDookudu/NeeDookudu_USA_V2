@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 09:24:02 PM",
+  "last_updated": "2026-03-25 01:12:29 AM",
   "errors": [
     {
       "state": "MA",
@@ -687,6 +687,66 @@
       "date": "2026-03-24+18:45",
       "format": "Standard",
       "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540204515,
+      "date": "2026-03-24+11:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540204517,
+      "date": "2026-03-24+14:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Cranberry Township",
+      "zip": "16066",
+      "theater_name": "Cranberry Cinemas",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 540109255,
+      "date": "2026-03-24+14:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540223541,
+      "date": "2026-03-24+21:45",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
