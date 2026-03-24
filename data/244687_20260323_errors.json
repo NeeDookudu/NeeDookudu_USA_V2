@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 05:33:17 AM",
+  "last_updated": "2026-03-24 10:49:03 AM",
   "errors": [
     {
       "state": "PA",
@@ -775,6 +775,21 @@
       "chainCode": "REGL",
       "showtime_id": 539893903,
       "date": "2026-03-23+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540010968,
+      "date": "2026-03-23+19:25",
       "format": "Standard",
       "language": "Hindi",
       "error": {
