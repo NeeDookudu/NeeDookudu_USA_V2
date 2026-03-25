@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 09:30:49 PM",
+  "last_updated": "2026-03-26 12:18:50 AM",
   "errors": [
     {
       "state": "PA",
@@ -194,6 +194,21 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540427251,
+      "date": "2026-03-25+11:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
       }
     }
   ]
