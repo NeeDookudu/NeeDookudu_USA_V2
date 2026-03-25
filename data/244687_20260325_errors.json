@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 05:06:00 PM",
+  "last_updated": "2026-03-25 09:27:19 PM",
   "errors": [
     {
       "state": "PA",
@@ -563,57 +563,12 @@
       "theater_name": "AMC Loews Fountains 18",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 540413632,
-      "date": "2026-03-25+16:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Stafford",
-      "zip": "77477",
-      "theater_name": "AMC Loews Fountains 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 540413635,
       "date": "2026-03-25+18:55",
       "format": "Standard",
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92122",
-      "theater_name": "AMC UTC 14 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539551693,
-      "date": "2026-03-25+14:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92122",
-      "theater_name": "AMC UTC 14 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 538020857,
-      "date": "2026-03-25+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     },
     {

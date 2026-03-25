@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 05:09:13 PM",
+  "last_updated": "2026-03-25 09:30:49 PM",
   "errors": [
     {
       "state": "PA",
@@ -194,21 +194,6 @@
       "language": "Telugu",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Olympia",
-      "zip": "98502",
-      "theater_name": "Cinemark Century Olympia",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539562308,
-      "date": "2026-03-25+16:05",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
       }
     }
   ]
