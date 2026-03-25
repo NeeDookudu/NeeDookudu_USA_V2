@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 01:45:18 PM",
+  "last_updated": "2026-03-25 05:09:13 PM",
   "errors": [
     {
       "state": "PA",
@@ -29,21 +29,6 @@
       "language": "Telugu",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Durham",
-      "zip": "27713",
-      "theater_name": "AMC Southpoint 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539342068,
-      "date": "2026-03-25+21:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -197,171 +182,6 @@
       }
     },
     {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539220825,
-      "date": "2026-03-25+18:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539220824,
-      "date": "2026-03-25+22:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Mesa",
-      "zip": "85201",
-      "theater_name": "Cinemark Mesa 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 538871762,
-      "date": "2026-03-25+18:05",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Mesa",
-      "zip": "85201",
-      "theater_name": "Cinemark Mesa 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 538871763,
-      "date": "2026-03-25+21:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539562739,
-      "date": "2026-03-25+11:55",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539562740,
-      "date": "2026-03-25+15:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tracy",
-      "zip": "95376",
-      "theater_name": "Cinemark Tracy 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 538896242,
-      "date": "2026-03-25+18:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tracy",
-      "zip": "95376",
-      "theater_name": "Cinemark Tracy 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 538896243,
-      "date": "2026-03-25+22:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "Cinemark Century Folsom 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 538927747,
-      "date": "2026-03-25+12:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "Cinemark Century Folsom 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 538927748,
-      "date": "2026-03-25+15:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "Cinemark Century Folsom 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 538927749,
-      "date": "2026-03-25+19:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "WA",
       "city": "Monroe",
       "zip": "98272",
@@ -385,36 +205,6 @@
       "chainCode": "CNMK",
       "showtime_id": 539562308,
       "date": "2026-03-25+16:05",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Olympia",
-      "zip": "98502",
-      "theater_name": "Cinemark Century Olympia",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539562309,
-      "date": "2026-03-25+18:35",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Olympia",
-      "zip": "98502",
-      "theater_name": "Cinemark Century Olympia",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539562307,
-      "date": "2026-03-25+20:40",
       "format": "Standard",
       "language": "Telugu",
       "error": {

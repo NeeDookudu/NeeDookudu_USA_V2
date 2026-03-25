@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-03-25 01:41:59 PM",
+  "last_updated": "2026-03-25 05:06:00 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Littleton ",
-      "zip": "01460",
-      "theater_name": "O'Neil Cinemas at the Point",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538821118,
-      "date": "2026-03-25+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Littleton ",
-      "zip": "01460",
-      "theater_name": "O'Neil Cinemas at the Point",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538821119,
-      "date": "2026-03-25+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Pittsburgh",
@@ -303,51 +273,6 @@
     },
     {
       "state": "FL",
-      "city": "Royal Palm Beach",
-      "zip": "33411",
-      "theater_name": "Regal Royal Palm Beach & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 537099633,
-      "date": "2026-03-25+11:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Royal Palm Beach",
-      "zip": "33411",
-      "theater_name": "Regal Royal Palm Beach & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 537099632,
-      "date": "2026-03-25+16:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Royal Palm Beach",
-      "zip": "33411",
-      "theater_name": "Regal Royal Palm Beach & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 537099631,
-      "date": "2026-03-25+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
       "city": "Tampa",
       "zip": "33647",
       "theater_name": "AMC Highwoods 20",
@@ -467,21 +392,6 @@
       }
     },
     {
-      "state": "KY",
-      "city": "Louisville",
-      "zip": "40241",
-      "theater_name": "Cinemark Tinseltown Louisville and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539267809,
-      "date": "2026-03-25+19:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "OH",
       "city": "Findlay",
       "zip": "45840",
@@ -494,21 +404,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Toledo",
-      "zip": "43623",
-      "theater_name": "Cinemark Franklin Park 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537325930,
-      "date": "2026-03-25+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -692,51 +587,6 @@
       }
     },
     {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537537391,
-      "date": "2026-03-25+11:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537537392,
-      "date": "2026-03-25+16:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537537393,
-      "date": "2026-03-25+21:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "CA",
       "city": "San Diego",
       "zip": "92122",
@@ -760,66 +610,6 @@
       "chainCode": "AMC",
       "showtime_id": 538020857,
       "date": "2026-03-25+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92122",
-      "theater_name": "AMC UTC 14 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539575779,
-      "date": "2026-03-25+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Salinas",
-      "zip": "93906",
-      "theater_name": "Cinemark Century Northridge Mall 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537484693,
-      "date": "2026-03-25+10:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Salinas",
-      "zip": "93906",
-      "theater_name": "Cinemark Century Northridge Mall 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537484694,
-      "date": "2026-03-25+15:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Salinas",
-      "zip": "93906",
-      "theater_name": "Cinemark Century Northridge Mall 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 537484695,
-      "date": "2026-03-25+20:10",
       "format": "Standard",
       "language": "Hindi",
       "error": {
