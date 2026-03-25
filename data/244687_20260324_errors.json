@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 04:38:21 AM",
+  "last_updated": "2026-03-25 10:49:25 AM",
   "errors": [
     {
       "state": "MA",
@@ -749,6 +749,81 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540355591,
+      "date": "2026-03-24+21:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 540384964,
+      "date": "2026-03-24+23:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93710",
+      "theater_name": "Maya Fresno 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 540412611,
+      "date": "2026-03-24+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95834",
+      "theater_name": "Regal Natomas Marketplace ScreenX, 4DX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 540336191,
+      "date": "2026-03-24+20:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540343468,
+      "date": "2026-03-24+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
