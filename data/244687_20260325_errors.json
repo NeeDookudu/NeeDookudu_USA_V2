@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 05:38:06 AM",
+  "last_updated": "2026-03-26 11:34:00 AM",
   "errors": [
     {
       "state": "PA",
@@ -629,6 +629,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540461331,
+      "date": "2026-03-25+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
