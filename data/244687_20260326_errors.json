@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 08:29:03 PM",
+  "last_updated": "2026-03-26 11:47:00 PM",
   "errors": [
     {
       "state": "PA",
@@ -614,6 +614,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rockwall",
+      "zip": "75032",
+      "theater_name": "Cinemark Rockwall 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540483195,
+      "date": "2026-03-26+10:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
