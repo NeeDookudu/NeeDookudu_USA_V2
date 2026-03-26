@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-03-26 03:50:25 PM",
+  "last_updated": "2026-03-26 08:29:03 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Littleton ",
-      "zip": "01460",
-      "theater_name": "O'Neil Cinemas at the Point",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538821120,
-      "date": "2026-03-26+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Littleton ",
-      "zip": "01460",
-      "theater_name": "O'Neil Cinemas at the Point",
-      "chainName": "O'Neil Cinemas",
-      "chainCode": "ONEIL",
-      "showtime_id": 538821121,
-      "date": "2026-03-26+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "State College",
@@ -74,21 +44,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Owings Mills",
-      "zip": "21117",
-      "theater_name": "AMC Owings Mills 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540440560,
-      "date": "2026-03-26+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -347,36 +302,6 @@
       }
     },
     {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35235",
-      "theater_name": "Regal Trussville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 539662699,
-      "date": "2026-03-26+14:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35235",
-      "theater_name": "Regal Trussville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 539662700,
-      "date": "2026-03-26+19:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -543,21 +468,6 @@
     },
     {
       "state": "IL",
-      "city": "Naperville",
-      "zip": "60564",
-      "theater_name": "AMC Naperville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539978482,
-      "date": "2026-03-26+14:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
       "city": "Peoria",
       "zip": "61615",
       "theater_name": "GQT Willow Knolls 14",
@@ -632,66 +542,6 @@
       }
     },
     {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539983782,
-      "date": "2026-03-26+11:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539983781,
-      "date": "2026-03-26+16:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539983783,
-      "date": "2026-03-26+21:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "West Jordan",
-      "zip": "84084",
-      "theater_name": "Cinemark Jordan Landing 24 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 540098351,
-      "date": "2026-03-26+10:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "OR",
       "city": "Corvallis",
       "zip": "97330",
@@ -719,21 +569,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Puyallup",
-      "zip": "98373",
-      "theater_name": "Regal Longston Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 539835510,
-      "date": "2026-03-26+17:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     },
     {

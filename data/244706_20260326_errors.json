@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 03:53:29 PM",
+  "last_updated": "2026-03-26 08:32:13 PM",
   "errors": [
     {
       "state": "VA",
@@ -14,21 +14,6 @@
       "language": "Telugu",
       "error": {
         "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Concord",
-      "zip": "28027",
-      "theater_name": "AMC Concord Mills 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540070903,
-      "date": "2026-03-26+12:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -74,36 +59,6 @@
       "language": "Telugu",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "OH",
-      "city": "West Carrollton",
-      "zip": "45449",
-      "theater_name": "Cinemark Dayton South 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 540101910,
-      "date": "2026-03-26+20:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "OH",
-      "city": "West Chester",
-      "zip": "45069",
-      "theater_name": "AMC West Chester 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540367876,
-      "date": "2026-03-26+15:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -167,21 +122,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75025",
-      "theater_name": "Cinemark Legacy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 540197582,
-      "date": "2026-03-26+18:05",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CA",
       "city": "Orange",
       "zip": "92868",
@@ -194,51 +134,6 @@
       "language": "Telugu",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redwood City",
-      "zip": "94063",
-      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539881389,
-      "date": "2026-03-26+11:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 540025240,
-      "date": "2026-03-26+17:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 540025241,
-      "date": "2026-03-26+20:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
       }
     },
     {
