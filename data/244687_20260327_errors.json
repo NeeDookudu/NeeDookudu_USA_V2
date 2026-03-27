@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-03-27 03:44:00 PM",
+  "last_updated": "2026-03-27 08:10:26 PM",
   "errors": [
-    {
-      "state": "CT",
-      "city": "Danbury",
-      "zip": "06810",
-      "theater_name": "AMC Danbury 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540127478,
-      "date": "2026-03-27+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "NJ",
       "city": "Hillsborough",
@@ -543,21 +528,6 @@
     },
     {
       "state": "IN",
-      "city": "Evansville",
-      "zip": "47712",
-      "theater_name": "AMC Evansville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540413606,
-      "date": "2026-03-27+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IN",
       "city": "Bloomington",
       "zip": "47404",
       "theater_name": "AMC CLASSIC Bloomington 12",
@@ -659,21 +629,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "AMC South Barrington 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540537147,
-      "date": "2026-03-27+21:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
