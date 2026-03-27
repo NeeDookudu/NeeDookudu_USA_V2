@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 08:12:13 PM",
+  "last_updated": "2026-03-27 11:19:25 PM",
   "errors": [
     {
       "state": "FL",
@@ -14,6 +14,21 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "AMC Grand Prairie 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-03-27+13:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
       }
     }
   ]
