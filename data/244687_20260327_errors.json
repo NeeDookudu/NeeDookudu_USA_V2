@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 01:29:58 AM",
+  "last_updated": "2026-03-28 03:27:42 AM",
   "errors": [
     {
       "state": "NJ",
@@ -452,21 +452,6 @@
       }
     },
     {
-      "state": "FL",
-      "city": "Lakeland",
-      "zip": "33803",
-      "theater_name": "CMX Lakeside Village 18 & IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 539994376,
-      "date": "2026-03-27+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -854,6 +839,36 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Wilmington",
+      "zip": "19804",
+      "theater_name": "Cinemark Wilmington Movies 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540563270,
+      "date": "2026-03-27+15:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540573749,
+      "date": "2026-03-27+14:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
