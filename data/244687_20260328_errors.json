@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29 02:35:33 AM",
+  "last_updated": "2026-03-29 04:36:27 AM",
   "errors": [
     {
       "state": "NJ",
@@ -899,6 +899,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "Cinemark Willowbrook Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540633337,
+      "date": "2026-03-28+15:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
