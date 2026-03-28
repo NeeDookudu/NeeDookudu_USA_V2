@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 01:32:21 PM",
+  "last_updated": "2026-03-28 03:30:58 PM",
   "errors": [
     {
       "state": "NJ",
@@ -59,21 +59,6 @@
       "language": "Hindi",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540395164,
-      "date": "2026-03-28+16:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -194,36 +179,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28216",
-      "theater_name": "AMC Northlake 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540074313,
-      "date": "2026-03-28+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28216",
-      "theater_name": "AMC Northlake 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540074312,
-      "date": "2026-03-28+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -663,21 +618,6 @@
     },
     {
       "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540141920,
-      "date": "2026-03-28+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IN",
       "city": "Terre Haute",
       "zip": "47802",
       "theater_name": "AMC CLASSIC Terre Haute 12",
@@ -869,36 +809,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78753",
-      "theater_name": "AMC DINE-IN Tech Ridge 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539979247,
-      "date": "2026-03-28+16:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bruno",
-      "zip": "94066",
-      "theater_name": "Cinemark Century at Tanforan and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539798799,
-      "date": "2026-03-28+20:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
