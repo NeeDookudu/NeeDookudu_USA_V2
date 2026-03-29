@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29 04:36:27 AM",
+  "last_updated": "2026-03-29 11:26:22 AM",
   "errors": [
     {
       "state": "NJ",
@@ -910,6 +910,51 @@
       "chainCode": "CNMK",
       "showtime_id": 540633337,
       "date": "2026-03-28+15:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540638629,
+      "date": "2026-03-28+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 540638690,
+      "date": "2026-03-28+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98004",
+      "theater_name": "Cinemark Lincoln Square",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540637204,
+      "date": "2026-03-28+20:45",
       "format": "Standard",
       "language": "Hindi",
       "error": {
