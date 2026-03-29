@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29 03:40:07 PM",
+  "last_updated": "2026-03-29 05:32:02 PM",
   "errors": [
     {
       "state": "PA",
@@ -72,21 +72,6 @@
       "date": "2026-03-29+19:20",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Durham",
-      "zip": "27713",
-      "theater_name": "AMC Southpoint 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540639061,
-      "date": "2026-03-29+16:05",
-      "format": "Standard",
-      "language": "Unknown",
       "error": {
         "status": 400
       }
