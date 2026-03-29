@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-03-29 01:40:12 PM",
+  "last_updated": "2026-03-29 03:40:07 PM",
   "errors": [
-    {
-      "state": "NY",
-      "city": "Saratoga Springs",
-      "zip": "12866",
-      "theater_name": "AMC Saratoga Springs 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539976833,
-      "date": "2026-03-29+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "State College",
@@ -92,21 +77,6 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Johnson City",
-      "zip": "37601",
-      "theater_name": "AMC Johnson City 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540297440,
-      "date": "2026-03-29+11:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "NC",
       "city": "Durham",
       "zip": "27713",
@@ -179,36 +149,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540410398,
-      "date": "2026-03-29+14:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 539726765,
-      "date": "2026-03-29+17:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -764,21 +704,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Chandler",
-      "zip": "85226",
-      "theater_name": "Harkins Chandler Fashion 20",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 540375789,
-      "date": "2026-03-29+11:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
