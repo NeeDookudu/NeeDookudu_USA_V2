@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30 04:26:19 PM",
+  "last_updated": "2026-03-30 08:30:47 PM",
   "errors": [
     {
       "state": "PA",
@@ -44,21 +44,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Frederick",
-      "zip": "21704",
-      "theater_name": "Regal Westview & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540064664,
-      "date": "2026-03-30+14:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 404
       }
     },
     {
@@ -332,21 +317,6 @@
       }
     },
     {
-      "state": "FL",
-      "city": "North Fort Myers",
-      "zip": "33903",
-      "theater_name": "AMC Merchants Crossing 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540417735,
-      "date": "2026-03-30+15:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -434,36 +404,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Noblesville",
-      "zip": "46060",
-      "theater_name": "Emagine Noblesville",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 540265806,
-      "date": "2026-03-30+14:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Noblesville",
-      "zip": "46060",
-      "theater_name": "Emagine Noblesville",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 540265807,
-      "date": "2026-03-30+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -662,36 +602,6 @@
       }
     },
     {
-      "state": "KS",
-      "city": "Overland Park",
-      "zip": "66223",
-      "theater_name": "AMC DINE-IN Prairiefire 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539900935,
-      "date": "2026-03-30+19:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tracy",
-      "zip": "95376",
-      "theater_name": "Cinemark Tracy 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 539724139,
-      "date": "2026-03-30+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "OR",
       "city": "Corvallis",
       "zip": "97330",
@@ -764,6 +674,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92867",
+      "theater_name": "Cinemark Century Orange and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": null,
+      "date": "2026-03-30+18:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
