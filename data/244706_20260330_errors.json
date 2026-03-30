@@ -1,0 +1,50 @@
+{
+  "last_updated": "2026-03-30 04:28:23 PM",
+  "errors": [
+    {
+      "state": "GA",
+      "city": "Buford",
+      "zip": "30519",
+      "theater_name": "Regal Mall of Georgia IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 540093033,
+      "date": "2026-03-30+11:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540400618,
+      "date": "2026-03-30+15:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 540306351,
+      "date": "2026-03-30+21:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    }
+  ]
+}
