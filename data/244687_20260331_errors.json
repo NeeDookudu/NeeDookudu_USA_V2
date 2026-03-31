@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 03:33:04 AM",
+  "last_updated": "2026-04-01 05:24:11 AM",
   "errors": [
     {
       "state": "NY",
@@ -747,6 +747,21 @@
       "date": "2026-03-31+15:40",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28277",
+      "theater_name": "Regal Stonecrest at Piper Glen 4DX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 540302973,
+      "date": "2026-03-31+19:15",
+      "format": "Standard",
+      "language": "Hindi",
       "error": {
         "status": 404
       }
