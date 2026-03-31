@@ -1,0 +1,35 @@
+{
+  "last_updated": "2026-03-31 03:23:21 PM",
+  "errors": [
+    {
+      "state": "GA",
+      "city": "Buford",
+      "zip": "30519",
+      "theater_name": "Regal Mall of Georgia IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 540093118,
+      "date": "2026-03-31+18:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540400657,
+      "date": "2026-03-31+15:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    }
+  ]
+}
