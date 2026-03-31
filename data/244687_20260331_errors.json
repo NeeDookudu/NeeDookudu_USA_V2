@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31 05:42:49 PM",
+  "last_updated": "2026-03-31 10:13:56 PM",
   "errors": [
     {
       "state": "NY",
@@ -254,21 +254,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33172",
-      "theater_name": "CMX Dolphin 19 & IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 539928906,
-      "date": "2026-03-31+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
       }
     },
     {

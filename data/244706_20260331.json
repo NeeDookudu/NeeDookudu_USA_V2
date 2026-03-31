@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-03-31 05:44:48 PM",
+  "last_updated": "2026-03-31 10:16:40 PM",
   "movie_id": 244706,
   "movie_details": {
     "title": "Ustaad Bhagat Singh (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244706/UBS-27x40.jpg",
     "overview": "The story follows Bhagat Singh, a powerful police officer from Mahankali Police Station in Pathar Gunj, Pathabasti, as he wages a fierce war against crime and injustice.",
     "stats": {
-      "total_gross_usd": 1293.32,
+      "total_gross_usd": 1438.06,
       "total_shows": 52,
-      "avg_occupancy": 2.04,
-      "tickets_sold": 129,
+      "avg_occupancy": 2.29,
+      "tickets_sold": 145,
       "unique_venues": 30
     }
   },
@@ -61,11 +61,11 @@
       "date": "2026-03-31+22:10",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 41,
+      "totalSeatSold": 2,
+      "occupancy": 4.88,
+      "totalAvailableSeatCount": 39,
       "totalSeatCount": 41,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 34.1,
       "adultTicketPrice": 17.05
     },
     {
@@ -138,7 +138,7 @@
       "totalAvailableSeatCount": 140,
       "totalSeatCount": 140,
       "grossRevenueUSD": 0.0,
-      "adultTicketPrice": 18.24
+      "adultTicketPrice": 15.0
     },
     {
       "state": "NC",
@@ -223,11 +223,11 @@
       "date": "2026-03-31+19:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 4.08,
-      "totalAvailableSeatCount": 47,
+      "totalSeatSold": 4,
+      "occupancy": 8.16,
+      "totalAvailableSeatCount": 45,
       "totalSeatCount": 49,
-      "grossRevenueUSD": 30.0,
+      "grossRevenueUSD": 60.0,
       "adultTicketPrice": 15.0
     },
     {
@@ -367,11 +367,11 @@
       "date": "2026-03-31+15:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 271,
+      "totalSeatSold": 1,
+      "occupancy": 0.37,
+      "totalAvailableSeatCount": 270,
       "totalSeatCount": 271,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 18.54,
       "adultTicketPrice": 18.54
     },
     {
@@ -490,11 +490,11 @@
       "date": "2026-03-31+15:15",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 66,
+      "totalSeatSold": 2,
+      "occupancy": 3.03,
+      "totalAvailableSeatCount": 64,
       "totalSeatCount": 66,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 12.0,
       "adultTicketPrice": 6.0
     },
     {
@@ -508,11 +508,11 @@
       "date": "2026-03-31+22:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 66,
+      "totalSeatSold": 9,
+      "occupancy": 13.64,
+      "totalAvailableSeatCount": 57,
       "totalSeatCount": 66,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 54.0,
       "adultTicketPrice": 6.0
     },
     {
@@ -688,11 +688,11 @@
       "date": "2026-03-31+22:50",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 7,
-      "occupancy": 8.75,
-      "totalAvailableSeatCount": 73,
+      "totalSeatSold": 10,
+      "occupancy": 12.5,
+      "totalAvailableSeatCount": 70,
       "totalSeatCount": 80,
-      "grossRevenueUSD": 41.65,
+      "grossRevenueUSD": 59.5,
       "adultTicketPrice": 5.95
     },
     {
@@ -850,11 +850,11 @@
       "date": "2026-03-31+15:25",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 5,
-      "occupancy": 11.11,
-      "totalAvailableSeatCount": 40,
+      "totalSeatSold": 2,
+      "occupancy": 4.44,
+      "totalAvailableSeatCount": 43,
       "totalSeatCount": 45,
-      "grossRevenueUSD": 36.25,
+      "grossRevenueUSD": 14.5,
       "adultTicketPrice": 7.25
     },
     {
@@ -964,6 +964,21 @@
       "totalSeatCount": 227,
       "grossRevenueUSD": 12.59,
       "adultTicketPrice": 12.59
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-03-31+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
     }
   ]
 }
