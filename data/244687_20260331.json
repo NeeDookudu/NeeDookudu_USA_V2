@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-01 05:24:11 AM",
+  "last_updated": "2026-04-01 11:45:30 AM",
   "movie_id": 244687,
   "movie_details": {
     "title": "Dhurandhar: The Revenge (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg",
     "overview": "Hamza Ali Mazari, whose real identity is Jaskirat Singh Rangi, pursues his undercover operation within Pakistan's criminal world while tracking down Majo.",
     "stats": {
-      "total_gross_usd": 377935.19,
+      "total_gross_usd": 377954.78,
       "total_shows": 2524,
       "avg_occupancy": 11.85,
-      "tickets_sold": 35117,
+      "tickets_sold": 35118,
       "unique_venues": 730
     }
   },
@@ -13961,11 +13961,11 @@
       "date": "2026-04-01+02:20",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 1,
-      "occupancy": 0.95,
-      "totalAvailableSeatCount": 104,
+      "totalSeatSold": 2,
+      "occupancy": 1.9,
+      "totalAvailableSeatCount": 103,
       "totalSeatCount": 105,
-      "grossRevenueUSD": 19.59,
+      "grossRevenueUSD": 39.18,
       "adultTicketPrice": 19.59
     },
     {
@@ -46201,6 +46201,21 @@
       "chainCode": "REGL",
       "showtime_id": 540302973,
       "date": "2026-03-31+19:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92126",
+      "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541267155,
+      "date": "2026-03-31+21:45",
       "format": "Standard",
       "language": "Hindi",
       "error": {
