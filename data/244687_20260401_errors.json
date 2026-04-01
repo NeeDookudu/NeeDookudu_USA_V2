@@ -1,96 +1,6 @@
 {
-  "last_updated": "2026-04-01 04:15:54 PM",
+  "last_updated": "2026-04-01 08:30:23 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Framingham",
-      "zip": "01701",
-      "theater_name": "AMC Framingham 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540561021,
-      "date": "2026-04-01+11:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Framingham",
-      "zip": "01701",
-      "theater_name": "AMC Framingham 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540561022,
-      "date": "2026-04-01+16:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Methuen",
-      "zip": "01844",
-      "theater_name": "AMC Methuen 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540317940,
-      "date": "2026-04-01+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Methuen",
-      "zip": "01844",
-      "theater_name": "AMC Methuen 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540317941,
-      "date": "2026-04-01+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02114",
-      "theater_name": "AMC Causeway 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539896977,
-      "date": "2026-04-01+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02114",
-      "theater_name": "AMC Causeway 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539896978,
-      "date": "2026-04-01+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
     {
       "state": "MA",
       "city": "Danvers",
@@ -115,66 +25,6 @@
       "chainCode": "AMC",
       "showtime_id": 540128595,
       "date": "2026-04-01+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10016",
-      "theater_name": "AMC Kips Bay 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540442782,
-      "date": "2026-04-01+11:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10016",
-      "theater_name": "AMC Kips Bay 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540155060,
-      "date": "2026-04-01+14:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10016",
-      "theater_name": "AMC Kips Bay 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540155047,
-      "date": "2026-04-01+18:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10016",
-      "theater_name": "AMC Kips Bay 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540155056,
-      "date": "2026-04-01+21:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -212,81 +62,6 @@
       }
     },
     {
-      "state": "MD",
-      "city": "Baltimore",
-      "zip": "21236",
-      "theater_name": "AMC Loews White Marsh 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540467910,
-      "date": "2026-04-01+10:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Baltimore",
-      "zip": "21236",
-      "theater_name": "AMC Loews White Marsh 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540354527,
-      "date": "2026-04-01+13:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Baltimore",
-      "zip": "21236",
-      "theater_name": "AMC Loews White Marsh 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540354512,
-      "date": "2026-04-01+16:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Baltimore",
-      "zip": "21236",
-      "theater_name": "AMC Loews White Marsh 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540354528,
-      "date": "2026-04-01+18:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Baltimore",
-      "zip": "21236",
-      "theater_name": "AMC Loews White Marsh 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540354511,
-      "date": "2026-04-01+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "GA",
       "city": "Savannah",
       "zip": "31420",
@@ -314,81 +89,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30009",
-      "theater_name": "Regal Avalon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540536504,
-      "date": "2026-04-01+11:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30009",
-      "theater_name": "Regal Avalon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540536490,
-      "date": "2026-04-01+15:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30009",
-      "theater_name": "Regal Avalon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540536503,
-      "date": "2026-04-01+16:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30009",
-      "theater_name": "Regal Avalon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540536505,
-      "date": "2026-04-01+20:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30009",
-      "theater_name": "Regal Avalon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540536497,
-      "date": "2026-04-01+21:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -514,21 +214,6 @@
     {
       "state": "AL",
       "city": "Montgomery",
-      "zip": "36117",
-      "theater_name": "AMC Chantilly 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540417561,
-      "date": "2026-04-01+19:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Montgomery",
       "zip": "36116",
       "theater_name": "AMC Festival Plaza 16",
       "chainName": "AMC",
@@ -550,81 +235,6 @@
       "chainCode": "AMC",
       "showtime_id": 540191878,
       "date": "2026-04-01+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Franklin",
-      "zip": "37067",
-      "theater_name": "AMC Thoroughbred 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540044970,
-      "date": "2026-04-01+11:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Franklin",
-      "zip": "37067",
-      "theater_name": "AMC Thoroughbred 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540044985,
-      "date": "2026-04-01+13:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Franklin",
-      "zip": "37067",
-      "theater_name": "AMC Thoroughbred 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540044971,
-      "date": "2026-04-01+16:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Franklin",
-      "zip": "37067",
-      "theater_name": "AMC Thoroughbred 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540044986,
-      "date": "2026-04-01+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Franklin",
-      "zip": "37067",
-      "theater_name": "AMC Thoroughbred 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540044972,
-      "date": "2026-04-01+21:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -692,36 +302,6 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Cookeville",
-      "zip": "38506",
-      "theater_name": "AMC Highland 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539950176,
-      "date": "2026-04-01+11:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cookeville",
-      "zip": "38506",
-      "theater_name": "AMC Highland 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539950177,
-      "date": "2026-04-01+16:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "KY",
       "city": "Newport",
       "zip": "41071",
@@ -782,36 +362,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Springdale",
-      "zip": "45246",
-      "theater_name": "Showcase Cinema de Lux Springdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 540768112,
-      "date": "2026-04-01+11:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Springdale",
-      "zip": "45246",
-      "theater_name": "Showcase Cinema de Lux Springdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 540768117,
-      "date": "2026-04-01+13:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "IN",
       "city": "Bloomington",
       "zip": "47404",
@@ -839,171 +389,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540298354,
-      "date": "2026-04-01+11:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540298340,
-      "date": "2026-04-01+13:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540298336,
-      "date": "2026-04-01+17:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540224345,
-      "date": "2026-04-01+10:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540224355,
-      "date": "2026-04-01+11:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540809162,
-      "date": "2026-04-01+13:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540074532,
-      "date": "2026-04-01+14:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540074536,
-      "date": "2026-04-01+18:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540224378,
-      "date": "2026-04-01+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Council Bluffs",
-      "zip": "51501",
-      "theater_name": "AMC Council Bluffs 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540807393,
-      "date": "2026-04-01+13:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Council Bluffs",
-      "zip": "51501",
-      "theater_name": "AMC Council Bluffs 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540142649,
-      "date": "2026-04-01+14:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -1082,66 +467,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Rosemont",
-      "zip": "60018",
-      "theater_name": "AMC DINE-IN Rosemont 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539992153,
-      "date": "2026-04-01+17:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Rosemont",
-      "zip": "60018",
-      "theater_name": "AMC DINE-IN Rosemont 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541002371,
-      "date": "2026-04-01+19:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Inver Grove Heights",
-      "zip": "55077",
-      "theater_name": "AMC Inver Grove 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540111167,
-      "date": "2026-04-01+14:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Inver Grove Heights",
-      "zip": "55077",
-      "theater_name": "AMC Inver Grove 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540111168,
-      "date": "2026-04-01+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
@@ -1188,51 +513,6 @@
     },
     {
       "state": "MN",
-      "city": "Coon Rapids",
-      "zip": "55433",
-      "theater_name": "AMC Coon Rapids 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540328893,
-      "date": "2026-04-01+10:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Coon Rapids",
-      "zip": "55433",
-      "theater_name": "AMC Coon Rapids 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540328909,
-      "date": "2026-04-01+15:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Coon Rapids",
-      "zip": "55433",
-      "theater_name": "AMC Coon Rapids 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540328910,
-      "date": "2026-04-01+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
       "city": "Eden Prairie",
       "zip": "55344",
       "theater_name": "AMC Eden Prairie Mall 18",
@@ -1240,141 +520,6 @@
       "chainCode": "AMC",
       "showtime_id": 540330561,
       "date": "2026-04-01+09:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540330535,
-      "date": "2026-04-01+11:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540330558,
-      "date": "2026-04-01+13:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540330562,
-      "date": "2026-04-01+14:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540330531,
-      "date": "2026-04-01+17:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540330552,
-      "date": "2026-04-01+19:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540330528,
-      "date": "2026-04-01+20:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Lombard",
-      "zip": "60148",
-      "theater_name": "AMC Yorktown 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540410139,
-      "date": "2026-04-01+10:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Lombard",
-      "zip": "60148",
-      "theater_name": "AMC Yorktown 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540410140,
-      "date": "2026-04-01+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Lombard",
-      "zip": "60148",
-      "theater_name": "AMC Yorktown 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540410141,
-      "date": "2026-04-01+19:55",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -1427,51 +572,6 @@
       }
     },
     {
-      "state": "MO",
-      "city": "Creve Coeur",
-      "zip": "63141",
-      "theater_name": "AMC Creve Coeur 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540743603,
-      "date": "2026-04-01+13:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Creve Coeur",
-      "zip": "63141",
-      "theater_name": "AMC Creve Coeur 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540743606,
-      "date": "2026-04-01+19:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Creve Coeur",
-      "zip": "63141",
-      "theater_name": "AMC Creve Coeur 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540743604,
-      "date": "2026-04-01+21:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "KS",
       "city": "Leawood",
       "zip": "66211",
@@ -1517,36 +617,6 @@
       }
     },
     {
-      "state": "MO",
-      "city": "Kansas City",
-      "zip": "64151",
-      "theater_name": "AMC Barrywoods 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541071209,
-      "date": "2026-04-01+11:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Kansas City",
-      "zip": "64151",
-      "theater_name": "AMC Barrywoods 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541071204,
-      "date": "2026-04-01+20:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "LA",
       "city": "Harahan",
       "zip": "70123",
@@ -1570,141 +640,6 @@
       "chainCode": "AMC",
       "showtime_id": 540390090,
       "date": "2026-04-01+18:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Fayetteville",
-      "zip": "72703",
-      "theater_name": "AMC Fiesta Square 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540327886,
-      "date": "2026-04-01+13:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Fayetteville",
-      "zip": "72703",
-      "theater_name": "AMC Fiesta Square 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540327881,
-      "date": "2026-04-01+16:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Fayetteville",
-      "zip": "72703",
-      "theater_name": "AMC Fiesta Square 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540327882,
-      "date": "2026-04-01+20:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Tulsa",
-      "zip": "74135",
-      "theater_name": "AMC Southroads 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540400546,
-      "date": "2026-04-01+12:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Tulsa",
-      "zip": "74135",
-      "theater_name": "AMC Southroads 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540400563,
-      "date": "2026-04-01+14:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Tulsa",
-      "zip": "74135",
-      "theater_name": "AMC Southroads 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540400548,
-      "date": "2026-04-01+17:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Tulsa",
-      "zip": "74135",
-      "theater_name": "AMC Southroads 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540400564,
-      "date": "2026-04-01+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Garland",
-      "zip": "75040",
-      "theater_name": "AMC Firewheel 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540264396,
-      "date": "2026-04-01+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Garland",
-      "zip": "75040",
-      "theater_name": "AMC Firewheel 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540264386,
-      "date": "2026-04-01+20:45",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -1803,21 +738,6 @@
     },
     {
       "state": "TX",
-      "city": "Highland Village",
-      "zip": "75077",
-      "theater_name": "AMC Highland Village 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540825325,
-      "date": "2026-04-01+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
       "city": "Grapevine",
       "zip": "76051",
       "theater_name": "AMC Grapevine Mills 24",
@@ -1870,81 +790,6 @@
       "chainCode": "AMC",
       "showtime_id": 540263199,
       "date": "2026-04-01+20:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Denton",
-      "zip": "76210",
-      "theater_name": "Cinemark Denton 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 540797148,
-      "date": "2026-04-01+11:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cedar Park",
-      "zip": "78613",
-      "theater_name": "AMC Lakeline 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541111471,
-      "date": "2026-04-01+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77064",
-      "theater_name": "AMC Willowbrook 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539978228,
-      "date": "2026-04-01+13:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77064",
-      "theater_name": "AMC Willowbrook 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539978227,
-      "date": "2026-04-01+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77064",
-      "theater_name": "AMC Willowbrook 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539978205,
-      "date": "2026-04-01+21:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -2117,36 +962,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78746",
-      "theater_name": "AMC Barton Creek Square 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541050678,
-      "date": "2026-04-01+15:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92108",
-      "theater_name": "AMC Mission Valley 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540367182,
-      "date": "2026-04-01+09:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "OR",
       "city": "Corvallis",
       "zip": "97330",
@@ -2193,36 +1008,6 @@
     },
     {
       "state": "WA",
-      "city": "Bellevue",
-      "zip": "98006",
-      "theater_name": "AMC Loews Factoria 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539973426,
-      "date": "2026-04-01+12:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Bellevue",
-      "zip": "98006",
-      "theater_name": "AMC Loews Factoria 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 539973427,
-      "date": "2026-04-01+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "WA",
       "city": "Kennewick",
       "zip": "99336",
       "theater_name": "AMC CLASSIC Kennewick 12",
@@ -2249,6 +1034,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Danvers",
+      "zip": "01923",
+      "theater_name": "AMC Loews Liberty Tree Mall 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-04-01+15:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
       }
     }
   ]
