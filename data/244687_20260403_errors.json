@@ -1,111 +1,6 @@
 {
-  "last_updated": "2026-04-03 02:10:08 PM",
+  "last_updated": "2026-04-03 04:59:53 PM",
   "errors": [
-    {
-      "state": "ME",
-      "city": "Westbrook",
-      "zip": "04092",
-      "theater_name": "Apple Cinemas Westbrook",
-      "chainName": "Apple Cinemas",
-      "chainCode": "APPL",
-      "showtime_id": 541030572,
-      "date": "2026-04-03+14:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541409410,
-      "date": "2026-04-03+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Cherry Hill",
-      "zip": "08002",
-      "theater_name": "AMC Cherry Hill 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541013561,
-      "date": "2026-04-03+10:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Cherry Hill",
-      "zip": "08002",
-      "theater_name": "AMC Cherry Hill 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541013557,
-      "date": "2026-04-03+12:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Wilmington",
-      "zip": "19803",
-      "theater_name": "Regal Brandywine Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540984410,
-      "date": "2026-04-03+08:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Wilmington",
-      "zip": "19803",
-      "theater_name": "Regal Brandywine Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 540984411,
-      "date": "2026-04-03+12:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Westbury",
-      "zip": "11590",
-      "theater_name": "AMC Raceway 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540843813,
-      "date": "2026-04-03+13:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -149,81 +44,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28277",
-      "theater_name": "Regal Stonecrest at Piper Glen 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541115403,
-      "date": "2026-04-03+13:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28277",
-      "theater_name": "Regal Stonecrest at Piper Glen 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541115427,
-      "date": "2026-04-03+14:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541388998,
-      "date": "2026-04-03+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Ocoee",
-      "zip": "34761",
-      "theater_name": "AMC West Oaks 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541174574,
-      "date": "2026-04-03+16:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Pompano Beach",
-      "zip": "33062",
-      "theater_name": "AMC Pompano Beach 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541178274,
-      "date": "2026-04-03+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -333,36 +153,6 @@
     },
     {
       "state": "IN",
-      "city": "Evansville",
-      "zip": "47712",
-      "theater_name": "AMC Evansville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540846681,
-      "date": "2026-04-03+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Evansville",
-      "zip": "47712",
-      "theater_name": "AMC Evansville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540846661,
-      "date": "2026-04-03+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IN",
       "city": "Bloomington",
       "zip": "47404",
       "theater_name": "AMC CLASSIC Bloomington 12",
@@ -437,21 +227,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 540921997,
-      "date": "2026-04-03+09:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "WA",
       "city": "Kennewick",
       "zip": "99336",
@@ -479,6 +254,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28216",
+      "theater_name": "AMC Northlake 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-04-03+16:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
