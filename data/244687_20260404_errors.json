@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04 01:34:40 PM",
+  "last_updated": "2026-04-04 03:31:31 PM",
   "errors": [
     {
       "state": "MA",
@@ -59,21 +59,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Ashburn",
-      "zip": "20148",
-      "theater_name": "Regal Fox 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541408248,
-      "date": "2026-04-04+12:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -182,21 +167,6 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38134",
-      "theater_name": "Hollywood 20 Cinema",
-      "chainName": "Bartlett Cinemas",
-      "chainCode": "BART",
-      "showtime_id": 541325470,
-      "date": "2026-04-04+13:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "IN",
       "city": "Bloomington",
       "zip": "47404",
@@ -269,36 +239,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Bellevue",
-      "zip": "98006",
-      "theater_name": "AMC Loews Factoria 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 537516787,
-      "date": "2026-04-04+13:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Bellevue",
-      "zip": "98006",
-      "theater_name": "AMC Loews Factoria 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 537516785,
-      "date": "2026-04-04+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
