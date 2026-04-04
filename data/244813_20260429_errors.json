@@ -1,4 +1,20 @@
 {
-  "last_updated": "2026-04-05 02:40:46 AM",
-  "errors": []
+  "last_updated": "2026-04-05 04:42:57 AM",
+  "errors": [
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-04-29+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
 }
