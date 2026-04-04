@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-04-04 11:42:42 PM",
+  "last_updated": "2026-04-05 01:21:43 AM",
   "errors": [
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 541161872,
-      "date": "2026-04-07+21:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
-      }
-    },
     {
       "state": "TX",
       "city": "Plano",
@@ -29,36 +14,6 @@
       "language": "Telugu",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 540942695,
-      "date": "2026-04-07+19:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541346375,
-      "date": "2026-04-07+17:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403
       }
     }
   ]

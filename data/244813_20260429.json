@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-04 11:45:58 PM",
+  "last_updated": "2026-04-05 01:24:08 AM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244813/Peddi-27x40.jpg",
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
-      "total_gross_usd": 6274.72,
-      "total_shows": 636,
-      "avg_occupancy": 0.3,
-      "tickets_sold": 247,
-      "unique_venues": 213
+      "total_gross_usd": 6355.54,
+      "total_shows": 654,
+      "avg_occupancy": 0.29,
+      "tickets_sold": 250,
+      "unique_venues": 218
     }
   },
   "showtimes": [
@@ -3679,11 +3679,11 @@
       "date": "2026-04-29+19:25",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 1.79,
-      "totalAvailableSeatCount": 110,
+      "totalSeatSold": 5,
+      "occupancy": 4.46,
+      "totalAvailableSeatCount": 107,
       "totalSeatCount": 112,
-      "grossRevenueUSD": 53.88,
+      "grossRevenueUSD": 134.7,
       "adultTicketPrice": 26.94
     },
     {
@@ -4237,9 +4237,10 @@
       "date": "2026-04-29+20:30",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "FL",
@@ -6589,7 +6590,7 @@
       "chainName": "Marcus Theatres",
       "chainCode": "MRCS",
       "showtime_id": 539768395,
-      "date": "2026-04-29+19:50",
+      "date": "2026-04-29+19:40",
       "format": "Standard",
       "language": "Telugu",
       "totalSeatSold": 0,
@@ -7294,9 +7295,10 @@
       "date": "2026-04-29+14:45",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "WI",
@@ -7309,9 +7311,10 @@
       "date": "2026-04-29+18:30",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "WI",
@@ -7468,9 +7471,10 @@
       "date": "2026-04-29+15:15",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "MN",
@@ -7483,9 +7487,10 @@
       "date": "2026-04-29+19:00",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "ND",
@@ -11534,6 +11539,240 @@
       "occupancy": 0.0,
       "totalAvailableSeatCount": 165,
       "totalSeatCount": 165,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.25
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472733,
+      "date": "2026-04-29+11:30",
+      "format": "RPX",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 210,
+      "totalSeatCount": 210,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 31.99
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472737,
+      "date": "2026-04-29+15:00",
+      "format": "RPX",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 210,
+      "totalSeatCount": 210,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 31.99
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472735,
+      "date": "2026-04-29+18:30",
+      "format": "RPX",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 210,
+      "totalSeatCount": 210,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 31.99
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472736,
+      "date": "2026-04-29+22:10",
+      "format": "RPX",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 210,
+      "totalSeatCount": 210,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 31.99
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472740,
+      "date": "2026-04-29+13:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 129,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.66
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472739,
+      "date": "2026-04-29+14:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 210,
+      "totalSeatCount": 210,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.66
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472741,
+      "date": "2026-04-29+17:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 129,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.66
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472738,
+      "date": "2026-04-29+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 210,
+      "totalSeatCount": 210,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.66
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472742,
+      "date": "2026-04-29+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 129,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.66
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541472734,
+      "date": "2026-04-29+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 210,
+      "totalSeatCount": 210,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.66
+    },
+    {
+      "state": "SC",
+      "city": "Anderson",
+      "zip": "29621",
+      "theater_name": "Regal Starlight - Anderson",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541473717,
+      "date": "2026-04-29+11:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 130,
+      "totalSeatCount": 130,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.25
+    },
+    {
+      "state": "SC",
+      "city": "Anderson",
+      "zip": "29621",
+      "theater_name": "Regal Starlight - Anderson",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541473718,
+      "date": "2026-04-29+15:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 130,
+      "totalSeatCount": 130,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.25
+    },
+    {
+      "state": "SC",
+      "city": "Anderson",
+      "zip": "29621",
+      "theater_name": "Regal Starlight - Anderson",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541473719,
+      "date": "2026-04-29+18:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 130,
+      "totalSeatCount": 130,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 26.25
     }
