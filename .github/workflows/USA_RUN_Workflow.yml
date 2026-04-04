@@ -47,6 +47,18 @@ jobs:
           SUPER_KEY: ${{ secrets.SUPER_KEY }}
         run: |
           python USA_RUN_UBS.py
+          
+      - name: Run Third Encrypted Scraper (USA_RUN_UBS)
+        env:
+          SUPER_KEY: ${{ secrets.SUPER_KEY }}
+        run: |
+          python USA_RACEGURRAM.py
+          
+      - name: Run Second Encrypted Scraper (USA_RUN_UBS)
+        env:
+          SUPER_KEY: ${{ secrets.SUPER_KEY }}
+        run: |
+          python USA_RUN_PEDDI.py
 
       - name: Commit and Push Data Changes
         run: |
