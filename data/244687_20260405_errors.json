@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 09:34:20 PM",
+  "last_updated": "2026-04-05 11:35:46 PM",
   "errors": [
     {
       "state": "NY",
@@ -167,21 +167,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Bloomington",
-      "zip": "47404",
-      "theater_name": "AMC CLASSIC Bloomington 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541302268,
-      "date": "2026-04-05+15:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
@@ -242,21 +227,6 @@
       }
     },
     {
-      "state": "WA",
-      "city": "Kennewick",
-      "zip": "99336",
-      "theater_name": "AMC CLASSIC Kennewick 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541196629,
-      "date": "2026-04-05+19:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "NY",
       "city": "Westbury",
       "zip": "11590",
@@ -280,6 +250,21 @@
       "chainCode": "AMC",
       "showtime_id": 541489225,
       "date": "2026-04-05+11:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Carmel",
+      "zip": "46033",
+      "theater_name": "Regal Village Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541490305,
+      "date": "2026-04-05+12:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
