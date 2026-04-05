@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-06 01:34:14 AM",
+  "last_updated": "2026-04-06 02:40:53 AM",
   "movie_id": 172652,
   "movie_details": {
     "title": "Race Gurram",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/172652/Racegurram-27x40.jpg",
     "overview": "Two brothers with opposite personalities: honest cop Ram (Shaam) and carefree, intelligent rebel Lucky (Allu Arjun). When a corrupt politician, Siva Reddy (Ravi Kishan), threatens Ram\u2019s career and family, Lucky intervenes, leading to a high-stakes battle of wits and action.",
     "stats": {
-      "total_gross_usd": 3135.63,
-      "total_shows": 98,
-      "avg_occupancy": 3.44,
-      "tickets_sold": 320,
-      "unique_venues": 55
+      "total_gross_usd": 3165.14,
+      "total_shows": 99,
+      "avg_occupancy": 3.49,
+      "tickets_sold": 327,
+      "unique_venues": 56
     }
   },
   "showtimes": [
@@ -493,11 +493,11 @@
       "date": "2026-04-07+18:50",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 8,
-      "occupancy": 5.26,
-      "totalAvailableSeatCount": 144,
+      "totalSeatSold": 6,
+      "occupancy": 3.95,
+      "totalAvailableSeatCount": 146,
       "totalSeatCount": 152,
-      "grossRevenueUSD": 134.96,
+      "grossRevenueUSD": 101.22,
       "adultTicketPrice": 16.87
     },
     {
@@ -673,11 +673,11 @@
       "date": "2026-04-07+18:55",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 78,
+      "totalSeatSold": 4,
+      "occupancy": 5.13,
+      "totalAvailableSeatCount": 74,
       "totalSeatCount": 78,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 29.4,
       "adultTicketPrice": 7.35
     },
     {
@@ -835,11 +835,11 @@
       "date": "2026-04-07+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 25,
-      "occupancy": 21.93,
-      "totalAvailableSeatCount": 89,
+      "totalSeatSold": 30,
+      "occupancy": 26.32,
+      "totalAvailableSeatCount": 84,
       "totalSeatCount": 114,
-      "grossRevenueUSD": 169.25,
+      "grossRevenueUSD": 203.1,
       "adultTicketPrice": 6.77
     },
     {
@@ -1792,6 +1792,24 @@
       "totalSeatCount": 161,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 14.97
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541492927,
+      "date": "2026-04-07+18:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 64,
+      "totalSeatCount": 64,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 19.49
     }
   ]
 }
