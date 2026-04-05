@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 01:38:10 PM",
+  "last_updated": "2026-04-05 03:53:54 PM",
   "errors": [
     {
       "state": "NY",
@@ -14,21 +14,6 @@
       "language": "Hindi",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Ithaca",
-      "zip": "14850",
-      "theater_name": "Regal Ithaca Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541103496,
-      "date": "2026-04-05+14:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -74,21 +59,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Greenville",
-      "zip": "29607",
-      "theater_name": "Regal Hollywood & RPX - Greenville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541094068,
-      "date": "2026-04-05+13:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -242,21 +212,6 @@
       }
     },
     {
-      "state": "MN",
-      "city": "Mounds View",
-      "zip": "55112",
-      "theater_name": "AMC CLASSIC Mounds View 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541173926,
-      "date": "2026-04-05+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IL",
       "city": "Normal",
       "zip": "61761",
@@ -269,21 +224,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Allen",
-      "zip": "75013",
-      "theater_name": "Cinemark Allen 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 541151247,
-      "date": "2026-04-05+13:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
