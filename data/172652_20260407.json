@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-05 11:30:24 AM",
+  "last_updated": "2026-04-05 01:42:14 PM",
   "movie_id": 172652,
   "movie_details": {
     "title": "Race Gurram",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/172652/Racegurram-27x40.jpg",
     "overview": "Two brothers with opposite personalities: honest cop Ram (Shaam) and carefree, intelligent rebel Lucky (Allu Arjun). When a corrupt politician, Siva Reddy (Ravi Kishan), threatens Ram\u2019s career and family, Lucky intervenes, leading to a high-stakes battle of wits and action.",
     "stats": {
-      "total_gross_usd": 2945.17,
-      "total_shows": 95,
-      "avg_occupancy": 3.3,
-      "tickets_sold": 298,
-      "unique_venues": 53
+      "total_gross_usd": 3012.87,
+      "total_shows": 97,
+      "avg_occupancy": 3.37,
+      "tickets_sold": 308,
+      "unique_venues": 54
     }
   },
   "showtimes": [
@@ -835,11 +835,11 @@
       "date": "2026-04-07+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 20,
-      "occupancy": 17.54,
-      "totalAvailableSeatCount": 94,
+      "totalSeatSold": 23,
+      "occupancy": 20.18,
+      "totalAvailableSeatCount": 91,
       "totalSeatCount": 114,
-      "grossRevenueUSD": 135.4,
+      "grossRevenueUSD": 155.71,
       "adultTicketPrice": 6.77
     },
     {
@@ -1738,6 +1738,42 @@
       "totalSeatCount": 141,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 7.73
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75025",
+      "theater_name": "Cinemark Legacy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 541114068,
+      "date": "2026-04-07+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 6,
+      "occupancy": 11.32,
+      "totalAvailableSeatCount": 47,
+      "totalSeatCount": 53,
+      "grossRevenueUSD": 40.62,
+      "adultTicketPrice": 6.77
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75025",
+      "theater_name": "Cinemark Legacy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 541114069,
+      "date": "2026-04-07+21:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 1,
+      "occupancy": 1.89,
+      "totalAvailableSeatCount": 52,
+      "totalSeatCount": 53,
+      "grossRevenueUSD": 6.77,
+      "adultTicketPrice": 6.77
     }
   ]
 }
