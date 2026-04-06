@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 11:13:03 PM",
+  "last_updated": "2026-04-07 01:44:48 AM",
   "errors": [
     {
       "state": "FL",
@@ -10,6 +10,51 @@
       "chainCode": "AMC",
       "showtime_id": null,
       "date": "2026-04-29+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Kenner",
+      "zip": "70065",
+      "theater_name": "Regal Grand Esplanade & GPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541514456,
+      "date": "2026-04-29+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Kenner",
+      "zip": "70065",
+      "theater_name": "Regal Grand Esplanade & GPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541514457,
+      "date": "2026-04-29+15:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Kenner",
+      "zip": "70065",
+      "theater_name": "Regal Grand Esplanade & GPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541514458,
+      "date": "2026-04-29+19:35",
       "format": "Standard",
       "language": "Telugu",
       "error": {
