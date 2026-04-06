@@ -1,186 +1,6 @@
 {
-  "last_updated": "2026-04-06 04:14:48 PM",
+  "last_updated": "2026-04-06 07:51:07 PM",
   "errors": [
-    {
-      "state": "CT",
-      "city": "Plainville",
-      "zip": "06062",
-      "theater_name": "AMC Plainville 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541051420,
-      "date": "2026-04-06+13:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Plainville",
-      "zip": "06062",
-      "theater_name": "AMC Plainville 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541051412,
-      "date": "2026-04-06+15:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Plainville",
-      "zip": "06062",
-      "theater_name": "AMC Plainville 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541051411,
-      "date": "2026-04-06+20:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Tyngsboro",
-      "zip": "01879",
-      "theater_name": "AMC Tyngsboro 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541121700,
-      "date": "2026-04-06+12:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "West Nyack",
-      "zip": "10994",
-      "theater_name": "AMC Palisades Center 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541072079,
-      "date": "2026-04-06+11:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "West Nyack",
-      "zip": "10994",
-      "theater_name": "AMC Palisades Center 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541072078,
-      "date": "2026-04-06+15:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "West Nyack",
-      "zip": "10994",
-      "theater_name": "AMC Palisades Center 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541072077,
-      "date": "2026-04-06+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Edison",
-      "zip": "08837",
-      "theater_name": "AMC DINE-IN Menlo Park 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540745742,
-      "date": "2026-04-06+12:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Edison",
-      "zip": "08837",
-      "theater_name": "AMC DINE-IN Menlo Park 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540745745,
-      "date": "2026-04-06+14:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Edison",
-      "zip": "08837",
-      "theater_name": "AMC DINE-IN Menlo Park 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540745754,
-      "date": "2026-04-06+20:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Rockaway",
-      "zip": "07866",
-      "theater_name": "AMC Rockaway 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540749879,
-      "date": "2026-04-06+14:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Rockaway",
-      "zip": "07866",
-      "theater_name": "AMC Rockaway 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540749881,
-      "date": "2026-04-06+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -224,36 +44,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Alexandria",
-      "zip": "22314",
-      "theater_name": "AMC Hoffman Center 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540996025,
-      "date": "2026-04-06+15:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Alexandria",
-      "zip": "22314",
-      "theater_name": "AMC Hoffman Center 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540996024,
-      "date": "2026-04-06+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -347,51 +137,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540898389,
-      "date": "2026-04-06+12:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540898413,
-      "date": "2026-04-06+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540898415,
-      "date": "2026-04-06+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IN",
       "city": "Bloomington",
       "zip": "47404",
@@ -452,66 +197,6 @@
       }
     },
     {
-      "state": "MI",
-      "city": "Madison Heights",
-      "zip": "48071",
-      "theater_name": "AMC Star John R 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540765059,
-      "date": "2026-04-06+13:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Madison Heights",
-      "zip": "48071",
-      "theater_name": "AMC Star John R 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540765062,
-      "date": "2026-04-06+14:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Madison Heights",
-      "zip": "48071",
-      "theater_name": "AMC Star John R 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540765061,
-      "date": "2026-04-06+20:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Wauwatosa",
-      "zip": "53226",
-      "theater_name": "AMC Mayfair Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540995450,
-      "date": "2026-04-06+18:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
@@ -557,21 +242,6 @@
       }
     },
     {
-      "state": "MN",
-      "city": "Edina",
-      "zip": "55435",
-      "theater_name": "AMC Southdale 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541250486,
-      "date": "2026-04-06+15:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IL",
       "city": "Normal",
       "zip": "61761",
@@ -584,21 +254,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Highland Village",
-      "zip": "75077",
-      "theater_name": "AMC Highland Village 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 540825483,
-      "date": "2026-04-06+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -629,6 +284,21 @@
       "language": "Hindi",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Clifton",
+      "zip": "07014",
+      "theater_name": "AMC Clifton Commons 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-04-06+15:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
       }
     }
   ]
