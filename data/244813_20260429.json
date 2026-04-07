@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 05:45:58 AM",
+  "last_updated": "2026-04-07 11:55:41 AM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
@@ -7,10 +7,10 @@
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
       "total_gross_usd": 73972.12,
-      "total_shows": 738,
+      "total_shows": 741,
       "avg_occupancy": 3.02,
       "tickets_sold": 2887,
-      "unique_venues": 242
+      "unique_venues": 243
     }
   },
   "showtimes": [
@@ -8132,7 +8132,7 @@
       "chainName": "Regal",
       "chainCode": "REGL",
       "showtime_id": 541423619,
-      "date": "2026-04-29+16:00",
+      "date": "2026-04-29+15:50",
       "format": "Standard",
       "language": "Telugu",
       "totalSeatSold": 0,
@@ -13361,9 +13361,10 @@
       "date": "2026-04-29+10:30",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "TX",
@@ -13376,9 +13377,10 @@
       "date": "2026-04-29+14:10",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     },
     {
       "state": "TX",
@@ -13391,9 +13393,10 @@
       "date": "2026-04-29+17:50",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500
-      }
+      "totalSeatSold": 0,
+      "totalAvailableSeatCount": 0,
+      "occupancy": 0.0,
+      "grossRevenueUSD": 0.0
     }
   ]
 }
