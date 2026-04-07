@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-07 03:42:30 AM",
+  "last_updated": "2026-04-07 05:43:31 AM",
   "movie_id": 172652,
   "movie_details": {
     "title": "Race Gurram",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/172652/Racegurram-27x40.jpg",
     "overview": "Two brothers with opposite personalities: honest cop Ram (Shaam) and carefree, intelligent rebel Lucky (Allu Arjun). When a corrupt politician, Siva Reddy (Ravi Kishan), threatens Ram\u2019s career and family, Lucky intervenes, leading to a high-stakes battle of wits and action.",
     "stats": {
-      "total_gross_usd": 4650.14,
-      "total_shows": 107,
-      "avg_occupancy": 4.51,
-      "tickets_sold": 452,
-      "unique_venues": 64
+      "total_gross_usd": 4768.42,
+      "total_shows": 110,
+      "avg_occupancy": 4.54,
+      "tickets_sold": 465,
+      "unique_venues": 66
     }
   },
   "showtimes": [
@@ -310,7 +310,7 @@
       "chainName": "Regal",
       "chainCode": "REGL",
       "showtime_id": 541421663,
-      "date": "2026-04-07+21:45",
+      "date": "2026-04-07+21:35",
       "format": "Standard",
       "language": "Telugu",
       "totalSeatSold": 3,
@@ -421,11 +421,11 @@
       "date": "2026-04-07+18:10",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 6,
-      "occupancy": 12.0,
-      "totalAvailableSeatCount": 44,
+      "totalSeatSold": 7,
+      "occupancy": 14.0,
+      "totalAvailableSeatCount": 43,
       "totalSeatCount": 50,
-      "grossRevenueUSD": 96.42,
+      "grossRevenueUSD": 112.49,
       "adultTicketPrice": 16.07
     },
     {
@@ -493,11 +493,11 @@
       "date": "2026-04-07+18:50",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 27,
-      "occupancy": 17.76,
-      "totalAvailableSeatCount": 125,
+      "totalSeatSold": 29,
+      "occupancy": 19.08,
+      "totalAvailableSeatCount": 123,
       "totalSeatCount": 152,
-      "grossRevenueUSD": 455.49,
+      "grossRevenueUSD": 489.23,
       "adultTicketPrice": 16.87
     },
     {
@@ -637,11 +637,11 @@
       "date": "2026-04-07+21:30",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 6,
-      "occupancy": 9.52,
-      "totalAvailableSeatCount": 57,
+      "totalSeatSold": 5,
+      "occupancy": 7.94,
+      "totalAvailableSeatCount": 58,
       "totalSeatCount": 63,
-      "grossRevenueUSD": 36.0,
+      "grossRevenueUSD": 30.0,
       "adultTicketPrice": 6.0
     },
     {
@@ -835,11 +835,11 @@
       "date": "2026-04-07+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 38,
-      "occupancy": 33.33,
-      "totalAvailableSeatCount": 76,
+      "totalSeatSold": 47,
+      "occupancy": 41.23,
+      "totalAvailableSeatCount": 67,
       "totalSeatCount": 114,
-      "grossRevenueUSD": 257.26,
+      "grossRevenueUSD": 318.19,
       "adultTicketPrice": 6.77
     },
     {
@@ -853,11 +853,11 @@
       "date": "2026-04-07+21:40",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 29,
-      "occupancy": 25.44,
-      "totalAvailableSeatCount": 85,
+      "totalSeatSold": 31,
+      "occupancy": 27.19,
+      "totalAvailableSeatCount": 83,
       "totalSeatCount": 114,
-      "grossRevenueUSD": 196.33,
+      "grossRevenueUSD": 209.87,
       "adultTicketPrice": 6.77
     },
     {
@@ -1952,6 +1952,60 @@
       "totalSeatCount": 80,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 5.95
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541633027,
+      "date": "2026-04-07+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 95,
+      "totalSeatCount": 95,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 18.31
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541633028,
+      "date": "2026-04-07+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 69,
+      "totalSeatCount": 69,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 18.31
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98101",
+      "theater_name": "Regal Meridian & 4DX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541570470,
+      "date": "2026-04-07+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 50,
+      "totalSeatCount": 50,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 18.36
     }
   ]
 }
