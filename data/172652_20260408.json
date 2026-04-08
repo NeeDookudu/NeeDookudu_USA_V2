@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-08 04:21:22 PM",
+  "last_updated": "2026-04-08 08:37:21 PM",
   "movie_id": 172652,
   "movie_details": {
     "title": "Race Gurram",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/172652/Racegurram-27x40.jpg",
     "overview": "Two brothers with opposite personalities: honest cop Ram (Shaam) and carefree, intelligent rebel Lucky (Allu Arjun). When a corrupt politician, Siva Reddy (Ravi Kishan), threatens Ram\u2019s career and family, Lucky intervenes, leading to a high-stakes battle of wits and action.",
     "stats": {
-      "total_gross_usd": 2621.14,
-      "total_shows": 75,
-      "avg_occupancy": 2.0,
-      "tickets_sold": 170,
-      "unique_venues": 59
+      "total_gross_usd": 2747.51,
+      "total_shows": 76,
+      "avg_occupancy": 2.06,
+      "tickets_sold": 178,
+      "unique_venues": 60
     }
   },
   "showtimes": [
@@ -61,11 +61,11 @@
       "date": "2026-04-08+20:50",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 47,
-      "occupancy": 34.06,
-      "totalAvailableSeatCount": 91,
+      "totalSeatSold": 49,
+      "occupancy": 35.51,
+      "totalAvailableSeatCount": 89,
       "totalSeatCount": 138,
-      "grossRevenueUSD": 801.35,
+      "grossRevenueUSD": 835.45,
       "adultTicketPrice": 17.05
     },
     {
@@ -79,11 +79,11 @@
       "date": "2026-04-08+20:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 3.33,
-      "totalAvailableSeatCount": 58,
+      "totalSeatSold": 3,
+      "occupancy": 5.0,
+      "totalAvailableSeatCount": 57,
       "totalSeatCount": 60,
-      "grossRevenueUSD": 30.92,
+      "grossRevenueUSD": 46.38,
       "adultTicketPrice": 15.46
     },
     {
@@ -439,11 +439,11 @@
       "date": "2026-04-08+21:30",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 4,
-      "occupancy": 5.8,
-      "totalAvailableSeatCount": 65,
+      "totalSeatSold": 5,
+      "occupancy": 7.25,
+      "totalAvailableSeatCount": 64,
       "totalSeatCount": 69,
-      "grossRevenueUSD": 73.24,
+      "grossRevenueUSD": 91.55,
       "adultTicketPrice": 18.31
     },
     {
@@ -961,11 +961,11 @@
       "date": "2026-04-08+19:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 3,
-      "occupancy": 4.11,
-      "totalAvailableSeatCount": 70,
+      "totalSeatSold": 5,
+      "occupancy": 6.85,
+      "totalAvailableSeatCount": 68,
       "totalSeatCount": 73,
-      "grossRevenueUSD": 38.97,
+      "grossRevenueUSD": 64.95,
       "adultTicketPrice": 12.99
     },
     {
@@ -1159,9 +1159,12 @@
       "date": "2026-04-08+19:15",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 112,
+      "totalSeatCount": 112,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 15.49
     },
     {
       "state": "CA",
@@ -1372,11 +1375,11 @@
       "date": "2026-04-08+20:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 141,
+      "totalSeatSold": 2,
+      "occupancy": 1.42,
+      "totalAvailableSeatCount": 139,
       "totalSeatCount": 141,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 32.52,
       "adultTicketPrice": 16.26
     }
   ]
