@@ -1,4 +1,20 @@
 {
-  "last_updated": "2026-04-09 03:08:26 AM",
-  "errors": []
+  "last_updated": "2026-04-09 05:31:13 AM",
+  "errors": [
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": null,
+      "date": "2026-04-08+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
 }
