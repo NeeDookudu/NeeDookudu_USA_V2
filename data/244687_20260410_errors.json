@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 09:17:03 PM",
+  "last_updated": "2026-04-10 10:14:57 PM",
   "errors": [
     {
       "state": "PA",
@@ -179,21 +179,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Ypsilanti",
-      "zip": "48197",
-      "theater_name": "Ann Arbor 20 + IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 542291016,
-      "date": "2026-04-10+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
