@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 01:50:24 PM",
+  "last_updated": "2026-04-10 03:35:39 PM",
   "errors": [
     {
       "state": "PA",
@@ -14,21 +14,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30009",
-      "theater_name": "Regal Avalon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541798403,
-      "date": "2026-04-10+15:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -209,36 +194,6 @@
       "language": "Unknown",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redwood City",
-      "zip": "94063",
-      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 541801157,
-      "date": "2026-04-10+10:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redwood City",
-      "zip": "94063",
-      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 541801156,
-      "date": "2026-04-10+21:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
