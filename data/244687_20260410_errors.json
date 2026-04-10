@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 06:25:10 PM",
+  "last_updated": "2026-04-10 07:46:16 PM",
   "errors": [
     {
       "state": "PA",
@@ -14,51 +14,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541932921,
-      "date": "2026-04-10+10:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541932924,
-      "date": "2026-04-10+15:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 541932922,
-      "date": "2026-04-10+20:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     },
     {
