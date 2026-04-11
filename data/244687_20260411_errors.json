@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-04-11 01:18:01 PM",
+  "last_updated": "2026-04-11 02:06:54 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541608839,
-      "date": "2026-04-11+17:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -29,21 +14,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Morrow",
-      "zip": "30260",
-      "theater_name": "AMC Southlake 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 541663291,
-      "date": "2026-04-11+18:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -149,21 +119,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "The Colony",
-      "zip": "75056",
-      "theater_name": "Galaxy Grandscape",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 541770418,
-      "date": "2026-04-11+14:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
