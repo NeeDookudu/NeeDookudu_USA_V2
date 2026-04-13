@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 11:28:35 PM",
+  "last_updated": "2026-04-14 12:39:23 AM",
   "errors": [
     {
       "state": "PA",
@@ -132,21 +132,6 @@
       "date": "2026-04-13+17:35",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Grapevine",
-      "zip": "76051",
-      "theater_name": "AMC Grapevine Mills 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 542516562,
-      "date": "2026-04-13+19:05",
-      "format": "Standard",
-      "language": "Unknown",
       "error": {
         "status": 400
       }
