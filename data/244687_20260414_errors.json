@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-04-14 03:41:27 PM",
+  "last_updated": "2026-04-14 05:26:17 PM",
   "errors": [
-    {
-      "state": "CT",
-      "city": "Manchester",
-      "zip": "06042",
-      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 541817120,
-      "date": "2026-04-14+17:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Manchester",
-      "zip": "06042",
-      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 541817121,
-      "date": "2026-04-14+21:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -119,21 +89,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Ypsilanti",
-      "zip": "48197",
-      "theater_name": "Ann Arbor 20 + IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 542208616,
-      "date": "2026-04-14+20:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     },
     {
