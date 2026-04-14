@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-14 01:55:04 PM",
+  "last_updated": "2026-04-14 03:41:27 PM",
   "movie_id": 244687,
   "movie_details": {
     "title": "Dhurandhar: The Revenge (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg",
     "overview": "Hamza Ali Mazari, whose real identity is Jaskirat Singh Rangi, pursues his undercover operation within Pakistan's criminal world while tracking down Majo.",
     "stats": {
-      "total_gross_usd": 29330.97,
-      "total_shows": 408,
-      "avg_occupancy": 7.32,
-      "tickets_sold": 2818,
-      "unique_venues": 204
+      "total_gross_usd": 30826.39,
+      "total_shows": 416,
+      "avg_occupancy": 7.64,
+      "tickets_sold": 3003,
+      "unique_venues": 207
     }
   },
   "showtimes": [
@@ -451,11 +451,11 @@
       "date": "2026-04-14+20:50",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 11,
-      "occupancy": 7.97,
-      "totalAvailableSeatCount": 127,
+      "totalSeatSold": 13,
+      "occupancy": 9.42,
+      "totalAvailableSeatCount": 125,
       "totalSeatCount": 138,
-      "grossRevenueUSD": 187.55,
+      "grossRevenueUSD": 221.65,
       "adultTicketPrice": 17.05
     },
     {
@@ -775,11 +775,11 @@
       "date": "2026-04-14+17:45",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 32,
-      "occupancy": 29.09,
-      "totalAvailableSeatCount": 78,
+      "totalSeatSold": 30,
+      "occupancy": 27.27,
+      "totalAvailableSeatCount": 80,
       "totalSeatCount": 110,
-      "grossRevenueUSD": 460.16,
+      "grossRevenueUSD": 431.4,
       "adultTicketPrice": 14.38
     },
     {
@@ -1816,11 +1816,11 @@
       "date": "2026-04-14+18:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 7,
-      "occupancy": 6.6,
-      "totalAvailableSeatCount": 99,
+      "totalSeatSold": 106,
+      "occupancy": 100.0,
+      "totalAvailableSeatCount": 0,
       "totalSeatCount": 106,
-      "grossRevenueUSD": 56.0,
+      "grossRevenueUSD": 848.0,
       "adultTicketPrice": 8.0
     },
     {
@@ -1852,9 +1852,12 @@
       "date": "2026-04-14+19:50",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 10,
+      "occupancy": 6.8,
+      "totalAvailableSeatCount": 137,
+      "totalSeatCount": 147,
+      "grossRevenueUSD": 159.9,
+      "adultTicketPrice": 15.99
     },
     {
       "state": "VA",
@@ -5860,11 +5863,11 @@
       "date": "2026-04-14+13:55",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 1,
-      "occupancy": 1.37,
-      "totalAvailableSeatCount": 72,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 73,
       "totalSeatCount": 73,
-      "grossRevenueUSD": 6.77,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 6.77
     },
     {
@@ -6454,11 +6457,11 @@
       "date": "2026-04-14+20:05",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 25,
-      "occupancy": 40.32,
-      "totalAvailableSeatCount": 37,
+      "totalSeatSold": 27,
+      "occupancy": 43.55,
+      "totalAvailableSeatCount": 35,
       "totalSeatCount": 62,
-      "grossRevenueUSD": 181.25,
+      "grossRevenueUSD": 195.75,
       "adultTicketPrice": 7.25
     },
     {
@@ -6580,11 +6583,11 @@
       "date": "2026-04-14+21:00",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 12,
-      "occupancy": 9.52,
-      "totalAvailableSeatCount": 114,
+      "totalSeatSold": 11,
+      "occupancy": 8.73,
+      "totalAvailableSeatCount": 115,
       "totalSeatCount": 126,
-      "grossRevenueUSD": 215.88,
+      "grossRevenueUSD": 197.89,
       "adultTicketPrice": 17.99
     },
     {
@@ -6652,9 +6655,12 @@
       "date": "2026-04-14+11:35",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.52,
+      "totalAvailableSeatCount": 130,
+      "totalSeatCount": 132,
+      "grossRevenueUSD": 14.5,
+      "adultTicketPrice": 7.25
     },
     {
       "state": "CA",
@@ -6811,11 +6817,11 @@
       "date": "2026-04-14+11:15",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 15,
-      "occupancy": 23.08,
-      "totalAvailableSeatCount": 50,
+      "totalSeatSold": 16,
+      "occupancy": 24.62,
+      "totalAvailableSeatCount": 49,
       "totalSeatCount": 65,
-      "grossRevenueUSD": 108.75,
+      "grossRevenueUSD": 116.0,
       "adultTicketPrice": 7.25
     },
     {
@@ -7567,6 +7573,114 @@
       "error": {
         "status": 400
       }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 542029037,
+      "date": "2026-04-14+14:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "totalSeatSold": 4,
+      "occupancy": 3.33,
+      "totalAvailableSeatCount": 116,
+      "totalSeatCount": 120,
+      "grossRevenueUSD": 40.44,
+      "adultTicketPrice": 10.11
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 541727831,
+      "date": "2026-04-14+10:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "totalSeatSold": 6,
+      "occupancy": 12.5,
+      "totalAvailableSeatCount": 42,
+      "totalSeatCount": 48,
+      "grossRevenueUSD": 42.0,
+      "adultTicketPrice": 7.0
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 541727830,
+      "date": "2026-04-14+15:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "totalSeatSold": 16,
+      "occupancy": 33.33,
+      "totalAvailableSeatCount": 32,
+      "totalSeatCount": 48,
+      "grossRevenueUSD": 112.0,
+      "adultTicketPrice": 7.0
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 541727829,
+      "date": "2026-04-14+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "totalSeatSold": 23,
+      "occupancy": 47.92,
+      "totalAvailableSeatCount": 25,
+      "totalSeatCount": 48,
+      "grossRevenueUSD": 161.0,
+      "adultTicketPrice": 7.0
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 542431998,
+      "date": "2026-04-14+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "totalSeatSold": 11,
+      "occupancy": 5.42,
+      "totalAvailableSeatCount": 192,
+      "totalSeatCount": 203,
+      "grossRevenueUSD": 77.0,
+      "adultTicketPrice": 7.0
+    },
+    {
+      "state": "CA",
+      "city": "Elk Grove",
+      "zip": "95758",
+      "theater_name": "Cinemark Century Laguna 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 541757054,
+      "date": "2026-04-14+21:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "totalSeatSold": 13,
+      "occupancy": 22.41,
+      "totalAvailableSeatCount": 45,
+      "totalSeatCount": 58,
+      "grossRevenueUSD": 94.25,
+      "adultTicketPrice": 7.25
     }
   ]
 }
