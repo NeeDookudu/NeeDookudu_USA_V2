@@ -1,0 +1,110 @@
+{
+  "last_updated": "2026-04-17 01:55:30 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 543207057,
+      "date": "2026-04-17+21:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 542970643,
+      "date": "2026-04-17+14:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 543262646,
+      "date": "2026-04-17+21:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 543219041,
+      "date": "2026-04-17+13:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 542875797,
+      "date": "2026-04-17+11:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Normal",
+      "zip": "61761",
+      "theater_name": "AMC CLASSIC Normal 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 543196329,
+      "date": "2026-04-17+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Clovis",
+      "zip": "93612",
+      "theater_name": "Sierra Vista Cinemas 16",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": null,
+      "date": "2026-04-17+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
+}
