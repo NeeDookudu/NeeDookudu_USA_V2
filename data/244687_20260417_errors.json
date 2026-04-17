@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-04-17 01:55:30 PM",
+  "last_updated": "2026-04-17 03:39:49 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "Jersey City",
-      "zip": "07310",
-      "theater_name": "AMC Newport Centre 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 543207057,
-      "date": "2026-04-17+21:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -32,21 +17,6 @@
       }
     },
     {
-      "state": "NC",
-      "city": "Durham",
-      "zip": "27713",
-      "theater_name": "AMC Southpoint 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 543262646,
-      "date": "2026-04-17+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "FL",
       "city": "Tampa",
       "zip": "33647",
@@ -59,21 +29,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 542875797,
-      "date": "2026-04-17+11:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
