@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-04-18 01:28:04 PM",
+  "last_updated": "2026-04-18 02:12:59 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "East Brunswick",
-      "zip": "08816",
-      "theater_name": "AMC Brunswick Square 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 542556832,
-      "date": "2026-04-18+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -44,36 +29,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 542891256,
-      "date": "2026-04-18+21:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38134",
-      "theater_name": "Hollywood 20 Cinema",
-      "chainName": "Bartlett Cinemas",
-      "chainCode": "BART",
-      "showtime_id": 543349793,
-      "date": "2026-04-18+13:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
