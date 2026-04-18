@@ -1,0 +1,95 @@
+{
+  "last_updated": "2026-04-18 01:28:04 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "East Brunswick",
+      "zip": "08816",
+      "theater_name": "AMC Brunswick Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 542556832,
+      "date": "2026-04-18+21:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 542970709,
+      "date": "2026-04-18+14:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 543293271,
+      "date": "2026-04-18+12:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 542891256,
+      "date": "2026-04-18+21:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bartlett",
+      "zip": "38134",
+      "theater_name": "Hollywood 20 Cinema",
+      "chainName": "Bartlett Cinemas",
+      "chainCode": "BART",
+      "showtime_id": 543349793,
+      "date": "2026-04-18+13:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85027",
+      "theater_name": "AMC Deer Valley 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-04-18+21:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
+}
