@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-19 01:35:38 PM",
+  "last_updated": "2026-04-19 03:12:58 PM",
   "movie_id": 244687,
   "movie_details": {
     "title": "Dhurandhar: The Revenge (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg",
     "overview": "Hamza Ali Mazari, whose real identity is Jaskirat Singh Rangi, pursues his undercover operation within Pakistan's criminal world while tracking down Majo.",
     "stats": {
-      "total_gross_usd": 29852.96,
-      "total_shows": 235,
-      "avg_occupancy": 9.42,
-      "tickets_sold": 2250,
-      "unique_venues": 113
+      "total_gross_usd": 30188.85,
+      "total_shows": 238,
+      "avg_occupancy": 9.43,
+      "tickets_sold": 2272,
+      "unique_venues": 114
     }
   },
   "showtimes": [
@@ -691,9 +691,12 @@
       "date": "2026-04-19+12:45",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.13,
+      "totalAvailableSeatCount": 92,
+      "totalSeatCount": 94,
+      "grossRevenueUSD": 23.0,
+      "adultTicketPrice": 11.5
     },
     {
       "state": "NJ",
@@ -1063,11 +1066,11 @@
       "date": "2026-04-19+13:10",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 21,
-      "occupancy": 9.21,
-      "totalAvailableSeatCount": 207,
+      "totalSeatSold": 20,
+      "occupancy": 8.77,
+      "totalAvailableSeatCount": 208,
       "totalSeatCount": 228,
-      "grossRevenueUSD": 262.29,
+      "grossRevenueUSD": 249.8,
       "adultTicketPrice": 12.49
     },
     {
@@ -3460,11 +3463,11 @@
       "date": "2026-04-19+12:55",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 4,
-      "occupancy": 4.0,
-      "totalAvailableSeatCount": 96,
+      "totalSeatSold": 2,
+      "occupancy": 2.0,
+      "totalAvailableSeatCount": 98,
       "totalSeatCount": 100,
-      "grossRevenueUSD": 48.0,
+      "grossRevenueUSD": 24.0,
       "adultTicketPrice": 12.0
     },
     {
@@ -3676,11 +3679,11 @@
       "date": "2026-04-19+09:15",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 10,
-      "occupancy": 22.22,
-      "totalAvailableSeatCount": 35,
+      "totalSeatSold": 12,
+      "occupancy": 26.67,
+      "totalAvailableSeatCount": 33,
       "totalSeatCount": 45,
-      "grossRevenueUSD": 125.0,
+      "grossRevenueUSD": 150.0,
       "adultTicketPrice": 12.5
     },
     {
@@ -3730,9 +3733,12 @@
       "date": "2026-04-19+15:50",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 11,
+      "occupancy": 24.44,
+      "totalAvailableSeatCount": 34,
+      "totalSeatCount": 45,
+      "grossRevenueUSD": 176.0,
+      "adultTicketPrice": 16.0
     },
     {
       "state": "CA",
@@ -3781,11 +3787,11 @@
       "date": "2026-04-19+14:35",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 58,
-      "occupancy": 54.72,
-      "totalAvailableSeatCount": 48,
+      "totalSeatSold": 60,
+      "occupancy": 56.6,
+      "totalAvailableSeatCount": 46,
       "totalSeatCount": 106,
-      "grossRevenueUSD": 811.42,
+      "grossRevenueUSD": 839.4,
       "adultTicketPrice": 13.99
     },
     {
@@ -3889,11 +3895,11 @@
       "date": "2026-04-19+15:00",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 9,
-      "occupancy": 10.34,
-      "totalAvailableSeatCount": 78,
+      "totalSeatSold": 11,
+      "occupancy": 12.64,
+      "totalAvailableSeatCount": 76,
       "totalSeatCount": 87,
-      "grossRevenueUSD": 118.71,
+      "grossRevenueUSD": 145.09,
       "adultTicketPrice": 13.19
     },
     {
@@ -4069,11 +4075,11 @@
       "date": "2026-04-19+10:20",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 20,
-      "occupancy": 40.82,
-      "totalAvailableSeatCount": 29,
+      "totalSeatSold": 18,
+      "occupancy": 36.73,
+      "totalAvailableSeatCount": 31,
       "totalSeatCount": 49,
-      "grossRevenueUSD": 299.8,
+      "grossRevenueUSD": 269.82,
       "adultTicketPrice": 14.99
     },
     {
@@ -4363,6 +4369,24 @@
       "totalSeatCount": 129,
       "grossRevenueUSD": 15.74,
       "adultTicketPrice": 15.74
+    },
+    {
+      "state": "CA",
+      "city": "Clovis",
+      "zip": "93612",
+      "theater_name": "Sierra Vista Cinemas 16",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 543156270,
+      "date": "2026-04-19+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 8,
+      "occupancy": 9.3,
+      "totalAvailableSeatCount": 78,
+      "totalSeatCount": 86,
+      "grossRevenueUSD": 124.0,
+      "adultTicketPrice": 15.5
     }
   ]
 }

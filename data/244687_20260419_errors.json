@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-04-19 01:35:38 PM",
+  "last_updated": "2026-04-19 03:12:58 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "Cherry Hill",
-      "zip": "08002",
-      "theater_name": "AMC Cherry Hill 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 542926614,
-      "date": "2026-04-19+12:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -104,21 +89,6 @@
       "language": "Unknown",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 543559444,
-      "date": "2026-04-19+15:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     }
   ]
