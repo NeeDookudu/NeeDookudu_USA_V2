@@ -1,0 +1,80 @@
+{
+  "last_updated": "2026-04-20 12:47:01 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "Hamilton Township",
+      "zip": "08610",
+      "theater_name": "Regal Independence Plaza & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 542923427,
+      "date": "2026-04-20+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 543041252,
+      "date": "2026-04-20+14:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 543304646,
+      "date": "2026-04-20+14:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Normal",
+      "zip": "61761",
+      "theater_name": "AMC CLASSIC Normal 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 543196408,
+      "date": "2026-04-20+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Allen",
+      "zip": "75013",
+      "theater_name": "Cinemark Allen 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": null,
+      "date": "2026-04-20+11:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
+}
