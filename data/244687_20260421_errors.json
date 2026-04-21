@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-04-21 02:01:07 PM",
+  "last_updated": "2026-04-21 03:45:38 PM",
   "errors": [
-    {
-      "state": "NY",
-      "city": "Westbury",
-      "zip": "11590",
-      "theater_name": "Regal Westbury IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 543001403,
-      "date": "2026-04-21+20:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Farmingdale",
-      "zip": "11735",
-      "theater_name": "Showcase Cinema de lux Farmingdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 543039389,
-      "date": "2026-04-21+16:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 404
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
