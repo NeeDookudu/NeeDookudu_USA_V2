@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 01:58:31 PM",
+  "last_updated": "2026-04-22 03:45:43 PM",
   "errors": [
     {
       "state": "PA",
@@ -74,36 +74,6 @@
       "language": "Hindi",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 543124965,
-      "date": "2026-04-22+19:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 542829411,
-      "date": "2026-04-22+15:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     }
   ]
