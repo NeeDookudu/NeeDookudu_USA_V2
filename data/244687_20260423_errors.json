@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23 02:24:43 PM",
+  "last_updated": "2026-04-23 03:49:00 PM",
   "errors": [
     {
       "state": "PA",
@@ -44,21 +44,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75025",
-      "theater_name": "Cinemark Legacy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 543881667,
-      "date": "2026-04-23+20:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     },
     {
