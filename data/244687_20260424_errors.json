@@ -1,0 +1,65 @@
+{
+  "last_updated": "2026-04-24 12:33:46 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-04-24+21:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 543908878,
+      "date": "2026-04-24+14:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 544105922,
+      "date": "2026-04-24+22:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 544014585,
+      "date": "2026-04-24+15:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    }
+  ]
+}
