@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 01:40:57 PM",
+  "last_updated": "2026-04-27 04:27:21 PM",
   "errors": [
     {
       "state": "PA",
@@ -14,36 +14,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "AMC South Barrington 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 544167316,
-      "date": "2026-04-27+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 543801639,
-      "date": "2026-04-27+19:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     }
   ]
