@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-27 08:32:13 PM",
+  "last_updated": "2026-04-27 10:16:33 PM",
   "movie_id": 244687,
   "movie_details": {
     "title": "Dhurandhar: The Revenge (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg",
     "overview": "Hamza Ali Mazari, whose real identity is Jaskirat Singh Rangi, pursues his undercover operation within Pakistan's criminal world while tracking down Majo.",
     "stats": {
-      "total_gross_usd": 2701.88,
-      "total_shows": 93,
-      "avg_occupancy": 1.81,
-      "tickets_sold": 190,
+      "total_gross_usd": 2936.5,
+      "total_shows": 94,
+      "avg_occupancy": 1.94,
+      "tickets_sold": 205,
       "unique_venues": 50
     }
   },
@@ -133,11 +133,11 @@
       "date": "2026-04-27+16:05",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 2,
-      "occupancy": 1.69,
-      "totalAvailableSeatCount": 116,
+      "totalSeatSold": 6,
+      "occupancy": 5.08,
+      "totalAvailableSeatCount": 112,
       "totalSeatCount": 118,
-      "grossRevenueUSD": 34.1,
+      "grossRevenueUSD": 102.3,
       "adultTicketPrice": 17.05
     },
     {
@@ -295,11 +295,11 @@
       "date": "2026-04-27+21:05",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 3,
-      "occupancy": 2.22,
-      "totalAvailableSeatCount": 132,
+      "totalSeatSold": 6,
+      "occupancy": 4.44,
+      "totalAvailableSeatCount": 129,
       "totalSeatCount": 135,
-      "grossRevenueUSD": 50.25,
+      "grossRevenueUSD": 100.5,
       "adultTicketPrice": 16.75
     },
     {
@@ -544,11 +544,11 @@
       "date": "2026-04-27+21:20",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 97,
+      "totalSeatSold": 1,
+      "occupancy": 1.03,
+      "totalAvailableSeatCount": 96,
       "totalSeatCount": 97,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 18.31,
       "adultTicketPrice": 18.31
     },
     {
@@ -598,11 +598,11 @@
       "date": "2026-04-27+12:45",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 1,
-      "occupancy": 0.8,
-      "totalAvailableSeatCount": 124,
+      "totalSeatSold": 4,
+      "occupancy": 3.2,
+      "totalAvailableSeatCount": 121,
       "totalSeatCount": 125,
-      "grossRevenueUSD": 13.06,
+      "grossRevenueUSD": 52.24,
       "adultTicketPrice": 13.06
     },
     {
@@ -706,11 +706,11 @@
       "date": "2026-04-27+20:00",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 1,
-      "occupancy": 1.0,
-      "totalAvailableSeatCount": 99,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 100,
       "totalSeatCount": 100,
-      "grossRevenueUSD": 12.42,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 12.42
     },
     {
@@ -1138,11 +1138,11 @@
       "date": "2026-04-27+16:05",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 1,
-      "occupancy": 0.72,
-      "totalAvailableSeatCount": 138,
+      "totalSeatSold": 3,
+      "occupancy": 2.16,
+      "totalAvailableSeatCount": 136,
       "totalSeatCount": 139,
-      "grossRevenueUSD": 15.99,
+      "grossRevenueUSD": 47.97,
       "adultTicketPrice": 15.99
     },
     {
@@ -1282,11 +1282,11 @@
       "date": "2026-04-27+10:40",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 7,
-      "occupancy": 14.58,
-      "totalAvailableSeatCount": 41,
+      "totalSeatSold": 9,
+      "occupancy": 18.75,
+      "totalAvailableSeatCount": 39,
       "totalSeatCount": 48,
-      "grossRevenueUSD": 92.75,
+      "grossRevenueUSD": 119.25,
       "adultTicketPrice": 13.25
     },
     {
@@ -1642,11 +1642,11 @@
       "date": "2026-04-27+10:30",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 367,
+      "totalSeatSold": 1,
+      "occupancy": 0.27,
+      "totalAvailableSeatCount": 366,
       "totalSeatCount": 367,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 12.62,
       "adultTicketPrice": 12.62
     },
     {
@@ -1717,6 +1717,24 @@
       "error": {
         "status": 404
       }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 544380502,
+      "date": "2026-04-27+19:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 50,
+      "totalSeatCount": 50,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.06
     }
   ]
 }
