@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29 04:19:55 PM",
+  "last_updated": "2026-04-29 05:44:35 PM",
   "errors": [
     {
       "state": "PA",
@@ -17,48 +17,18 @@
       }
     },
     {
-      "state": "NC",
-      "city": "Cary",
-      "zip": "27518",
-      "theater_name": "Regal Crossroads & IMAX - Cary",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 543797074,
-      "date": "2026-04-29+18:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 544085178,
-      "date": "2026-04-29+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 544085179,
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": null,
       "date": "2026-04-29+20:20",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "exception": ""
+        "status": 404
       }
     }
   ]
