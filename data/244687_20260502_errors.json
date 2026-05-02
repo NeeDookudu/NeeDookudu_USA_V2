@@ -1,0 +1,35 @@
+{
+  "last_updated": "2026-05-02 12:53:34 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 544889564,
+      "date": "2026-05-02+15:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-05-02+17:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
+}
