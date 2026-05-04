@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 01:54:55 PM",
+  "last_updated": "2026-05-04 04:30:42 PM",
   "movie_id": 244687,
   "movie_details": {
     "title": "Dhurandhar: The Revenge (2026)",
@@ -7,8 +7,8 @@
     "overview": "Hamza Ali Mazari, whose real identity is Jaskirat Singh Rangi, pursues his undercover operation within Pakistan's criminal world while tracking down Majo.",
     "stats": {
       "total_gross_usd": 892.86,
-      "total_shows": 36,
-      "avg_occupancy": 1.89,
+      "total_shows": 37,
+      "avg_occupancy": 1.85,
       "tickets_sold": 60,
       "unique_venues": 21
     }
@@ -331,9 +331,12 @@
       "date": "2026-05-04+10:35",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 403
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 53,
+      "totalSeatCount": 53,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.37
     },
     {
       "state": "TX",
