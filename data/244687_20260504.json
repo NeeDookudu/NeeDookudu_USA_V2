@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 07:36:39 AM",
+  "last_updated": "2026-05-05 11:07:16 AM",
   "movie_id": 244687,
   "movie_details": {
     "title": "Dhurandhar: The Revenge (2026)",
@@ -694,6 +694,21 @@
       "totalSeatCount": 123,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 15.74
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 544568234,
+      "date": "2026-05-04+18:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
     }
   ]
 }
