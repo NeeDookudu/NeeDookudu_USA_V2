@@ -1,0 +1,149 @@
+{
+  "last_updated": "2026-05-09 11:57:33 AM",
+  "errors": [
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 545946869,
+      "date": "2026-06-03+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545876376,
+      "date": "2026-06-03+10:30",
+      "format": "D-Box",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545876377,
+      "date": "2026-06-03+14:30",
+      "format": "D-Box",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545937142,
+      "date": "2026-06-03+22:25",
+      "format": "D-Box",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Webster",
+      "zip": "77598",
+      "theater_name": "Cinemark NASA and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545852642,
+      "date": "2026-06-03+10:30",
+      "format": "D-Box",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Webster",
+      "zip": "77598",
+      "theater_name": "Cinemark NASA and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545852643,
+      "date": "2026-06-03+14:35",
+      "format": "D-Box",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Webster",
+      "zip": "77598",
+      "theater_name": "Cinemark NASA and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545852644,
+      "date": "2026-06-03+22:20",
+      "format": "D-Box",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 545869983,
+      "date": "2026-06-03+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 545869986,
+      "date": "2026-06-03+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    }
+  ]
+}
