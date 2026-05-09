@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09 06:38:25 PM",
+  "last_updated": "2026-05-09 07:56:07 PM",
   "errors": [
     {
       "state": "FL",
@@ -143,6 +143,22 @@
       "error": {
         "status": 500,
         "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tallahassee",
+      "zip": "32303",
+      "theater_name": "AMC Tallahassee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-03+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
