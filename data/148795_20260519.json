@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11 02:58:15 PM",
+  "last_updated": "2026-05-11 04:04:49 PM",
   "movie_id": 148795,
   "movie_details": {
     "title": "Oosaravelli",
@@ -7,12 +7,12 @@
     "overview": "Tony (Jr. NTR), a carefree man who takes on any job for money. During a trip to Kashmir, he falls in love with Niharika (Tamannaah), only to discover she is engaged to a powerful politician’s son. As Tony continues a mysterious killing spree, a hidden past between him and Niharika begins to unfold, revealing a deeper emotional connection and a mission driven by revenge. Blending romance, action, and suspense, the film builds toward an intense and emotional payoff.",
     "stats": {
       "total_gross_usd": 3136.03,
-      "total_shows": 150,
-      "avg_occupancy": 1.7,
+      "total_shows": 152,
+      "avg_occupancy": 1.69,
       "tickets_sold": 291,
-      "unique_venues": 77,
+      "unique_venues": 78,
       "housefull_shows": 0,
-      "error_shows": 24
+      "error_shows": 22
     }
   },
   "showtimes": [
@@ -1027,10 +1027,12 @@
       "date": "2026-05-19+18:30",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 67,
+      "totalSeatCount": 67,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 16.0
     },
     {
       "state": "NC",
@@ -1043,10 +1045,12 @@
       "date": "2026-05-19+21:30",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 48,
+      "totalSeatCount": 48,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 16.0
     },
     {
       "state": "NC",
