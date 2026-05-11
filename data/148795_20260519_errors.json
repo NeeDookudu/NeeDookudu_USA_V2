@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11 04:04:49 PM",
+  "last_updated": "2026-05-11 07:16:43 PM",
   "errors": [
     {
       "state": "MA",
@@ -351,6 +351,22 @@
       "error": {
         "status": 500,
         "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-05-19+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
