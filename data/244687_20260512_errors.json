@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12 09:56:18 PM",
+  "last_updated": "2026-05-13 12:24:30 AM",
   "errors": [
     {
       "state": "NY",
@@ -17,33 +17,18 @@
       }
     },
     {
-      "state": "NY",
-      "city": "Farmingdale",
-      "zip": "11735",
-      "theater_name": "Showcase Cinema de lux Farmingdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 545748229,
-      "date": "2026-05-12+16:15",
+      "state": "MI",
+      "city": "Sterling Heights",
+      "zip": "48314",
+      "theater_name": "AMC Forum 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-05-12+17:05",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Farmingdale",
-      "zip": "11735",
-      "theater_name": "Showcase Cinema de lux Farmingdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 545748230,
-      "date": "2026-05-12+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
+        "status": 404
       }
     }
   ]
