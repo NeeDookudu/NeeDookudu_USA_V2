@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 03:41:30 AM",
+  "last_updated": "2026-05-13 05:28:06 AM",
   "errors": [
     {
       "state": "MA",
@@ -378,6 +378,22 @@
       "chainCode": "AMC",
       "showtime_id": 546411750,
       "date": "2026-05-19+12:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 546547842,
+      "date": "2026-05-19+20:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
