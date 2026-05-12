@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 12:28:27 AM",
+  "last_updated": "2026-05-13 02:01:46 AM",
   "errors": [
     {
       "state": "MA",
@@ -367,6 +367,22 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 546411750,
+      "date": "2026-05-19+12:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 12:28:27 AM",
+  "last_updated": "2026-05-13 02:01:46 AM",
   "movie_id": 148795,
   "movie_details": {
     "title": "Oosaravelli",
@@ -8,11 +8,11 @@
     "stats": {
       "total_gross_usd": 3607.24,
       "total_shows": 152,
-      "avg_occupancy": 2.09,
+      "avg_occupancy": 2.16,
       "tickets_sold": 364,
       "unique_venues": 78,
       "housefull_shows": 0,
-      "error_shows": 23
+      "error_shows": 24
     }
   },
   "showtimes": [
@@ -137,8 +137,8 @@
       "language": "Telugu",
       "totalSeatSold": 0,
       "occupancy": 0.0,
-      "totalAvailableSeatCount": 203,
-      "totalSeatCount": 203,
+      "totalAvailableSeatCount": 98,
+      "totalSeatCount": 98,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 15.99
     },
@@ -795,8 +795,8 @@
       "language": "Telugu",
       "totalSeatSold": 0,
       "occupancy": 0.0,
-      "totalAvailableSeatCount": 494,
-      "totalSeatCount": 494,
+      "totalAvailableSeatCount": 152,
+      "totalSeatCount": 152,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 16.99
     },
@@ -813,8 +813,8 @@
       "language": "Telugu",
       "totalSeatSold": 0,
       "occupancy": 0.0,
-      "totalAvailableSeatCount": 297,
-      "totalSeatCount": 297,
+      "totalAvailableSeatCount": 206,
+      "totalSeatCount": 206,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 16.99
     },
@@ -974,9 +974,9 @@
       "format": "Standard",
       "language": "Telugu",
       "totalSeatSold": 4,
-      "occupancy": 5.63,
-      "totalAvailableSeatCount": 67,
-      "totalSeatCount": 71,
+      "occupancy": 5.06,
+      "totalAvailableSeatCount": 75,
+      "totalSeatCount": 79,
       "grossRevenueUSD": 55.96,
       "adultTicketPrice": 13.99
     },
@@ -1420,9 +1420,9 @@
       "format": "Standard",
       "language": "Telugu",
       "totalSeatSold": 8,
-      "occupancy": 6.3,
-      "totalAvailableSeatCount": 119,
-      "totalSeatCount": 127,
+      "occupancy": 8.33,
+      "totalAvailableSeatCount": 88,
+      "totalSeatCount": 96,
       "grossRevenueUSD": 116.0,
       "adultTicketPrice": 14.5
     },
@@ -1438,9 +1438,9 @@
       "format": "Standard",
       "language": "Telugu",
       "totalSeatSold": 8,
-      "occupancy": 6.3,
-      "totalAvailableSeatCount": 119,
-      "totalSeatCount": 127,
+      "occupancy": 8.33,
+      "totalAvailableSeatCount": 88,
+      "totalSeatCount": 96,
       "grossRevenueUSD": 116.0,
       "adultTicketPrice": 14.5
     },
@@ -3118,6 +3118,22 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 546411750,
+      "date": "2026-05-19+12:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
       }
     }
   ]
