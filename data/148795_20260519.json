@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-05-14 02:57:17 AM",
+  "last_updated": "2026-05-14 04:34:14 AM",
   "movie_id": 148795,
   "movie_details": {
     "title": "Oosaravelli",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/148795/Oosaravelli-27x40.jpg",
     "overview": "Tony (Jr. NTR), a carefree man who takes on any job for money. During a trip to Kashmir, he falls in love with Niharika (Tamannaah), only to discover she is engaged to a powerful politician’s son. As Tony continues a mysterious killing spree, a hidden past between him and Niharika begins to unfold, revealing a deeper emotional connection and a mission driven by revenge. Blending romance, action, and suspense, the film builds toward an intense and emotional payoff.",
     "stats": {
-      "total_gross_usd": 4585.75,
-      "total_shows": 178,
+      "total_gross_usd": 4628.52,
+      "total_shows": 180,
       "avg_occupancy": 2.45,
-      "tickets_sold": 480,
-      "unique_venues": 92,
+      "tickets_sold": 485,
+      "unique_venues": 94,
       "housefull_shows": 0,
-      "error_shows": 10
+      "error_shows": 11
     }
   },
   "showtimes": [
@@ -2243,11 +2243,11 @@
       "date": "2026-05-19+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 1,
-      "occupancy": 0.93,
-      "totalAvailableSeatCount": 107,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 108,
       "totalSeatCount": 108,
-      "grossRevenueUSD": 6.77,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 6.77
     },
     {
@@ -2709,11 +2709,11 @@
       "date": "2026-05-19+18:30",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 55,
+      "totalSeatSold": 1,
+      "occupancy": 1.82,
+      "totalAvailableSeatCount": 54,
       "totalSeatCount": 55,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 15.69,
       "adultTicketPrice": 15.69
     },
     {
@@ -3373,12 +3373,64 @@
       "date": "2026-05-19+18:05",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 86,
-      "occupancy": 51.81,
-      "totalAvailableSeatCount": 80,
+      "totalSeatSold": 91,
+      "occupancy": 54.82,
+      "totalAvailableSeatCount": 75,
       "totalSeatCount": 166,
-      "grossRevenueUSD": 582.22,
+      "grossRevenueUSD": 616.07,
       "adultTicketPrice": 6.77
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 546670135,
+      "date": "2026-05-19+19:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 546210757,
+      "date": "2026-05-19+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 160,
+      "totalSeatCount": 160,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 6.6
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 546218233,
+      "date": "2026-05-19+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 78,
+      "totalSeatCount": 78,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 6.95
     }
   ]
 }
