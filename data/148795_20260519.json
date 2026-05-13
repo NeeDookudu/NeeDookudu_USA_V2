@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 05:33:41 PM",
+  "last_updated": "2026-05-13 08:02:49 PM",
   "movie_id": 148795,
   "movie_details": {
     "title": "Oosaravelli",
@@ -7,12 +7,12 @@
     "overview": "Tony (Jr. NTR), a carefree man who takes on any job for money. During a trip to Kashmir, he falls in love with Niharika (Tamannaah), only to discover she is engaged to a powerful politician’s son. As Tony continues a mysterious killing spree, a hidden past between him and Niharika begins to unfold, revealing a deeper emotional connection and a mission driven by revenge. Blending romance, action, and suspense, the film builds toward an intense and emotional payoff.",
     "stats": {
       "total_gross_usd": 3996.43,
-      "total_shows": 158,
-      "avg_occupancy": 2.27,
+      "total_shows": 173,
+      "avg_occupancy": 2.09,
       "tickets_sold": 394,
-      "unique_venues": 80,
+      "unique_venues": 90,
       "housefull_shows": 0,
-      "error_shows": 25
+      "error_shows": 12
     }
   },
   "showtimes": [
@@ -202,13 +202,15 @@
       "chainName": "AMC",
       "chainCode": "AMC",
       "showtime_id": 545650240,
-      "date": "2026-05-19+21:30",
+      "date": "2026-05-19+22:15",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 294,
+      "totalSeatCount": 294,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 15.99
     },
     {
       "state": "CT",
@@ -1135,10 +1137,12 @@
       "date": "2026-05-19+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 93,
+      "totalSeatCount": 93,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.43
     },
     {
       "state": "NC",
@@ -1151,10 +1155,12 @@
       "date": "2026-05-19+21:45",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 93,
+      "totalSeatCount": 93,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.43
     },
     {
       "state": "NC",
@@ -1475,8 +1481,8 @@
       "language": "Telugu",
       "totalSeatSold": 0,
       "occupancy": 0.0,
-      "totalAvailableSeatCount": 67,
-      "totalSeatCount": 67,
+      "totalAvailableSeatCount": 66,
+      "totalSeatCount": 66,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 16.04
     },
@@ -1540,13 +1546,15 @@
       "chainName": "AMC",
       "chainCode": "AMC",
       "showtime_id": 545651189,
-      "date": "2026-05-19+21:30",
+      "date": "2026-05-19+22:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 41,
+      "totalSeatCount": 41,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.5
     },
     {
       "state": "FL",
@@ -1875,10 +1883,12 @@
       "date": "2026-05-19+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 91,
+      "totalSeatCount": 91,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.64
     },
     {
       "state": "MN",
@@ -1891,10 +1901,12 @@
       "date": "2026-05-19+21:30",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 91,
+      "totalSeatCount": 91,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.64
     },
     {
       "state": "KS",
@@ -1904,13 +1916,15 @@
       "chainName": "AMC",
       "chainCode": "AMC",
       "showtime_id": 545635604,
-      "date": "2026-05-19+18:00",
+      "date": "2026-05-19+20:15",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 40,
+      "totalSeatCount": 40,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.85
     },
     {
       "state": "KS",
@@ -1955,10 +1969,12 @@
       "date": "2026-05-19+21:15",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 43,
+      "totalSeatCount": 43,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.17
     },
     {
       "state": "KS",
@@ -2115,10 +2131,12 @@
       "date": "2026-05-19+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 87,
+      "totalSeatCount": 87,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.06
     },
     {
       "state": "TX",
@@ -2131,10 +2149,12 @@
       "date": "2026-05-19+21:30",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 87,
+      "totalSeatCount": 87,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.06
     },
     {
       "state": "TX",
@@ -2615,10 +2635,12 @@
       "date": "2026-05-19+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 66,
+      "totalSeatCount": 66,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.72
     },
     {
       "state": "AZ",
@@ -3131,10 +3153,12 @@
       "date": "2026-05-19+12:15",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 294,
+      "totalSeatCount": 294,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.79
     },
     {
       "state": "IN",
@@ -3183,10 +3207,12 @@
       "date": "2026-05-19+20:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 35,
+      "totalSeatCount": 35,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 15.37
     },
     {
       "state": "NV",
@@ -3259,6 +3285,42 @@
       "totalSeatCount": 71,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 6.75
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46256",
+      "theater_name": "Regal UA Galaxy - Indianapolis",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 546665601,
+      "date": "2026-05-19+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 100,
+      "totalSeatCount": 100,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.99
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46256",
+      "theater_name": "Regal UA Galaxy - Indianapolis",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 546665602,
+      "date": "2026-05-19+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 100,
+      "totalSeatCount": 100,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.99
     }
   ]
 }

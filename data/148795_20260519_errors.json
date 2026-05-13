@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 05:33:41 PM",
+  "last_updated": "2026-05-13 08:02:49 PM",
   "errors": [
     {
       "state": "MA",
@@ -10,22 +10,6 @@
       "chainCode": "AMC",
       "showtime_id": 545650239,
       "date": "2026-05-19+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02111",
-      "theater_name": "AMC Boston Common 19",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545650240,
-      "date": "2026-05-19+21:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
@@ -66,38 +50,6 @@
       }
     },
     {
-      "state": "NC",
-      "city": "Concord",
-      "zip": "28027",
-      "theater_name": "AMC Concord Mills 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545641456,
-      "date": "2026-05-19+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Concord",
-      "zip": "28027",
-      "theater_name": "AMC Concord Mills 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545641457,
-      "date": "2026-05-19+21:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "FL",
       "city": "Tampa",
       "zip": "33634",
@@ -106,22 +58,6 @@
       "chainCode": "AMC",
       "showtime_id": 545651188,
       "date": "2026-05-19+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33634",
-      "theater_name": "AMC Veterans 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545651189,
-      "date": "2026-05-19+21:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
@@ -194,54 +130,6 @@
       }
     },
     {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545750832,
-      "date": "2026-05-19+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545750833,
-      "date": "2026-05-19+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "KS",
-      "city": "Overland Park",
-      "zip": "66223",
-      "theater_name": "AMC Prairiefire 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545635604,
-      "date": "2026-05-19+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "KS",
       "city": "Overland Park",
       "zip": "66223",
@@ -265,70 +153,6 @@
       "chainName": "AMC",
       "chainCode": "AMC",
       "showtime_id": 545840601,
-      "date": "2026-05-19+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "KS",
-      "city": "Leawood",
-      "zip": "66211",
-      "theater_name": "AMC Town Center 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545840602,
-      "date": "2026-05-19+21:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "AMC Stonebriar 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545729027,
-      "date": "2026-05-19+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "AMC Stonebriar 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545729028,
-      "date": "2026-05-19+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85050",
-      "theater_name": "AMC Desert Ridge 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 545795786,
       "date": "2026-05-19+18:00",
       "format": "Standard",
       "language": "Telugu",
@@ -367,38 +191,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02111",
-      "theater_name": "AMC Boston Common 19",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 546411750,
-      "date": "2026-05-19+12:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "AMC South Barrington 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 546547842,
-      "date": "2026-05-19+20:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     }
   ]
