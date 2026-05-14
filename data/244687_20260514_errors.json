@@ -1,0 +1,50 @@
+{
+  "last_updated": "2026-05-14 03:00:03 PM",
+  "errors": [
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 546668911,
+      "date": "2026-05-14+13:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 546522354,
+      "date": "2026-05-14+20:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 546579430,
+      "date": "2026-05-14+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    }
+  ]
+}
