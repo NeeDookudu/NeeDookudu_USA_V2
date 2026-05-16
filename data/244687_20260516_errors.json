@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16 01:24:54 PM",
+  "last_updated": "2026-05-16 02:55:23 PM",
   "errors": [
     {
       "state": "CA",
@@ -14,21 +14,6 @@
       "language": "Hindi",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 546186283,
-      "date": "2026-05-16+19:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     }
   ]
