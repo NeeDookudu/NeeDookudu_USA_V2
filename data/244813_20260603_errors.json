@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16 07:43:22 AM",
+  "last_updated": "2026-05-16 11:21:10 AM",
   "errors": [
     {
       "state": "FL",
@@ -159,38 +159,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Chico",
-      "zip": "95926",
-      "theater_name": "Cinemark Tinseltown Chico 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 546799413,
-      "date": "2026-06-03+19:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Seattle",
-      "zip": "98101",
-      "theater_name": "Regal Meridian",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 546798207,
-      "date": "2026-06-03+12:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     }
   ]
