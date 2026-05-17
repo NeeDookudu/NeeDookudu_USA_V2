@@ -1,0 +1,35 @@
+{
+  "last_updated": "2026-05-17 02:30:58 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Farmingdale",
+      "zip": "11735",
+      "theater_name": "Showcase Cinema de lux Farmingdale",
+      "chainName": "National Amusement",
+      "chainCode": "NATA",
+      "showtime_id": 546619159,
+      "date": "2026-05-17+21:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 546186374,
+      "date": "2026-05-17+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    }
+  ]
+}
