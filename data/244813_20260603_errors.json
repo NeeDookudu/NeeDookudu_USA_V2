@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20 03:43:23 AM",
+  "last_updated": "2026-05-20 05:30:26 AM",
   "errors": [
     {
       "state": "FL",
@@ -175,22 +175,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33634",
-      "theater_name": "AMC Veterans 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 547306770,
-      "date": "2026-06-03+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400,
-        "reason": "HTTP 400"
       }
     }
   ]
