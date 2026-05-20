@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-05-20 10:25:13 PM",
+  "last_updated": "2026-05-21 12:53:59 AM",
   "movie_id": 148795,
   "movie_details": {
     "title": "Oosaravelli",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/148795/Oosaravelli-27x40.jpg",
     "overview": "Tony (Jr. NTR), a carefree man who takes on any job for money. During a trip to Kashmir, he falls in love with Niharika (Tamannaah), only to discover she is engaged to a powerful politician’s son. As Tony continues a mysterious killing spree, a hidden past between him and Niharika begins to unfold, revealing a deeper emotional connection and a mission driven by revenge. Blending romance, action, and suspense, the film builds toward an intense and emotional payoff.",
     "stats": {
-      "total_gross_usd": 2819.37,
+      "total_gross_usd": 2951.34,
       "total_shows": 116,
-      "avg_occupancy": 1.6,
-      "tickets_sold": 186,
+      "avg_occupancy": 1.67,
+      "tickets_sold": 194,
       "unique_venues": 68,
       "housefull_shows": 0,
-      "error_shows": 1
+      "error_shows": 2
     }
   },
   "showtimes": [
@@ -207,11 +207,11 @@
       "date": "2026-05-20+21:40",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 47,
+      "totalSeatSold": 2,
+      "occupancy": 4.26,
+      "totalAvailableSeatCount": 45,
       "totalSeatCount": 47,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 34.1,
       "adultTicketPrice": 17.05
     },
     {
@@ -225,11 +225,11 @@
       "date": "2026-05-20+18:30",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 129,
+      "totalSeatSold": 2,
+      "occupancy": 1.55,
+      "totalAvailableSeatCount": 127,
       "totalSeatCount": 129,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 30.9,
       "adultTicketPrice": 15.45
     },
     {
@@ -693,11 +693,11 @@
       "date": "2026-05-20+19:35",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 7,
-      "occupancy": 8.86,
-      "totalAvailableSeatCount": 72,
+      "totalSeatSold": 8,
+      "occupancy": 10.13,
+      "totalAvailableSeatCount": 71,
       "totalSeatCount": 79,
-      "grossRevenueUSD": 97.93,
+      "grossRevenueUSD": 111.92,
       "adultTicketPrice": 13.99
     },
     {
@@ -747,11 +747,11 @@
       "date": "2026-05-20+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 4,
-      "occupancy": 4.3,
-      "totalAvailableSeatCount": 89,
+      "totalSeatSold": 6,
+      "occupancy": 6.45,
+      "totalAvailableSeatCount": 87,
       "totalSeatCount": 93,
-      "grossRevenueUSD": 57.72,
+      "grossRevenueUSD": 86.58,
       "adultTicketPrice": 14.43
     },
     {
@@ -819,11 +819,11 @@
       "date": "2026-05-20+18:30",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 5,
-      "occupancy": 10.42,
-      "totalAvailableSeatCount": 43,
+      "totalSeatSold": 9,
+      "occupancy": 18.75,
+      "totalAvailableSeatCount": 39,
       "totalSeatCount": 48,
-      "grossRevenueUSD": 85.75,
+      "grossRevenueUSD": 154.35,
       "adultTicketPrice": 17.15
     },
     {
@@ -1105,11 +1105,11 @@
       "date": "2026-05-20+21:30",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 3.33,
-      "totalAvailableSeatCount": 58,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 60,
       "totalSeatCount": 60,
-      "grossRevenueUSD": 30.98,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 15.49
     },
     {
@@ -1879,11 +1879,11 @@
       "date": "2026-05-20+18:05",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 1,
-      "occupancy": 1.41,
-      "totalAvailableSeatCount": 70,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 71,
       "totalSeatCount": 71,
-      "grossRevenueUSD": 13.5,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 13.5
     },
     {
@@ -2119,6 +2119,22 @@
       "totalSeatCount": 162,
       "grossRevenueUSD": 15.71,
       "adultTicketPrice": 15.71
+    },
+    {
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-05-20+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
     }
   ]
 }
