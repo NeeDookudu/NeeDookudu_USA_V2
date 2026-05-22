@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23 12:05:25 AM",
+  "last_updated": "2026-05-23 02:03:33 AM",
   "errors": [
     {
       "state": "FL",
@@ -159,6 +159,38 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mattoon",
+      "zip": "61938",
+      "theater_name": "VIP Mattoon 10",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 547796014,
+      "date": "2026-06-03+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Macomb",
+      "zip": "61455",
+      "theater_name": "VIP Rialto Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 547795503,
+      "date": "2026-06-03+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
