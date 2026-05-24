@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25 01:37:29 AM",
+  "last_updated": "2026-05-25 03:25:43 AM",
   "movie_id": 111677,
   "movie_details": {
     "title": "Athidhi (2007)",
@@ -7,10 +7,10 @@
     "overview": "Athidhi (Mahesh Babu) is falsely convicted for killing his adopted parents and goes to jail for 13 years and when he comes back he loves Amrita (Amrita Rao) unaware that she is the daughter of his adopted parents. His only ambition is to kill Kaiser (Murali Sharma), the psychopath who killed the couple.",
     "stats": {
       "total_gross_usd": 238.07,
-      "total_shows": 19,
-      "avg_occupancy": 1.47,
+      "total_shows": 20,
+      "avg_occupancy": 1.42,
       "tickets_sold": 29,
-      "unique_venues": 19,
+      "unique_venues": 20,
       "housefull_shows": 0,
       "error_shows": 0
     }
@@ -357,6 +357,24 @@
       "totalSeatCount": 73,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 8.57
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 547984287,
+      "date": "2026-05-29+21:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 59,
+      "totalSeatCount": 59,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 8.77
     }
   ]
 }
