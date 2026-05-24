@@ -46,11 +46,11 @@ jobs:
           SUPER_KEY: ${{ secrets.SUPER_KEY }}
         run: |
           python USA_RUN_PEDDI.py
-      - name: Run OSV RE RELEASE Encrypted Scraper (USA_OSV)
+      - name: Run OSV RE RELEASE Encrypted Scraper (USA_ATHIDHI)
         env:
           SUPER_KEY: ${{ secrets.SUPER_KEY }}
         run: |
-          python USA_RUN_OSV.py
+          python USA_RUN_ATHIDHI.py
 
       - name: Commit and Push Data Changes
         run: |
