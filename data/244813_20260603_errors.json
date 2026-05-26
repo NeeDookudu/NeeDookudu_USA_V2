@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27 01:33:17 AM",
+  "last_updated": "2026-05-27 03:21:38 AM",
   "errors": [
     {
       "state": "FL",
@@ -186,6 +186,22 @@
       "chainCode": "VIPC",
       "showtime_id": 547795503,
       "date": "2026-06-03+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 548243248,
+      "date": "2026-06-03+21:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
