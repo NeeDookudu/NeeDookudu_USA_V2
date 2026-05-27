@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-05-27 08:16:48 AM",
-  "errors": []
+  "last_updated": "2026-05-27 12:35:02 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 548466567,
+      "date": "2026-05-29+12:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    }
+  ]
 }
