@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 06:54:06 PM",
+  "last_updated": "2026-05-31 08:48:17 PM",
   "errors": [
     {
       "state": "FL",
@@ -239,6 +239,22 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NH",
+      "city": "Salem",
+      "zip": "03079",
+      "theater_name": "Cinemark Rockingham Park and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549173789,
+      "date": "2026-06-03+18:20",
+      "format": "D-Box",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
