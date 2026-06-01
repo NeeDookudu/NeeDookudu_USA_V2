@@ -1,0 +1,74 @@
+{
+  "last_updated": "2026-06-01 03:49:29 PM",
+  "movie_id": 111677,
+  "movie_details": {
+    "title": "Athidhi (2007)",
+    "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/111677/Athidhi-27x40.jpg",
+    "overview": "Athidhi (Mahesh Babu) is falsely convicted for killing his adopted parents and goes to jail for 13 years and when he comes back he loves Amrita (Amrita Rao) unaware that she is the daughter of his adopted parents. His only ambition is to kill Kaiser (Murali Sharma), the psychopath who killed the couple.",
+    "stats": {
+      "total_gross_usd": 221.0,
+      "total_shows": 3,
+      "avg_occupancy": 3.88,
+      "tickets_sold": 13,
+      "unique_venues": 3,
+      "housefull_shows": 0,
+      "error_shows": 0
+    }
+  },
+  "showtimes": [
+    {
+      "state": "RI",
+      "city": "Providence",
+      "zip": "02903",
+      "theater_name": "Apple Cinemas Providence Place IMAX",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 548662743,
+      "date": "2026-06-01+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 169,
+      "totalSeatCount": 169,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.0
+    },
+    {
+      "state": "AZ",
+      "city": "Chandler",
+      "zip": "85226",
+      "theater_name": "Harkins Chandler Fashion 20",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 548703582,
+      "date": "2026-06-01+17:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 66,
+      "totalSeatCount": 66,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.75
+    },
+    {
+      "state": "CA",
+      "city": "San Francisco",
+      "zip": "94109",
+      "theater_name": "Apple Cinemas Van Ness",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 549017199,
+      "date": "2026-06-01+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 13,
+      "occupancy": 13.0,
+      "totalAvailableSeatCount": 87,
+      "totalSeatCount": 100,
+      "grossRevenueUSD": 221.0,
+      "adultTicketPrice": 17.0
+    }
+  ]
+}
