@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 12:07:57 AM",
+  "last_updated": "2026-06-03 03:18:50 AM",
   "errors": [
     {
       "state": "FL",
@@ -242,22 +242,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "Stony Brook",
-      "zip": "11790",
-      "theater_name": "AMC Loews Stony Brook 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549470590,
-      "date": "2026-06-03+21:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -322,38 +306,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95122",
-      "theater_name": "AMC Eastridge 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549561712,
-      "date": "2026-06-03+18:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95122",
-      "theater_name": "AMC Eastridge 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549561711,
-      "date": "2026-06-03+21:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
       "state": "PA",
       "city": "Downingtown",
       "zip": "19335",
@@ -367,6 +319,22 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Plainville",
+      "zip": "06062",
+      "theater_name": "AMC Plainville 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549763574,
+      "date": "2026-06-03+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
