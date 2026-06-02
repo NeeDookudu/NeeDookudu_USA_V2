@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 03:42:10 PM",
+  "last_updated": "2026-06-02 08:20:03 PM",
   "errors": [
     {
       "state": "FL",
@@ -338,22 +338,6 @@
       }
     },
     {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 549539975,
-      "date": "2026-06-03+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "CA",
       "city": "San Jose",
       "zip": "95122",
@@ -383,6 +367,22 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Birmingham",
+      "zip": "35243",
+      "theater_name": "AMC Summit 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549422825,
+      "date": "2026-06-03+21:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
       }
     }
   ]
