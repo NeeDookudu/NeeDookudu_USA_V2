@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 03:18:50 AM",
+  "last_updated": "2026-06-03 05:03:08 AM",
   "errors": [
     {
       "state": "FL",
@@ -330,6 +330,22 @@
       "chainCode": "AMC",
       "showtime_id": 549763574,
       "date": "2026-06-03+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Mishawaka",
+      "zip": "46545",
+      "theater_name": "Cinemark South Bend Movies 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549869526,
+      "date": "2026-06-03+19:35",
       "format": "Standard",
       "language": "Telugu",
       "error": {
