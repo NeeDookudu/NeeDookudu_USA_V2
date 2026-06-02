@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 08:20:03 PM",
+  "last_updated": "2026-06-03 12:07:57 AM",
   "errors": [
     {
       "state": "FL",
@@ -274,22 +274,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549404072,
-      "date": "2026-06-03+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
       "state": "TX",
       "city": "Plano",
       "zip": "75075",
@@ -370,19 +354,19 @@
       }
     },
     {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35243",
-      "theater_name": "AMC Summit 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549422825,
-      "date": "2026-06-03+21:55",
+      "state": "PA",
+      "city": "Downingtown",
+      "zip": "19335",
+      "theater_name": "Regal Downingtown",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549608044,
+      "date": "2026-06-03+20:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 0,
-        "reason": "Timeout"
+        "status": 410,
+        "reason": "HTTP 410"
       }
     }
   ]
