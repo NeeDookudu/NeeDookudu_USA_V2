@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 10:59:45 AM",
+  "last_updated": "2026-06-02 03:42:10 PM",
   "errors": [
     {
       "state": "FL",
@@ -338,19 +338,51 @@
       }
     },
     {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87109",
-      "theater_name": "Cinemark Century Rio Plex 24 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549420295,
-      "date": "2026-06-03+17:25",
+      "state": "NC",
+      "city": "High Point",
+      "zip": "27265",
+      "theater_name": "Regal Palladium",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549539975,
+      "date": "2026-06-03+18:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 404,
-        "reason": "HTTP 404"
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95122",
+      "theater_name": "AMC Eastridge 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549561712,
+      "date": "2026-06-03+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95122",
+      "theater_name": "AMC Eastridge 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549561711,
+      "date": "2026-06-03+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
       }
     }
   ]
