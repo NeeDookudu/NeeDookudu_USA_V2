@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 05:48:05 AM",
+  "last_updated": "2026-06-02 10:59:45 AM",
   "errors": [
     {
       "state": "FL",
@@ -242,19 +242,115 @@
       }
     },
     {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33634",
-      "theater_name": "AMC Veterans 24",
+      "state": "NY",
+      "city": "Stony Brook",
+      "zip": "11790",
+      "theater_name": "AMC Loews Stony Brook 17",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 549242947,
-      "date": "2026-06-03+22:00",
+      "showtime_id": 549470590,
+      "date": "2026-06-03+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549401396,
+      "date": "2026-06-03+19:40",
       "format": "Standard",
       "language": "Telugu",
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46217",
+      "theater_name": "AMC Indianapolis 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549404072,
+      "date": "2026-06-03+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75075",
+      "theater_name": "Cinemark Central Plano",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549384230,
+      "date": "2026-06-03+11:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75075",
+      "theater_name": "Cinemark Central Plano",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549384231,
+      "date": "2026-06-03+15:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75075",
+      "theater_name": "Cinemark Central Plano",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549384232,
+      "date": "2026-06-03+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Albuquerque",
+      "zip": "87109",
+      "theater_name": "Cinemark Century Rio Plex 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549420295,
+      "date": "2026-06-03+17:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
