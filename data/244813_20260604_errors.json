@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 07:31:43 PM",
+  "last_updated": "2026-06-04 10:23:27 PM",
   "errors": [
     {
       "state": "NY",
@@ -31,22 +31,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Columbus",
-      "zip": "31909",
-      "theater_name": "AMC Columbus Park 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549968056,
-      "date": "2026-06-04+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -178,38 +162,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Bloomington",
-      "zip": "61701",
-      "theater_name": "Marcus Bloomington Cinema + IMAX",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 550049013,
-      "date": "2026-06-04+12:30",
-      "format": "Standard",
-      "language": "Tamil",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Bloomington",
-      "zip": "61701",
-      "theater_name": "Marcus Bloomington Cinema + IMAX",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 550049012,
-      "date": "2026-06-04+15:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "WA",
       "city": "Monroe",
       "zip": "98272",
@@ -223,6 +175,38 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Bloomington",
+      "zip": "61701",
+      "theater_name": "Marcus Bloomington Cinema + IMAX",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550130334,
+      "date": "2026-06-04+11:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550123803,
+      "date": "2026-06-04+09:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
