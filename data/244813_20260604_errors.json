@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05 04:36:33 AM",
+  "last_updated": "2026-06-05 08:13:08 AM",
   "errors": [
     {
       "state": "NY",
@@ -202,6 +202,22 @@
       "chainCode": "CNMK",
       "showtime_id": 550123803,
       "date": "2026-06-04+09:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Chesterfield",
+      "zip": "63005",
+      "theater_name": "Marcus Chesterfield Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550195320,
+      "date": "2026-06-04+21:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
