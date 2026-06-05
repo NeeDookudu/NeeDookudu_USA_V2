@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 12:29:31 AM",
+  "last_updated": "2026-06-06 02:22:11 AM",
   "errors": [
     {
       "state": "NY",
@@ -314,6 +314,22 @@
       "chainCode": "CNMK",
       "showtime_id": 550221795,
       "date": "2026-06-05+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550243363,
+      "date": "2026-06-05+20:10",
       "format": "Standard",
       "language": "Telugu",
       "error": {
