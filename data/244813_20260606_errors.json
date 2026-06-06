@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 02:30:33 AM",
+  "last_updated": "2026-06-07 03:31:54 AM",
   "errors": [
     {
       "state": "DE",
@@ -239,22 +239,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90703",
-      "theater_name": "Harkins Cerritos 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 550099497,
-      "date": "2026-06-06+16:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
