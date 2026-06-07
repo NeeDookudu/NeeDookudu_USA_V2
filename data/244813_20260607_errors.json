@@ -1,0 +1,309 @@
+{
+  "last_updated": "2026-06-07 12:33:52 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-07+10:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Manville",
+      "zip": "08835",
+      "theater_name": "Reading Cinemas Manville with Titan Luxe",
+      "chainName": "Reading Theaters",
+      "chainCode": "READ",
+      "showtime_id": 549403468,
+      "date": "2026-06-07+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Wilmington",
+      "zip": "19803",
+      "theater_name": "Regal Brandywine Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 545118859,
+      "date": "2026-06-07+20:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Alexandria",
+      "zip": "22314",
+      "theater_name": "AMC Hoffman Center 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549457028,
+      "date": "2026-06-07+15:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27519",
+      "theater_name": "Hooky Entertainment Cary",
+      "chainName": "Hooky Entertainment",
+      "chainCode": "HOOK",
+      "showtime_id": 545924272,
+      "date": "2026-06-07+17:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 549749543,
+      "date": "2026-06-07+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550116663,
+      "date": "2026-06-07+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549804335,
+      "date": "2026-06-07+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Huntsville",
+      "zip": "35806",
+      "theater_name": "Cinemark Bridge Street and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549954976,
+      "date": "2026-06-07+20:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38133",
+      "theater_name": "Malco Wolfchase Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 549825060,
+      "date": "2026-06-07+13:00",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38133",
+      "theater_name": "Malco Wolfchase Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 549825061,
+      "date": "2026-06-07+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mattoon",
+      "zip": "61938",
+      "theater_name": "VIP Mattoon 10",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 549399220,
+      "date": "2026-06-07+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Lansing",
+      "zip": "48917",
+      "theater_name": "Regal Lansing Mall & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549494039,
+      "date": "2026-06-07+11:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Lansing",
+      "zip": "48917",
+      "theater_name": "Regal Lansing Mall & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549493971,
+      "date": "2026-06-07+14:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549967042,
+      "date": "2026-06-07+15:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549967041,
+      "date": "2026-06-07+19:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 549921530,
+      "date": "2026-06-07+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Macomb",
+      "zip": "61455",
+      "theater_name": "VIP Rialto Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 550171441,
+      "date": "2026-06-07+12:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 549568894,
+      "date": "2026-06-07+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    }
+  ]
+}
