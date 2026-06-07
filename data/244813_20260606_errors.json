@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 04:37:50 AM",
+  "last_updated": "2026-06-07 08:19:38 AM",
   "errors": [
     {
       "state": "DE",
@@ -255,6 +255,38 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "North Aurora",
+      "zip": "60542",
+      "theater_name": "Cinemark Tinseltown USA Aurora",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550340972,
+      "date": "2026-06-06+17:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549573741,
+      "date": "2026-06-06+13:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
