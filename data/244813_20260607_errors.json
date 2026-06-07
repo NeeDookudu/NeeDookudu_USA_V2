@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 12:33:52 PM",
+  "last_updated": "2026-06-07 03:41:22 PM",
   "errors": [
     {
       "state": "NY",
@@ -15,22 +15,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 549403468,
-      "date": "2026-06-07+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -63,22 +47,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Cary",
-      "zip": "27519",
-      "theater_name": "Hooky Entertainment Cary",
-      "chainName": "Hooky Entertainment",
-      "chainCode": "HOOK",
-      "showtime_id": 545924272,
-      "date": "2026-06-07+17:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -303,6 +271,22 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40241",
+      "theater_name": "Cinemark Tinseltown Louisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545881803,
+      "date": "2026-06-07+14:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
