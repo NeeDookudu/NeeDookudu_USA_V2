@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 01:39:17 AM",
+  "last_updated": "2026-06-09 03:55:56 AM",
   "errors": [
     {
       "state": "PA",
@@ -159,6 +159,22 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550475149,
+      "date": "2026-06-08+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
