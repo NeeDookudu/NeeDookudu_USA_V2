@@ -1,0 +1,197 @@
+{
+  "last_updated": "2026-06-08 03:54:23 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 549847537,
+      "date": "2026-06-08+20:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Douglasville",
+      "zip": "30135",
+      "theater_name": "Regal Arbor Place",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 547878916,
+      "date": "2026-06-08+15:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Douglasville",
+      "zip": "30135",
+      "theater_name": "Regal Arbor Place",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 545971556,
+      "date": "2026-06-08+19:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550116664,
+      "date": "2026-06-08+18:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549959015,
+      "date": "2026-06-08+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mattoon",
+      "zip": "61938",
+      "theater_name": "VIP Mattoon 10",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 549399258,
+      "date": "2026-06-08+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Lansing",
+      "zip": "48917",
+      "theater_name": "Regal Lansing Mall & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549527661,
+      "date": "2026-06-08+13:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Lansing",
+      "zip": "48917",
+      "theater_name": "Regal Lansing Mall & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549527665,
+      "date": "2026-06-08+17:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549967075,
+      "date": "2026-06-08+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549967076,
+      "date": "2026-06-08+19:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 549921695,
+      "date": "2026-06-08+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Clovis",
+      "zip": "93612",
+      "theater_name": "Sierra Vista Cinemas 16",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": null,
+      "date": "2026-06-08+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    }
+  ]
+}
