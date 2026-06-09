@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-09 01:14:19 PM",
+  "last_updated": "2026-06-09 04:29:02 PM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244813/Peddi%20-%2027x40.jpg",
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
-      "total_gross_usd": 62372.59,
-      "total_shows": 649,
-      "avg_occupancy": 5.22,
-      "tickets_sold": 3529,
-      "unique_venues": 295,
+      "total_gross_usd": 63616.08,
+      "total_shows": 654,
+      "avg_occupancy": 5.3,
+      "tickets_sold": 3602,
+      "unique_venues": 296,
       "housefull_shows": 0,
-      "error_shows": 17
+      "error_shows": 13
     }
   },
   "showtimes": [
@@ -585,11 +585,11 @@
       "date": "2026-06-09+17:25",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 10,
-      "occupancy": 8.62,
-      "totalAvailableSeatCount": 106,
+      "totalSeatSold": 11,
+      "occupancy": 9.48,
+      "totalAvailableSeatCount": 105,
       "totalSeatCount": 116,
-      "grossRevenueUSD": 213.3,
+      "grossRevenueUSD": 234.63,
       "adultTicketPrice": 21.33
     },
     {
@@ -603,11 +603,11 @@
       "date": "2026-06-09+21:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 18,
-      "occupancy": 15.52,
-      "totalAvailableSeatCount": 98,
+      "totalSeatSold": 21,
+      "occupancy": 18.1,
+      "totalAvailableSeatCount": 95,
       "totalSeatCount": 116,
-      "grossRevenueUSD": 383.94,
+      "grossRevenueUSD": 447.93,
       "adultTicketPrice": 21.33
     },
     {
@@ -1035,11 +1035,11 @@
       "date": "2026-06-09+20:30",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 319,
+      "totalSeatSold": 5,
+      "occupancy": 1.57,
+      "totalAvailableSeatCount": 314,
       "totalSeatCount": 319,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 106.65,
       "adultTicketPrice": 21.33
     },
     {
@@ -1341,11 +1341,11 @@
       "date": "2026-06-09+17:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 22,
-      "occupancy": 21.36,
-      "totalAvailableSeatCount": 81,
+      "totalSeatSold": 30,
+      "occupancy": 29.13,
+      "totalAvailableSeatCount": 73,
       "totalSeatCount": 103,
-      "grossRevenueUSD": 440.0,
+      "grossRevenueUSD": 600.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -1881,10 +1881,12 @@
       "date": "2026-06-09+10:50",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 1.22,
+      "totalAvailableSeatCount": 81,
+      "totalSeatCount": 82,
+      "grossRevenueUSD": 28.49,
+      "adultTicketPrice": 28.49
     },
     {
       "state": "MD",
@@ -2059,11 +2061,11 @@
       "date": "2026-06-09+17:40",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 11,
-      "occupancy": 12.22,
-      "totalAvailableSeatCount": 79,
+      "totalSeatSold": 12,
+      "occupancy": 13.33,
+      "totalAvailableSeatCount": 78,
       "totalSeatCount": 90,
-      "grossRevenueUSD": 220.0,
+      "grossRevenueUSD": 240.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -2581,11 +2583,11 @@
       "date": "2026-06-09+17:55",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 21,
-      "occupancy": 15.67,
-      "totalAvailableSeatCount": 113,
+      "totalSeatSold": 23,
+      "occupancy": 17.16,
+      "totalAvailableSeatCount": 111,
       "totalSeatCount": 134,
-      "grossRevenueUSD": 420.0,
+      "grossRevenueUSD": 460.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -2689,11 +2691,11 @@
       "date": "2026-06-09+11:10",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 107,
+      "totalSeatSold": 1,
+      "occupancy": 0.93,
+      "totalAvailableSeatCount": 106,
       "totalSeatCount": 107,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 11.99,
       "adultTicketPrice": 11.99
     },
     {
@@ -2887,11 +2889,11 @@
       "date": "2026-06-09+17:40",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 4,
-      "occupancy": 2.11,
-      "totalAvailableSeatCount": 186,
+      "totalSeatSold": 5,
+      "occupancy": 2.63,
+      "totalAvailableSeatCount": 185,
       "totalSeatCount": 190,
-      "grossRevenueUSD": 80.0,
+      "grossRevenueUSD": 100.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -3355,11 +3357,11 @@
       "date": "2026-06-09+21:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 2.74,
-      "totalAvailableSeatCount": 71,
+      "totalSeatSold": 8,
+      "occupancy": 10.96,
+      "totalAvailableSeatCount": 65,
       "totalSeatCount": 73,
-      "grossRevenueUSD": 28.86,
+      "grossRevenueUSD": 115.44,
       "adultTicketPrice": 14.43
     },
     {
@@ -3517,11 +3519,11 @@
       "date": "2026-06-09+20:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 98,
+      "totalSeatSold": 1,
+      "occupancy": 1.02,
+      "totalAvailableSeatCount": 97,
       "totalSeatCount": 98,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 21.0,
       "adultTicketPrice": 21.0
     },
     {
@@ -3589,11 +3591,11 @@
       "date": "2026-06-09+20:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 12,
-      "occupancy": 15.38,
-      "totalAvailableSeatCount": 66,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 78,
       "totalSeatCount": 78,
-      "grossRevenueUSD": 252.0,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 21.0
     },
     {
@@ -3913,11 +3915,11 @@
       "date": "2026-06-09+20:55",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 1,
-      "occupancy": 0.37,
-      "totalAvailableSeatCount": 271,
+      "totalSeatSold": 2,
+      "occupancy": 0.74,
+      "totalAvailableSeatCount": 270,
       "totalSeatCount": 272,
-      "grossRevenueUSD": 21.78,
+      "grossRevenueUSD": 43.56,
       "adultTicketPrice": 21.78
     },
     {
@@ -4415,10 +4417,12 @@
       "date": "2026-06-09+09:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 78,
+      "totalSeatCount": 78,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 21.3
     },
     {
       "state": "FL",
@@ -4877,11 +4881,11 @@
       "date": "2026-06-09+19:30",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 5,
-      "occupancy": 7.69,
-      "totalAvailableSeatCount": 60,
+      "totalSeatSold": 7,
+      "occupancy": 10.77,
+      "totalAvailableSeatCount": 58,
       "totalSeatCount": 65,
-      "grossRevenueUSD": 35.8,
+      "grossRevenueUSD": 50.12,
       "adultTicketPrice": 7.16
     },
     {
@@ -4985,11 +4989,11 @@
       "date": "2026-06-09+19:15",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 4,
-      "occupancy": 6.78,
-      "totalAvailableSeatCount": 55,
+      "totalSeatSold": 6,
+      "occupancy": 10.17,
+      "totalAvailableSeatCount": 53,
       "totalSeatCount": 59,
-      "grossRevenueUSD": 52.96,
+      "grossRevenueUSD": 79.44,
       "adultTicketPrice": 13.24
     },
     {
@@ -5057,11 +5061,11 @@
       "date": "2026-06-09+18:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 6,
-      "occupancy": 12.77,
-      "totalAvailableSeatCount": 41,
+      "totalSeatSold": 7,
+      "occupancy": 14.89,
+      "totalAvailableSeatCount": 40,
       "totalSeatCount": 47,
-      "grossRevenueUSD": 77.94,
+      "grossRevenueUSD": 90.93,
       "adultTicketPrice": 12.99
     },
     {
@@ -5615,11 +5619,11 @@
       "date": "2026-06-09+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 1,
-      "occupancy": 1.3,
-      "totalAvailableSeatCount": 76,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 77,
       "totalSeatCount": 77,
-      "grossRevenueUSD": 20.0,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -6849,10 +6853,12 @@
       "date": "2026-06-09+17:50",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 7,
+      "occupancy": 6.09,
+      "totalAvailableSeatCount": 108,
+      "totalSeatCount": 115,
+      "grossRevenueUSD": 34.23,
+      "adultTicketPrice": 4.89
     },
     {
       "state": "IL",
@@ -7349,11 +7355,11 @@
       "date": "2026-06-09+22:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 6,
-      "occupancy": 3.59,
-      "totalAvailableSeatCount": 161,
+      "totalSeatSold": 10,
+      "occupancy": 5.99,
+      "totalAvailableSeatCount": 157,
       "totalSeatCount": 167,
-      "grossRevenueUSD": 72.18,
+      "grossRevenueUSD": 120.3,
       "adultTicketPrice": 12.03
     },
     {
@@ -7403,11 +7409,11 @@
       "date": "2026-06-09+19:15",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 14,
-      "occupancy": 11.67,
-      "totalAvailableSeatCount": 106,
+      "totalSeatSold": 20,
+      "occupancy": 16.67,
+      "totalAvailableSeatCount": 100,
       "totalSeatCount": 120,
-      "grossRevenueUSD": 306.6,
+      "grossRevenueUSD": 438.0,
       "adultTicketPrice": 21.9
     },
     {
@@ -7655,11 +7661,11 @@
       "date": "2026-06-09+15:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 64,
-      "occupancy": 73.56,
-      "totalAvailableSeatCount": 23,
+      "totalSeatSold": 65,
+      "occupancy": 74.71,
+      "totalAvailableSeatCount": 22,
       "totalSeatCount": 87,
-      "grossRevenueUSD": 720.0,
+      "grossRevenueUSD": 731.25,
       "adultTicketPrice": 11.25
     },
     {
@@ -7673,11 +7679,11 @@
       "date": "2026-06-09+22:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 43,
-      "occupancy": 72.88,
-      "totalAvailableSeatCount": 16,
+      "totalSeatSold": 36,
+      "occupancy": 61.02,
+      "totalAvailableSeatCount": 23,
       "totalSeatCount": 59,
-      "grossRevenueUSD": 604.58,
+      "grossRevenueUSD": 506.16,
       "adultTicketPrice": 14.06
     },
     {
@@ -7691,11 +7697,11 @@
       "date": "2026-06-09+22:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 9,
-      "occupancy": 8.57,
-      "totalAvailableSeatCount": 96,
+      "totalSeatSold": 13,
+      "occupancy": 12.38,
+      "totalAvailableSeatCount": 92,
       "totalSeatCount": 105,
-      "grossRevenueUSD": 194.85,
+      "grossRevenueUSD": 281.45,
       "adultTicketPrice": 21.65
     },
     {
@@ -8843,11 +8849,11 @@
       "date": "2026-06-09+09:05",
       "format": "Standard",
       "language": "Hindi",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 157,
+      "totalSeatSold": 1,
+      "occupancy": 0.64,
+      "totalAvailableSeatCount": 156,
       "totalSeatCount": 157,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 11.9,
       "adultTicketPrice": 11.9
     },
     {
@@ -9311,10 +9317,12 @@
       "date": "2026-06-09+11:50",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 9.76,
+      "totalAvailableSeatCount": 37,
+      "totalSeatCount": 41,
+      "grossRevenueUSD": 45.36,
+      "adultTicketPrice": 11.34
     },
     {
       "state": "AZ",
@@ -10641,11 +10649,11 @@
       "date": "2026-06-09+21:40",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 35,
-      "occupancy": 74.47,
-      "totalAvailableSeatCount": 12,
+      "totalSeatSold": 40,
+      "occupancy": 85.11,
+      "totalAvailableSeatCount": 7,
       "totalSeatCount": 47,
-      "grossRevenueUSD": 612.15,
+      "grossRevenueUSD": 699.6,
       "adultTicketPrice": 17.49
     },
     {
@@ -11109,10 +11117,12 @@
       "date": "2026-06-09+21:20",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 23,
+      "occupancy": 22.12,
+      "totalAvailableSeatCount": 81,
+      "totalSeatCount": 104,
+      "grossRevenueUSD": 460.0,
+      "adultTicketPrice": 20.0
     },
     {
       "state": "CA",
@@ -11783,11 +11793,11 @@
       "date": "2026-06-09+21:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 2.74,
-      "totalAvailableSeatCount": 71,
+      "totalSeatSold": 4,
+      "occupancy": 5.48,
+      "totalAvailableSeatCount": 69,
       "totalSeatCount": 73,
-      "grossRevenueUSD": 42.0,
+      "grossRevenueUSD": 84.0,
       "adultTicketPrice": 21.0
     },
     {
@@ -11969,6 +11979,22 @@
       "totalSeatCount": 166,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 21.0
+    },
+    {
+      "state": "CA",
+      "city": "Clovis",
+      "zip": "93612",
+      "theater_name": "Sierra Vista Cinemas 16",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": null,
+      "date": "2026-06-09+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
     }
   ]
 }

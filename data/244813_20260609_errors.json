@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-06-09 01:14:19 PM",
+  "last_updated": "2026-06-09 04:29:02 PM",
   "errors": [
-    {
-      "state": "MD",
-      "city": "Frederick",
-      "zip": "21704",
-      "theater_name": "Regal Westview & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 549733065,
-      "date": "2026-06-09+10:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
     {
       "state": "GA",
       "city": "Roswell",
@@ -31,22 +15,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Cinemark Orlando and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545864795,
-      "date": "2026-06-09+09:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -147,22 +115,6 @@
     },
     {
       "state": "IL",
-      "city": "North Aurora",
-      "zip": "60542",
-      "theater_name": "Cinemark Tinseltown USA Aurora",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549750083,
-      "date": "2026-06-09+17:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "IL",
       "city": "Peoria",
       "zip": "61615",
       "theater_name": "GQT Willow Knolls 14",
@@ -175,38 +127,6 @@
       "error": {
         "status": 500,
         "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85044",
-      "theater_name": "AMC Ahwatukee 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549890502,
-      "date": "2026-06-09+11:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 550305036,
-      "date": "2026-06-09+21:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -271,6 +191,22 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Clovis",
+      "zip": "93612",
+      "theater_name": "Sierra Vista Cinemas 16",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": null,
+      "date": "2026-06-09+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
