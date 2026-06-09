@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 05:35:25 AM",
+  "last_updated": "2026-06-09 09:09:04 AM",
   "errors": [
     {
       "state": "PA",
@@ -156,6 +156,22 @@
       "date": "2026-06-08+21:25",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550502784,
+      "date": "2026-06-08+21:40",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 404,
         "reason": "HTTP 404"
