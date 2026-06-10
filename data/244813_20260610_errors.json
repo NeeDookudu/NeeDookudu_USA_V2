@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11 01:51:05 AM",
+  "last_updated": "2026-06-11 04:23:49 AM",
   "errors": [
     {
       "state": "CT",
@@ -159,6 +159,22 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NH",
+      "city": "Merrimack",
+      "zip": "03054",
+      "theater_name": "Apple Cinemas Merrimack",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 551401442,
+      "date": "2026-06-10+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
