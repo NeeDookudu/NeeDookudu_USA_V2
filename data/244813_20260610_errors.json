@@ -1,0 +1,245 @@
+{
+  "last_updated": "2026-06-10 12:35:01 PM",
+  "errors": [
+    {
+      "state": "CT",
+      "city": "Milford",
+      "zip": "06460",
+      "theater_name": "Cinemark Connecticut Post 14 and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545718695,
+      "date": "2026-06-10+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 549749670,
+      "date": "2026-06-10+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Sugarloaf Mills 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-10+11:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550116666,
+      "date": "2026-06-10+18:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549959137,
+      "date": "2026-06-10+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Valley View",
+      "zip": "44125",
+      "theater_name": "Cinemark Valley View and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549893796,
+      "date": "2026-06-10+12:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Valley View",
+      "zip": "44125",
+      "theater_name": "Cinemark Valley View and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549893797,
+      "date": "2026-06-10+19:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Valley View",
+      "zip": "44125",
+      "theater_name": "Cinemark Valley View and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549893775,
+      "date": "2026-06-10+20:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mattoon",
+      "zip": "61938",
+      "theater_name": "VIP Mattoon 10",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 549399337,
+      "date": "2026-06-10+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Lansing",
+      "zip": "48917",
+      "theater_name": "Regal Lansing Mall & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549845548,
+      "date": "2026-06-10+13:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549967146,
+      "date": "2026-06-10+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549967122,
+      "date": "2026-06-10+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 549921533,
+      "date": "2026-06-10+15:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549996314,
+      "date": "2026-06-10+21:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95123",
+      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545621123,
+      "date": "2026-06-10+10:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    }
+  ]
+}
