@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11 03:49:44 PM",
+  "last_updated": "2026-06-11 08:06:49 PM",
   "errors": [
     {
       "state": "FL",
@@ -79,54 +79,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78759",
-      "theater_name": "Regal Gateway 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545133373,
-      "date": "2026-06-11+16:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78759",
-      "theater_name": "Regal Gateway 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545133374,
-      "date": "2026-06-11+20:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77027",
-      "theater_name": "Regal Edwards Greenway Grand Palace ScreenX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 549862204,
-      "date": "2026-06-11+17:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
