@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-11 05:44:50 AM",
+  "last_updated": "2026-06-11 10:56:19 AM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244813/Peddi%20-%2027x40.jpg",
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
-      "total_gross_usd": 64752.25,
+      "total_gross_usd": 65370.89,
       "total_shows": 740,
-      "avg_occupancy": 4.98,
-      "tickets_sold": 3695,
+      "avg_occupancy": 5.03,
+      "tickets_sold": 3734,
       "unique_venues": 334,
       "housefull_shows": 0,
-      "error_shows": 11
+      "error_shows": 12
     }
   },
   "showtimes": [
@@ -10357,11 +10357,11 @@
       "date": "2026-06-10+22:15",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 2.74,
-      "totalAvailableSeatCount": 71,
+      "totalSeatSold": 6,
+      "occupancy": 8.22,
+      "totalAvailableSeatCount": 67,
       "totalSeatCount": 73,
-      "grossRevenueUSD": 43.32,
+      "grossRevenueUSD": 129.96,
       "adultTicketPrice": 21.66
     },
     {
@@ -10429,11 +10429,11 @@
       "date": "2026-06-10+22:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 4.17,
-      "totalAvailableSeatCount": 46,
+      "totalSeatSold": 23,
+      "occupancy": 47.92,
+      "totalAvailableSeatCount": 25,
       "totalSeatCount": 48,
-      "grossRevenueUSD": 24.0,
+      "grossRevenueUSD": 276.0,
       "adultTicketPrice": 12.0
     },
     {
@@ -11743,11 +11743,11 @@
       "date": "2026-06-10+22:15",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 207,
+      "totalSeatSold": 6,
+      "occupancy": 2.9,
+      "totalAvailableSeatCount": 201,
       "totalSeatCount": 207,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 120.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -12463,11 +12463,11 @@
       "date": "2026-06-10+22:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 11,
-      "occupancy": 30.56,
-      "totalAvailableSeatCount": 25,
+      "totalSeatSold": 16,
+      "occupancy": 44.44,
+      "totalAvailableSeatCount": 20,
       "totalSeatCount": 36,
-      "grossRevenueUSD": 220.0,
+      "grossRevenueUSD": 320.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -12931,11 +12931,11 @@
       "date": "2026-06-10+22:05",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 1,
-      "occupancy": 1.75,
-      "totalAvailableSeatCount": 56,
+      "totalSeatSold": 4,
+      "occupancy": 7.02,
+      "totalAvailableSeatCount": 53,
       "totalSeatCount": 57,
-      "grossRevenueUSD": 20.0,
+      "grossRevenueUSD": 80.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -13511,6 +13511,22 @@
       "totalSeatCount": 86,
       "grossRevenueUSD": 170.5,
       "adultTicketPrice": 15.5
+    },
+    {
+      "state": "TX",
+      "city": "Irving",
+      "zip": "75062",
+      "theater_name": "AMC Irving Mall 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551419769,
+      "date": "2026-06-10+21:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
     }
   ]
 }
