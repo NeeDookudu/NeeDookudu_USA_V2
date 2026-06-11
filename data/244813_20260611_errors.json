@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11 11:42:04 PM",
+  "last_updated": "2026-06-12 02:47:57 AM",
   "errors": [
     {
       "state": "FL",
@@ -106,6 +106,38 @@
       "chainCode": "GLXY",
       "showtime_id": 550775292,
       "date": "2026-06-11+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 551456948,
+      "date": "2026-06-11+16:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 551456949,
+      "date": "2026-06-11+19:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
