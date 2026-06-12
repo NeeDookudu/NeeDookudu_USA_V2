@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 01:31:41 AM",
+  "last_updated": "2026-06-13 03:03:07 AM",
   "errors": [
     {
       "state": "PA",
@@ -60,6 +60,22 @@
       "date": "2026-06-12+20:40",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Olathe",
+      "zip": "66062",
+      "theater_name": "AMC Studio 28",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551525451,
+      "date": "2026-06-12+20:45",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400,
         "reason": "HTTP 400"
