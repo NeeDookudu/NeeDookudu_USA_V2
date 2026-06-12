@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12 04:50:53 AM",
+  "last_updated": "2026-06-12 08:19:27 AM",
   "errors": [
     {
       "state": "FL",
@@ -143,6 +143,38 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551456157,
+      "date": "2026-06-11+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550484665,
+      "date": "2026-06-11+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
