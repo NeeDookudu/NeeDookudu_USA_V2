@@ -1,38 +1,6 @@
 {
-  "last_updated": "2026-06-12 12:52:17 PM",
+  "last_updated": "2026-06-12 05:12:45 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 551347423,
-      "date": "2026-06-12+14:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 551347424,
-      "date": "2026-06-12+17:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -82,35 +50,19 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Grapevine",
-      "zip": "76051",
-      "theater_name": "Cinemark Tinseltown Grapevine and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551086765,
-      "date": "2026-06-12+15:50",
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550851734,
+      "date": "2026-06-12+20:40",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92126",
-      "theater_name": "Regal Edwards Mira Mesa ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 550584904,
-      "date": "2026-06-12+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
