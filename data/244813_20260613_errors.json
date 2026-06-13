@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 03:31:49 PM",
+  "last_updated": "2026-06-13 05:23:54 PM",
   "errors": [
     {
       "state": "PA",
@@ -34,22 +34,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Cincinnati",
-      "zip": "45209",
-      "theater_name": "Cinemark Oakley Station and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551118260,
-      "date": "2026-06-13+21:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
       "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
@@ -63,54 +47,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Saint Charles",
-      "zip": "63303",
-      "theater_name": "Marcus St. Charles Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 550494008,
-      "date": "2026-06-13+20:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Bee Cave",
-      "zip": "78738",
-      "theater_name": "Cinemark Hill Country Galleria",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551264490,
-      "date": "2026-06-13+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "Cinemark Century Folsom 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551162740,
-      "date": "2026-06-13+18:05",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     }
   ]
