@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14 09:18:47 PM",
+  "last_updated": "2026-06-14 10:43:47 PM",
   "errors": [
     {
       "state": "NC",
@@ -44,6 +44,38 @@
       "date": "2026-06-14+19:00",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-14+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551643937,
+      "date": "2026-06-14+21:35",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400,
         "reason": "HTTP 400"
