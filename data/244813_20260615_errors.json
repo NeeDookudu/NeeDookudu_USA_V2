@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15 02:25:04 PM",
+  "last_updated": "2026-06-15 08:33:12 PM",
   "errors": [
     {
       "state": "PA",
@@ -50,19 +50,19 @@
       }
     },
     {
-      "state": "NE",
-      "city": "Omaha",
-      "zip": "68118",
-      "theater_name": "Marcus Village Pointe Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 551163320,
-      "date": "2026-06-15+20:50",
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-15+21:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 403,
-        "reason": "HTTP 403"
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
