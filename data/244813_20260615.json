@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16 05:58:13 AM",
+  "last_updated": "2026-06-16 11:58:42 AM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
@@ -12,7 +12,7 @@
       "tickets_sold": 965,
       "unique_venues": 143,
       "housefull_shows": 0,
-      "error_shows": 4
+      "error_shows": 5
     }
   },
   "showtimes": [
@@ -4591,6 +4591,22 @@
       "chainCode": "AMC",
       "showtime_id": null,
       "date": "2026-06-15+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551804292,
+      "date": "2026-06-15+21:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
