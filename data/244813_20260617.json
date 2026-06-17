@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-17 05:03:32 PM",
+  "last_updated": "2026-06-17 08:25:58 PM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244813/Peddi%20-%2027x40.jpg",
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
-      "total_gross_usd": 11173.7,
-      "total_shows": 249,
-      "avg_occupancy": 3.07,
-      "tickets_sold": 743,
-      "unique_venues": 140,
+      "total_gross_usd": 11757.68,
+      "total_shows": 253,
+      "avg_occupancy": 3.18,
+      "tickets_sold": 776,
+      "unique_venues": 141,
       "housefull_shows": 0,
-      "error_shows": 8
+      "error_shows": 6
     }
   },
   "showtimes": [
@@ -171,11 +171,11 @@
       "date": "2026-06-17+15:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 2,
-      "occupancy": 0.97,
-      "totalAvailableSeatCount": 205,
+      "totalSeatSold": 5,
+      "occupancy": 2.42,
+      "totalAvailableSeatCount": 202,
       "totalSeatCount": 207,
-      "grossRevenueUSD": 25.58,
+      "grossRevenueUSD": 63.95,
       "adultTicketPrice": 12.79
     },
     {
@@ -315,11 +315,11 @@
       "date": "2026-06-17+21:40",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 41,
+      "totalSeatSold": 4,
+      "occupancy": 9.76,
+      "totalAvailableSeatCount": 37,
       "totalSeatCount": 41,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 68.2,
       "adultTicketPrice": 17.05
     },
     {
@@ -727,11 +727,11 @@
       "date": "2026-06-17+15:05",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 64,
+      "totalSeatSold": 1,
+      "occupancy": 1.56,
+      "totalAvailableSeatCount": 63,
       "totalSeatCount": 64,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 11.29,
       "adultTicketPrice": 11.29
     },
     {
@@ -889,11 +889,11 @@
       "date": "2026-06-17+18:25",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 8,
-      "occupancy": 2.68,
-      "totalAvailableSeatCount": 291,
+      "totalSeatSold": 9,
+      "occupancy": 3.01,
+      "totalAvailableSeatCount": 290,
       "totalSeatCount": 299,
-      "grossRevenueUSD": 127.92,
+      "grossRevenueUSD": 143.91,
       "adultTicketPrice": 15.99
     },
     {
@@ -1123,11 +1123,11 @@
       "date": "2026-06-17+14:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 90,
+      "totalSeatSold": 2,
+      "occupancy": 2.22,
+      "totalAvailableSeatCount": 88,
       "totalSeatCount": 90,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 42.9,
       "adultTicketPrice": 21.45
     },
     {
@@ -1141,11 +1141,11 @@
       "date": "2026-06-17+18:25",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 17,
-      "occupancy": 18.89,
-      "totalAvailableSeatCount": 73,
+      "totalSeatSold": 15,
+      "occupancy": 16.67,
+      "totalAvailableSeatCount": 75,
       "totalSeatCount": 90,
-      "grossRevenueUSD": 364.65,
+      "grossRevenueUSD": 321.75,
       "adultTicketPrice": 21.45
     },
     {
@@ -1267,11 +1267,11 @@
       "date": "2026-06-17+14:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 4,
-      "occupancy": 5.71,
-      "totalAvailableSeatCount": 66,
+      "totalSeatSold": 16,
+      "occupancy": 22.86,
+      "totalAvailableSeatCount": 54,
       "totalSeatCount": 70,
-      "grossRevenueUSD": 85.8,
+      "grossRevenueUSD": 343.2,
       "adultTicketPrice": 21.45
     },
     {
@@ -1285,11 +1285,11 @@
       "date": "2026-06-17+13:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 6,
-      "occupancy": 12.0,
-      "totalAvailableSeatCount": 44,
+      "totalSeatSold": 7,
+      "occupancy": 14.0,
+      "totalAvailableSeatCount": 43,
       "totalSeatCount": 50,
-      "grossRevenueUSD": 69.42,
+      "grossRevenueUSD": 80.99,
       "adultTicketPrice": 11.57
     },
     {
@@ -1375,10 +1375,12 @@
       "date": "2026-06-17+15:20",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 6.12,
+      "totalAvailableSeatCount": 92,
+      "totalSeatCount": 98,
+      "grossRevenueUSD": 109.86,
+      "adultTicketPrice": 18.31
     },
     {
       "state": "GA",
@@ -1463,11 +1465,11 @@
       "date": "2026-06-17+15:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 127,
+      "totalSeatSold": 3,
+      "occupancy": 2.36,
+      "totalAvailableSeatCount": 124,
       "totalSeatCount": 127,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 39.18,
       "adultTicketPrice": 13.06
     },
     {
@@ -1947,11 +1949,11 @@
       "date": "2026-06-17+21:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 5,
-      "occupancy": 10.2,
-      "totalAvailableSeatCount": 44,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 49,
       "totalSeatCount": 49,
-      "grossRevenueUSD": 57.5,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 11.5
     },
     {
@@ -1965,11 +1967,11 @@
       "date": "2026-06-17+11:15",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 68,
+      "totalSeatSold": 1,
+      "occupancy": 1.47,
+      "totalAvailableSeatCount": 67,
       "totalSeatCount": 68,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 10.39,
       "adultTicketPrice": 10.39
     },
     {
@@ -2222,7 +2224,7 @@
       "totalAvailableSeatCount": 110,
       "totalSeatCount": 110,
       "grossRevenueUSD": 0.0,
-      "adultTicketPrice": 7.99
+      "adultTicketPrice": 9.99
     },
     {
       "state": "MI",
@@ -2481,11 +2483,11 @@
       "date": "2026-06-17+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 72,
+      "totalSeatSold": 3,
+      "occupancy": 4.17,
+      "totalAvailableSeatCount": 69,
       "totalSeatCount": 72,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 39.39,
       "adultTicketPrice": 13.13
     },
     {
@@ -2949,11 +2951,11 @@
       "date": "2026-06-17+20:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 67,
-      "occupancy": 53.17,
-      "totalAvailableSeatCount": 59,
+      "totalSeatSold": 66,
+      "occupancy": 52.38,
+      "totalAvailableSeatCount": 60,
       "totalSeatCount": 126,
-      "grossRevenueUSD": 942.02,
+      "grossRevenueUSD": 927.96,
       "adultTicketPrice": 14.06
     },
     {
@@ -3345,11 +3347,11 @@
       "date": "2026-06-17+18:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 7,
-      "occupancy": 14.89,
-      "totalAvailableSeatCount": 40,
+      "totalSeatSold": 10,
+      "occupancy": 21.28,
+      "totalAvailableSeatCount": 37,
       "totalSeatCount": 47,
-      "grossRevenueUSD": 96.6,
+      "grossRevenueUSD": 138.0,
       "adultTicketPrice": 13.8
     },
     {
@@ -3741,10 +3743,12 @@
       "date": "2026-06-17+10:20",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 41,
+      "totalSeatCount": 41,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.0
     },
     {
       "state": "CA",
@@ -3757,10 +3761,12 @@
       "date": "2026-06-17+21:15",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 2.44,
+      "totalAvailableSeatCount": 40,
+      "totalSeatCount": 41,
+      "grossRevenueUSD": 12.5,
+      "adultTicketPrice": 12.5
     },
     {
       "state": "CA",
@@ -4625,6 +4631,40 @@
       "totalSeatCount": 99,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 17.85
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-17+14:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 552456145,
+      "date": "2026-06-17+09:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 53,
+      "totalSeatCount": 53,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 8.12
     }
   ]
 }

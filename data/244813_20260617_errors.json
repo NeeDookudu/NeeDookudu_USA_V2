@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 05:03:32 PM",
+  "last_updated": "2026-06-17 08:25:58 PM",
   "errors": [
     {
       "state": "PA",
@@ -15,22 +15,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551103953,
-      "date": "2026-06-17+15:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -98,35 +82,19 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551152216,
-      "date": "2026-06-17+10:20",
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-17+14:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551152215,
-      "date": "2026-06-17+21:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
