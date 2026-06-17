@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 08:25:58 PM",
+  "last_updated": "2026-06-17 11:19:51 PM",
   "errors": [
     {
       "state": "PA",
@@ -31,38 +31,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550719146,
-      "date": "2026-06-17+14:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550719145,
-      "date": "2026-06-17+20:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
       }
     },
     {
