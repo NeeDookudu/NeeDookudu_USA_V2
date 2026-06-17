@@ -1,0 +1,133 @@
+{
+  "last_updated": "2026-06-17 05:03:32 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 551452247,
+      "date": "2026-06-17+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 551103953,
+      "date": "2026-06-17+15:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551153181,
+      "date": "2026-06-17+22:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550719146,
+      "date": "2026-06-17+14:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550719145,
+      "date": "2026-06-17+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551129927,
+      "date": "2026-06-17+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92867",
+      "theater_name": "Cinemark Century Orange and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551152216,
+      "date": "2026-06-17+10:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92867",
+      "theater_name": "Cinemark Century Orange and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551152215,
+      "date": "2026-06-17+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    }
+  ]
+}
