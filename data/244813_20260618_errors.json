@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 03:41:09 PM",
+  "last_updated": "2026-06-18 07:30:53 PM",
   "errors": [
     {
       "state": "PA",
@@ -15,22 +15,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 552074943,
-      "date": "2026-06-18+22:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
