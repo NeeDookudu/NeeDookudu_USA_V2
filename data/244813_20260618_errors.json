@@ -1,0 +1,53 @@
+{
+  "last_updated": "2026-06-18 03:41:09 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 551452285,
+      "date": "2026-06-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 552074943,
+      "date": "2026-06-18+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Walker",
+      "zip": "49544",
+      "theater_name": "AMC Grand Rapids 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-18+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    }
+  ]
+}
