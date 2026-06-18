@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-19 03:31:26 AM",
+  "last_updated": "2026-06-19 05:19:43 AM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244813/Peddi%20-%2027x40.jpg",
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
-      "total_gross_usd": 6178.3,
+      "total_gross_usd": 6322.54,
       "total_shows": 100,
-      "avg_occupancy": 4.45,
-      "tickets_sold": 431,
+      "avg_occupancy": 4.54,
+      "tickets_sold": 440,
       "unique_venues": 79,
       "housefull_shows": 0,
-      "error_shows": 2
+      "error_shows": 3
     }
   },
   "showtimes": [
@@ -601,11 +601,11 @@
       "date": "2026-06-18+20:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 6,
-      "occupancy": 4.72,
-      "totalAvailableSeatCount": 121,
+      "totalSeatSold": 12,
+      "occupancy": 9.45,
+      "totalAvailableSeatCount": 115,
       "totalSeatCount": 127,
-      "grossRevenueUSD": 101.22,
+      "grossRevenueUSD": 202.44,
       "adultTicketPrice": 16.87
     },
     {
@@ -1085,11 +1085,11 @@
       "date": "2026-06-18+20:30",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 10,
-      "occupancy": 18.87,
-      "totalAvailableSeatCount": 43,
+      "totalSeatSold": 13,
+      "occupancy": 24.53,
+      "totalAvailableSeatCount": 40,
       "totalSeatCount": 53,
-      "grossRevenueUSD": 143.4,
+      "grossRevenueUSD": 186.42,
       "adultTicketPrice": 14.34
     },
     {
@@ -1847,6 +1847,22 @@
       "totalSeatCount": 87,
       "grossRevenueUSD": 0.0,
       "adultTicketPrice": 10.39
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551890805,
+      "date": "2026-06-18+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
     }
   ]
 }
