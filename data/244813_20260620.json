@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-20 02:15:43 PM",
+  "last_updated": "2026-06-20 04:41:45 PM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244813/Peddi%20-%2027x40.jpg",
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
-      "total_gross_usd": 3862.64,
-      "total_shows": 27,
-      "avg_occupancy": 7.75,
-      "tickets_sold": 248,
-      "unique_venues": 15,
+      "total_gross_usd": 4336.32,
+      "total_shows": 31,
+      "avg_occupancy": 7.84,
+      "tickets_sold": 280,
+      "unique_venues": 17,
       "housefull_shows": 0,
-      "error_shows": 4
+      "error_shows": 0
     }
   },
   "showtimes": [
@@ -63,10 +63,12 @@
       "date": "2026-06-20+18:10",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 26,
+      "occupancy": 20.16,
+      "totalAvailableSeatCount": 103,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 401.7,
+      "adultTicketPrice": 15.45
     },
     {
       "state": "NJ",
@@ -349,10 +351,12 @@
       "date": "2026-06-20+20:10",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.63,
+      "totalAvailableSeatCount": 74,
+      "totalSeatCount": 76,
+      "grossRevenueUSD": 17.98,
+      "adultTicketPrice": 8.99
     },
     {
       "state": "MI",
@@ -365,10 +369,12 @@
       "date": "2026-06-20+12:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 53,
+      "totalSeatCount": 53,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 7.19
     },
     {
       "state": "IL",
@@ -525,10 +531,12 @@
       "date": "2026-06-20+17:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 3.51,
+      "totalAvailableSeatCount": 110,
+      "totalSeatCount": 114,
+      "grossRevenueUSD": 54.0,
+      "adultTicketPrice": 13.5
     },
     {
       "state": "TX",
