@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-06-20 10:50:15 PM",
-  "errors": []
+  "last_updated": "2026-06-21 12:44:00 AM",
+  "errors": [
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-20+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    }
+  ]
 }
