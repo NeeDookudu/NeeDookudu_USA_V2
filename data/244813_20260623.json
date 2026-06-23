@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-06-24 02:58:05 AM",
+  "last_updated": "2026-06-24 04:33:17 AM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244813/Peddi%20-%2027x40.jpg",
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
-      "total_gross_usd": 3876.84,
+      "total_gross_usd": 3963.08,
       "total_shows": 29,
-      "avg_occupancy": 15.92,
-      "tickets_sold": 420,
+      "avg_occupancy": 16.3,
+      "tickets_sold": 430,
       "unique_venues": 16,
       "housefull_shows": 0,
       "error_shows": 1
@@ -261,11 +261,11 @@
       "date": "2026-06-23+21:05",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 100,
+      "totalSeatSold": 4,
+      "occupancy": 4.0,
+      "totalAvailableSeatCount": 96,
       "totalSeatCount": 100,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 43.84,
       "adultTicketPrice": 10.96
     },
     {
@@ -351,11 +351,11 @@
       "date": "2026-06-23+20:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 109,
+      "totalSeatSold": 1,
+      "occupancy": 0.92,
+      "totalAvailableSeatCount": 108,
       "totalSeatCount": 109,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 4.89,
       "adultTicketPrice": 4.89
     },
     {
@@ -369,11 +369,11 @@
       "date": "2026-06-23+21:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 40,
-      "occupancy": 40.0,
-      "totalAvailableSeatCount": 60,
+      "totalSeatSold": 46,
+      "occupancy": 46.0,
+      "totalAvailableSeatCount": 54,
       "totalSeatCount": 100,
-      "grossRevenueUSD": 302.4,
+      "grossRevenueUSD": 347.76,
       "adultTicketPrice": 7.56
     },
     {
@@ -441,11 +441,11 @@
       "date": "2026-06-23+22:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 39,
-      "occupancy": 52.0,
-      "totalAvailableSeatCount": 36,
+      "totalSeatSold": 38,
+      "occupancy": 50.67,
+      "totalAvailableSeatCount": 37,
       "totalSeatCount": 75,
-      "grossRevenueUSD": 264.03,
+      "grossRevenueUSD": 257.26,
       "adultTicketPrice": 6.77
     },
     {
@@ -459,11 +459,11 @@
       "date": "2026-06-23+22:20",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 31,
-      "occupancy": 21.99,
-      "totalAvailableSeatCount": 110,
+      "totalSeatSold": 32,
+      "occupancy": 22.7,
+      "totalAvailableSeatCount": 109,
       "totalSeatCount": 141,
-      "grossRevenueUSD": 209.87,
+      "grossRevenueUSD": 216.64,
       "adultTicketPrice": 6.77
     },
     {
@@ -547,11 +547,11 @@
       "date": "2026-06-23+20:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 31,
-      "occupancy": 34.83,
-      "totalAvailableSeatCount": 58,
+      "totalSeatSold": 30,
+      "occupancy": 33.71,
+      "totalAvailableSeatCount": 59,
       "totalSeatCount": 89,
-      "grossRevenueUSD": 243.35,
+      "grossRevenueUSD": 235.5,
       "adultTicketPrice": 7.85
     }
   ]
