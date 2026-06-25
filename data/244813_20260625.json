@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-06-25 10:37:56 PM",
+  "last_updated": "2026-06-26 01:20:36 AM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/244813/Peddi%20-%2027x40.jpg",
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
-      "total_gross_usd": 643.54,
-      "total_shows": 15,
-      "avg_occupancy": 3.58,
-      "tickets_sold": 50,
-      "unique_venues": 12,
+      "total_gross_usd": 768.58,
+      "total_shows": 17,
+      "avg_occupancy": 3.6,
+      "tickets_sold": 58,
+      "unique_venues": 13,
       "housefull_shows": 0,
       "error_shows": 1
     }
@@ -117,11 +117,11 @@
       "date": "2026-06-25+19:45",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 4,
-      "occupancy": 4.44,
-      "totalAvailableSeatCount": 86,
+      "totalSeatSold": 9,
+      "occupancy": 10.0,
+      "totalAvailableSeatCount": 81,
       "totalSeatCount": 90,
-      "grossRevenueUSD": 73.24,
+      "grossRevenueUSD": 164.79,
       "adultTicketPrice": 18.31
     },
     {
@@ -207,11 +207,11 @@
       "date": "2026-06-25+14:55",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 4,
-      "occupancy": 5.33,
-      "totalAvailableSeatCount": 71,
+      "totalSeatSold": 6,
+      "occupancy": 8.0,
+      "totalAvailableSeatCount": 69,
       "totalSeatCount": 75,
-      "grossRevenueUSD": 45.48,
+      "grossRevenueUSD": 68.22,
       "adultTicketPrice": 11.37
     },
     {
@@ -225,11 +225,11 @@
       "date": "2026-06-25+15:00",
       "format": "Standard",
       "language": "Telugu",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 67,
+      "totalSeatSold": 1,
+      "occupancy": 1.49,
+      "totalAvailableSeatCount": 66,
       "totalSeatCount": 67,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 10.75,
       "adultTicketPrice": 10.75
     },
     {
@@ -301,6 +301,42 @@
         "status": 403,
         "reason": "HTTP 403"
       }
+    },
+    {
+      "state": "IL",
+      "city": "North Aurora",
+      "zip": "60542",
+      "theater_name": "Cinemark Tinseltown USA Aurora",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 553383402,
+      "date": "2026-06-25+17:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 109,
+      "totalSeatCount": 109,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 6.7
+    },
+    {
+      "state": "IL",
+      "city": "North Aurora",
+      "zip": "60542",
+      "theater_name": "Cinemark Tinseltown USA Aurora",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 553383403,
+      "date": "2026-06-25+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 109,
+      "totalSeatCount": 109,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.01
     }
   ]
 }
