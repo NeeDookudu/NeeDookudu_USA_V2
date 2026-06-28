@@ -1,0 +1,69 @@
+{
+  "last_updated": "2026-06-28 02:14:50 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 552776464,
+      "date": "2026-06-28+13:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 553176929,
+      "date": "2026-06-28+09:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 553176911,
+      "date": "2026-06-28+17:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Sterling Heights",
+      "zip": "48314",
+      "theater_name": "AMC Forum 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552992183,
+      "date": "2026-06-28+11:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    }
+  ]
+}
