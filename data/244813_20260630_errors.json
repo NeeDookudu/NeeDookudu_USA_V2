@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-06-30 03:59:05 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 552776576,
+      "date": "2026-06-30+13:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    }
+  ]
+}
