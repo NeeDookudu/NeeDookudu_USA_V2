@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 02:17:35 PM",
+  "last_updated": "2026-07-01 05:26:02 PM",
   "movie_id": 244813,
   "movie_details": {
     "title": "Peddi (2026)",
@@ -7,12 +7,12 @@
     "overview": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "stats": {
       "total_gross_usd": 201.41,
-      "total_shows": 5,
-      "avg_occupancy": 2.02,
+      "total_shows": 6,
+      "avg_occupancy": 1.63,
       "tickets_sold": 11,
       "unique_venues": 2,
       "housefull_shows": 0,
-      "error_shows": 1
+      "error_shows": 0
     }
   },
   "showtimes": [
@@ -63,10 +63,12 @@
       "date": "2026-07-01+21:45",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 129,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 15.45
     },
     {
       "state": "GA",
