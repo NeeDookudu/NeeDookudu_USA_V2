@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 07:22:33 AM",
+  "last_updated": "2026-07-16 10:24:21 AM",
   "errors": [
     {
       "state": "AL",
@@ -11,6 +11,21 @@
       "showtime_id": 556065902,
       "date": "2026-07-15+20:45",
       "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79925",
+      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 556072605,
+      "date": "2026-07-15+18:00",
+      "format": "IMAX",
       "language": "Unknown",
       "error": {
         "status": 404
