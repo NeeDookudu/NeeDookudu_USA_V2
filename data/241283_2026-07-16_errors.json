@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 03:28:34 AM",
+  "last_updated": "2026-07-17 04:26:04 AM",
   "errors": [
     {
       "state": "MA",
@@ -348599,6 +348599,351 @@
       "language": "Unknown",
       "error": {
         "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Albany",
+      "zip": "12203",
+      "theater_name": "Regal Crossgates",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556099651,
+      "date": "2026-07-16+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Ronkonkoma",
+      "zip": "11779",
+      "theater_name": "Regal Ronkonkoma",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556099444,
+      "date": "2026-07-16+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Bridgewater",
+      "zip": "08807",
+      "theater_name": "AMC DINE-IN Bridgewater 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556095721,
+      "date": "2026-07-16+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556093148,
+      "date": "2026-07-16+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556095739,
+      "date": "2026-07-16+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556100884,
+      "date": "2026-07-16+20:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Willoughby",
+      "zip": "44094",
+      "theater_name": "Regal Willoughby Commons",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556099881,
+      "date": "2026-07-16+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556085779,
+      "date": "2026-07-16+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556085781,
+      "date": "2026-07-16+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556085780,
+      "date": "2026-07-17+00:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556090108,
+      "date": "2026-07-17+01:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556083035,
+      "date": "2026-07-16+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77002",
+      "theater_name": "AMC Houston 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556099967,
+      "date": "2026-07-16+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Spring",
+      "zip": "77386",
+      "theater_name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556100181,
+      "date": "2026-07-16+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Harlingen",
+      "zip": "78550",
+      "theater_name": "Cinemark Harlingen 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556100787,
+      "date": "2026-07-16+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79925",
+      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 556101394,
+      "date": "2026-07-16+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79925",
+      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 556101395,
+      "date": "2026-07-16+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Parker",
+      "zip": "80134",
+      "theater_name": "Emagine Parker",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556099191,
+      "date": "2026-07-16+19:00",
+      "format": "EMX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Sparks",
+      "zip": "89431",
+      "theater_name": "Galaxy Victorian",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 556101007,
+      "date": "2026-07-16+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Sparks",
+      "zip": "89431",
+      "theater_name": "Galaxy Victorian",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 556101008,
+      "date": "2026-07-16+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Long Beach",
+      "zip": "90803",
+      "theater_name": "AMC Marina Pacifica 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556093159,
+      "date": "2026-07-16+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chino Hills",
+      "zip": "91709",
+      "theater_name": "Harkins Chino Hills 18",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 556099754,
+      "date": "2026-07-16+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clarita",
+      "zip": "91355",
+      "theater_name": "Regal Edwards Valencia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556101477,
+      "date": "2026-07-17+01:05",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
