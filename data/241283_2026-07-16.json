@@ -348943,5 +348943,110 @@
     "error": {
       "status": 404
     }
+  },
+  {
+    "state": "NC",
+    "city": "Raleigh",
+    "zip": "27609",
+    "theater_name": "Regal North Hills",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556104831,
+    "date": "2026-07-16+21:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30328",
+    "theater_name": "The Springs Cinema & Taphouse",
+    "chainName": "The Spring Cinemas and Taphouse",
+    "chainCode": "SPCT",
+    "showtime_id": 556103333,
+    "date": "2026-07-16+20:45",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37215",
+    "theater_name": "Regal Green Hills",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556104568,
+    "date": "2026-07-16+21:20",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Saline",
+    "zip": "48176",
+    "theater_name": "Emagine Saline ",
+    "chainName": "Emagine",
+    "chainCode": "EMAG",
+    "showtime_id": 556102222,
+    "date": "2026-07-16+21:40",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Redlands",
+    "zip": "92374",
+    "theater_name": "Harkins Mountain Grove",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 556104567,
+    "date": "2026-07-16+21:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa ",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556103664,
+    "date": "2026-07-16+19:45",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Bakersfield",
+    "zip": "93311",
+    "theater_name": "Regal Edwards Bakersfield",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556104658,
+    "date": "2026-07-16+20:40",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
   }
 ]
