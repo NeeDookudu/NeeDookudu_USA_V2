@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 05:23:14 AM",
+  "last_updated": "2026-07-17 07:26:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -349049,6 +349049,936 @@
       "language": "Unknown",
       "error": {
         "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10016",
+      "theater_name": "AMC Kips Bay 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556078918,
+      "date": "2026-07-16+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10016",
+      "theater_name": "AMC Kips Bay 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556078917,
+      "date": "2026-07-16+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lynbrook",
+      "zip": "11563",
+      "theater_name": "Regal Lynbrook",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556109075,
+      "date": "2026-07-16+23:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Falls Church",
+      "zip": "22046",
+      "theater_name": "Paragon Theaters Founders Row + Axis15 Extreme",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 556106294,
+      "date": "2026-07-16+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23464",
+      "theater_name": "Cinema Cafe Kemps River",
+      "chainName": "Cinema Cafe",
+      "chainCode": "CAFE",
+      "showtime_id": 556107188,
+      "date": "2026-07-16+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28216",
+      "theater_name": "AMC Northlake 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556097483,
+      "date": "2026-07-16+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28277",
+      "theater_name": "Regal Stonecrest at Piper Glen",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556106475,
+      "date": "2026-07-16+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Doral",
+      "zip": "33122",
+      "theater_name": "CMX CinéBistro CityPlace Doral",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 556108825,
+      "date": "2026-07-16+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46217",
+      "theater_name": "AMC Indianapolis 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556101978,
+      "date": "2026-07-16+22:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556102317,
+      "date": "2026-07-16+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Willmar",
+      "zip": "56201",
+      "theater_name": "Golden Ticket Cinemas Kandi 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 556106954,
+      "date": "2026-07-16+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 556106951,
+      "date": "2026-07-16+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Naperville",
+      "zip": "60564",
+      "theater_name": "AMC Naperville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556105560,
+      "date": "2026-07-16+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Edwardsville",
+      "zip": "62025",
+      "theater_name": "AMC Edwardsville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556103628,
+      "date": "2026-07-16+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Oklahoma City",
+      "zip": "73134",
+      "theater_name": "AMC Quail Springs Mall 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556095728,
+      "date": "2026-07-16+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Broken Arrow",
+      "zip": "74012",
+      "theater_name": "Cinemark Broken Arrow",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556102628,
+      "date": "2026-07-16+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Roanoke",
+      "zip": "76262",
+      "theater_name": "Cinemark Roanoke and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556105092,
+      "date": "2026-07-16+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "theater_name": "Cinemark Cedar Park",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556101655,
+      "date": "2026-07-16+22:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556105498,
+      "date": "2026-07-16+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210082,
+      "date": "2026-07-16+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210083,
+      "date": "2026-07-16+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210084,
+      "date": "2026-07-16+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554352759,
+      "date": "2026-07-17+01:50",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549948892,
+      "date": "2026-07-16+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549242536,
+      "date": "2026-07-16+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549242537,
+      "date": "2026-07-16+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549225596,
+      "date": "2026-07-16+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549225597,
+      "date": "2026-07-16+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550279701,
+      "date": "2026-07-16+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555851596,
+      "date": "2026-07-16+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554261517,
+      "date": "2026-07-16+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555851595,
+      "date": "2026-07-16+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550285363,
+      "date": "2026-07-16+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550285361,
+      "date": "2026-07-16+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550285362,
+      "date": "2026-07-17+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554261515,
+      "date": "2026-07-16+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555851609,
+      "date": "2026-07-16+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555238426,
+      "date": "2026-07-16+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555851608,
+      "date": "2026-07-16+20:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554261518,
+      "date": "2026-07-16+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555851591,
+      "date": "2026-07-16+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91502",
+      "theater_name": "AMC Burbank 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555851581,
+      "date": "2026-07-17+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Norwalk",
+      "zip": "90650",
+      "theater_name": "AMC Norwalk 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556091732,
+      "date": "2026-07-16+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Norwalk",
+      "zip": "90650",
+      "theater_name": "AMC Norwalk 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556091731,
+      "date": "2026-07-16+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Norwalk",
+      "zip": "90650",
+      "theater_name": "AMC Norwalk 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556087190,
+      "date": "2026-07-16+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Norwalk",
+      "zip": "90650",
+      "theater_name": "AMC Norwalk 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556091733,
+      "date": "2026-07-16+23:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556095725,
+      "date": "2026-07-16+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556095726,
+      "date": "2026-07-16+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556095727,
+      "date": "2026-07-16+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Daly City",
+      "zip": "94015",
+      "theater_name": "Cinemark Century Daly City 20 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556106173,
+      "date": "2026-07-16+20:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Daly City",
+      "zip": "94015",
+      "theater_name": "Cinemark Century Daly City 20 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556106175,
+      "date": "2026-07-16+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Mateo",
+      "zip": "94401",
+      "theater_name": "Cinemark Century San Mateo 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556103647,
+      "date": "2026-07-16+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Hayward",
+      "zip": "94541",
+      "theater_name": "Cinemark Century at Hayward",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556106606,
+      "date": "2026-07-16+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Hayward",
+      "zip": "94541",
+      "theater_name": "Cinemark Century at Hayward",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556106610,
+      "date": "2026-07-16+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Hayward",
+      "zip": "94541",
+      "theater_name": "Cinemark Century at Hayward",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556106607,
+      "date": "2026-07-16+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Hayward",
+      "zip": "94541",
+      "theater_name": "Cinemark Century at Hayward",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556106609,
+      "date": "2026-07-16+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Hayward",
+      "zip": "94541",
+      "theater_name": "Cinemark Century at Hayward",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556106611,
+      "date": "2026-07-16+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Hayward",
+      "zip": "94541",
+      "theater_name": "Cinemark Century at Hayward",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556106608,
+      "date": "2026-07-16+22:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lakewood",
+      "zip": "98499",
+      "theater_name": "AMC Lakewood Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556091654,
+      "date": "2026-07-16+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lakewood",
+      "zip": "98499",
+      "theater_name": "AMC Lakewood Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556093160,
+      "date": "2026-07-16+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lynnwood",
+      "zip": "98037",
+      "theater_name": "AMC Loews Alderwood Mall 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556089077,
+      "date": "2026-07-16+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Silverdale",
+      "zip": "98383",
+      "theater_name": "AMC Kitsap 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556108353,
+      "date": "2026-07-16+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
