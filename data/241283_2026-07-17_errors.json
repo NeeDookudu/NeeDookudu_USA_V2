@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 04:47:14 PM",
+  "last_updated": "2026-07-17 06:40:35 PM",
   "errors": [
     {
       "state": "MA",
@@ -543535,6 +543535,501 @@
       "chainCode": "CATT",
       "showtime_id": 555433259,
       "date": "2026-07-17+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "Cinemark Willowbrook Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115910,
+      "date": "2026-07-17+21:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "Cinemark Willowbrook Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115909,
+      "date": "2026-07-17+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Hazlet",
+      "zip": "07730",
+      "theater_name": "Cinemark Hazlet 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115724,
+      "date": "2026-07-17+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Milford",
+      "zip": "19963",
+      "theater_name": "Milford Movies 9",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 556115596,
+      "date": "2026-07-17+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Milford",
+      "zip": "19963",
+      "theater_name": "Milford Movies 9",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 556115595,
+      "date": "2026-07-17+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Middletown",
+      "zip": "19709",
+      "theater_name": "Westown Movies",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 556115610,
+      "date": "2026-07-17+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Middletown",
+      "zip": "19709",
+      "theater_name": "Westown Movies",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 556115609,
+      "date": "2026-07-17+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Bluffton",
+      "zip": "29910",
+      "theater_name": "Cinemark Bluffton",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116082,
+      "date": "2026-07-17+20:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Bluffton",
+      "zip": "29910",
+      "theater_name": "Cinemark Bluffton",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116083,
+      "date": "2026-07-17+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116069,
+      "date": "2026-07-17+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116070,
+      "date": "2026-07-17+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33809",
+      "theater_name": "Cinemark Lakeland Square Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115908,
+      "date": "2026-07-17+20:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cincinnati",
+      "zip": "45248",
+      "theater_name": "Cinemark Western Hills 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115890,
+      "date": "2026-07-17+19:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cincinnati",
+      "zip": "45248",
+      "theater_name": "Cinemark Western Hills 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115891,
+      "date": "2026-07-17+23:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cincinnati",
+      "zip": "45209",
+      "theater_name": "Cinemark Oakley Station and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115824,
+      "date": "2026-07-17+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43240",
+      "theater_name": "Cinemark Polaris 18 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115884,
+      "date": "2026-07-17+21:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Conway",
+      "zip": "72032",
+      "theater_name": "Cinemark Towne Centre and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115888,
+      "date": "2026-07-17+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lufkin",
+      "zip": "75901",
+      "theater_name": "Cinemark Lufkin",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115854,
+      "date": "2026-07-17+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Harker Heights",
+      "zip": "76548",
+      "theater_name": "Cinemark Harker Heights",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116084,
+      "date": "2026-07-17+20:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Waco",
+      "zip": "76711",
+      "theater_name": "Cinemark Waco and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116080,
+      "date": "2026-07-17+19:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Waco",
+      "zip": "76711",
+      "theater_name": "Cinemark Waco and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116081,
+      "date": "2026-07-17+23:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "The Woodlands",
+      "zip": "77380",
+      "theater_name": "Cinemark The Woodlands and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115808,
+      "date": "2026-07-17+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115883,
+      "date": "2026-07-17+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "College Station",
+      "zip": "77845",
+      "theater_name": "Cinemark College Station and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115851,
+      "date": "2026-07-17+19:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "College Station",
+      "zip": "77845",
+      "theater_name": "Cinemark College Station and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115853,
+      "date": "2026-07-17+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79938",
+      "theater_name": "Cinemark East Montana and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116086,
+      "date": "2026-07-17+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79938",
+      "theater_name": "Cinemark East Montana and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116088,
+      "date": "2026-07-17+19:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79938",
+      "theater_name": "Cinemark East Montana and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116087,
+      "date": "2026-07-17+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79936",
+      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115814,
+      "date": "2026-07-17+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79936",
+      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556115815,
+      "date": "2026-07-17+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Orem",
+      "zip": "84097",
+      "theater_name": "Cinemark University Mall",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116074,
+      "date": "2026-07-17+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95825",
+      "theater_name": "Cinemark Century Arden 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116098,
+      "date": "2026-07-17+20:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95825",
+      "theater_name": "Cinemark Century Arden 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556116097,
+      "date": "2026-07-17+20:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
