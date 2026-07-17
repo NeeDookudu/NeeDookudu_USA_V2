@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 03:20:17 PM",
+  "last_updated": "2026-07-17 04:47:14 PM",
   "errors": [
     {
       "state": "MA",
@@ -541150,6 +541150,2391 @@
       "chainCode": "AMC",
       "showtime_id": 555395785,
       "date": "2026-07-17+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549212055,
+      "date": "2026-07-17+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549212056,
+      "date": "2026-07-17+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549212057,
+      "date": "2026-07-17+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549212058,
+      "date": "2026-07-17+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 553266041,
+      "date": "2026-07-18+02:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550256902,
+      "date": "2026-07-17+07:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549223307,
+      "date": "2026-07-17+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549223308,
+      "date": "2026-07-17+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549223309,
+      "date": "2026-07-17+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550203401,
+      "date": "2026-07-17+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554640848,
+      "date": "2026-07-17+07:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554640847,
+      "date": "2026-07-17+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554640846,
+      "date": "2026-07-17+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554640844,
+      "date": "2026-07-17+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554640845,
+      "date": "2026-07-17+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494054,
+      "date": "2026-07-17+06:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494053,
+      "date": "2026-07-17+10:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494052,
+      "date": "2026-07-17+14:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554286807,
+      "date": "2026-07-17+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554286808,
+      "date": "2026-07-17+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550612898,
+      "date": "2026-07-17+08:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494098,
+      "date": "2026-07-17+08:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494081,
+      "date": "2026-07-17+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494099,
+      "date": "2026-07-17+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494080,
+      "date": "2026-07-17+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550612896,
+      "date": "2026-07-17+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494100,
+      "date": "2026-07-17+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550612900,
+      "date": "2026-07-17+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494101,
+      "date": "2026-07-17+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494096,
+      "date": "2026-07-17+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550612899,
+      "date": "2026-07-18+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494102,
+      "date": "2026-07-18+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555494060,
+      "date": "2026-07-18+01:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550612897,
+      "date": "2026-07-17+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549214124,
+      "date": "2026-07-17+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549214125,
+      "date": "2026-07-17+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549214126,
+      "date": "2026-07-17+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549214127,
+      "date": "2026-07-17+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549228352,
+      "date": "2026-07-17+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549228353,
+      "date": "2026-07-17+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549228354,
+      "date": "2026-07-17+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550428575,
+      "date": "2026-07-17+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555449688,
+      "date": "2026-07-17+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550428578,
+      "date": "2026-07-17+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555449700,
+      "date": "2026-07-17+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555449687,
+      "date": "2026-07-17+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550428577,
+      "date": "2026-07-17+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555449699,
+      "date": "2026-07-17+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556114612,
+      "date": "2026-07-17+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555449685,
+      "date": "2026-07-17+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550428576,
+      "date": "2026-07-17+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550428579,
+      "date": "2026-07-17+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555449686,
+      "date": "2026-07-17+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Anaheim",
+      "zip": "92802",
+      "theater_name": "AMC Anaheim GardenWalk 6  ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556115585,
+      "date": "2026-07-17+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549215564,
+      "date": "2026-07-17+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549215565,
+      "date": "2026-07-17+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549215566,
+      "date": "2026-07-17+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549215567,
+      "date": "2026-07-17+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550363267,
+      "date": "2026-07-17+08:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549242473,
+      "date": "2026-07-17+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549242474,
+      "date": "2026-07-17+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549242475,
+      "date": "2026-07-17+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549224797,
+      "date": "2026-07-17+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549224798,
+      "date": "2026-07-17+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549224799,
+      "date": "2026-07-17+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551167365,
+      "date": "2026-07-17+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555266459,
+      "date": "2026-07-17+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555266458,
+      "date": "2026-07-17+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554268226,
+      "date": "2026-07-17+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554268227,
+      "date": "2026-07-17+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551167369,
+      "date": "2026-07-17+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555846351,
+      "date": "2026-07-17+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551167368,
+      "date": "2026-07-17+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555846350,
+      "date": "2026-07-17+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551167367,
+      "date": "2026-07-17+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555846348,
+      "date": "2026-07-17+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551167366,
+      "date": "2026-07-17+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556104625,
+      "date": "2026-07-17+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555846349,
+      "date": "2026-07-17+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549216494,
+      "date": "2026-07-17+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549216495,
+      "date": "2026-07-17+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549216496,
+      "date": "2026-07-17+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549216497,
+      "date": "2026-07-17+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226089,
+      "date": "2026-07-17+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226090,
+      "date": "2026-07-17+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226091,
+      "date": "2026-07-17+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551306840,
+      "date": "2026-07-17+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551306839,
+      "date": "2026-07-17+08:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549229886,
+      "date": "2026-07-17+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549229887,
+      "date": "2026-07-17+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897262,
+      "date": "2026-07-17+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549229888,
+      "date": "2026-07-17+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897261,
+      "date": "2026-07-17+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551306841,
+      "date": "2026-07-17+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897237,
+      "date": "2026-07-17+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897252,
+      "date": "2026-07-17+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897247,
+      "date": "2026-07-17+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897245,
+      "date": "2026-07-17+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897253,
+      "date": "2026-07-17+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897248,
+      "date": "2026-07-17+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551306843,
+      "date": "2026-07-17+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897254,
+      "date": "2026-07-17+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897249,
+      "date": "2026-07-17+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555897279,
+      "date": "2026-07-17+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551306844,
+      "date": "2026-07-17+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Emeryville",
+      "zip": "94608",
+      "theater_name": "AMC Bay Street 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551306842,
+      "date": "2026-07-17+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145740,
+      "date": "2026-07-17+09:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145732,
+      "date": "2026-07-17+09:45",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145736,
+      "date": "2026-07-17+10:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145741,
+      "date": "2026-07-17+13:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145733,
+      "date": "2026-07-17+13:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145737,
+      "date": "2026-07-17+13:50",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145742,
+      "date": "2026-07-17+17:10",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145734,
+      "date": "2026-07-17+17:25",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145738,
+      "date": "2026-07-17+17:40",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145743,
+      "date": "2026-07-17+21:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145735,
+      "date": "2026-07-17+21:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550145739,
+      "date": "2026-07-17+21:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988223,
+      "date": "2026-07-17+08:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988240,
+      "date": "2026-07-17+08:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860910,
+      "date": "2026-07-17+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860906,
+      "date": "2026-07-17+09:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860914,
+      "date": "2026-07-17+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988224,
+      "date": "2026-07-17+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988241,
+      "date": "2026-07-17+12:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860911,
+      "date": "2026-07-17+13:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860907,
+      "date": "2026-07-17+13:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860915,
+      "date": "2026-07-17+13:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988225,
+      "date": "2026-07-17+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988242,
+      "date": "2026-07-17+16:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860912,
+      "date": "2026-07-17+17:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860908,
+      "date": "2026-07-17+17:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556076873,
+      "date": "2026-07-17+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860916,
+      "date": "2026-07-17+17:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988226,
+      "date": "2026-07-17+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988243,
+      "date": "2026-07-17+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860913,
+      "date": "2026-07-17+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860909,
+      "date": "2026-07-17+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550860917,
+      "date": "2026-07-17+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988227,
+      "date": "2026-07-17+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "White City",
+      "zip": "97503",
+      "theater_name": "Crater Lake Cinema",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554327497,
+      "date": "2026-07-17+11:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "White City",
+      "zip": "97503",
+      "theater_name": "Crater Lake Cinema",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555460708,
+      "date": "2026-07-17+12:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "White City",
+      "zip": "97503",
+      "theater_name": "Crater Lake Cinema",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554327498,
+      "date": "2026-07-17+15:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "White City",
+      "zip": "97503",
+      "theater_name": "Crater Lake Cinema",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555460709,
+      "date": "2026-07-17+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "White City",
+      "zip": "97503",
+      "theater_name": "Crater Lake Cinema",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554327499,
+      "date": "2026-07-17+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "White City",
+      "zip": "97503",
+      "theater_name": "Crater Lake Cinema",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555460710,
+      "date": "2026-07-17+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Ashland",
+      "zip": "97520",
+      "theater_name": "Varsity Theatre",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554330727,
+      "date": "2026-07-17+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Ashland",
+      "zip": "97520",
+      "theater_name": "Varsity Theatre",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554330728,
+      "date": "2026-07-17+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Ashland",
+      "zip": "97520",
+      "theater_name": "Varsity Theatre",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554330729,
+      "date": "2026-07-17+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554329345,
+      "date": "2026-07-17+11:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555433257,
+      "date": "2026-07-17+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555433255,
+      "date": "2026-07-17+13:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555433253,
+      "date": "2026-07-17+14:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554329346,
+      "date": "2026-07-17+15:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555433258,
+      "date": "2026-07-17+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555433256,
+      "date": "2026-07-17+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555433254,
+      "date": "2026-07-17+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 554329347,
+      "date": "2026-07-17+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Grants Pass",
+      "zip": "97527",
+      "theater_name": "Southgate Cinemas",
+      "chainName": "Coming Attractions Theatres",
+      "chainCode": "CATT",
+      "showtime_id": 555433259,
+      "date": "2026-07-17+19:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
