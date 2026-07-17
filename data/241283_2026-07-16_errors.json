@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 07:26:23 AM",
+  "last_updated": "2026-07-17 10:27:55 AM",
   "errors": [
     {
       "state": "MA",
@@ -349976,6 +349976,81 @@
       "showtime_id": 556108353,
       "date": "2026-07-16+21:45",
       "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Chandler",
+      "zip": "85226",
+      "theater_name": "Harkins Chandler Fashion 20",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 556109095,
+      "date": "2026-07-16+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90067",
+      "theater_name": "AMC Century City 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556093158,
+      "date": "2026-07-16+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556110328,
+      "date": "2026-07-16+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pacific Grove",
+      "zip": "93950",
+      "theater_name": "Lighthouse Cinema & Cafe",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556109564,
+      "date": "2026-07-16+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95123",
+      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556107480,
+      "date": "2026-07-16+17:50",
+      "format": "Cinemark XD",
       "language": "Unknown",
       "error": {
         "status": 404
