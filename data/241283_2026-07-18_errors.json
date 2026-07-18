@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 09:17:56 PM",
+  "last_updated": "2026-07-18 10:17:34 PM",
   "errors": [
     {
       "state": "MA",
@@ -560980,6 +560980,1566 @@
       "chainCode": "AMC",
       "showtime_id": 556200686,
       "date": "2026-07-18+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Tyngsboro",
+      "zip": "01879",
+      "theater_name": "AMC Tyngsboro 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556202540,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Tyngsboro",
+      "zip": "01879",
+      "theater_name": "AMC Tyngsboro 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556202539,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Tyngsboro",
+      "zip": "01879",
+      "theater_name": "AMC Tyngsboro 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556202541,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10024",
+      "theater_name": "AMC 84th Street 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556200619,
+      "date": "2026-07-18+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10024",
+      "theater_name": "AMC 84th Street 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556200065,
+      "date": "2026-07-18+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Amherst",
+      "zip": "14226",
+      "theater_name": "AMC Maple Ridge 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203341,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Owings Mills",
+      "zip": "21117",
+      "theater_name": "AMC Owings Mills 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556200620,
+      "date": "2026-07-18+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Fairfax",
+      "zip": "22033",
+      "theater_name": "Regal Fairfax Towne Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556202722,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Fairfax",
+      "zip": "22033",
+      "theater_name": "Regal Fairfax Towne Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556202723,
+      "date": "2026-07-18+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Richmond",
+      "zip": "23230",
+      "theater_name": "BTM CINEMAS MOVIELAND AT BOULEVARD SQUARE",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 556202312,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Richmond",
+      "zip": "23230",
+      "theater_name": "BTM CINEMAS MOVIELAND AT BOULEVARD SQUARE",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 556202313,
+      "date": "2026-07-18+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556202623,
+      "date": "2026-07-18+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Indian Trail",
+      "zip": "28079",
+      "theater_name": "Sun Valley Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 556202994,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30045",
+      "theater_name": "AMC DINE-IN Webb Gin 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203466,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Kennesaw",
+      "zip": "30144",
+      "theater_name": "AMC Barrett Commons 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556202538,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Miami",
+      "zip": "33133",
+      "theater_name": "Cinépolis Luxury Cinemas Coconut Grove",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 556202310,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Naples",
+      "zip": "34109",
+      "theater_name": "Regal Naples",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556202993,
+      "date": "2026-07-18+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37129",
+      "theater_name": "AMC Stones River 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203470,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37129",
+      "theater_name": "AMC Stones River 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203471,
+      "date": "2026-07-18+21:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37129",
+      "theater_name": "AMC Stones River 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203472,
+      "date": "2026-07-18+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Collierville",
+      "zip": "38017",
+      "theater_name": "Malco Collierville Cinema Grill & MXT",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 556203747,
+      "date": "2026-07-18+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Muncie",
+      "zip": "47303",
+      "theater_name": "AMC Showplace Muncie 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556201522,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Muncie",
+      "zip": "47303",
+      "theater_name": "AMC Showplace Muncie 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556202542,
+      "date": "2026-07-18+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Frankfort",
+      "zip": "60423",
+      "theater_name": "Emagine Frankfort ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556203091,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Novi",
+      "zip": "48377",
+      "theater_name": "Emagine Novi",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556202348,
+      "date": "2026-07-18+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IA",
+      "city": "West Des Moines",
+      "zip": "50266",
+      "theater_name": "Cinemark Century Jordan Creek 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556202916,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Menomonee Falls",
+      "zip": "53051",
+      "theater_name": "Marcus Menomonee Falls Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550253842,
+      "date": "2026-07-18+10:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Menomonee Falls",
+      "zip": "53051",
+      "theater_name": "Marcus Menomonee Falls Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550253843,
+      "date": "2026-07-18+14:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Menomonee Falls",
+      "zip": "53051",
+      "theater_name": "Marcus Menomonee Falls Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550253844,
+      "date": "2026-07-18+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Lake Geneva",
+      "zip": "53147",
+      "theater_name": "Emagine Geneva Lakes",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556202955,
+      "date": "2026-07-18+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203257,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556200625,
+      "date": "2026-07-18+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556200626,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Harrison",
+      "zip": "72601",
+      "theater_name": "Golden Ticket Cinemas Harrison 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 556202001,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rockwall",
+      "zip": "75032",
+      "theater_name": "Cinemark Rockwall 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556203661,
+      "date": "2026-07-18+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Dallas",
+      "zip": "75219",
+      "theater_name": "Cinepolis Luxury Cinema Victory Park",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 556203170,
+      "date": "2026-07-18+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Euless",
+      "zip": "76039",
+      "theater_name": "Cinépolis  Euless",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 556202107,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McAllen",
+      "zip": "78504",
+      "theater_name": "Cinemark Hollywood USA McAllen North",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556202931,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McAllen",
+      "zip": "78504",
+      "theater_name": "Cinemark Hollywood USA McAllen North",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556202932,
+      "date": "2026-07-18+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78735",
+      "theater_name": "Moviehouse & Eatery SW Austin",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 556202945,
+      "date": "2026-07-18+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78735",
+      "theater_name": "Moviehouse & Eatery SW Austin",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 556202946,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Midland",
+      "zip": "79707",
+      "theater_name": "Cinergy Tall City",
+      "chainName": "Cinergy Entertainment",
+      "chainCode": "CNRGY",
+      "showtime_id": 556202307,
+      "date": "2026-07-18+13:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Midland",
+      "zip": "79707",
+      "theater_name": "Cinergy Tall City",
+      "chainName": "Cinergy Entertainment",
+      "chainCode": "CNRGY",
+      "showtime_id": 556202308,
+      "date": "2026-07-18+17:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Midland",
+      "zip": "79707",
+      "theater_name": "Cinergy Tall City",
+      "chainName": "Cinergy Entertainment",
+      "chainCode": "CNRGY",
+      "showtime_id": 556202309,
+      "date": "2026-07-18+21:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Meridian",
+      "zip": "83642",
+      "theater_name": "Cinemark Majestic Cinemas",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556202930,
+      "date": "2026-07-18+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Centerville",
+      "zip": "84014",
+      "theater_name": "Megaplex Centerville at Legacy Crossing",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 556202781,
+      "date": "2026-07-19+00:50",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85201",
+      "theater_name": "Cinemark Mesa 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556202940,
+      "date": "2026-07-18+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85201",
+      "theater_name": "Cinemark Mesa 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556202938,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556202681,
+      "date": "2026-07-18+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90045",
+      "theater_name": "Cinemark Howard Hughes Los Angeles and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556203659,
+      "date": "2026-07-18+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "El Segundo",
+      "zip": "90245",
+      "theater_name": "CinemaWest Beach Cities 4DX, ScreenX, & GSL",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 556202306,
+      "date": "2026-07-18+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Norwalk",
+      "zip": "90650",
+      "theater_name": "AMC Norwalk 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203336,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Norwalk",
+      "zip": "90650",
+      "theater_name": "AMC Norwalk 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203335,
+      "date": "2026-07-18+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556200549,
+      "date": "2026-07-18+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144353,
+      "date": "2026-07-18+08:30",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532139,
+      "date": "2026-07-18+11:30",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144352,
+      "date": "2026-07-18+12:15",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532138,
+      "date": "2026-07-18+15:15",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144351,
+      "date": "2026-07-18+16:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 553474693,
+      "date": "2026-07-18+19:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144354,
+      "date": "2026-07-18+19:45",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 553474694,
+      "date": "2026-07-18+22:45",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144350,
+      "date": "2026-07-18+23:25",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144356,
+      "date": "2026-07-18+08:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532078,
+      "date": "2026-07-18+11:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144355,
+      "date": "2026-07-18+12:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532077,
+      "date": "2026-07-18+15:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144358,
+      "date": "2026-07-18+16:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 553474691,
+      "date": "2026-07-18+19:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144357,
+      "date": "2026-07-18+19:45",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 553474692,
+      "date": "2026-07-18+22:45",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144359,
+      "date": "2026-07-18+23:25",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144361,
+      "date": "2026-07-18+09:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144360,
+      "date": "2026-07-18+13:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144363,
+      "date": "2026-07-18+17:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550144362,
+      "date": "2026-07-18+20:45",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532136,
+      "date": "2026-07-18+08:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550874861,
+      "date": "2026-07-18+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550874857,
+      "date": "2026-07-18+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556171959,
+      "date": "2026-07-18+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532083,
+      "date": "2026-07-18+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532135,
+      "date": "2026-07-18+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550874860,
+      "date": "2026-07-18+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550874856,
+      "date": "2026-07-18+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556171956,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532082,
+      "date": "2026-07-18+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556201714,
+      "date": "2026-07-18+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532134,
+      "date": "2026-07-18+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550874859,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550874855,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556171957,
+      "date": "2026-07-18+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532080,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556185395,
+      "date": "2026-07-18+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532137,
+      "date": "2026-07-18+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556185393,
+      "date": "2026-07-18+19:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550874862,
+      "date": "2026-07-18+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550874858,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556171958,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555532081,
+      "date": "2026-07-18+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555988658,
+      "date": "2026-07-18+22:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556185394,
+      "date": "2026-07-18+22:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Francisco",
+      "zip": "94115",
+      "theater_name": "AMC Kabuki 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556203345,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Walla Walla",
+      "zip": "99362",
+      "theater_name": "Cinemark Grand Cinemas",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556203622,
+      "date": "2026-07-18+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Walla Walla",
+      "zip": "99362",
+      "theater_name": "Cinemark Grand Cinemas",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556203623,
+      "date": "2026-07-18+20:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
