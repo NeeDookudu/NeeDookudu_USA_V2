@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 02:15:57 PM",
+  "last_updated": "2026-07-18 03:43:02 PM",
   "errors": [
     {
       "state": "MA",
@@ -552790,6 +552790,4566 @@
       "chainCode": "RTSIND",
       "showtime_id": 553443437,
       "date": "2026-07-18+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549211377,
+      "date": "2026-07-18+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549211378,
+      "date": "2026-07-18+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549211379,
+      "date": "2026-07-18+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549211380,
+      "date": "2026-07-18+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550827465,
+      "date": "2026-07-19+02:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549242604,
+      "date": "2026-07-18+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549242605,
+      "date": "2026-07-18+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549242606,
+      "date": "2026-07-18+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550106729,
+      "date": "2026-07-18+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554984071,
+      "date": "2026-07-18+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554984070,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550827468,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554984069,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550827466,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555913019,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550827467,
+      "date": "2026-07-19+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550827469,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555913036,
+      "date": "2026-07-18+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555913035,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554273335,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554273336,
+      "date": "2026-07-18+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555913034,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555912993,
+      "date": "2026-07-18+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555913033,
+      "date": "2026-07-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555912999,
+      "date": "2026-07-18+17:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555912987,
+      "date": "2026-07-18+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555913031,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555912998,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555913048,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555913032,
+      "date": "2026-07-19+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555912990,
+      "date": "2026-07-19+01:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549218979,
+      "date": "2026-07-18+10:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549218980,
+      "date": "2026-07-18+14:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549218981,
+      "date": "2026-07-18+18:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549218982,
+      "date": "2026-07-18+22:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554329673,
+      "date": "2026-07-18+10:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554329674,
+      "date": "2026-07-18+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554329675,
+      "date": "2026-07-18+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554329676,
+      "date": "2026-07-18+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963640,
+      "date": "2026-07-18+11:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963630,
+      "date": "2026-07-18+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963639,
+      "date": "2026-07-18+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19107",
+      "theater_name": "AMC DINE-IN Fashion District 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963643,
+      "date": "2026-07-18+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549221093,
+      "date": "2026-07-18+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549221094,
+      "date": "2026-07-18+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549221095,
+      "date": "2026-07-18+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549221096,
+      "date": "2026-07-18+22:05",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549225715,
+      "date": "2026-07-18+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549225716,
+      "date": "2026-07-18+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549225717,
+      "date": "2026-07-18+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550333461,
+      "date": "2026-07-18+22:55",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555914525,
+      "date": "2026-07-18+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555914524,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554346367,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554346368,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550458505,
+      "date": "2026-07-18+09:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555914550,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555914549,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550458503,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556154692,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555914551,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550458504,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556154691,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20007",
+      "theater_name": "AMC Georgetown 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550458502,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549241412,
+      "date": "2026-07-18+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549241413,
+      "date": "2026-07-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549241414,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550483654,
+      "date": "2026-07-18+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549212189,
+      "date": "2026-07-18+10:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549212190,
+      "date": "2026-07-18+14:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549212191,
+      "date": "2026-07-18+18:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549212192,
+      "date": "2026-07-18+22:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550449081,
+      "date": "2026-07-18+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556181373,
+      "date": "2026-07-18+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550449084,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555309148,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550449083,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555309147,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555309146,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556161966,
+      "date": "2026-07-18+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550449082,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550449080,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556169515,
+      "date": "2026-07-18+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555786466,
+      "date": "2026-07-18+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555786447,
+      "date": "2026-07-18+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 550177978,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555786439,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 550177979,
+      "date": "2026-07-18+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555786440,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 550177980,
+      "date": "2026-07-18+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555786441,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Commons Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555786611,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Malco Tupelo Commons Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 556035683,
+      "date": "2026-07-18+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Malco Tupelo Commons Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 556127611,
+      "date": "2026-07-18+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Malco Tupelo Commons Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 554454610,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Malco Tupelo Commons Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 556035652,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Malco Tupelo Commons Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 550188732,
+      "date": "2026-07-18+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Malco Tupelo Commons Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 556035651,
+      "date": "2026-07-18+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Malco Tupelo Commons Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 554454611,
+      "date": "2026-07-18+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Malco Tupelo Commons Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 556035662,
+      "date": "2026-07-18+19:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550882768,
+      "date": "2026-07-18+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556036776,
+      "date": "2026-07-18+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550882769,
+      "date": "2026-07-18+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556036777,
+      "date": "2026-07-18+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550882770,
+      "date": "2026-07-18+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556036778,
+      "date": "2026-07-18+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550882771,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Tupelo",
+      "zip": "38804",
+      "theater_name": "Cinemark Tupelo Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556036779,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549221483,
+      "date": "2026-07-18+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549221484,
+      "date": "2026-07-18+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549221485,
+      "date": "2026-07-18+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549221486,
+      "date": "2026-07-18+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549227790,
+      "date": "2026-07-18+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549227791,
+      "date": "2026-07-18+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549227792,
+      "date": "2026-07-18+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550318663,
+      "date": "2026-07-18+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555855662,
+      "date": "2026-07-18+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550789012,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555855680,
+      "date": "2026-07-18+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555855676,
+      "date": "2026-07-18+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550789011,
+      "date": "2026-07-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555855682,
+      "date": "2026-07-18+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556110408,
+      "date": "2026-07-18+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550789010,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556110407,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555855681,
+      "date": "2026-07-18+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Oak Brook",
+      "zip": "60523",
+      "theater_name": "AMC Oakbrook Center 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556110406,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550034816,
+      "date": "2026-07-18+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550034817,
+      "date": "2026-07-18+14:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550034818,
+      "date": "2026-07-18+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550034819,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889484,
+      "date": "2026-07-18+11:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550531434,
+      "date": "2026-07-18+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889461,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889453,
+      "date": "2026-07-18+13:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889485,
+      "date": "2026-07-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550531435,
+      "date": "2026-07-18+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889462,
+      "date": "2026-07-18+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889454,
+      "date": "2026-07-18+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889486,
+      "date": "2026-07-18+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550531436,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889463,
+      "date": "2026-07-18+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Rothschild",
+      "zip": "54474",
+      "theater_name": "Marcus Cedar Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555889455,
+      "date": "2026-07-18+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 555279495,
+      "date": "2026-07-18+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 555279500,
+      "date": "2026-07-18+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 555279498,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 555279496,
+      "date": "2026-07-18+15:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 555279501,
+      "date": "2026-07-18+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 555279499,
+      "date": "2026-07-18+18:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 555279497,
+      "date": "2026-07-18+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 555279502,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 550060592,
+      "date": "2026-07-18+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 555336078,
+      "date": "2026-07-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 550060593,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 555336079,
+      "date": "2026-07-18+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 550060594,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 555336074,
+      "date": "2026-07-18+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 555336071,
+      "date": "2026-07-18+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 555336075,
+      "date": "2026-07-18+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 555336072,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 555336076,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Warrensburg",
+      "zip": "64093",
+      "theater_name": "B&B Theatres Warrensburg 10",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 555336073,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333479,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333480,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333481,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333485,
+      "date": "2026-07-18+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 552474674,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333482,
+      "date": "2026-07-18+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333486,
+      "date": "2026-07-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 552474675,
+      "date": "2026-07-18+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333483,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333487,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 552474676,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 555333484,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 550307789,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555773411,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555773408,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555773439,
+      "date": "2026-07-18+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 550307790,
+      "date": "2026-07-18+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555773412,
+      "date": "2026-07-18+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555773409,
+      "date": "2026-07-18+16:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555773440,
+      "date": "2026-07-18+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 550307791,
+      "date": "2026-07-18+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555773413,
+      "date": "2026-07-18+19:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 555773410,
+      "date": "2026-07-18+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fort Smith",
+      "zip": "72903",
+      "theater_name": "Malco Fort Smith Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 556177379,
+      "date": "2026-07-18+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210405,
+      "date": "2026-07-18+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210406,
+      "date": "2026-07-18+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210407,
+      "date": "2026-07-18+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210408,
+      "date": "2026-07-18+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226333,
+      "date": "2026-07-18+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226334,
+      "date": "2026-07-18+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226335,
+      "date": "2026-07-18+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915323,
+      "date": "2026-07-18+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549230961,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549230962,
+      "date": "2026-07-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549230963,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915361,
+      "date": "2026-07-18+10:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915349,
+      "date": "2026-07-18+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915348,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915347,
+      "date": "2026-07-18+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915345,
+      "date": "2026-07-18+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915344,
+      "date": "2026-07-18+14:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550637890,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915342,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550637889,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555915343,
+      "date": "2026-07-18+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550637891,
+      "date": "2026-07-18+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Borger",
+      "zip": "79008",
+      "theater_name": "Mitchell Theatres Morley Theatre",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 555256859,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Borger",
+      "zip": "79008",
+      "theater_name": "Mitchell Theatres Morley Theatre",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 555256864,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Dillon",
+      "zip": "80435",
+      "theater_name": "Mitchell Theatres Skyline Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 555260255,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Dillon",
+      "zip": "80435",
+      "theater_name": "Mitchell Theatres Skyline Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 555260267,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Dillon",
+      "zip": "80435",
+      "theater_name": "Mitchell Theatres Skyline Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 555260268,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Dillon",
+      "zip": "80435",
+      "theater_name": "Mitchell Theatres Skyline Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 555260275,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "The Lamphouse Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 550411143,
+      "date": "2026-07-18+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "The Lamphouse Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 550411132,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "The Lamphouse Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 550411133,
+      "date": "2026-07-18+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550135490,
+      "date": "2026-07-18+08:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550135539,
+      "date": "2026-07-18+11:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550135500,
+      "date": "2026-07-18+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550135497,
+      "date": "2026-07-18+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550191907,
+      "date": "2026-07-18+22:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555511029,
+      "date": "2026-07-18+09:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555511009,
+      "date": "2026-07-18+11:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555511143,
+      "date": "2026-07-18+12:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555510950,
+      "date": "2026-07-18+15:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555510989,
+      "date": "2026-07-18+16:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555511190,
+      "date": "2026-07-18+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555511177,
+      "date": "2026-07-18+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555511020,
+      "date": "2026-07-18+22:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 555510957,
+      "date": "2026-07-18+23:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550135550,
+      "date": "2026-07-18+10:55",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550135556,
+      "date": "2026-07-18+14:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550135498,
+      "date": "2026-07-18+18:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Twin Falls",
+      "zip": "83301",
+      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 550135555,
+      "date": "2026-07-18+21:55",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Peoria",
+      "zip": "85345",
+      "theater_name": "Harkins Park West 14",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 550179062,
+      "date": "2026-07-18+23:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550852149,
+      "date": "2026-07-18+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550852153,
+      "date": "2026-07-18+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555753493,
+      "date": "2026-07-18+09:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550852150,
+      "date": "2026-07-18+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550852154,
+      "date": "2026-07-18+13:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555753494,
+      "date": "2026-07-18+13:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555753495,
+      "date": "2026-07-18+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550852151,
+      "date": "2026-07-18+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550852155,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555753496,
+      "date": "2026-07-18+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550852152,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Sierra Vista",
+      "zip": "85635",
+      "theater_name": "Cinemark Sierra Vista 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555753477,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554548904,
+      "date": "2026-07-18+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550726850,
+      "date": "2026-07-18+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554548905,
+      "date": "2026-07-18+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550726851,
+      "date": "2026-07-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556109133,
+      "date": "2026-07-18+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554548906,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550726852,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556199182,
+      "date": "2026-07-18+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550726857,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556109134,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Monica",
+      "zip": "90401",
+      "theater_name": "AMC Santa Monica 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554548907,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550012219,
+      "date": "2026-07-18+07:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259057,
+      "date": "2026-07-18+11:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259058,
+      "date": "2026-07-18+15:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259059,
+      "date": "2026-07-18+23:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550212402,
+      "date": "2026-07-19+03:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555964926,
+      "date": "2026-07-18+19:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259055,
+      "date": "2026-07-18+08:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259056,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259053,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259054,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550012218,
+      "date": "2026-07-18+23:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683597,
+      "date": "2026-07-18+08:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683596,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683595,
+      "date": "2026-07-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683594,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683598,
+      "date": "2026-07-19+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259049,
+      "date": "2026-07-18+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259050,
+      "date": "2026-07-18+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259051,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549259052,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552417541,
+      "date": "2026-07-19+02:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551486865,
+      "date": "2026-07-18+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551486862,
+      "date": "2026-07-18+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551486866,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683601,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551486863,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551486867,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683608,
+      "date": "2026-07-18+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683600,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683625,
+      "date": "2026-07-18+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683609,
+      "date": "2026-07-18+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551486864,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551486868,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683607,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551486861,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683599,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683610,
+      "date": "2026-07-18+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683565,
+      "date": "2026-07-18+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555683602,
+      "date": "2026-07-18+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GU",
+      "city": "Tamuning",
+      "zip": "96911",
+      "theater_name": "Regal Guam Megaplex",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550290436,
+      "date": "2026-07-18+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GU",
+      "city": "Tamuning",
+      "zip": "96911",
+      "theater_name": "Regal Guam Megaplex",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550290427,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GU",
+      "city": "Tamuning",
+      "zip": "96911",
+      "theater_name": "Regal Guam Megaplex",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556198463,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GU",
+      "city": "Tamuning",
+      "zip": "96911",
+      "theater_name": "Regal Guam Megaplex",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555600004,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GU",
+      "city": "Tamuning",
+      "zip": "96911",
+      "theater_name": "Regal Guam Megaplex",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555600007,
+      "date": "2026-07-18+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GU",
+      "city": "Tamuning",
+      "zip": "96911",
+      "theater_name": "Regal Guam Megaplex",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550290435,
+      "date": "2026-07-18+22:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
