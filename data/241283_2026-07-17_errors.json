@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 07:16:31 AM",
+  "last_updated": "2026-07-18 10:13:24 AM",
   "errors": [
     {
       "state": "MA",
@@ -557309,6 +557309,531 @@
       "language": "Unknown",
       "error": {
         "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Levittown",
+      "zip": "11756",
+      "theater_name": "AMC Levittown 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556187298,
+      "date": "2026-07-17+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Camp Hill",
+      "zip": "17011",
+      "theater_name": "AMC Camp Hill 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556177584,
+      "date": "2026-07-17+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27518",
+      "theater_name": "Regal Crossroads - Cary",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556187299,
+      "date": "2026-07-18+01:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Wilmington",
+      "zip": "28405",
+      "theater_name": "Regal Mayfaire",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556185849,
+      "date": "2026-07-17+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556184157,
+      "date": "2026-07-18+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32828",
+      "theater_name": "Regal Waterford Lakes",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556185992,
+      "date": "2026-07-17+23:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Gurnee",
+      "zip": "60031",
+      "theater_name": "Marcus Gurnee Mills Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 556186542,
+      "date": "2026-07-17+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Bozeman",
+      "zip": "59718",
+      "theater_name": "Regal Gallatin Valley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556188124,
+      "date": "2026-07-17+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Bozeman",
+      "zip": "59718",
+      "theater_name": "Regal Gallatin Valley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556188125,
+      "date": "2026-07-17+22:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556187401,
+      "date": "2026-07-17+21:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556187400,
+      "date": "2026-07-17+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Ruston",
+      "zip": "71270",
+      "theater_name": "Celebrity Theatres Ruston 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556185848,
+      "date": "2026-07-17+21:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fayetteville",
+      "zip": "72703",
+      "theater_name": "AMC Fiesta Square 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556184049,
+      "date": "2026-07-17+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556177977,
+      "date": "2026-07-17+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78209",
+      "theater_name": "Regal Alamo Quarry",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556187769,
+      "date": "2026-07-17+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78205",
+      "theater_name": "AMC Rivercenter 11 with Alamo IMAX",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556169507,
+      "date": "2026-07-17+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McAllen",
+      "zip": "78504",
+      "theater_name": "Cinemark Hollywood USA McAllen North",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556187693,
+      "date": "2026-07-17+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556184119,
+      "date": "2026-07-17+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556184120,
+      "date": "2026-07-17+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Littleton",
+      "zip": "80123",
+      "theater_name": "AMC Bowles Crossing 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556187466,
+      "date": "2026-07-17+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "UT",
+      "city": "American Fork",
+      "zip": "84003",
+      "theater_name": "Cinemark American Fork",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556182111,
+      "date": "2026-07-17+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Orem",
+      "zip": "84097",
+      "theater_name": "Cinemark University Mall",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556189977,
+      "date": "2026-07-17+23:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Montebello",
+      "zip": "90640",
+      "theater_name": "AMC Montebello 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556187411,
+      "date": "2026-07-17+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fullerton",
+      "zip": "92832",
+      "theater_name": "AMC Fullerton 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556192182,
+      "date": "2026-07-17+22:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Palmdale",
+      "zip": "93551",
+      "theater_name": "Cinemark at Antelope Valley Mall",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556176479,
+      "date": "2026-07-17+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cinemark Century at Pacific Commons and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556192685,
+      "date": "2026-07-17+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95814",
+      "theater_name": "Cinemark Century DOCO and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556187768,
+      "date": "2026-07-17+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "HI",
+      "city": "Pearl City",
+      "zip": "96782",
+      "theater_name": "Regal Pearl Highlands",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556188668,
+      "date": "2026-07-17+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "HI",
+      "city": "Kahului",
+      "zip": "96732",
+      "theater_name": "Regal Maui Mall",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550311628,
+      "date": "2026-07-17+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kent",
+      "zip": "98032",
+      "theater_name": "AMC Kent Station 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556193279,
+      "date": "2026-07-17+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Gig Harbor",
+      "zip": "98335",
+      "theater_name": "Galaxy Gig Harbor",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 556193149,
+      "date": "2026-07-17+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Spokane",
+      "zip": "99201",
+      "theater_name": "AMC River Park Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556170464,
+      "date": "2026-07-17+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Spokane",
+      "zip": "99201",
+      "theater_name": "AMC River Park Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556170465,
+      "date": "2026-07-17+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Spokane",
+      "zip": "99201",
+      "theater_name": "AMC River Park Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556170466,
+      "date": "2026-07-17+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Spokane",
+      "zip": "99201",
+      "theater_name": "AMC River Park Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556191357,
+      "date": "2026-07-17+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
