@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 03:13:24 AM",
+  "last_updated": "2026-07-19 04:11:26 AM",
   "errors": [
     {
       "state": "MA",
@@ -567389,6 +567389,981 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Burlington",
+      "zip": "01803",
+      "theater_name": "AMC Burlington Cinema 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556216465,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Stony Brook",
+      "zip": "11790",
+      "theater_name": "AMC Loews Stony Brook 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556217390,
+      "date": "2026-07-18+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "AMC Wayne 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556213502,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217095,
+      "date": "2026-07-18+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Woodhaven 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556216552,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Langhorne",
+      "zip": "19047",
+      "theater_name": "Regal UA Oxford Valley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556215853,
+      "date": "2026-07-18+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19104",
+      "theater_name": "Cinemark University City Penn 6",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216733,
+      "date": "2026-07-18+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Newtown Square",
+      "zip": "19073",
+      "theater_name": "Regal Edgmont Square",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556216242,
+      "date": "2026-07-18+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Conshohocken",
+      "zip": "19428",
+      "theater_name": "Regal Plymouth Meeting",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556216241,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Kew Gardens",
+      "zip": "11415",
+      "theater_name": "Kew Gardens Cinemas",
+      "chainName": "Brielle",
+      "chainCode": "BRIE",
+      "showtime_id": 556217300,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lynbrook",
+      "zip": "11563",
+      "theater_name": "Regal Lynbrook",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217297,
+      "date": "2026-07-18+23:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "York",
+      "zip": "17408",
+      "theater_name": "Regal West Manchester",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217268,
+      "date": "2026-07-18+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Towson",
+      "zip": "21286",
+      "theater_name": "Cinemark Towson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216958,
+      "date": "2026-07-18+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Collegeville",
+      "zip": "19426",
+      "theater_name": "Movie Tavern Collegeville Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 556216799,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Rockville",
+      "zip": "20850",
+      "theater_name": "Regal Rockville Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556215591,
+      "date": "2026-07-18+21:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217949,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Morrisville",
+      "zip": "27560",
+      "theater_name": "AMC Park Place 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556217391,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28273",
+      "theater_name": "AMC Carolina Pavilion 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556213501,
+      "date": "2026-07-18+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Sugarloaf Mills 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556216565,
+      "date": "2026-07-18+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Gainesville",
+      "zip": "32608",
+      "theater_name": "Regal Celebration Pointe",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556216199,
+      "date": "2026-07-18+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Miami",
+      "zip": "33183",
+      "theater_name": "Regal Kendall Village",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556216965,
+      "date": "2026-07-19+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963855,
+      "date": "2026-07-18+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963861,
+      "date": "2026-07-18+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963875,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963835,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963865,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963854,
+      "date": "2026-07-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963860,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550484812,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963834,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963864,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963853,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550484815,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963874,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963833,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963866,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963863,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550484813,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Sarasota",
+      "zip": "34236",
+      "theater_name": "Regal Hollywood - Sarasota",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556218110,
+      "date": "2026-07-18+21:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Lexington",
+      "zip": "40503",
+      "theater_name": "Cinemark Fayette Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216952,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43240",
+      "theater_name": "Cinemark Polaris 18 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216955,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46825",
+      "theater_name": "Regal Coldwater Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556216359,
+      "date": "2026-07-18+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Woodhaven",
+      "zip": "48183",
+      "theater_name": "Emagine Woodhaven",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556216555,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greendale",
+      "zip": "47025",
+      "theater_name": "Greendale Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556218140,
+      "date": "2026-07-18+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556216462,
+      "date": "2026-07-18+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Wichita",
+      "zip": "67206",
+      "theater_name": "Regal Warren East",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217267,
+      "date": "2026-07-18+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Hastings",
+      "zip": "68901",
+      "theater_name": "Golden Ticket Cinemas Hastings",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 556216202,
+      "date": "2026-07-18+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Wichita Falls",
+      "zip": "76308",
+      "theater_name": "Cinemark Wichita Falls 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216949,
+      "date": "2026-07-18+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556217961,
+      "date": "2026-07-18+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556218007,
+      "date": "2026-07-18+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77002",
+      "theater_name": "AMC Houston 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556217628,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Kyle",
+      "zip": "78640",
+      "theater_name": "EVO Entertainment + EVX + IMAX - Kyle ",
+      "chainName": "Evo Entertainment",
+      "chainCode": "EVO",
+      "showtime_id": 556216947,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Brownsville",
+      "zip": "78520",
+      "theater_name": "Cinemark Sunrise Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216736,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "UT",
+      "city": "American Fork",
+      "zip": "84003",
+      "theater_name": "Cinemark American Fork",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216734,
+      "date": "2026-07-18+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "UT",
+      "city": "American Fork",
+      "zip": "84003",
+      "theater_name": "Cinemark American Fork",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216735,
+      "date": "2026-07-18+23:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89102",
+      "theater_name": "Regal Cinebarre Palace Station",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217905,
+      "date": "2026-07-18+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "North Hollywood",
+      "zip": "91606",
+      "theater_name": "Cinemark Century North Hollywood",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216737,
+      "date": "2026-07-18+23:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Rolling Hills Estates",
+      "zip": "90274",
+      "theater_name": "Regal Promenade",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217231,
+      "date": "2026-07-18+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Rolling Hills Estates",
+      "zip": "90274",
+      "theater_name": "Regal Promenade",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217232,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Rolling Hills Estates",
+      "zip": "90274",
+      "theater_name": "Regal Promenade",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217233,
+      "date": "2026-07-18+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Long Beach",
+      "zip": "90802",
+      "theater_name": "Cinemark At The Pike Outlets and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556216951,
+      "date": "2026-07-18+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91762",
+      "theater_name": "Regal Edwards Ontario Mountain Village",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556217096,
+      "date": "2026-07-18+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Leandro",
+      "zip": "94578",
+      "theater_name": "Cinemark Century Bayfair Mall 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556217952,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Leandro",
+      "zip": "94578",
+      "theater_name": "Cinemark Century Bayfair Mall 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556217951,
+      "date": "2026-07-18+20:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Leandro",
+      "zip": "94578",
+      "theater_name": "Cinemark Century Bayfair Mall 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556217955,
+      "date": "2026-07-18+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
       }
     }
   ]
