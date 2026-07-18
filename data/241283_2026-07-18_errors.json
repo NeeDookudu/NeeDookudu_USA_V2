@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 03:43:02 PM",
+  "last_updated": "2026-07-18 05:17:14 PM",
   "errors": [
     {
       "state": "MA",
@@ -557354,6 +557354,1491 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Sturbridge",
+      "zip": "01566",
+      "theater_name": "Entertainment Cinemas - Sturbridge Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 556199215,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "New Brunswick",
+      "zip": "08901",
+      "theater_name": "AMC New Brunswick 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556199225,
+      "date": "2026-07-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Wilmington",
+      "zip": "19803",
+      "theater_name": "Regal Brandywine Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556199330,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20001",
+      "theater_name": "Regal Gallery Place & 4DX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556199331,
+      "date": "2026-07-18+17:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 550299608,
+      "date": "2026-07-18+09:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 550299609,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 550299610,
+      "date": "2026-07-18+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 550299611,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 550997430,
+      "date": "2026-07-18+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 555434470,
+      "date": "2026-07-18+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 550997431,
+      "date": "2026-07-18+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 555434471,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 550997432,
+      "date": "2026-07-18+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 555434472,
+      "date": "2026-07-18+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 550997433,
+      "date": "2026-07-18+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Atoka",
+      "zip": "38004",
+      "theater_name": "Phoenix Theatres Atoka 16",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 555434473,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Massillon",
+      "zip": "44646",
+      "theater_name": "Regal Massillon",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556199350,
+      "date": "2026-07-18+20:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Massillon",
+      "zip": "44646",
+      "theater_name": "Regal Massillon",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556199349,
+      "date": "2026-07-18+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210563,
+      "date": "2026-07-18+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210564,
+      "date": "2026-07-18+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210565,
+      "date": "2026-07-18+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549210566,
+      "date": "2026-07-18+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727416,
+      "date": "2026-07-18+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551777621,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727427,
+      "date": "2026-07-18+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727399,
+      "date": "2026-07-18+13:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727444,
+      "date": "2026-07-18+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551777622,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727426,
+      "date": "2026-07-18+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727441,
+      "date": "2026-07-18+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727412,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551777623,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727413,
+      "date": "2026-07-18+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555727440,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550143019,
+      "date": "2026-07-18+10:05",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550143020,
+      "date": "2026-07-18+14:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550143021,
+      "date": "2026-07-18+18:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550143022,
+      "date": "2026-07-18+22:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550883555,
+      "date": "2026-07-18+09:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555836228,
+      "date": "2026-07-18+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550883556,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555836229,
+      "date": "2026-07-18+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550883557,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555836230,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555836260,
+      "date": "2026-07-18+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550883558,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555836231,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549209434,
+      "date": "2026-07-18+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549209435,
+      "date": "2026-07-18+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549209436,
+      "date": "2026-07-18+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549209437,
+      "date": "2026-07-18+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549243025,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549243026,
+      "date": "2026-07-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549243027,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549224686,
+      "date": "2026-07-18+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549224687,
+      "date": "2026-07-18+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549224688,
+      "date": "2026-07-18+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934300,
+      "date": "2026-07-18+22:50",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934301,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934302,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556109151,
+      "date": "2026-07-18+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934274,
+      "date": "2026-07-18+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551346167,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934326,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556165433,
+      "date": "2026-07-18+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934273,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551346166,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934327,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934265,
+      "date": "2026-07-18+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934272,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551346165,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934328,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555934264,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556193277,
+      "date": "2026-07-18+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556193278,
+      "date": "2026-07-18+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556109152,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226132,
+      "date": "2026-07-18+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226133,
+      "date": "2026-07-18+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226134,
+      "date": "2026-07-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549226135,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551175826,
+      "date": "2026-07-18+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938327,
+      "date": "2026-07-18+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938349,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938346,
+      "date": "2026-07-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938363,
+      "date": "2026-07-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551175827,
+      "date": "2026-07-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938328,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938350,
+      "date": "2026-07-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938347,
+      "date": "2026-07-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938362,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938364,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551175828,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938329,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938351,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938348,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938361,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555938370,
+      "date": "2026-07-18+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556199344,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Riverside",
+      "zip": "92503",
+      "theater_name": "AMC Tyler Galleria 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556199227,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
       }
     }
   ]
