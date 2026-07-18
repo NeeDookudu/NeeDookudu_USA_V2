@@ -557833,5 +557833,65 @@
     "error": {
       "status": 404
     }
+  },
+  {
+    "state": "FL",
+    "city": "Fort Myers",
+    "zip": "33913",
+    "theater_name": "Regal Gulf Coast",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556195801,
+    "date": "2026-07-18+01:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Fort Myers",
+    "zip": "33913",
+    "theater_name": "Regal Gulf Coast",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556195802,
+    "date": "2026-07-18+02:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Fort Myers",
+    "zip": "33913",
+    "theater_name": "Regal Gulf Coast",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556195803,
+    "date": "2026-07-18+02:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Laredo",
+    "zip": "78041",
+    "theater_name": "Cinemark Mall del Norte",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556191660,
+    "date": "2026-07-17+23:25",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
   }
 ]
