@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 11:20:15 PM",
+  "last_updated": "2026-07-19 12:22:21 AM",
   "errors": [
     {
       "state": "MA",
@@ -563849,6 +563849,771 @@
       "language": "Unknown",
       "error": {
         "status": 403
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Hadley",
+      "zip": "01035",
+      "theater_name": "Cinemark At Hampshire Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206586,
+      "date": "2026-07-18+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Forest Hills",
+      "zip": "11375",
+      "theater_name": "Regal UA Midway",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556207708,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Webster",
+      "zip": "14580",
+      "theater_name": "AMC Webster 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556206453,
+      "date": "2026-07-18+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Towson",
+      "zip": "21286",
+      "theater_name": "Cinemark Towson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206903,
+      "date": "2026-07-18+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Towson",
+      "zip": "21286",
+      "theater_name": "Cinemark Towson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206904,
+      "date": "2026-07-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Laurel",
+      "zip": "20707",
+      "theater_name": "Regal Laurel Towne Centre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556205961,
+      "date": "2026-07-18+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Laurel",
+      "zip": "20707",
+      "theater_name": "Regal Laurel Towne Centre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556205960,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Arlington",
+      "zip": "22201",
+      "theater_name": "AMC Courthouse Plaza 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556206331,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Arlington",
+      "zip": "22201",
+      "theater_name": "AMC Courthouse Plaza 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556206332,
+      "date": "2026-07-18+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Arlington",
+      "zip": "22203",
+      "theater_name": "Regal Ballston Quarter",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556208211,
+      "date": "2026-07-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Gainesville",
+      "zip": "20155",
+      "theater_name": "Regal Virginia Gateway & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556205911,
+      "date": "2026-07-18+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "St. Clairsville",
+      "zip": "43950",
+      "theater_name": "Golden Ticket St. Clairsville + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 556207566,
+      "date": "2026-07-18+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28273",
+      "theater_name": "Ayrsley Grand Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 556207176,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29577",
+      "theater_name": "Cinemark Myrtle Beach",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206590,
+      "date": "2026-07-18+22:50",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29577",
+      "theater_name": "Cinemark Myrtle Beach",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206589,
+      "date": "2026-07-18+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29577",
+      "theater_name": "Cinemark Myrtle Beach",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206588,
+      "date": "2026-07-18+23:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Fleming Island",
+      "zip": "32003",
+      "theater_name": "AMC Fleming Island 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555516384,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "St. Johns",
+      "zip": "32259",
+      "theater_name": "Cinemark Durbin Park and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206893,
+      "date": "2026-07-18+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Naples",
+      "zip": "34109",
+      "theater_name": "Regal Naples",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556205959,
+      "date": "2026-07-18+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40229",
+      "theater_name": "Cinemark Preston Crossings 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206907,
+      "date": "2026-07-18+20:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40207",
+      "theater_name": "Cinemark Mall St. Matthews and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206587,
+      "date": "2026-07-18+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Ypsilanti",
+      "zip": "48197",
+      "theater_name": "Ann Arbor 20 + IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556207998,
+      "date": "2026-07-19+02:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Taylor",
+      "zip": "48180",
+      "theater_name": "Cinemark Southland Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206888,
+      "date": "2026-07-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "West Carrollton",
+      "zip": "45449",
+      "theater_name": "Cinemark Dayton South 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556208045,
+      "date": "2026-07-18+19:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Portage",
+      "zip": "46368",
+      "theater_name": "Emagine Portage",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556206592,
+      "date": "2026-07-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60605",
+      "theater_name": "AMC Roosevelt Collection 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556204061,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60605",
+      "theater_name": "AMC Roosevelt Collection 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556204060,
+      "date": "2026-07-18+23:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC 600 North Michigan 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556207744,
+      "date": "2026-07-18+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Farmington Hills",
+      "zip": "48336",
+      "theater_name": "The Riviera Cinema",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556207324,
+      "date": "2026-07-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Novi",
+      "zip": "48377",
+      "theater_name": "Emagine Novi",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556207053,
+      "date": "2026-07-18+20:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Vernon Hills",
+      "zip": "60061",
+      "theater_name": "AMC Hawthorn 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556207905,
+      "date": "2026-07-18+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Vernon Hills",
+      "zip": "60061",
+      "theater_name": "AMC Hawthorn 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556207904,
+      "date": "2026-07-18+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Lakeville",
+      "zip": "55044",
+      "theater_name": "Emagine Lakeville ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556208106,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Woodridge",
+      "zip": "60517",
+      "theater_name": "Cinemark Seven Bridges and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206764,
+      "date": "2026-07-19+01:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Woodridge",
+      "zip": "60517",
+      "theater_name": "Cinemark Seven Bridges and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206765,
+      "date": "2026-07-19+02:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Joliet",
+      "zip": "60431",
+      "theater_name": "Cinemark Louis Joliet Mall",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556208058,
+      "date": "2026-07-18+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Oklahoma City",
+      "zip": "73111",
+      "theater_name": "Cinemark Tinseltown Oklahoma City and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206594,
+      "date": "2026-07-18+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Broken Arrow",
+      "zip": "74012",
+      "theater_name": "Cinemark Broken Arrow",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206887,
+      "date": "2026-07-18+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Broken Arrow",
+      "zip": "74011",
+      "theater_name": "Regal Warren Broken Arrow",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556207747,
+      "date": "2026-07-18+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76109",
+      "theater_name": "AMC DINE-IN Clearfork 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556207985,
+      "date": "2026-07-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Harker Heights",
+      "zip": "76548",
+      "theater_name": "Cinemark Harker Heights",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206902,
+      "date": "2026-07-18+23:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Edinburg",
+      "zip": "78539",
+      "theater_name": "Cinemark Bistro Edinburg",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206778,
+      "date": "2026-07-18+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89121",
+      "theater_name": "Regal Boulder Station",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556208105,
+      "date": "2026-07-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89135",
+      "theater_name": "Regal Summerlin Luxury",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556208089,
+      "date": "2026-07-18+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "El Segundo",
+      "zip": "90245",
+      "theater_name": "CinemaWest Beach Cities 4DX, ScreenX, & GSL",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 556206905,
+      "date": "2026-07-18+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "El Segundo",
+      "zip": "90245",
+      "theater_name": "CinemaWest Beach Cities 4DX, ScreenX, & GSL",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 556206906,
+      "date": "2026-07-18+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pico Rivera",
+      "zip": "90660",
+      "theater_name": "Cinépolis Pico Rivera",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 556206776,
+      "date": "2026-07-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556207984,
+      "date": "2026-07-18+23:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Federal Way",
+      "zip": "98003",
+      "theater_name": "Cinemark Century Federal Way and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206900,
+      "date": "2026-07-18+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Federal Way",
+      "zip": "98003",
+      "theater_name": "Cinemark Century Federal Way and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206899,
+      "date": "2026-07-18+21:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Federal Way",
+      "zip": "98003",
+      "theater_name": "Cinemark Century Federal Way and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556206898,
+      "date": "2026-07-18+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
