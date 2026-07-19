@@ -542308,5 +542308,410 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "MD",
+    "city": "Bethesda",
+    "zip": "20814",
+    "theater_name": "Landmark Bethesda Row Cinema",
+    "chainName": "Landmark",
+    "chainCode": "L",
+    "showtime_id": 555528383,
+    "date": "2026-07-19+16:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Bethesda",
+    "zip": "20814",
+    "theater_name": "Landmark Bethesda Row Cinema",
+    "chainName": "Landmark",
+    "chainCode": "L",
+    "showtime_id": 555528401,
+    "date": "2026-07-19+20:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Raleigh",
+    "zip": "27615",
+    "theater_name": "Triangle Cinemas",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 556234346,
+    "date": "2026-07-19+13:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Raleigh",
+    "zip": "27615",
+    "theater_name": "Triangle Cinemas",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 556234347,
+    "date": "2026-07-19+18:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Bethlehem",
+    "zip": "30620",
+    "theater_name": "AMC Bethlehem 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556234425,
+    "date": "2026-07-19+15:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Bethlehem",
+    "zip": "30620",
+    "theater_name": "AMC Bethlehem 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556234424,
+    "date": "2026-07-19+19:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Hialeah",
+    "zip": "33012",
+    "theater_name": "AMC Hialeah 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556234428,
+    "date": "2026-07-19+20:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Miami",
+    "zip": "33131",
+    "theater_name": "Silverspot Cinema Metsquare",
+    "chainName": "Silverspot Cinemas",
+    "chainCode": "SLVR",
+    "showtime_id": 556201152,
+    "date": "2026-07-19+12:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Miami",
+    "zip": "33131",
+    "theater_name": "Silverspot Cinema Metsquare",
+    "chainName": "Silverspot Cinemas",
+    "chainCode": "SLVR",
+    "showtime_id": 556201153,
+    "date": "2026-07-19+15:40",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Miami",
+    "zip": "33131",
+    "theater_name": "Silverspot Cinema Metsquare",
+    "chainName": "Silverspot Cinemas",
+    "chainCode": "SLVR",
+    "showtime_id": 556201151,
+    "date": "2026-07-19+22:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Boca Raton",
+    "zip": "33431",
+    "theater_name": "Cinemark Bistro Boca Raton and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234768,
+    "date": "2026-07-19+18:55",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60602",
+    "theater_name": "AMC DINE-IN Block 37 ",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556234496,
+    "date": "2026-07-19+13:45",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60602",
+    "theater_name": "AMC DINE-IN Block 37 ",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556234495,
+    "date": "2026-07-19+20:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Roanoke",
+    "zip": "76262",
+    "theater_name": "Cinemark Roanoke and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234235,
+    "date": "2026-07-19+19:40",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Roanoke",
+    "zip": "76262",
+    "theater_name": "Cinemark Roanoke and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234236,
+    "date": "2026-07-19+23:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Denton",
+    "zip": "76210",
+    "theater_name": "Cinemark Denton 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234231,
+    "date": "2026-07-19+19:30",
+    "format": "D-Box",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Denton",
+    "zip": "76210",
+    "theater_name": "Cinemark Denton 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234230,
+    "date": "2026-07-19+19:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Allen",
+    "zip": "75013",
+    "theater_name": "Cinemark Allen 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234228,
+    "date": "2026-07-19+19:05",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75033",
+    "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234724,
+    "date": "2026-07-19+21:10",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "McKinney",
+    "zip": "75071",
+    "theater_name": "Cinemark North McKinney and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234237,
+    "date": "2026-07-19+19:50",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Rockwall",
+    "zip": "75032",
+    "theater_name": "Cinemark Rockwall 14 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234233,
+    "date": "2026-07-19+19:50",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Mansfield",
+    "zip": "76063",
+    "theater_name": "Cinemark Mansfield and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234173,
+    "date": "2026-07-19+18:05",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CO",
+    "city": "Littleton",
+    "zip": "80123",
+    "theater_name": "AMC Bowles Crossing 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556232780,
+    "date": "2026-07-19+14:05",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Los Angeles",
+    "zip": "90045",
+    "theater_name": "Cinemark Howard Hughes Los Angeles and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556234770,
+    "date": "2026-07-19+19:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "CA",
+    "city": "El Segundo",
+    "zip": "90245",
+    "theater_name": "CinemaWest Beach Cities 4DX, ScreenX, & GSL",
+    "chainName": "Cinema West",
+    "chainCode": "CWST",
+    "showtime_id": 556234026,
+    "date": "2026-07-19+18:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "CA",
+    "city": "El Segundo",
+    "zip": "90245",
+    "theater_name": "CinemaWest Beach Cities 4DX, ScreenX, & GSL",
+    "chainName": "Cinema West",
+    "chainCode": "CWST",
+    "showtime_id": 556234025,
+    "date": "2026-07-19+20:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Chula Vista",
+    "zip": "91910",
+    "theater_name": "AMC Chula Vista 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556233134,
+    "date": "2026-07-19+21:45",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
   }
 ]
