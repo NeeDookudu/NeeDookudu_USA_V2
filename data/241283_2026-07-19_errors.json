@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20 01:35:19 AM",
+  "last_updated": "2026-07-20 03:13:49 AM",
   "errors": [
     {
       "state": "MA",
@@ -543085,6 +543085,336 @@
       "chainCode": "REGL",
       "showtime_id": 556236837,
       "date": "2026-07-19+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Rockaway",
+      "zip": "07866",
+      "theater_name": "AMC Rockaway 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556237527,
+      "date": "2026-07-19+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Sayre",
+      "zip": "18840",
+      "theater_name": "Sayre Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556239172,
+      "date": "2026-07-19+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Buffalo",
+      "zip": "14207",
+      "theater_name": "Regal Elmwood Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556238087,
+      "date": "2026-07-19+20:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Richmond",
+      "zip": "23230",
+      "theater_name": "BTM CINEMAS MOVIELAND AT BOULEVARD SQUARE",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 556238158,
+      "date": "2026-07-19+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549156372,
+      "date": "2026-07-19+19:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549156375,
+      "date": "2026-07-19+22:55",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Saline",
+      "zip": "48176",
+      "theater_name": "Emagine Saline ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556239155,
+      "date": "2026-07-19+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549209201,
+      "date": "2026-07-19+10:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549209202,
+      "date": "2026-07-19+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549209203,
+      "date": "2026-07-19+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549209204,
+      "date": "2026-07-19+22:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549225376,
+      "date": "2026-07-19+11:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549225377,
+      "date": "2026-07-19+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549225378,
+      "date": "2026-07-19+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550936817,
+      "date": "2026-07-19+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555537633,
+      "date": "2026-07-19+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550936818,
+      "date": "2026-07-19+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550936819,
+      "date": "2026-07-19+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550936816,
+      "date": "2026-07-19+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Broomfield",
+      "zip": "80021",
+      "theater_name": "AMC Flatiron Crossing 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550936820,
+      "date": "2026-07-19+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556237786,
+      "date": "2026-07-19+22:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98004",
+      "theater_name": "Cinemark Reserve Lincoln Square Dine-In – 21+",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556239161,
+      "date": "2026-07-19+21:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
