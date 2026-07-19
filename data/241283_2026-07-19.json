@@ -543673,5 +543673,155 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "MA",
+    "city": "Burlington",
+    "zip": "01803",
+    "theater_name": "AMC Burlington Cinema 10",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556241566,
+    "date": "2026-07-19+20:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "OH",
+    "city": "St. Clairsville",
+    "zip": "43950",
+    "theater_name": "Golden Ticket St. Clairsville + ELITE",
+    "chainName": "Golden Ticket Cinemas",
+    "chainCode": "GOLD",
+    "showtime_id": 550112644,
+    "date": "2026-07-19+23:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "St. Clairsville",
+    "zip": "43950",
+    "theater_name": "Golden Ticket St. Clairsville + ELITE",
+    "chainName": "Golden Ticket Cinemas",
+    "chainCode": "GOLD",
+    "showtime_id": 556038831,
+    "date": "2026-07-19+22:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "SC",
+    "city": "Columbia",
+    "zip": "29212",
+    "theater_name": "AMC Harbison 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556239587,
+    "date": "2026-07-19+22:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Lewisville",
+    "zip": "75067",
+    "theater_name": "Cinemark Lewisville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556241107,
+    "date": "2026-07-19+18:50",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556241609,
+    "date": "2026-07-19+22:50",
+    "format": "Dolby Cinema",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Healdsburg",
+    "zip": "95448",
+    "theater_name": "True West Film Center",
+    "chainName": "Agile Ticketing",
+    "chainCode": "AGLE",
+    "showtime_id": 552570780,
+    "date": "2026-07-19+20:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "HI",
+    "city": "Keauhou-Kona",
+    "zip": "96740",
+    "theater_name": "Regal Keauhou",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556239223,
+    "date": "2026-07-19+19:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556241761,
+    "date": "2026-07-19+18:20",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556241762,
+    "date": "2026-07-19+22:10",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
   }
 ]
