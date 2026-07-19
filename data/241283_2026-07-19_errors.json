@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 11:23:32 PM",
+  "last_updated": "2026-07-20 12:25:15 AM",
   "errors": [
     {
       "state": "MA",
@@ -542710,6 +542710,261 @@
       "chainCode": "AMC",
       "showtime_id": 556233134,
       "date": "2026-07-19+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10003",
+      "theater_name": "Regal Union Square ScreenX & 4DX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556234898,
+      "date": "2026-07-19+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10003",
+      "theater_name": "Regal Union Square ScreenX & 4DX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556234899,
+      "date": "2026-07-19+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10003",
+      "theater_name": "Regal Union Square ScreenX & 4DX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556234897,
+      "date": "2026-07-19+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Eatontown",
+      "zip": "07724",
+      "theater_name": "AMC Monmouth Mall 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556235174,
+      "date": "2026-07-19+22:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Forest Hills",
+      "zip": "11375",
+      "theater_name": "Regal UA Midway",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556236205,
+      "date": "2026-07-19+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Charlottesville",
+      "zip": "22901",
+      "theater_name": "Regal Stonefield",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549175071,
+      "date": "2026-07-19+15:05",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 556235070,
+      "date": "2026-07-19+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 556235068,
+      "date": "2026-07-19+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 556235069,
+      "date": "2026-07-19+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Lake Geneva",
+      "zip": "53147",
+      "theater_name": "Emagine Geneva Lakes",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556235145,
+      "date": "2026-07-19+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Plymouth",
+      "zip": "55441",
+      "theater_name": "Emagine Willow Creek ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556236213,
+      "date": "2026-07-19+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Plymouth",
+      "zip": "55441",
+      "theater_name": "Emagine Willow Creek ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556236214,
+      "date": "2026-07-19+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 556235027,
+      "date": "2026-07-19+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 556235028,
+      "date": "2026-07-19+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550214675,
+      "date": "2026-07-19+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550214676,
+      "date": "2026-07-19+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550214677,
+      "date": "2026-07-19+20:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
