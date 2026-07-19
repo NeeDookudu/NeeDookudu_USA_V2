@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 07:25:27 AM",
+  "last_updated": "2026-07-19 10:45:46 AM",
   "errors": [
     {
       "state": "MA",
@@ -569470,6 +569470,321 @@
       "chainCode": "REGL",
       "showtime_id": 556224049,
       "date": "2026-07-18+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Forest Hills",
+      "zip": "11375",
+      "theater_name": "Regal UA Midway",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556226312,
+      "date": "2026-07-18+23:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37214",
+      "theater_name": "Regal Opry Mills",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556224954,
+      "date": "2026-07-19+02:30",
+      "format": "4DX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77027",
+      "theater_name": "Regal Edwards Greenway Grand Palace ScreenX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556224732,
+      "date": "2026-07-18+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Fort Collins",
+      "zip": "80526",
+      "theater_name": "AMC Fort Collins 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556225078,
+      "date": "2026-07-18+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Montebello",
+      "zip": "90640",
+      "theater_name": "AMC Montebello 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556228801,
+      "date": "2026-07-18+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92126",
+      "theater_name": "Regal Edwards Mira Mesa ",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556228456,
+      "date": "2026-07-18+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95050",
+      "theater_name": "Alamo Drafthouse Valley Fair",
+      "chainName": "Alamo Drafthouse Cinemas",
+      "chainCode": "ALAM",
+      "showtime_id": 556225960,
+      "date": "2026-07-18+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556227490,
+      "date": "2026-07-18+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Redwood City",
+      "zip": "94063",
+      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556226247,
+      "date": "2026-07-18+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Leandro",
+      "zip": "94578",
+      "theater_name": "Cinemark Century Bayfair Mall 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556223835,
+      "date": "2026-07-18+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556219902,
+      "date": "2026-07-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 551187329,
+      "date": "2026-07-18+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555303908,
+      "date": "2026-07-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555303920,
+      "date": "2026-07-18+13:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 551187330,
+      "date": "2026-07-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555303909,
+      "date": "2026-07-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555303921,
+      "date": "2026-07-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 551187331,
+      "date": "2026-07-18+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555303910,
+      "date": "2026-07-18+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555320992,
+      "date": "2026-07-18+20:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kent",
+      "zip": "98032",
+      "theater_name": "AMC Kent Station 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556225951,
+      "date": "2026-07-18+23:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
