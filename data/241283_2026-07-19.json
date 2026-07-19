@@ -543418,5 +543418,260 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CT",
+    "city": "Stamford",
+    "zip": "06901",
+    "theater_name": "AMC Majestic 6",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556239634,
+    "date": "2026-07-19+18:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Bensalem",
+    "zip": "19020",
+    "theater_name": "AMC Neshaminy 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556239627,
+    "date": "2026-07-19+22:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Rockville",
+    "zip": "20850",
+    "theater_name": "Regal Rockville Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556240013,
+    "date": "2026-07-19+21:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Beltsville",
+    "zip": "20705",
+    "theater_name": "AMC Center Park 8",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555992582,
+    "date": "2026-07-19+20:45",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Roswell",
+    "zip": "30076",
+    "theater_name": "Aurora Cineplex",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 556240010,
+    "date": "2026-07-19+17:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Roswell",
+    "zip": "30076",
+    "theater_name": "Aurora Cineplex",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 556240012,
+    "date": "2026-07-19+19:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Roswell",
+    "zip": "30076",
+    "theater_name": "Aurora Cineplex",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 556240009,
+    "date": "2026-07-19+21:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Kennesaw",
+    "zip": "30144",
+    "theater_name": "AMC Barrett Commons 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556238511,
+    "date": "2026-07-19+22:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Brandon",
+    "zip": "33511",
+    "theater_name": "AMC The Regency 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556237808,
+    "date": "2026-07-19+22:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37215",
+    "theater_name": "Regal Green Hills",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556240754,
+    "date": "2026-07-19+19:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "IN",
+    "city": "Greenwood",
+    "zip": "46142",
+    "theater_name": "Regal Greenwood & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556240221,
+    "date": "2026-07-19+22:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Novi",
+    "zip": "48377",
+    "theater_name": "Emagine Novi",
+    "chainName": "Emagine",
+    "chainCode": "EMAG",
+    "showtime_id": 556240607,
+    "date": "2026-07-19+20:10",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NE",
+    "city": "Scottsbluff",
+    "zip": "69361",
+    "theater_name": "Golden Ticket Cinemas Reel Lux 6",
+    "chainName": "Golden Ticket Cinemas",
+    "chainCode": "GOLD",
+    "showtime_id": 556238608,
+    "date": "2026-07-19+20:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Mansfield",
+    "zip": "76063",
+    "theater_name": "Cinemark Mansfield and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556240761,
+    "date": "2026-07-19+16:20",
+    "format": "D-Box",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Mansfield",
+    "zip": "76063",
+    "theater_name": "Cinemark Mansfield and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556240767,
+    "date": "2026-07-19+16:20",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CO",
+    "city": "Aurora",
+    "zip": "80016",
+    "theater_name": "AMC Arapahoe Crossing 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556239642,
+    "date": "2026-07-19+22:05",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Petaluma",
+    "zip": "94952",
+    "theater_name": "CinemaWest Boulevard IMAX & ScreenX",
+    "chainName": "Cinema West",
+    "chainCode": "CWST",
+    "showtime_id": 556240495,
+    "date": "2026-07-19+20:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
   }
 ]
