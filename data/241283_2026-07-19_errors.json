@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20 12:25:15 AM",
+  "last_updated": "2026-07-20 01:35:19 AM",
   "errors": [
     {
       "state": "MA",
@@ -542965,6 +542965,126 @@
       "chainCode": "AMC",
       "showtime_id": 550214677,
       "date": "2026-07-19+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10024",
+      "theater_name": "AMC 84th Street 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556234427,
+      "date": "2026-07-19+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Charlottesville",
+      "zip": "22901",
+      "theater_name": "Regal Stonefield",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549175069,
+      "date": "2026-07-19+19:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Charlottesville",
+      "zip": "22901",
+      "theater_name": "Regal Stonefield",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549175070,
+      "date": "2026-07-19+22:55",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Kennesaw",
+      "zip": "30144",
+      "theater_name": "AMC Barrett Commons 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556236776,
+      "date": "2026-07-19+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60657",
+      "theater_name": "Alamo Drafthouse Wrigleyville",
+      "chainName": "Alamo Drafthouse Cinemas",
+      "chainCode": "ALAM",
+      "showtime_id": 556237671,
+      "date": "2026-07-19+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Plymouth",
+      "zip": "55441",
+      "theater_name": "Emagine Willow Creek ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 556236902,
+      "date": "2026-07-19+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "River Falls",
+      "zip": "54022",
+      "theater_name": "Falls Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556237372,
+      "date": "2026-07-19+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Portland",
+      "zip": "97204",
+      "theater_name": "Regal Pioneer Place",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556236837,
+      "date": "2026-07-19+16:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
