@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 09:21:15 PM",
+  "last_updated": "2026-07-19 10:19:09 PM",
   "errors": [
     {
       "state": "MA",
@@ -541709,6 +541709,606 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Somerville",
+      "zip": "02145",
+      "theater_name": "AMC Assembly Row 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556233125,
+      "date": "2026-07-19+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Glen Cove",
+      "zip": "11542",
+      "theater_name": "AMC Glen Cove 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556233627,
+      "date": "2026-07-19+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Manayunk",
+      "zip": "19127",
+      "theater_name": "Regal UA Main Street",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556233451,
+      "date": "2026-07-19+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hunt Valley",
+      "zip": "21030",
+      "theater_name": "Regal Hunt Valley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556233280,
+      "date": "2026-07-19+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hunt Valley",
+      "zip": "21030",
+      "theater_name": "Regal Hunt Valley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556233281,
+      "date": "2026-07-19+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549937769,
+      "date": "2026-07-19+11:40",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549937772,
+      "date": "2026-07-19+15:20",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 508589787,
+      "date": "2026-07-19+19:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549937775,
+      "date": "2026-07-19+22:40",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549937776,
+      "date": "2026-07-20+02:15",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555169263,
+      "date": "2026-07-19+14:20",
+      "format": "4DX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549937773,
+      "date": "2026-07-19+18:20",
+      "format": "4DX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549937774,
+      "date": "2026-07-19+22:20",
+      "format": "4DX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549937777,
+      "date": "2026-07-20+02:25",
+      "format": "4DX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550347755,
+      "date": "2026-07-19+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774711,
+      "date": "2026-07-19+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550347721,
+      "date": "2026-07-19+13:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774712,
+      "date": "2026-07-19+14:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774743,
+      "date": "2026-07-19+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774713,
+      "date": "2026-07-19+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550347720,
+      "date": "2026-07-19+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774716,
+      "date": "2026-07-19+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774744,
+      "date": "2026-07-19+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550347717,
+      "date": "2026-07-19+20:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774718,
+      "date": "2026-07-19+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550347719,
+      "date": "2026-07-19+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774750,
+      "date": "2026-07-19+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774745,
+      "date": "2026-07-19+23:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550347718,
+      "date": "2026-07-20+00:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555774720,
+      "date": "2026-07-20+01:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "King Of Prussia",
+      "zip": "19406",
+      "theater_name": "Regal UA King Of Prussia",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 550347716,
+      "date": "2026-07-19+16:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Charleston",
+      "zip": "29412",
+      "theater_name": "Terrace Theater",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 556233282,
+      "date": "2026-07-19+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30326",
+      "theater_name": "AMC Phipps Plaza 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556232759,
+      "date": "2026-07-19+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60610",
+      "theater_name": "AMC NEWCITY 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556233770,
+      "date": "2026-07-19+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Dallas",
+      "zip": "75219",
+      "theater_name": "Cinepolis Luxury Cinema Victory Park",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 556233279,
+      "date": "2026-07-19+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 556233322,
+      "date": "2026-07-19+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 556233323,
+      "date": "2026-07-19+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 556233324,
+      "date": "2026-07-19+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "West Hills",
+      "zip": "91307",
+      "theater_name": "AMC Fallbrook 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556233122,
+      "date": "2026-07-19+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92108",
+      "theater_name": "AMC Fashion Valley 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556233138,
+      "date": "2026-07-19+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
       }
     }
   ]
