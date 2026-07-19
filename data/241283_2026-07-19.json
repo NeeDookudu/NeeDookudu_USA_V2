@@ -540358,5 +540358,230 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "MD",
+    "city": "Laurel",
+    "zip": "20707",
+    "theater_name": "Regal Laurel Towne Centre",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 556231821,
+    "date": "2026-07-19+22:50",
+    "format": "RPX",
+    "language": "Unknown",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Oviedo",
+    "zip": "32765",
+    "theater_name": "Regal Oviedo Mall",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 555822266,
+    "date": "2026-07-19+11:55",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33634",
+    "theater_name": "AMC Veterans 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556231824,
+    "date": "2026-07-19+18:10",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43235",
+    "theater_name": "Marcus Crosswoods Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 556231810,
+    "date": "2026-07-19+14:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43235",
+    "theater_name": "Marcus Crosswoods Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 556231809,
+    "date": "2026-07-19+17:40",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43235",
+    "theater_name": "Marcus Crosswoods Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 556231808,
+    "date": "2026-07-19+21:20",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MN",
+    "city": "Edina",
+    "zip": "55435",
+    "theater_name": "AMC Southdale 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556231823,
+    "date": "2026-07-19+22:45",
+    "format": "Dolby Cinema",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60615",
+    "theater_name": "ACX Harper Theater",
+    "chainName": "Main Street Theatres",
+    "chainCode": "MAIN",
+    "showtime_id": 556231800,
+    "date": "2026-07-19+12:00",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60615",
+    "theater_name": "ACX Harper Theater",
+    "chainName": "Main Street Theatres",
+    "chainCode": "MAIN",
+    "showtime_id": 556231801,
+    "date": "2026-07-19+15:40",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60615",
+    "theater_name": "ACX Harper Theater",
+    "chainName": "Main Street Theatres",
+    "chainCode": "MAIN",
+    "showtime_id": 556231781,
+    "date": "2026-07-19+21:20",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Grapevine",
+    "zip": "76051",
+    "theater_name": "Cinemark Tinseltown Grapevine and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556231860,
+    "date": "2026-07-19+18:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Grapevine",
+    "zip": "76051",
+    "theater_name": "Cinemark Tinseltown Grapevine and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556231861,
+    "date": "2026-07-19+19:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pflugerville",
+    "zip": "78660",
+    "theater_name": "Cinemark Pflugerville 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556231862,
+    "date": "2026-07-19+07:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pflugerville",
+    "zip": "78660",
+    "theater_name": "Cinemark Pflugerville 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 556231863,
+    "date": "2026-07-19+21:40",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CO",
+    "city": "Loveland",
+    "zip": "80537",
+    "theater_name": "MetroLux Dine-In Theatres at the Foundry",
+    "chainName": "Metropolitan Theatres",
+    "chainCode": "MTRO",
+    "showtime_id": 556231799,
+    "date": "2026-07-19+12:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 403
+    }
   }
 ]
