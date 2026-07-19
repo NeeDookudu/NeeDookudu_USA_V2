@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 06:29:22 PM",
+  "last_updated": "2026-07-19 07:54:25 PM",
   "errors": [
     {
       "state": "MA",
@@ -540580,6 +540580,591 @@
       "chainCode": "MTRO",
       "showtime_id": 556231799,
       "date": "2026-07-19+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Linden",
+      "zip": "07036",
+      "theater_name": "AMC Aviation 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556232042,
+      "date": "2026-07-19+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Forest Hills",
+      "zip": "11375",
+      "theater_name": "Regal UA Midway",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556232204,
+      "date": "2026-07-19+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Sterling",
+      "zip": "20164",
+      "theater_name": "Regal Dulles Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556231958,
+      "date": "2026-07-19+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Charlottesville",
+      "zip": "22901",
+      "theater_name": "Regal Stonefield",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549175072,
+      "date": "2026-07-19+11:10",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556232040,
+      "date": "2026-07-19+19:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556232039,
+      "date": "2026-07-19+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Coconut Creek",
+      "zip": "33073",
+      "theater_name": "Silverspot Cinema Coconut Creek 11",
+      "chainName": "Silverspot Cinemas",
+      "chainCode": "SLVR",
+      "showtime_id": 556232205,
+      "date": "2026-07-19+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "theater_name": "Cinemark Cedar Park",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231950,
+      "date": "2026-07-19+19:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "theater_name": "Cinemark Cedar Park",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231951,
+      "date": "2026-07-19+23:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cypress",
+      "zip": "77433",
+      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231952,
+      "date": "2026-07-19+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231938,
+      "date": "2026-07-19+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rosenberg",
+      "zip": "77471",
+      "theater_name": "Cinemark Rosenberg 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231947,
+      "date": "2026-07-19+14:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Schertz",
+      "zip": "78154",
+      "theater_name": "EVO Entertainment Schertz + EVX",
+      "chainName": "Evo Entertainment",
+      "chainCode": "EVO",
+      "showtime_id": 555414593,
+      "date": "2026-07-19+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Corpus Christi",
+      "zip": "78412",
+      "theater_name": "Cinemark Century Corpus Christi 16 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231940,
+      "date": "2026-07-19+20:50",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Corpus Christi",
+      "zip": "78412",
+      "theater_name": "Cinemark Century Corpus Christi 16 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231941,
+      "date": "2026-07-19+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Corpus Christi",
+      "zip": "78412",
+      "theater_name": "Cinemark Century Corpus Christi 16 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231943,
+      "date": "2026-07-19+19:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Corpus Christi",
+      "zip": "78412",
+      "theater_name": "Cinemark Century Corpus Christi 16 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231939,
+      "date": "2026-07-19+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Meridian",
+      "zip": "83642",
+      "theater_name": "Cinemark Majestic Cinemas",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231946,
+      "date": "2026-07-19+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Huntington Beach",
+      "zip": "92647",
+      "theater_name": "Cinemark Century Huntington Beach and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231953,
+      "date": "2026-07-19+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Huntington Beach",
+      "zip": "92647",
+      "theater_name": "Cinemark Century Huntington Beach and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231954,
+      "date": "2026-07-19+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Huntington Beach",
+      "zip": "92647",
+      "theater_name": "Cinemark Century Huntington Beach and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231955,
+      "date": "2026-07-19+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Huntington Beach",
+      "zip": "92647",
+      "theater_name": "Cinemark Century Huntington Beach and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231956,
+      "date": "2026-07-19+23:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Rancho Mirage",
+      "zip": "92270",
+      "theater_name": "Cinemark Century at the River and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231932,
+      "date": "2026-07-19+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ventura",
+      "zip": "93001",
+      "theater_name": "Cinemark Century Ventura Downtown 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231935,
+      "date": "2026-07-19+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ventura",
+      "zip": "93001",
+      "theater_name": "Cinemark Century Ventura Downtown 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231936,
+      "date": "2026-07-19+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ridgecrest",
+      "zip": "93555",
+      "theater_name": "Ridgecrest Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 550854658,
+      "date": "2026-07-19+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ridgecrest",
+      "zip": "93555",
+      "theater_name": "Ridgecrest Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 550854657,
+      "date": "2026-07-19+16:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ridgecrest",
+      "zip": "93555",
+      "theater_name": "Ridgecrest Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 550854656,
+      "date": "2026-07-19+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95128",
+      "theater_name": "Cinemark CinéArts Santana Row",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231875,
+      "date": "2026-07-19+22:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Daly City",
+      "zip": "94015",
+      "theater_name": "Cinemark Century Daly City 20 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231934,
+      "date": "2026-07-19+19:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Mateo",
+      "zip": "94401",
+      "theater_name": "Cinemark Century San Mateo 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231944,
+      "date": "2026-07-19+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Mateo",
+      "zip": "94401",
+      "theater_name": "Cinemark Century San Mateo 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231945,
+      "date": "2026-07-19+22:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Petaluma",
+      "zip": "94952",
+      "theater_name": "CinemaWest Boulevard IMAX & ScreenX",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 556231968,
+      "date": "2026-07-19+08:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Petaluma",
+      "zip": "94952",
+      "theater_name": "CinemaWest Boulevard IMAX & ScreenX",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 556231970,
+      "date": "2026-07-19+12:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Petaluma",
+      "zip": "94952",
+      "theater_name": "CinemaWest Boulevard IMAX & ScreenX",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 556231971,
+      "date": "2026-07-19+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Petaluma",
+      "zip": "94952",
+      "theater_name": "CinemaWest Boulevard IMAX & ScreenX",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 556231967,
+      "date": "2026-07-19+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Petaluma",
+      "zip": "94952",
+      "theater_name": "CinemaWest Boulevard IMAX & ScreenX",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 556231969,
+      "date": "2026-07-19+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Beaverton",
+      "zip": "97005",
+      "theater_name": "Cinemark Cedar Hills 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231937,
+      "date": "2026-07-19+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Springfield",
+      "zip": "97477",
+      "theater_name": "Cinemark Eugene Springfield 17",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 556231948,
+      "date": "2026-07-19+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
