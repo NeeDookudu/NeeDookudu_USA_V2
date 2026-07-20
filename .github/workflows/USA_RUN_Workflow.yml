@@ -36,16 +36,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests aiohttp aiohttp_retry tqdm cryptography
 
-      - name: Run TheOdyssey Encrypted Scraper (USA_RUN)
+      
+      - name: Run BND Encrypted Scraper (USA_RUN_BND.py)
         env:
           SUPER_KEY: ${{ secrets.SUPER_KEY }}
         run: |
-          python USA_RUN_THEODYSSEY.py
-      - name: Run Peddi Encrypted Scraper (USA_RUN_PEDDI)
-        env:
-          SUPER_KEY: ${{ secrets.SUPER_KEY }}
-        run: |
-          python USA_RUN_PEDDI.py
+          python USA_RUN_BND.py
 
       - name: Commit and Push Data Changes
         run: |
