@@ -16,7 +16,7 @@ jobs:
 
       - name: Delete matching files
         run: |
-          find data -type f -name "241283_*" -delete
+          find data -type f -name "243819_*" -delete
 
       - name: Commit and push changes
         run: |
