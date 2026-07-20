@@ -1,0 +1,33 @@
+name: Delete 241283 Data Files
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  delete-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Delete matching files
+        run: |
+          find data -type f -name "241283_*" -delete
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No matching files found."
+            exit 0
+          fi
+
+          git add -A
+          git commit -m "Delete data files for 241283"
+          git push
