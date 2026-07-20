@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20 04:35:27 PM",
+  "last_updated": "2026-07-20 06:05:44 PM",
   "errors": [
     {
       "state": "MA",
@@ -2799,22 +2799,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "Regal Times Square",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551554975,
-      "date": "2026-07-31+09:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -6579,70 +6563,6 @@
     },
     {
       "state": "PA",
-      "city": "Willow Street",
-      "zip": "17584",
-      "theater_name": "Kendig Square Movies 6",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 552507359,
-      "date": "2026-07-31+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Willow Street",
-      "zip": "17584",
-      "theater_name": "Kendig Square Movies 6",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 552507360,
-      "date": "2026-07-31+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Willow Street",
-      "zip": "17584",
-      "theater_name": "Kendig Square Movies 6",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 552507361,
-      "date": "2026-07-31+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Willow Street",
-      "zip": "17584",
-      "theater_name": "Kendig Square Movies 6",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 552507362,
-      "date": "2026-07-31+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
       "city": "Bloomsburg",
       "zip": "17815",
       "theater_name": "AMC CLASSIC Bloomsburg 11",
@@ -7618,262 +7538,6 @@
       }
     },
     {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123285,
-      "date": "2026-07-31+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551132274,
-      "date": "2026-07-31+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551132273,
-      "date": "2026-07-31+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551132272,
-      "date": "2026-07-31+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123287,
-      "date": "2026-07-31+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123283,
-      "date": "2026-07-31+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551132271,
-      "date": "2026-07-31+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123288,
-      "date": "2026-07-31+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123282,
-      "date": "2026-07-31+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123284,
-      "date": "2026-07-31+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551132275,
-      "date": "2026-07-31+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123280,
-      "date": "2026-07-31+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551132269,
-      "date": "2026-07-31+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123286,
-      "date": "2026-07-31+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556123281,
-      "date": "2026-07-31+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551132270,
-      "date": "2026-07-31+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
       "state": "MD",
       "city": "Temple Hills",
       "zip": "20748",
@@ -8095,294 +7759,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Suffolk",
-      "zip": "23435",
-      "theater_name": "Regal Harbour View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551652293,
-      "date": "2026-07-31+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503207,
-      "date": "2026-07-31+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503209,
-      "date": "2026-07-31+13:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503210,
-      "date": "2026-07-31+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503212,
-      "date": "2026-07-31+10:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551807369,
-      "date": "2026-07-31+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503218,
-      "date": "2026-07-31+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551807370,
-      "date": "2026-07-31+14:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503217,
-      "date": "2026-07-31+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503214,
-      "date": "2026-07-31+17:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551807371,
-      "date": "2026-07-31+17:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503216,
-      "date": "2026-07-31+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503208,
-      "date": "2026-07-31+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551807372,
-      "date": "2026-07-31+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503211,
-      "date": "2026-07-31+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 552412268,
-      "date": "2026-07-31+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503213,
-      "date": "2026-07-31+13:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23462",
-      "theater_name": "Regal Columbus",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551503215,
-      "date": "2026-07-31+20:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -16739,38 +16115,6 @@
     },
     {
       "state": "FL",
-      "city": "Wellington",
-      "zip": "33414",
-      "theater_name": "CMX Wellington",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 552483894,
-      "date": "2026-07-31+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Clearwater",
-      "zip": "33761",
-      "theater_name": "CMX Countryside",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 552461427,
-      "date": "2026-07-31+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Palm Harbor",
       "zip": "34684",
       "theater_name": "AMC CLASSIC Palm Harbor 10",
@@ -17123,22 +16467,6 @@
     },
     {
       "state": "FL",
-      "city": "Saint Petersburg",
-      "zip": "33710",
-      "theater_name": "CMX Tyrone 10",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 552461391,
-      "date": "2026-07-31+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Lakewood Ranch",
       "zip": "34202",
       "theater_name": "Lakewood Ranch Cinemas",
@@ -17375,22 +16703,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Vestavia Hills",
-      "zip": "35216",
-      "theater_name": "AMC DINE-IN Vestavia Hills 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551156597,
-      "date": "2026-07-31+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -22351,22 +21663,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Valley View",
-      "zip": "44125",
-      "theater_name": "Cinemark Valley View and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555155197,
-      "date": "2026-08-01+00:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -33283,22 +32579,6 @@
     },
     {
       "state": "OK",
-      "city": "Oklahoma City",
-      "zip": "73114",
-      "theater_name": "Flix Brewhouse Oklahoma City",
-      "chainName": "Flix Brewhouse",
-      "chainCode": "FLIX",
-      "showtime_id": 552523547,
-      "date": "2026-07-31+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "OK",
       "city": "Ardmore",
       "zip": "73401",
       "theater_name": "AMC CLASSIC Ardmore 8",
@@ -34660,198 +33940,6 @@
     {
       "state": "TX",
       "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552144959,
-      "date": "2026-07-31+20:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555159955,
-      "date": "2026-07-31+20:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552144948,
-      "date": "2026-07-31+21:50",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552144949,
-      "date": "2026-07-31+08:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552144951,
-      "date": "2026-07-31+12:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552144971,
-      "date": "2026-07-31+09:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555159962,
-      "date": "2026-07-31+09:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555159957,
-      "date": "2026-07-31+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552144979,
-      "date": "2026-07-31+11:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555159963,
-      "date": "2026-07-31+12:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552144962,
-      "date": "2026-07-31+13:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552144980,
-      "date": "2026-07-31+15:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
       "zip": "78681",
       "theater_name": "Flix Brewhouse Round Rock",
       "chainName": "Flix Brewhouse",
@@ -35183,22 +34271,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Kyle",
-      "zip": "78640",
-      "theater_name": "EVO Entertainment + EVX + IMAX - Kyle ",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 551656334,
-      "date": "2026-07-31+09:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -36607,22 +35679,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex South Jordan at The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 551575599,
-      "date": "2026-07-31+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -42055,6 +41111,3062 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550406080,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550406079,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550406081,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550406078,
+      "date": "2026-07-31+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550406082,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550406077,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Roanoke",
+      "zip": "24014",
+      "theater_name": "AMC CLASSIC Roanoke 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550411531,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Roanoke",
+      "zip": "24014",
+      "theater_name": "AMC CLASSIC Roanoke 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550411529,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Roanoke",
+      "zip": "24014",
+      "theater_name": "AMC CLASSIC Roanoke 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550411530,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Roanoke",
+      "zip": "24014",
+      "theater_name": "AMC CLASSIC Roanoke 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550411534,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Roanoke",
+      "zip": "24014",
+      "theater_name": "AMC CLASSIC Roanoke 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550411533,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Roanoke",
+      "zip": "24014",
+      "theater_name": "AMC CLASSIC Roanoke 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550411532,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Roanoke",
+      "zip": "24014",
+      "theater_name": "AMC CLASSIC Roanoke 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550411535,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Roanoke",
+      "zip": "24014",
+      "theater_name": "AMC CLASSIC Roanoke 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550411528,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334509,
+      "date": "2026-07-31+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334499,
+      "date": "2026-07-31+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334512,
+      "date": "2026-07-31+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334500,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334510,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334501,
+      "date": "2026-07-31+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334511,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334508,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334504,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334502,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334506,
+      "date": "2026-07-31+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334503,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334507,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551334505,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555703,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555704,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555705,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555706,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555707,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555708,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555709,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555699,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555700,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555701,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551555702,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30045",
+      "theater_name": "AMC DINE-IN Webb Gin 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555211111,
+      "date": "2026-07-31+23:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551249004,
+      "date": "2026-07-31+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551249001,
+      "date": "2026-07-31+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551248992,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551248995,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551248993,
+      "date": "2026-07-31+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551248994,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551248997,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551249003,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551249002,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551248998,
+      "date": "2026-07-31+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551249005,
+      "date": "2026-07-31+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551248999,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551248996,
+      "date": "2026-07-31+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551249000,
+      "date": "2026-07-31+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551249007,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551249006,
+      "date": "2026-07-31+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425325,
+      "date": "2026-07-31+11:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425314,
+      "date": "2026-07-31+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425324,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425315,
+      "date": "2026-07-31+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425326,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425316,
+      "date": "2026-07-31+19:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425327,
+      "date": "2026-07-31+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425317,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425321,
+      "date": "2026-07-31+13:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425318,
+      "date": "2026-07-31+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425322,
+      "date": "2026-07-31+17:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425319,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425323,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425320,
+      "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Prattville",
+      "zip": "36066",
+      "theater_name": "AMC CLASSIC Prattville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551467443,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Prattville",
+      "zip": "36066",
+      "theater_name": "AMC CLASSIC Prattville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551467448,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Prattville",
+      "zip": "36066",
+      "theater_name": "AMC CLASSIC Prattville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551467444,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Prattville",
+      "zip": "36066",
+      "theater_name": "AMC CLASSIC Prattville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551467447,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Prattville",
+      "zip": "36066",
+      "theater_name": "AMC CLASSIC Prattville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551467449,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Prattville",
+      "zip": "36066",
+      "theater_name": "AMC CLASSIC Prattville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551467450,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Prattville",
+      "zip": "36066",
+      "theater_name": "AMC CLASSIC Prattville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551467445,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552536846,
+      "date": "2026-07-31+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552536844,
+      "date": "2026-08-01+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Park Ridge",
+      "zip": "60068",
+      "theater_name": "Pickwick Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 552466561,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Park Ridge",
+      "zip": "60068",
+      "theater_name": "Pickwick Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 552466543,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Park Ridge",
+      "zip": "60068",
+      "theater_name": "Pickwick Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 552466544,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Park Ridge",
+      "zip": "60068",
+      "theater_name": "Pickwick Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 552466545,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550676908,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552577863,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550676909,
+      "date": "2026-07-31+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552577864,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550676910,
+      "date": "2026-07-31+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550676905,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550676906,
+      "date": "2026-07-31+14:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550676907,
+      "date": "2026-07-31+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552577865,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Vincennes",
+      "zip": "47591",
+      "theater_name": "AMC CLASSIC Vincennes 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552318073,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244952,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244950,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244953,
+      "date": "2026-07-31+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554300377,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554300375,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244958,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554300376,
+      "date": "2026-07-31+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244956,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244955,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244951,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244957,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Galesburg",
+      "zip": "61401",
+      "theater_name": "AMC CLASSIC Galesburg 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551244954,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457523,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457532,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457524,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457533,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457525,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457534,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 553478380,
+      "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457529,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555248074,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457530,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555248089,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555248087,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555248075,
+      "date": "2026-07-31+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457531,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555248090,
+      "date": "2026-07-31+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457528,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555248088,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555248076,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 553478381,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555248091,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551457527,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448934,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448932,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448933,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448936,
+      "date": "2026-07-31+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448938,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448939,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448940,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448935,
+      "date": "2026-07-31+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448937,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552158698,
+      "date": "2026-07-31+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448944,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554921871,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552158699,
+      "date": "2026-07-31+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448943,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554921870,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552158700,
+      "date": "2026-07-31+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448941,
+      "date": "2026-07-31+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554921869,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552158701,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550448942,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554921868,
+      "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131630,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131631,
+      "date": "2026-07-31+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131632,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131635,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131636,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131633,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131637,
+      "date": "2026-07-31+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131634,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551131638,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Quincy",
+      "zip": "62301",
+      "theater_name": "AMC CLASSIC Quincy 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550674006,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Quincy",
+      "zip": "62301",
+      "theater_name": "AMC CLASSIC Quincy 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550674003,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Quincy",
+      "zip": "62301",
+      "theater_name": "AMC CLASSIC Quincy 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550674005,
+      "date": "2026-07-31+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Quincy",
+      "zip": "62301",
+      "theater_name": "AMC CLASSIC Quincy 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550674007,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Quincy",
+      "zip": "62301",
+      "theater_name": "AMC CLASSIC Quincy 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550674004,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550443517,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550443519,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550443520,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550443521,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550443518,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550443522,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550443523,
+      "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64114",
+      "theater_name": "AMC Ward Parkway 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551328905,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64114",
+      "theater_name": "AMC Ward Parkway 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551328904,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64114",
+      "theater_name": "AMC Ward Parkway 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551328906,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64114",
+      "theater_name": "AMC Ward Parkway 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551328903,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harvey",
+      "zip": "70058",
+      "theater_name": "AMC Westbank Palace 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551394002,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mesquite",
+      "zip": "75149",
+      "theater_name": "AMC Mesquite 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550428334,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425175,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425177,
+      "date": "2026-07-31+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425172,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425173,
+      "date": "2026-07-31+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425174,
+      "date": "2026-07-31+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425176,
+      "date": "2026-07-31+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425178,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425168,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425169,
+      "date": "2026-07-31+13:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425170,
+      "date": "2026-07-31+17:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551425171,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555869668,
+      "date": "2026-07-31+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555869667,
+      "date": "2026-07-31+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555869666,
+      "date": "2026-07-31+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555869665,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552591289,
+      "date": "2026-08-01+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Beaverton",
+      "zip": "97007",
+      "theater_name": "AMC Progress Ridge 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555223040,
+      "date": "2026-07-31+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
       }
     }
   ]
