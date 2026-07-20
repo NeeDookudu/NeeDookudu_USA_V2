@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20 06:05:44 PM",
+  "last_updated": "2026-07-20 08:58:01 PM",
   "errors": [
     {
       "state": "MA",
@@ -16099,22 +16099,6 @@
     },
     {
       "state": "FL",
-      "city": "Wellington",
-      "zip": "33414",
-      "theater_name": "CMX Wellington",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 552483916,
-      "date": "2026-07-31+13:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Palm Harbor",
       "zip": "34684",
       "theater_name": "AMC CLASSIC Palm Harbor 10",
@@ -17407,134 +17391,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 555983312,
-      "date": "2026-07-31+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 552603038,
-      "date": "2026-07-31+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 555983313,
-      "date": "2026-07-31+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 552603039,
-      "date": "2026-07-31+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 555983314,
-      "date": "2026-07-31+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 552603040,
-      "date": "2026-07-31+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 555983315,
-      "date": "2026-07-31+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 552603041,
-      "date": "2026-07-31+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -44151,22 +44007,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Beaverton",
-      "zip": "97007",
-      "theater_name": "AMC Progress Ridge 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 555223040,
-      "date": "2026-07-31+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     }
   ]
