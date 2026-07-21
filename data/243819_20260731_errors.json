@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 05:19:57 AM",
+  "last_updated": "2026-07-21 07:48:31 AM",
   "errors": [
     {
       "state": "MA",
@@ -2671,22 +2671,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Wayne",
-      "zip": "07470",
-      "theater_name": "Cinemark Willowbrook Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551657969,
-      "date": "2026-07-31+12:25",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -13962,38 +13946,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551597361,
       "date": "2026-07-31+19:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "St. Johns",
-      "zip": "32259",
-      "theater_name": "Cinemark Durbin Park and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551597345,
-      "date": "2026-07-31+20:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "St. Johns",
-      "zip": "32259",
-      "theater_name": "Cinemark Durbin Park and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551597356,
-      "date": "2026-07-31+17:05",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -33432,22 +33384,6 @@
       "theater_name": "AMC Eastchase 9",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 551587562,
-      "date": "2026-08-01+00:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Fort Worth",
-      "zip": "76120",
-      "theater_name": "AMC Eastchase 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 552568792,
       "date": "2026-08-01+00:45",
       "format": "Standard",
@@ -33736,22 +33672,6 @@
       "theater_name": "Cinemark Waco and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 554331036,
-      "date": "2026-07-31+20:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Waco",
-      "zip": "76711",
-      "theater_name": "Cinemark Waco and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551450440,
       "date": "2026-07-31+22:20",
       "format": "D-Box",
@@ -33871,22 +33791,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pasadena",
-      "zip": "77503",
-      "theater_name": "Cinemark Hollywood Pasadena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551626354,
-      "date": "2026-07-31+19:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -38311,22 +38215,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Roseville",
-      "zip": "95678",
-      "theater_name": "Cinemark Roseville Galleria Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551463102,
-      "date": "2026-07-31+12:20",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -44007,6 +43895,1510 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Leominster",
+      "zip": "01453",
+      "theater_name": "Entertainment Cinemas - Leominster Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 556264123,
+      "date": "2026-07-31+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Leominster",
+      "zip": "01453",
+      "theater_name": "Entertainment Cinemas - Leominster Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 556264124,
+      "date": "2026-07-31+17:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Salisbury",
+      "zip": "01952",
+      "theater_name": "Vision Max Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556386941,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Salisbury",
+      "zip": "01952",
+      "theater_name": "Vision Max Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556386939,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Salisbury",
+      "zip": "01952",
+      "theater_name": "Vision Max Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556386940,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Skowhegan",
+      "zip": "04976",
+      "theater_name": "Spotlight Cinemas The Strand",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556287030,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Skowhegan",
+      "zip": "04976",
+      "theater_name": "Spotlight Cinemas The Strand",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556287031,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Skowhegan",
+      "zip": "04976",
+      "theater_name": "Spotlight Cinemas The Strand",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556287032,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Orono",
+      "zip": "04473",
+      "theater_name": "Black Bear Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556363248,
+      "date": "2026-07-31+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Orono",
+      "zip": "04473",
+      "theater_name": "Black Bear Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556363249,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Bellmore",
+      "zip": "11710",
+      "theater_name": "Bellmore Playhouse",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556296117,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Bellmore",
+      "zip": "11710",
+      "theater_name": "Bellmore Playhouse",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556296118,
+      "date": "2026-07-31+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Bellmore",
+      "zip": "11710",
+      "theater_name": "Bellmore Playhouse",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556296119,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Springville",
+      "zip": "14141",
+      "theater_name": "Joylan Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556278131,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Sarver",
+      "zip": "16055",
+      "theater_name": "South Pike Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556310090,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Sarver",
+      "zip": "16055",
+      "theater_name": "South Pike Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556310091,
+      "date": "2026-07-31+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Sarver",
+      "zip": "16055",
+      "theater_name": "South Pike Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556310092,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 556307793,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 556307794,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Camelot Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556271751,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Camelot Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556271755,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Camelot Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556271752,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Camelot Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556271756,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Camelot Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556271753,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Camelot Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556271757,
+      "date": "2026-07-31+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Camelot Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556271754,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cedartown",
+      "zip": "30125",
+      "theater_name": "West Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556270408,
+      "date": "2026-07-31+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cedartown",
+      "zip": "30125",
+      "theater_name": "West Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556270409,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556274663,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556274664,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556274665,
+      "date": "2026-07-31+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556274668,
+      "date": "2026-07-31+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556274667,
+      "date": "2026-07-31+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556274666,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Humboldt",
+      "zip": "38343",
+      "theater_name": "Plaza Theatre of Humboldt",
+      "chainName": "Plaza Theatre of Humboldt",
+      "chainCode": "PLZA",
+      "showtime_id": 556318257,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 556432676,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 556432679,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 556432677,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 556432682,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 556432678,
+      "date": "2026-07-31+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 556432681,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 556432680,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Van Wert",
+      "zip": "45891",
+      "theater_name": "Van Wert Cinemas",
+      "chainName": "Saunders Theater Group",
+      "chainCode": "SAUN",
+      "showtime_id": 556523034,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Van Wert",
+      "zip": "45891",
+      "theater_name": "Van Wert Cinemas",
+      "chainName": "Saunders Theater Group",
+      "chainCode": "SAUN",
+      "showtime_id": 556523040,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Van Wert",
+      "zip": "45891",
+      "theater_name": "Van Wert Cinemas",
+      "chainName": "Saunders Theater Group",
+      "chainCode": "SAUN",
+      "showtime_id": 556523046,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Barberton",
+      "zip": "44203",
+      "theater_name": "Lake 8 Movies",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556286959,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Fairmont",
+      "zip": "56031",
+      "theater_name": "Fairmont 5 Theatres",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556276016,
+      "date": "2026-07-31+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Fairmont",
+      "zip": "56031",
+      "theater_name": "Fairmont 5 Theatres",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556276017,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Fairmont",
+      "zip": "56031",
+      "theater_name": "Fairmont 5 Theatres",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 556276022,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Marinette",
+      "zip": "54143",
+      "theater_name": "Phoenix Theatre & Escape Room",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556365130,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Marinette",
+      "zip": "54143",
+      "theater_name": "Phoenix Theatre & Escape Room",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556365131,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Marinette",
+      "zip": "54143",
+      "theater_name": "Phoenix Theatre & Escape Room",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556365132,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Marinette",
+      "zip": "54143",
+      "theater_name": "Phoenix Theatre & Escape Room",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556365133,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Marinette",
+      "zip": "54143",
+      "theater_name": "Phoenix Theatre & Escape Room",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556365134,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Marinette",
+      "zip": "54143",
+      "theater_name": "Phoenix Theatre & Escape Room",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556365135,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Cold Spring",
+      "zip": "56320",
+      "theater_name": "Quarry Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556490294,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Cold Spring",
+      "zip": "56320",
+      "theater_name": "Quarry Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556490296,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Cold Spring",
+      "zip": "56320",
+      "theater_name": "Quarry Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556490295,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Poplar Bluff",
+      "zip": "63901",
+      "theater_name": "AMC CLASSIC Poplar Bluff 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556437559,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Gainesville",
+      "zip": "76240",
+      "theater_name": "DMAX Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556332842,
+      "date": "2026-07-31+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Gainesville",
+      "zip": "76240",
+      "theater_name": "DMAX Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556332840,
+      "date": "2026-07-31+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Gainesville",
+      "zip": "76240",
+      "theater_name": "DMAX Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556332838,
+      "date": "2026-07-31+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Gainesville",
+      "zip": "76240",
+      "theater_name": "DMAX Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556332841,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Gainesville",
+      "zip": "76240",
+      "theater_name": "DMAX Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556332839,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sherman",
+      "zip": "75090",
+      "theater_name": "Schulman's Movie Bowl Grille Sherman",
+      "chainName": "Movie Bowl Grille",
+      "chainCode": "SMBG",
+      "showtime_id": 556286033,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sherman",
+      "zip": "75090",
+      "theater_name": "Schulman's Movie Bowl Grille Sherman",
+      "chainName": "Movie Bowl Grille",
+      "chainCode": "SMBG",
+      "showtime_id": 556286029,
+      "date": "2026-07-31+13:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sherman",
+      "zip": "75090",
+      "theater_name": "Schulman's Movie Bowl Grille Sherman",
+      "chainName": "Movie Bowl Grille",
+      "chainCode": "SMBG",
+      "showtime_id": 556286030,
+      "date": "2026-07-31+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sherman",
+      "zip": "75090",
+      "theater_name": "Schulman's Movie Bowl Grille Sherman",
+      "chainName": "Movie Bowl Grille",
+      "chainCode": "SMBG",
+      "showtime_id": 556286031,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sherman",
+      "zip": "75090",
+      "theater_name": "Schulman's Movie Bowl Grille Sherman",
+      "chainName": "Movie Bowl Grille",
+      "chainCode": "SMBG",
+      "showtime_id": 556286032,
+      "date": "2026-07-31+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 556324708,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 556324709,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 556324710,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 556324711,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bonsall",
+      "zip": "92003",
+      "theater_name": "River Village Cinema is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 556397601,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bonsall",
+      "zip": "92003",
+      "theater_name": "River Village Cinema is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 556397602,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Banning",
+      "zip": "92220",
+      "theater_name": "Fox Cineplex is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 556370961,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 556333815,
+      "date": "2026-07-31+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 556333816,
+      "date": "2026-07-31+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 556333817,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Mammoth Lakes",
+      "zip": "93546",
+      "theater_name": "Minaret Cinemas is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 556269773,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Mammoth Lakes",
+      "zip": "93546",
+      "theater_name": "Minaret Cinemas is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 556269772,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oakland",
+      "zip": "94610",
+      "theater_name": "Grand Lake Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556310048,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oakland",
+      "zip": "94610",
+      "theater_name": "Grand Lake Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556310049,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oakland",
+      "zip": "94610",
+      "theater_name": "Grand Lake Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556310050,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oakland",
+      "zip": "94610",
+      "theater_name": "Grand Lake Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556309989,
+      "date": "2026-07-31+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oakland",
+      "zip": "94610",
+      "theater_name": "Grand Lake Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556310051,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 556447676,
+      "date": "2026-07-31+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 556447675,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 556447674,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 556447677,
+      "date": "2026-07-31+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Yakima",
+      "zip": "98902",
+      "theater_name": "Yakima Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556520185,
+      "date": "2026-07-31+11:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Yakima",
+      "zip": "98902",
+      "theater_name": "Yakima Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556520186,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Yakima",
+      "zip": "98902",
+      "theater_name": "Yakima Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556520187,
+      "date": "2026-07-31+18:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Yakima",
+      "zip": "98902",
+      "theater_name": "Yakima Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556520188,
+      "date": "2026-07-31+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
