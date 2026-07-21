@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 11:06:53 AM",
+  "last_updated": "2026-07-21 02:07:50 PM",
   "errors": [
     {
       "state": "MA",
@@ -45522,6 +45522,54 @@
       "chainCode": "AMC",
       "showtime_id": 556278516,
       "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Washington",
+      "zip": "48095",
+      "theater_name": "Romeo Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556630980,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Washington",
+      "zip": "48095",
+      "theater_name": "Romeo Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556630978,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Washington",
+      "zip": "48095",
+      "theater_name": "Romeo Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556630979,
+      "date": "2026-07-31+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
