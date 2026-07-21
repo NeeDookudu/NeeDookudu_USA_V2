@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 07:48:31 AM",
+  "last_updated": "2026-07-21 11:06:53 AM",
   "errors": [
     {
       "state": "MA",
@@ -43626,22 +43626,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Mesquite",
-      "zip": "75149",
-      "theater_name": "AMC Mesquite 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550428334,
-      "date": "2026-07-31+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
       "state": "ID",
       "city": "Chubbuck",
       "zip": "83202",
@@ -45394,6 +45378,150 @@
       "chainCode": "RTSIND",
       "showtime_id": 556520188,
       "date": "2026-07-31+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556552692,
+      "date": "2026-07-31+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556552693,
+      "date": "2026-07-31+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 556552694,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Bryan",
+      "zip": "43506",
+      "theater_name": "Bryan Theatre",
+      "chainName": "Saunders Theater Group",
+      "chainCode": "SAUN",
+      "showtime_id": 556590824,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Bryan",
+      "zip": "43506",
+      "theater_name": "Bryan Theatre",
+      "chainName": "Saunders Theater Group",
+      "chainCode": "SAUN",
+      "showtime_id": 556590829,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Bryan",
+      "zip": "43506",
+      "theater_name": "Bryan Theatre",
+      "chainName": "Saunders Theater Group",
+      "chainCode": "SAUN",
+      "showtime_id": 556590834,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Richmond",
+      "zip": "47374",
+      "theater_name": "AMC CLASSIC Richmond 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556278518,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Richmond",
+      "zip": "47374",
+      "theater_name": "AMC CLASSIC Richmond 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556278517,
+      "date": "2026-07-31+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Richmond",
+      "zip": "47374",
+      "theater_name": "AMC CLASSIC Richmond 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556278516,
+      "date": "2026-07-31+21:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
