@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22 07:48:13 AM",
+  "last_updated": "2026-07-22 11:07:46 AM",
   "errors": [
     {
       "state": "MA",
@@ -46503,6 +46503,214 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Williamsport",
+      "zip": "17701",
+      "theater_name": "AMC CLASSIC Williamsport 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556668944,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Williamsport",
+      "zip": "17701",
+      "theater_name": "AMC CLASSIC Williamsport 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556668945,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Williamsport",
+      "zip": "17701",
+      "theater_name": "AMC CLASSIC Williamsport 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556668946,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sedalia",
+      "zip": "65301",
+      "theater_name": "Galaxy Cinema 10 ",
+      "chainName": "Galaxy Cinema 10",
+      "chainCode": "GCIN",
+      "showtime_id": 557125957,
+      "date": "2026-07-31+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sedalia",
+      "zip": "65301",
+      "theater_name": "Galaxy Cinema 10 ",
+      "chainName": "Galaxy Cinema 10",
+      "chainCode": "GCIN",
+      "showtime_id": 557125958,
+      "date": "2026-07-31+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sedalia",
+      "zip": "65301",
+      "theater_name": "Galaxy Cinema 10 ",
+      "chainName": "Galaxy Cinema 10",
+      "chainCode": "GCIN",
+      "showtime_id": 557125959,
+      "date": "2026-07-31+18:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Tooele",
+      "zip": "84074",
+      "theater_name": "UEC Theatres Tooele",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 557128176,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Tooele",
+      "zip": "84074",
+      "theater_name": "UEC Theatres Tooele",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 557128177,
+      "date": "2026-07-31+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Tooele",
+      "zip": "84074",
+      "theater_name": "UEC Theatres Tooele",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 557128178,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Tooele",
+      "zip": "84074",
+      "theater_name": "UEC Theatres Tooele",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 557128179,
+      "date": "2026-07-31+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Barbara",
+      "zip": "93101",
+      "theater_name": "The Arlington Theatre",
+      "chainName": "Metropolitan Theatres",
+      "chainCode": "MTRO",
+      "showtime_id": 557104371,
+      "date": "2026-07-31+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Barbara",
+      "zip": "93101",
+      "theater_name": "The Arlington Theatre",
+      "chainName": "Metropolitan Theatres",
+      "chainCode": "MTRO",
+      "showtime_id": 557104372,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Barbara",
+      "zip": "93101",
+      "theater_name": "The Arlington Theatre",
+      "chainName": "Metropolitan Theatres",
+      "chainCode": "MTRO",
+      "showtime_id": 557104373,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
