@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 07:57:54 AM",
+  "last_updated": "2026-07-23 11:23:15 AM",
   "errors": [
     {
       "state": "MA",
@@ -47943,70 +47943,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Saratoga Springs",
-      "zip": "84045",
-      "theater_name": "FatCats Saratoga Springs",
-      "chainName": "Fat Cats",
-      "chainCode": "FTCT",
-      "showtime_id": 557189904,
-      "date": "2026-07-31+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Saratoga Springs",
-      "zip": "84045",
-      "theater_name": "FatCats Saratoga Springs",
-      "chainName": "Fat Cats",
-      "chainCode": "FTCT",
-      "showtime_id": 557189905,
-      "date": "2026-07-31+14:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Saratoga Springs",
-      "zip": "84045",
-      "theater_name": "FatCats Saratoga Springs",
-      "chainName": "Fat Cats",
-      "chainCode": "FTCT",
-      "showtime_id": 557189906,
-      "date": "2026-07-31+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Saratoga Springs",
-      "zip": "84045",
-      "theater_name": "FatCats Saratoga Springs",
-      "chainName": "Fat Cats",
-      "chainCode": "FTCT",
-      "showtime_id": 557189907,
-      "date": "2026-07-31+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
