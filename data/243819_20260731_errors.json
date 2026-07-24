@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 11:14:27 AM",
+  "last_updated": "2026-07-24 02:11:32 PM",
   "errors": [
     {
       "state": "MA",
@@ -49330,6 +49330,38 @@
       "chainCode": "RTSIND",
       "showtime_id": 557236404,
       "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Cut Bank",
+      "zip": "59427",
+      "theater_name": "Glacier Cinema",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 557234660,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Cut Bank",
+      "zip": "59427",
+      "theater_name": "Glacier Cinema",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 557234661,
+      "date": "2026-07-31+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
