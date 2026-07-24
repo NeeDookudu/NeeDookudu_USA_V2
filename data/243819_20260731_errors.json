@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 07:54:58 AM",
+  "last_updated": "2026-07-24 11:14:27 AM",
   "errors": [
     {
       "state": "MA",
@@ -2671,22 +2671,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Wayne",
-      "zip": "07470",
-      "theater_name": "Cinemark Willowbrook Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551657971,
-      "date": "2026-07-31+22:55",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -48538,86 +48522,6 @@
       }
     },
     {
-      "state": "VA",
-      "city": "Williamsburg",
-      "zip": "23188",
-      "theater_name": "Regal New Town",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 557219649,
-      "date": "2026-07-31+09:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Williamsburg",
-      "zip": "23188",
-      "theater_name": "Regal New Town",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 557219653,
-      "date": "2026-07-31+10:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Williamsburg",
-      "zip": "23188",
-      "theater_name": "Regal New Town",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 557219660,
-      "date": "2026-07-31+10:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Williamsburg",
-      "zip": "23188",
-      "theater_name": "Regal New Town",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 557219650,
-      "date": "2026-07-31+13:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Williamsburg",
-      "zip": "23188",
-      "theater_name": "Regal New Town",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 557219651,
-      "date": "2026-07-31+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "WV",
       "city": "Scott Depot",
       "zip": "25560",
@@ -48727,22 +48631,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Riverview",
-      "zip": "33578",
-      "theater_name": "Xscape Theatres Riverview 14",
-      "chainName": "Xscape Theatres",
-      "chainCode": "XSCP",
-      "showtime_id": 557200352,
-      "date": "2026-07-31+11:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -49314,6 +49202,134 @@
       "chainCode": "FAE",
       "showtime_id": 557228386,
       "date": "2026-07-31+22:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557236399,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557236400,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557236401,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557236402,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557236405,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557236403,
+      "date": "2026-07-31+18:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557236406,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557236404,
+      "date": "2026-07-31+21:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
