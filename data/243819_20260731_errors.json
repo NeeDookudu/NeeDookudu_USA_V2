@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 06:00:06 AM",
+  "last_updated": "2026-07-25 09:54:19 AM",
   "errors": [
     {
       "state": "MA",
@@ -49594,22 +49594,6 @@
       }
     },
     {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33172",
-      "theater_name": "CMX Dolphin 19 & IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 557249423,
-      "date": "2026-07-31+17:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "OH",
       "city": "Mentor",
       "zip": "44060",
@@ -49922,6 +49906,166 @@
       "chainCode": "GLXY",
       "showtime_id": 557267187,
       "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Webster",
+      "zip": "77598",
+      "theater_name": "Cinemark NASA and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 557269280,
+      "date": "2026-07-31+09:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Webster",
+      "zip": "77598",
+      "theater_name": "Cinemark NASA and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 557269281,
+      "date": "2026-07-31+12:55",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Webster",
+      "zip": "77598",
+      "theater_name": "Cinemark NASA and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 557269282,
+      "date": "2026-07-31+16:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "El Cerrito",
+      "zip": "94530",
+      "theater_name": "Rialto Cinemas Cerrito",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557288802,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "El Cerrito",
+      "zip": "94530",
+      "theater_name": "Rialto Cinemas Cerrito",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557288800,
+      "date": "2026-07-31+14:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "El Cerrito",
+      "zip": "94530",
+      "theater_name": "Rialto Cinemas Cerrito",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557288801,
+      "date": "2026-07-31+17:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "El Cerrito",
+      "zip": "94530",
+      "theater_name": "Rialto Cinemas Cerrito",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557288799,
+      "date": "2026-07-31+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sebastopol",
+      "zip": "95472",
+      "theater_name": "Rialto Cinemas Sebastopol",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557286036,
+      "date": "2026-07-31+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sebastopol",
+      "zip": "95472",
+      "theater_name": "Rialto Cinemas Sebastopol",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557286037,
+      "date": "2026-07-31+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sebastopol",
+      "zip": "95472",
+      "theater_name": "Rialto Cinemas Sebastopol",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557286038,
+      "date": "2026-07-31+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
