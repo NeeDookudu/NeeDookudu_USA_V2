@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 09:54:19 AM",
+  "last_updated": "2026-07-25 12:11:35 PM",
   "errors": [
     {
       "state": "MA",
@@ -50071,6 +50071,22 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85016",
+      "theater_name": "AMC DINE-IN Esplanade 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557238538,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
       }
     }
   ]
