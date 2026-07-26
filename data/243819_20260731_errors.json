@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 05:23:39 AM",
+  "last_updated": "2026-07-26 07:57:24 AM",
   "errors": [
     {
       "state": "MA",
@@ -15935,22 +15935,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami Lakes",
-      "zip": "33014",
-      "theater_name": "CMX Miami Lakes 13",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 552450201,
-      "date": "2026-07-31+20:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -33235,22 +33219,6 @@
     },
     {
       "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551446546,
-      "date": "2026-07-31+19:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Dallas",
       "zip": "75234",
       "theater_name": "Cinemark Dallas XD and IMAX",
@@ -33595,22 +33563,6 @@
       "showtime_id": 551450451,
       "date": "2026-07-31+19:30",
       "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78681",
-      "theater_name": "Flix Brewhouse Round Rock",
-      "chainName": "Flix Brewhouse",
-      "chainCode": "FLIX",
-      "showtime_id": 551700206,
-      "date": "2026-07-31+14:00",
-      "format": "Standard",
       "language": "Unknown",
       "error": {
         "status": 410,
@@ -50087,6 +50039,1414 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557305008,
+      "date": "2026-07-31+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557303525,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557305002,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557305005,
+      "date": "2026-07-31+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557305003,
+      "date": "2026-07-31+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557305006,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557303526,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557305004,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557305007,
+      "date": "2026-07-31+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Westbrook",
+      "zip": "06498",
+      "theater_name": "Westbrook Cinemas 12",
+      "chainName": "Shoreline Entertianment Group",
+      "chainCode": "SHOR",
+      "showtime_id": 557303527,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310767,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310772,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310776,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310768,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310773,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310777,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310769,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310774,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310778,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310770,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310775,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310779,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Carmel",
+      "zip": "10512",
+      "theater_name": "Box Office Cinemas Carmel",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 557310771,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 557308396,
+      "date": "2026-07-31+13:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 557308397,
+      "date": "2026-07-31+16:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 557308398,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 557308380,
+      "date": "2026-07-31+11:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 557308381,
+      "date": "2026-07-31+14:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 557308382,
+      "date": "2026-07-31+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 557308383,
+      "date": "2026-07-31+20:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557300173,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557300174,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557301035,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557301042,
+      "date": "2026-07-31+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Charlottesville",
+      "zip": "22902",
+      "theater_name": "Violet Crown Charlottesville",
+      "chainName": "Hooky Entertainment",
+      "chainCode": "HOOK",
+      "showtime_id": 557311932,
+      "date": "2026-07-31+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27615",
+      "theater_name": "Triangle Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557301843,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27615",
+      "theater_name": "Triangle Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557301844,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27615",
+      "theater_name": "Triangle Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557301845,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27615",
+      "theater_name": "Triangle Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557301846,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557295889,
+      "date": "2026-07-31+14:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557295891,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557295890,
+      "date": "2026-07-31+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307883,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307882,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307884,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307879,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307885,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307880,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307886,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307881,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557307887,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cincinnati",
+      "zip": "45220",
+      "theater_name": "Esquire 6 Theatre",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 557304901,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cincinnati",
+      "zip": "45220",
+      "theater_name": "Esquire 6 Theatre",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 557304902,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cincinnati",
+      "zip": "45220",
+      "theater_name": "Esquire 6 Theatre",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 557304903,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cincinnati",
+      "zip": "45220",
+      "theater_name": "Esquire 6 Theatre",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 557304904,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557308660,
+      "date": "2026-07-31+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Perry",
+      "zip": "50220",
+      "theater_name": "The Perry Grand 3",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557302759,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Perry",
+      "zip": "50220",
+      "theater_name": "The Perry Grand 3",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557302760,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311447,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311446,
+      "date": "2026-07-31+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311445,
+      "date": "2026-07-31+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311450,
+      "date": "2026-07-31+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311452,
+      "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311449,
+      "date": "2026-07-31+10:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311437,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311441,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311438,
+      "date": "2026-07-31+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311442,
+      "date": "2026-07-31+16:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311439,
+      "date": "2026-07-31+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311443,
+      "date": "2026-07-31+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311440,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557311444,
+      "date": "2026-07-31+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Polson",
+      "zip": "59860",
+      "theater_name": "Showboat Cinemas",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 557306770,
+      "date": "2026-07-31+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Polson",
+      "zip": "59860",
+      "theater_name": "Showboat Cinemas",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 557306771,
+      "date": "2026-07-31+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Polson",
+      "zip": "59860",
+      "theater_name": "Showboat Cinemas",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 557306772,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Polson",
+      "zip": "59860",
+      "theater_name": "Showboat Cinemas",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 557306773,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Princeton",
+      "zip": "61356",
+      "theater_name": "Apollo Theater",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557312855,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Princeton",
+      "zip": "61356",
+      "theater_name": "Apollo Theater",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557312861,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sullivan",
+      "zip": "63080",
+      "theater_name": "Sullivan 6 Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 557297113,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sullivan",
+      "zip": "63080",
+      "theater_name": "Sullivan 6 Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 557297114,
+      "date": "2026-07-31+14:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sullivan",
+      "zip": "63080",
+      "theater_name": "Sullivan 6 Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 557297115,
+      "date": "2026-07-31+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sullivan",
+      "zip": "63080",
+      "theater_name": "Sullivan 6 Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 557297116,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557303187,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557303184,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557303188,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557303185,
+      "date": "2026-07-31+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557303189,
+      "date": "2026-07-31+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557303186,
+      "date": "2026-07-31+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
