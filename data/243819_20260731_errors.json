@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 05:24:06 AM",
+  "last_updated": "2026-07-27 08:02:46 AM",
   "errors": [
     {
       "state": "MA",
@@ -38544,22 +38544,6 @@
       "theater_name": "Cinemark Cedar Hills 16",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551217905,
-      "date": "2026-07-31+19:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Beaverton",
-      "zip": "97005",
-      "theater_name": "Cinemark Cedar Hills 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551217886,
       "date": "2026-07-31+20:00",
       "format": "D-Box",
@@ -51426,6 +51410,678 @@
       "chainCode": "RTSIND",
       "showtime_id": 557303186,
       "date": "2026-07-31+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Martinsburg",
+      "zip": "25404",
+      "theater_name": "Berkeley Plaza Theatre 7",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326614,
+      "date": "2026-07-31+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Martinsburg",
+      "zip": "25404",
+      "theater_name": "Berkeley Plaza Theatre 7",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326622,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Martinsburg",
+      "zip": "25404",
+      "theater_name": "Berkeley Plaza Theatre 7",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326616,
+      "date": "2026-07-31+14:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Martinsburg",
+      "zip": "25404",
+      "theater_name": "Berkeley Plaza Theatre 7",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326624,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Martinsburg",
+      "zip": "25404",
+      "theater_name": "Berkeley Plaza Theatre 7",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326618,
+      "date": "2026-07-31+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Martinsburg",
+      "zip": "25404",
+      "theater_name": "Berkeley Plaza Theatre 7",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326626,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Martinsburg",
+      "zip": "25404",
+      "theater_name": "Berkeley Plaza Theatre 7",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326620,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Martinsburg",
+      "zip": "25404",
+      "theater_name": "Berkeley Plaza Theatre 7",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326628,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Humboldt",
+      "zip": "38343",
+      "theater_name": "Plaza Theatre of Humboldt",
+      "chainName": "Plaza Theatre of Humboldt",
+      "chainCode": "PLZA",
+      "showtime_id": 557325434,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 557320208,
+      "date": "2026-07-31+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 557320207,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 557320206,
+      "date": "2026-07-31+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 557320205,
+      "date": "2026-07-31+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "East Grand Forks",
+      "zip": "56721",
+      "theater_name": "River Cinema 15",
+      "chainName": "Moore Family Theaters",
+      "chainCode": "MFT",
+      "showtime_id": 557324044,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Ottawa",
+      "zip": "61350",
+      "theater_name": "VIP Roxy Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 557320715,
+      "date": "2026-07-31+11:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Ottawa",
+      "zip": "61350",
+      "theater_name": "VIP Roxy Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 557320714,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Ottawa",
+      "zip": "61350",
+      "theater_name": "VIP Roxy Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 557320713,
+      "date": "2026-07-31+17:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Ottawa",
+      "zip": "61350",
+      "theater_name": "VIP Roxy Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 557320712,
+      "date": "2026-07-31+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sedalia",
+      "zip": "65301",
+      "theater_name": "Galaxy Cinema 10 ",
+      "chainName": "Galaxy Cinema 10",
+      "chainCode": "GCIN",
+      "showtime_id": 557325402,
+      "date": "2026-07-31+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sedalia",
+      "zip": "65301",
+      "theater_name": "Galaxy Cinema 10 ",
+      "chainName": "Galaxy Cinema 10",
+      "chainCode": "GCIN",
+      "showtime_id": 557325403,
+      "date": "2026-07-31+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sedalia",
+      "zip": "65301",
+      "theater_name": "Galaxy Cinema 10 ",
+      "chainName": "Galaxy Cinema 10",
+      "chainCode": "GCIN",
+      "showtime_id": 557325404,
+      "date": "2026-07-31+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Marysville",
+      "zip": "66508",
+      "theater_name": "Astro 3 Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557326903,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70119",
+      "theater_name": "The Broad Theater",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 557324289,
+      "date": "2026-07-31+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557326454,
+      "date": "2026-07-31+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557326455,
+      "date": "2026-07-31+14:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557326456,
+      "date": "2026-07-31+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92154",
+      "theater_name": "AMC Palm Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557326457,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bonsall",
+      "zip": "92003",
+      "theater_name": "River Village Cinema is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324622,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bonsall",
+      "zip": "92003",
+      "theater_name": "River Village Cinema is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324621,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bonsall",
+      "zip": "92003",
+      "theater_name": "River Village Cinema is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324620,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Banning",
+      "zip": "92220",
+      "theater_name": "Fox Cineplex is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557323612,
+      "date": "2026-07-31+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Banning",
+      "zip": "92220",
+      "theater_name": "Fox Cineplex is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557323611,
+      "date": "2026-07-31+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Banning",
+      "zip": "92220",
+      "theater_name": "Fox Cineplex is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557323610,
+      "date": "2026-07-31+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324724,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324725,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324722,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324723,
+      "date": "2026-07-31+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324721,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324720,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324731,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324730,
+      "date": "2026-07-31+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Jackson",
+      "zip": "95642",
+      "theater_name": "Jackson Cinema is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 557324497,
+      "date": "2026-07-31+11:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
