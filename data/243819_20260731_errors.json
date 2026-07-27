@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 08:02:46 AM",
+  "last_updated": "2026-07-27 12:12:07 PM",
   "errors": [
     {
       "state": "MA",
@@ -52082,6 +52082,262 @@
       "chainCode": "DPLC",
       "showtime_id": 557324497,
       "date": "2026-07-31+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Goldsboro",
+      "zip": "27534",
+      "theater_name": "UEC Theatres Goldsboro",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 557327307,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Goldsboro",
+      "zip": "27534",
+      "theater_name": "UEC Theatres Goldsboro",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 557327308,
+      "date": "2026-07-31+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Goldsboro",
+      "zip": "27534",
+      "theater_name": "UEC Theatres Goldsboro",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 557327309,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Goldsboro",
+      "zip": "27534",
+      "theater_name": "UEC Theatres Goldsboro",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 557327310,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Spicer",
+      "zip": "56288",
+      "theater_name": "Spicer Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557327268,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Spicer",
+      "zip": "56288",
+      "theater_name": "Spicer Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 557327265,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557328061,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557328057,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557328062,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557328058,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557328063,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557328059,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557328064,
+      "date": "2026-07-31+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 557328060,
+      "date": "2026-07-31+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Coronado",
+      "zip": "92118",
+      "theater_name": "Coronado Village Theatre - UltraStar",
+      "chainName": "UltraStar Cinemas",
+      "chainCode": "ULTR",
+      "showtime_id": 557327536,
+      "date": "2026-07-31+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Coronado",
+      "zip": "92118",
+      "theater_name": "Coronado Village Theatre - UltraStar",
+      "chainName": "UltraStar Cinemas",
+      "chainCode": "ULTR",
+      "showtime_id": 557327538,
+      "date": "2026-07-31+20:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
