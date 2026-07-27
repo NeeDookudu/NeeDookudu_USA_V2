@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 12:12:07 PM",
+  "last_updated": "2026-07-27 04:32:36 PM",
   "errors": [
     {
       "state": "MA",
@@ -38027,22 +38027,6 @@
     },
     {
       "state": "CA",
-      "city": "Roseville",
-      "zip": "95678",
-      "theater_name": "Cinemark Roseville Galleria Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551463098,
-      "date": "2026-07-31+15:40",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Grass Valley",
       "zip": "95945",
       "theater_name": "Prime Cinemas Del Oro",
@@ -52338,6 +52322,38 @@
       "chainCode": "ULTR",
       "showtime_id": 557327538,
       "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Wadena",
+      "zip": "56482",
+      "theater_name": "Cozy 3 Theatre",
+      "chainName": "Quincer Amusement",
+      "chainCode": "QUIN",
+      "showtime_id": 557329060,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Wadena",
+      "zip": "56482",
+      "theater_name": "Cozy 3 Theatre",
+      "chainName": "Quincer Amusement",
+      "chainCode": "QUIN",
+      "showtime_id": 557329061,
+      "date": "2026-07-31+21:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
