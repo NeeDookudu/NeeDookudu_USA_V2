@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 07:48:31 AM",
+  "last_updated": "2026-07-30 10:56:22 AM",
   "errors": [
     {
       "state": "MA",
@@ -2671,22 +2671,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Wayne",
-      "zip": "07470",
-      "theater_name": "Cinemark Willowbrook Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551657945,
-      "date": "2026-07-31+20:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -35059,70 +35043,6 @@
     },
     {
       "state": "AZ",
-      "city": "Tucson",
-      "zip": "85748",
-      "theater_name": "Galaxy Theatres Tucson",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 551447384,
-      "date": "2026-07-31+11:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85748",
-      "theater_name": "Galaxy Theatres Tucson",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 551447386,
-      "date": "2026-07-31+18:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85748",
-      "theater_name": "Galaxy Theatres Tucson",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 551447389,
-      "date": "2026-07-31+21:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85748",
-      "theater_name": "Galaxy Theatres Tucson",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 551447385,
-      "date": "2026-07-31+14:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "AZ",
       "city": "Kingman",
       "zip": "86409",
       "theater_name": "Brenden Kingman 4",
@@ -35320,136 +35240,8 @@
       "theater_name": "Galaxy Green Valley",
       "chainName": "Galaxy Theatres",
       "chainCode": "GLXY",
-      "showtime_id": 551485272,
-      "date": "2026-07-31+09:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Henderson",
-      "zip": "89014",
-      "theater_name": "Galaxy Green Valley",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 555173404,
-      "date": "2026-07-31+12:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Henderson",
-      "zip": "89014",
-      "theater_name": "Galaxy Green Valley",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
       "showtime_id": 555174669,
       "date": "2026-07-31+19:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Henderson",
-      "zip": "89014",
-      "theater_name": "Galaxy Green Valley",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 555252557,
-      "date": "2026-07-31+23:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Henderson",
-      "zip": "89014",
-      "theater_name": "Galaxy Green Valley",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 555173406,
-      "date": "2026-07-31+16:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89169",
-      "theater_name": "Galaxy Boulevard Mall",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 551538702,
-      "date": "2026-07-31+11:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89169",
-      "theater_name": "Galaxy Boulevard Mall",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 551538705,
-      "date": "2026-07-31+14:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89169",
-      "theater_name": "Galaxy Boulevard Mall",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 551538704,
-      "date": "2026-07-31+18:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89169",
-      "theater_name": "Galaxy Boulevard Mall",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 551538703,
-      "date": "2026-07-31+21:30",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -83274,22 +83066,6 @@
       }
     },
     {
-      "state": "MA",
-      "city": "Framingham",
-      "zip": "01701",
-      "theater_name": "AMC Framingham 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557705782,
-      "date": "2026-07-31+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400,
-        "reason": "HTTP 400"
-      }
-    },
-    {
       "state": "NC",
       "city": "Durham",
       "zip": "27713",
@@ -83559,22 +83335,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Columbus",
-      "zip": "31904",
-      "theater_name": "AMC Ritz 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557907845,
-      "date": "2026-07-31+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -84679,22 +84439,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Millbury",
-      "zip": "01527",
-      "theater_name": "Blackstone Valley 14: Cinema de Lux",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 557993118,
-      "date": "2026-07-31+21:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -86058,19 +85802,275 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Petaluma",
-      "zip": "94952",
-      "theater_name": "CinemaWest Boulevard IMAX & ScreenX",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 557991387,
-      "date": "2026-07-31+08:45",
+      "state": "NC",
+      "city": "Smithfield",
+      "zip": "27577",
+      "theater_name": "Smithfield Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 558037598,
+      "date": "2026-07-31+12:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Smithfield",
+      "zip": "27577",
+      "theater_name": "Smithfield Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 558037596,
+      "date": "2026-07-31+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Smithfield",
+      "zip": "27577",
+      "theater_name": "Smithfield Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 558037597,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Smithfield",
+      "zip": "27577",
+      "theater_name": "Smithfield Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 558037595,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Alexander City",
+      "zip": "35010",
+      "theater_name": "Playhouse Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 558033833,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Moultrie",
+      "zip": "31768",
+      "theater_name": "Moultrie Stadium Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 558037073,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Moultrie",
+      "zip": "31768",
+      "theater_name": "Moultrie Stadium Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 558037074,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Moultrie",
+      "zip": "31768",
+      "theater_name": "Moultrie Stadium Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 558037075,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "theater_name": "Movies of Lake Worth",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 558033969,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mount Vernon",
+      "zip": "43050",
+      "theater_name": "UEC Theaters Mt Vernon",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 558038147,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mount Vernon",
+      "zip": "43050",
+      "theater_name": "UEC Theaters Mt Vernon",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 558038155,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76120",
+      "theater_name": "AMC Eastchase 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558025515,
+      "date": "2026-08-01+01:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558034810,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558034808,
+      "date": "2026-07-31+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558034809,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95130",
+      "theater_name": "AMC Saratoga 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558037452,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95130",
+      "theater_name": "AMC Saratoga 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558037451,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
