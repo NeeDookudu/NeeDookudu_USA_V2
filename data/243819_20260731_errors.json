@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 08:15:47 AM",
+  "last_updated": "2026-07-31 11:58:09 AM",
   "errors": [
     {
       "state": "MA",
@@ -35722,22 +35722,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551462539,
       "date": "2026-07-31+21:20",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551462552,
-      "date": "2026-07-31+22:55",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -82795,22 +82779,6 @@
     },
     {
       "state": "NC",
-      "city": "Durham",
-      "zip": "27713",
-      "theater_name": "AMC Southpoint 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557976590,
-      "date": "2026-08-01+00:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NC",
       "city": "Henderson",
       "zip": "27536",
       "theater_name": "RCE Theaters - Henderson",
@@ -84256,22 +84224,6 @@
       "theater_name": "AMC Parkway Pointe 15",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 557840870,
-      "date": "2026-08-01+00:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Atlanta",
-      "zip": "30339",
-      "theater_name": "AMC Parkway Pointe 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 557840880,
       "date": "2026-08-01+00:00",
       "format": "Standard",
@@ -85403,70 +85355,6 @@
     },
     {
       "state": "MA",
-      "city": "Cambridge",
-      "zip": "02139",
-      "theater_name": "Landmark Kendall Square Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 558093244,
-      "date": "2026-07-31+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02114",
-      "theater_name": "AMC Causeway 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558082020,
-      "date": "2026-07-31+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02114",
-      "theater_name": "AMC Causeway 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558082017,
-      "date": "2026-07-31+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02114",
-      "theater_name": "AMC Causeway 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558082021,
-      "date": "2026-07-31+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
       "city": "East Bridgewater",
       "zip": "02333",
       "theater_name": "East Bridgewater Cinema",
@@ -85786,38 +85674,6 @@
       }
     },
     {
-      "state": "PA",
-      "city": "Moosic",
-      "zip": "18507",
-      "theater_name": "Cinemark Montage Mountain 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558044005,
-      "date": "2026-07-31+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Ashburn",
-      "zip": "20147",
-      "theater_name": "Alamo Drafthouse One Loudoun",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 558065252,
-      "date": "2026-07-31+09:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "VA",
       "city": "McLean",
       "zip": "22102",
@@ -85927,22 +85783,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Cary",
-      "zip": "27518",
-      "theater_name": "Regal Crossroads - Cary",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558065401,
-      "date": "2026-07-31+14:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -86315,22 +86155,6 @@
     },
     {
       "state": "TN",
-      "city": "Nashville",
-      "zip": "37215",
-      "theater_name": "Regal Green Hills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558078494,
-      "date": "2026-07-31+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
       "theater_name": "AMC CLASSIC Murfreesboro 16",
@@ -86407,54 +86231,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Perrysburg",
-      "zip": "43551",
-      "theater_name": "Cinemark Levis Commons 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558039307,
-      "date": "2026-07-31+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Monroe",
-      "zip": "48162",
-      "theater_name": "Phoenix Theatres Mall of Monroe",
-      "chainName": "Phoenix Theatres - MI",
-      "chainCode": "PTMI",
-      "showtime_id": 558069783,
-      "date": "2026-08-01+01:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Monroe",
-      "zip": "48162",
-      "theater_name": "Phoenix Theatres Mall of Monroe",
-      "chainName": "Phoenix Theatres - MI",
-      "chainCode": "PTMI",
-      "showtime_id": 558076672,
-      "date": "2026-08-01+00:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -86551,54 +86327,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "SD",
-      "city": "Rapid City",
-      "zip": "57701",
-      "theater_name": "Golden Ticket Cinemas Rushmore 7",
-      "chainName": "Golden Ticket Cinemas",
-      "chainCode": "GOLD",
-      "showtime_id": 558078710,
-      "date": "2026-07-31+08:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SD",
-      "city": "Rapid City",
-      "zip": "57701",
-      "theater_name": "Golden Ticket Cinemas Rushmore 7",
-      "chainName": "Golden Ticket Cinemas",
-      "chainCode": "GOLD",
-      "showtime_id": 558078714,
-      "date": "2026-07-31+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SD",
-      "city": "Rapid City",
-      "zip": "57701",
-      "theater_name": "Golden Ticket Cinemas Rushmore 7",
-      "chainName": "Golden Ticket Cinemas",
-      "chainCode": "GOLD",
-      "showtime_id": 558078711,
-      "date": "2026-08-01+00:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -86730,38 +86458,6 @@
       }
     },
     {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558064527,
-      "date": "2026-07-31+19:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Provo",
-      "zip": "84601",
-      "theater_name": "Cinemark Provo 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558064570,
-      "date": "2026-07-31+20:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "AZ",
       "city": "Phoenix",
       "zip": "85016",
@@ -86791,134 +86487,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Flagstaff",
-      "zip": "86004",
-      "theater_name": "Harkins Flagstaff 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 558084271,
-      "date": "2026-07-31+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Irvine",
-      "zip": "92612",
-      "theater_name": "Regal University Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558093239,
-      "date": "2026-07-31+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Irvine",
-      "zip": "92612",
-      "theater_name": "Regal University Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558093237,
-      "date": "2026-07-31+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Irvine",
-      "zip": "92612",
-      "theater_name": "Regal University Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558093238,
-      "date": "2026-07-31+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92126",
-      "theater_name": "Regal Edwards Mira Mesa ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558081454,
-      "date": "2026-07-31+16:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92126",
-      "theater_name": "Regal Edwards Mira Mesa ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558081455,
-      "date": "2026-07-31+22:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92126",
-      "theater_name": "Regal Edwards Mira Mesa ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558081451,
-      "date": "2026-07-31+22:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "La Jolla",
-      "zip": "92037",
-      "theater_name": "AMC La Jolla 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558092362,
-      "date": "2026-07-31+17:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -86967,22 +86535,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Vancouver",
-      "zip": "98683",
-      "theater_name": "AMC CLASSIC Mill Plain 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558093806,
-      "date": "2026-07-31+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -87074,6 +86626,4022 @@
       "chainCode": "FAE",
       "showtime_id": 558093405,
       "date": "2026-07-31+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Wellfleet",
+      "zip": "02667",
+      "theater_name": "Wellfleet Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558097810,
+      "date": "2026-07-31+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Wellfleet",
+      "zip": "02667",
+      "theater_name": "Wellfleet Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558097811,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Danbury",
+      "zip": "06810",
+      "theater_name": "AMC Danbury 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098067,
+      "date": "2026-07-31+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Stamford",
+      "zip": "06901",
+      "theater_name": "AMC Majestic 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558092413,
+      "date": "2026-07-31+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097027,
+      "date": "2026-07-31+23:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097026,
+      "date": "2026-08-01+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Nanuet",
+      "zip": "10954",
+      "theater_name": "Regal Nanuet & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558098770,
+      "date": "2026-07-31+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Nanuet",
+      "zip": "10954",
+      "theater_name": "Regal Nanuet & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558098771,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Huntington",
+      "zip": "11743",
+      "theater_name": "AMC Shore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094887,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Huntington",
+      "zip": "11743",
+      "theater_name": "AMC Shore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558048916,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Huntington",
+      "zip": "11743",
+      "theater_name": "AMC Shore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094888,
+      "date": "2026-07-31+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Huntington",
+      "zip": "11743",
+      "theater_name": "AMC Shore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558048914,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Huntington",
+      "zip": "11743",
+      "theater_name": "AMC Shore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094889,
+      "date": "2026-07-31+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "East Hanover",
+      "zip": "07936",
+      "theater_name": "AMC Loews East Hanover 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558096832,
+      "date": "2026-07-31+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "East Hanover",
+      "zip": "07936",
+      "theater_name": "AMC Loews East Hanover 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558096831,
+      "date": "2026-07-31+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "East Hanover",
+      "zip": "07936",
+      "theater_name": "AMC Loews East Hanover 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558096833,
+      "date": "2026-07-31+23:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Clifton",
+      "zip": "07014",
+      "theater_name": "AMC Clifton Commons 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558082321,
+      "date": "2026-07-31+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Clifton",
+      "zip": "07014",
+      "theater_name": "AMC Clifton Commons 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558082322,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Clifton",
+      "zip": "07014",
+      "theater_name": "AMC Clifton Commons 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558082323,
+      "date": "2026-07-31+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Clifton",
+      "zip": "07014",
+      "theater_name": "AMC Clifton Commons 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558085512,
+      "date": "2026-08-01+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Secaucus",
+      "zip": "07094",
+      "theater_name": "Regal Secaucus ShowPlace 14",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097413,
+      "date": "2026-07-31+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Secaucus",
+      "zip": "07094",
+      "theater_name": "Regal Secaucus ShowPlace 14",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097412,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Morristown",
+      "zip": "07960",
+      "theater_name": "AMC Headquarters 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097272,
+      "date": "2026-07-31+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Morristown",
+      "zip": "07960",
+      "theater_name": "AMC Headquarters 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097273,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Linden",
+      "zip": "07036",
+      "theater_name": "AMC Aviation 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098734,
+      "date": "2026-07-31+08:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Linden",
+      "zip": "07036",
+      "theater_name": "AMC Aviation 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098735,
+      "date": "2026-07-31+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Linden",
+      "zip": "07036",
+      "theater_name": "AMC Aviation 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098736,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Linden",
+      "zip": "07036",
+      "theater_name": "AMC Aviation 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098737,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558077163,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558089136,
+      "date": "2026-07-31+09:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558077162,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558073220,
+      "date": "2026-07-31+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558073219,
+      "date": "2026-07-31+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10282",
+      "theater_name": "Regal Battery Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558098830,
+      "date": "2026-07-31+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10282",
+      "theater_name": "Regal Battery Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558098842,
+      "date": "2026-07-31+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10282",
+      "theater_name": "Regal Battery Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558098829,
+      "date": "2026-07-31+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10282",
+      "theater_name": "Regal Battery Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558098840,
+      "date": "2026-08-01+00:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10282",
+      "theater_name": "Regal Battery Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558098841,
+      "date": "2026-08-01+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "Regal Times Square",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558095527,
+      "date": "2026-07-31+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "Regal Times Square",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558095528,
+      "date": "2026-08-01+01:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10065",
+      "theater_name": "Cinema 123 by Angelika ",
+      "chainName": "Angelika Film Center",
+      "chainCode": "AFC",
+      "showtime_id": 558098553,
+      "date": "2026-08-01+01:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Box Office Cinemas Middletown",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 558095811,
+      "date": "2026-07-31+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "AMC Crystal Run 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558093438,
+      "date": "2026-08-01+01:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "AMC Crystal Run 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558093437,
+      "date": "2026-08-01+01:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 558094592,
+      "date": "2026-07-31+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 558094588,
+      "date": "2026-07-31+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 558094593,
+      "date": "2026-07-31+13:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 558094589,
+      "date": "2026-07-31+14:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 558094594,
+      "date": "2026-07-31+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 558094590,
+      "date": "2026-07-31+17:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 558094595,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 558094591,
+      "date": "2026-07-31+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Silver Spring",
+      "zip": "20910",
+      "theater_name": "Regal Majestic & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097627,
+      "date": "2026-07-31+11:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Silver Spring",
+      "zip": "20910",
+      "theater_name": "Regal Majestic & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094525,
+      "date": "2026-07-31+17:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Silver Spring",
+      "zip": "20910",
+      "theater_name": "Regal Majestic & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094527,
+      "date": "2026-07-31+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Silver Spring",
+      "zip": "20910",
+      "theater_name": "Regal Majestic & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094526,
+      "date": "2026-07-31+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Alexandria",
+      "zip": "22314",
+      "theater_name": "AMC Hoffman Center 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558099148,
+      "date": "2026-07-31+23:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Wheaton",
+      "zip": "20902",
+      "theater_name": "AMC Wheaton Mall 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558068304,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Waldorf",
+      "zip": "20603",
+      "theater_name": "AMC St. Charles Town Ctr. 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558096983,
+      "date": "2026-07-31+18:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Waldorf",
+      "zip": "20603",
+      "theater_name": "AMC St. Charles Town Ctr. 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558096985,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Waldorf",
+      "zip": "20603",
+      "theater_name": "AMC St. Charles Town Ctr. 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558096984,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Waldorf",
+      "zip": "20603",
+      "theater_name": "AMC St. Charles Town Ctr. 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558096986,
+      "date": "2026-07-31+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Fredericksburg",
+      "zip": "22401",
+      "theater_name": "Regal Fredericksburg & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097960,
+      "date": "2026-07-31+23:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Williamsburg",
+      "zip": "23188",
+      "theater_name": "Regal New Town",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558098579,
+      "date": "2026-07-31+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Norfolk",
+      "zip": "23511",
+      "theater_name": "Phoenix Theatres Maingate 10",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 558097058,
+      "date": "2026-07-31+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Norfolk",
+      "zip": "23511",
+      "theater_name": "Phoenix Theatres Maingate 10",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 558097059,
+      "date": "2026-07-31+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Suffolk",
+      "zip": "23435",
+      "theater_name": "Regal Harbour View Grande",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097807,
+      "date": "2026-07-31+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Chesapeake",
+      "zip": "23321",
+      "theater_name": "Cinemark Chesapeake Square and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558044218,
+      "date": "2026-07-31+18:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Chesapeake",
+      "zip": "23321",
+      "theater_name": "Cinemark Chesapeake Square and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558044217,
+      "date": "2026-07-31+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098305,
+      "date": "2026-07-31+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098307,
+      "date": "2026-07-31+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098312,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098299,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558098313,
+      "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 558098892,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 558098894,
+      "date": "2026-07-31+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 558098891,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 558098895,
+      "date": "2026-07-31+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 558098896,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 558098897,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Pigeon Forge",
+      "zip": "37863",
+      "theater_name": "The Forge Cinemas",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 558095975,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Hiawassee",
+      "zip": "30546",
+      "theater_name": "VIP Fieldstone 6",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 558097537,
+      "date": "2026-07-31+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30339",
+      "theater_name": "AMC Parkway Pointe 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094929,
+      "date": "2026-08-01+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30339",
+      "theater_name": "AMC Parkway Pointe 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094932,
+      "date": "2026-08-01+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097681,
+      "date": "2026-07-31+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097690,
+      "date": "2026-08-01+01:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Ocoee",
+      "zip": "34761",
+      "theater_name": "AMC West Oaks 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558075081,
+      "date": "2026-07-31+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Kissimmee",
+      "zip": "34741",
+      "theater_name": "Regal The Loop",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558096728,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Kissimmee",
+      "zip": "34741",
+      "theater_name": "Regal The Loop",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558096729,
+      "date": "2026-07-31+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Kissimmee",
+      "zip": "34747",
+      "theater_name": "Studio Movie Grill Sunset Walk",
+      "chainName": "Studio Movie Grill",
+      "chainCode": "SMG",
+      "showtime_id": 558095889,
+      "date": "2026-07-31+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Kissimmee",
+      "zip": "34747",
+      "theater_name": "Studio Movie Grill Sunset Walk",
+      "chainName": "Studio Movie Grill",
+      "chainCode": "SMG",
+      "showtime_id": 558095887,
+      "date": "2026-07-31+17:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Kissimmee",
+      "zip": "34747",
+      "theater_name": "Studio Movie Grill Sunset Walk",
+      "chainName": "Studio Movie Grill",
+      "chainCode": "SMG",
+      "showtime_id": 558095890,
+      "date": "2026-07-31+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Kissimmee",
+      "zip": "34747",
+      "theater_name": "Studio Movie Grill Sunset Walk",
+      "chainName": "Studio Movie Grill",
+      "chainCode": "SMG",
+      "showtime_id": 558095888,
+      "date": "2026-07-31+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Dania Beach",
+      "zip": "33004",
+      "theater_name": "Regal Dania Pointe ",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094596,
+      "date": "2026-07-31+14:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Dania Beach",
+      "zip": "33004",
+      "theater_name": "Regal Dania Pointe ",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 557481369,
+      "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pompano Beach",
+      "zip": "33062",
+      "theater_name": "AMC Pompano Beach 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558069187,
+      "date": "2026-07-31+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Coral Springs",
+      "zip": "33071",
+      "theater_name": "Paragon Theaters Coral Square + Axis15",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 558094504,
+      "date": "2026-07-31+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Coral Springs",
+      "zip": "33071",
+      "theater_name": "Paragon Theaters Coral Square + Axis15",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 558094503,
+      "date": "2026-07-31+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Miami",
+      "zip": "33131",
+      "theater_name": "Silverspot Cinema Metsquare",
+      "chainName": "Silverspot Cinemas",
+      "chainCode": "SLVR",
+      "showtime_id": 558097418,
+      "date": "2026-07-31+15:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Miami",
+      "zip": "33131",
+      "theater_name": "Silverspot Cinema Metsquare",
+      "chainName": "Silverspot Cinemas",
+      "chainCode": "SLVR",
+      "showtime_id": 558099494,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Miami",
+      "zip": "33131",
+      "theater_name": "Silverspot Cinema Metsquare",
+      "chainName": "Silverspot Cinemas",
+      "chainCode": "SLVR",
+      "showtime_id": 558099495,
+      "date": "2026-07-31+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 558095970,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Bradenton",
+      "zip": "34203",
+      "theater_name": "AMC Bradenton 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097068,
+      "date": "2026-07-31+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Bessemer",
+      "zip": "35022",
+      "theater_name": "Bessemer Premiere 14 Promenade",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 558099159,
+      "date": "2026-07-31+13:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Bessemer",
+      "zip": "35022",
+      "theater_name": "Bessemer Premiere 14 Promenade",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 558099158,
+      "date": "2026-07-31+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Bessemer",
+      "zip": "35022",
+      "theater_name": "Bessemer Premiere 14 Promenade",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 558099157,
+      "date": "2026-07-31+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Evansville",
+      "zip": "47712",
+      "theater_name": "AMC Evansville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558095019,
+      "date": "2026-08-01+00:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Brooklyn",
+      "zip": "44144",
+      "theater_name": "AMC Ridge Park Square 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558077155,
+      "date": "2026-07-31+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Brooklyn",
+      "zip": "44144",
+      "theater_name": "AMC Ridge Park Square 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558077154,
+      "date": "2026-07-31+14:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Brooklyn",
+      "zip": "44144",
+      "theater_name": "AMC Ridge Park Square 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558065535,
+      "date": "2026-07-31+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "West Chester",
+      "zip": "45069",
+      "theater_name": "AMC West Chester 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097290,
+      "date": "2026-07-31+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Springdale",
+      "zip": "45246",
+      "theater_name": "Showcase Cinema de Lux Springdale",
+      "chainName": "National Amusement",
+      "chainCode": "NATA",
+      "showtime_id": 558095977,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46278",
+      "theater_name": "AMC Traders Point 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558091142,
+      "date": "2026-07-31+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Warsaw",
+      "zip": "46580",
+      "theater_name": "North Pointe Cinemas",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 558097391,
+      "date": "2026-07-31+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Warsaw",
+      "zip": "46580",
+      "theater_name": "North Pointe Cinemas",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 558097389,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Jackson",
+      "zip": "49202",
+      "theater_name": "GQT Jackson 10",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 558097131,
+      "date": "2026-07-31+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Shenandoah",
+      "zip": "51601",
+      "theater_name": "Legacy 3 Theatre",
+      "chainName": "Three Rau's Entertainment",
+      "chainCode": "RAU",
+      "showtime_id": 558096829,
+      "date": "2026-07-31+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Brookings",
+      "zip": "57006",
+      "theater_name": "Brookings Cinema 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558096957,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "The Elks Theatre",
+      "chainName": "The Elks Theatre",
+      "chainCode": "ELKS",
+      "showtime_id": 558097373,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Bloomington",
+      "zip": "61704",
+      "theater_name": "Golden Ticket Bloomington Ale House",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 558099043,
+      "date": "2026-07-31+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Savoy",
+      "zip": "61874",
+      "theater_name": "Phoenix Theatres Savoy 16 + IMAX",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 558099326,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Savoy",
+      "zip": "61874",
+      "theater_name": "Phoenix Theatres Savoy 16 + IMAX",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 558098750,
+      "date": "2026-07-31+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Springfield",
+      "zip": "62703",
+      "theater_name": "AMC Showplace Springfield 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558079427,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sappington",
+      "zip": "63126",
+      "theater_name": "Marcus Ronnie's Cinema + IMAX  ",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 558097963,
+      "date": "2026-07-31+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Carbondale",
+      "zip": "62901",
+      "theater_name": "VIP Carbondale 8",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 558096903,
+      "date": "2026-07-31+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558065737,
+      "date": "2026-07-31+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558065738,
+      "date": "2026-07-31+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558065740,
+      "date": "2026-07-31+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094883,
+      "date": "2026-07-31+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558065739,
+      "date": "2026-07-31+23:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094881,
+      "date": "2026-08-01+00:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094880,
+      "date": "2026-08-01+00:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558094882,
+      "date": "2026-08-01+01:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Independence",
+      "zip": "64057",
+      "theater_name": "AMC Independence Commons 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558071646,
+      "date": "2026-07-31+13:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Independence",
+      "zip": "64057",
+      "theater_name": "AMC Independence Commons 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558089153,
+      "date": "2026-07-31+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Independence",
+      "zip": "64057",
+      "theater_name": "AMC Independence Commons 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558071645,
+      "date": "2026-07-31+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Independence",
+      "zip": "64057",
+      "theater_name": "AMC Independence Commons 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558089152,
+      "date": "2026-07-31+19:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Independence",
+      "zip": "64057",
+      "theater_name": "AMC Independence Commons 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558071647,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Independence",
+      "zip": "64057",
+      "theater_name": "AMC Independence Commons 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558071644,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Lexington",
+      "zip": "64067",
+      "theater_name": "VIP Cannonball 6",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 558097497,
+      "date": "2026-07-31+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 558094403,
+      "date": "2026-07-31+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 558094406,
+      "date": "2026-07-31+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558068085,
+      "date": "2026-07-31+23:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77002",
+      "theater_name": "AMC Houston 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097678,
+      "date": "2026-07-31+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097694,
+      "date": "2026-07-31+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558079586,
+      "date": "2026-07-31+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558079584,
+      "date": "2026-07-31+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097695,
+      "date": "2026-07-31+22:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558079585,
+      "date": "2026-07-31+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558079587,
+      "date": "2026-07-31+23:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067725,
+      "date": "2026-07-31+08:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067720,
+      "date": "2026-07-31+11:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067724,
+      "date": "2026-07-31+11:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067727,
+      "date": "2026-07-31+11:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067717,
+      "date": "2026-07-31+11:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558090734,
+      "date": "2026-07-31+12:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558090735,
+      "date": "2026-07-31+14:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067723,
+      "date": "2026-07-31+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067718,
+      "date": "2026-07-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067726,
+      "date": "2026-07-31+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067721,
+      "date": "2026-07-31+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067719,
+      "date": "2026-07-31+23:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558067722,
+      "date": "2026-07-31+23:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097019,
+      "date": "2026-08-01+00:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558040124,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558097726,
+      "date": "2026-07-31+17:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558040123,
+      "date": "2026-07-31+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558095358,
+      "date": "2026-07-31+23:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558099139,
+      "date": "2026-08-01+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558099138,
+      "date": "2026-08-01+00:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558068083,
+      "date": "2026-07-31+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558068082,
+      "date": "2026-07-31+13:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558095449,
+      "date": "2026-08-01+00:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Spring",
+      "zip": "77388",
+      "theater_name": "AMC Spring 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558095229,
+      "date": "2026-08-01+00:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Spring",
+      "zip": "77388",
+      "theater_name": "AMC Spring 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558096942,
+      "date": "2026-07-31+19:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Spring",
+      "zip": "77388",
+      "theater_name": "AMC Spring 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558095231,
+      "date": "2026-07-31+23:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cypress",
+      "zip": "77433",
+      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558072734,
+      "date": "2026-07-31+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cypress",
+      "zip": "77433",
+      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558072736,
+      "date": "2026-07-31+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cypress",
+      "zip": "77433",
+      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558072735,
+      "date": "2026-07-31+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558072172,
+      "date": "2026-07-31+23:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558072173,
+      "date": "2026-07-31+23:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "The Woodlands",
+      "zip": "77380",
+      "theater_name": "Cinemark The Woodlands and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558072090,
+      "date": "2026-07-31+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "New Caney",
+      "zip": "77357",
+      "theater_name": "Cinemark Valley Ranch and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558084176,
+      "date": "2026-07-31+10:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "New Caney",
+      "zip": "77357",
+      "theater_name": "Cinemark Valley Ranch and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558070301,
+      "date": "2026-07-31+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "New Caney",
+      "zip": "77357",
+      "theater_name": "Cinemark Valley Ranch and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558070302,
+      "date": "2026-07-31+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "New Caney",
+      "zip": "77357",
+      "theater_name": "Cinemark Valley Ranch and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558070303,
+      "date": "2026-07-31+23:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "New Caney",
+      "zip": "77357",
+      "theater_name": "Cinemark Valley Ranch and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558084177,
+      "date": "2026-08-01+00:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Peoria",
+      "zip": "85345",
+      "theater_name": "Harkins Park West 14",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097724,
+      "date": "2026-08-01+01:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Peoria",
+      "zip": "85345",
+      "theater_name": "Harkins Park West 14",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558096800,
+      "date": "2026-07-31+08:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Peoria",
+      "zip": "85345",
+      "theater_name": "Harkins Park West 14",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097722,
+      "date": "2026-08-01+01:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Peoria",
+      "zip": "85345",
+      "theater_name": "Harkins Park West 14",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097723,
+      "date": "2026-08-01+01:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Avondale",
+      "zip": "85392",
+      "theater_name": "Harkins Gateway Pavilions 18",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558098056,
+      "date": "2026-07-31+10:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Avondale",
+      "zip": "85392",
+      "theater_name": "Harkins Gateway Pavilions 18",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558098055,
+      "date": "2026-07-31+14:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Avondale",
+      "zip": "85392",
+      "theater_name": "Harkins Gateway Pavilions 18",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558098054,
+      "date": "2026-07-31+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Avondale",
+      "zip": "85392",
+      "theater_name": "Harkins Gateway Pavilions 18",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558098052,
+      "date": "2026-07-31+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097487,
+      "date": "2026-07-31+14:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097490,
+      "date": "2026-07-31+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097488,
+      "date": "2026-07-31+11:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097489,
+      "date": "2026-07-31+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558095640,
+      "date": "2026-07-31+17:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558095639,
+      "date": "2026-07-31+20:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097491,
+      "date": "2026-07-31+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558097492,
+      "date": "2026-07-31+23:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "Harkins Tempe Marketplace 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558096818,
+      "date": "2026-07-31+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "Harkins Tempe Marketplace 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 558096819,
+      "date": "2026-08-01+01:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Temecula",
+      "zip": "92591",
+      "theater_name": "Regal Edwards Temecula",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558095692,
+      "date": "2026-07-31+07:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Temecula",
+      "zip": "92591",
+      "theater_name": "Regal Edwards Temecula",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558095697,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Temecula",
+      "zip": "92591",
+      "theater_name": "Regal Edwards Temecula",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558095698,
+      "date": "2026-07-31+23:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097430,
+      "date": "2026-07-31+08:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097429,
+      "date": "2026-07-31+12:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097422,
+      "date": "2026-07-31+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097421,
+      "date": "2026-07-31+21:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097423,
+      "date": "2026-07-31+22:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097426,
+      "date": "2026-08-01+00:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097427,
+      "date": "2026-08-01+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097425,
+      "date": "2026-08-01+00:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558095973,
+      "date": "2026-07-31+09:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558095972,
+      "date": "2026-07-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097428,
+      "date": "2026-07-31+22:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Irvine",
+      "zip": "92618",
+      "theater_name": "Regal Irvine Spectrum",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097424,
+      "date": "2026-08-01+00:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ventura",
+      "zip": "93001",
+      "theater_name": "Cinemark Century Ventura Downtown 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558095520,
+      "date": "2026-07-31+22:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93304",
+      "theater_name": "Maya Bakersfield 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 558099332,
+      "date": "2026-07-31+09:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93304",
+      "theater_name": "Maya Bakersfield 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 558099331,
+      "date": "2026-07-31+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93304",
+      "theater_name": "Maya Bakersfield 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 558099330,
+      "date": "2026-07-31+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93304",
+      "theater_name": "Maya Bakersfield 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 558099334,
+      "date": "2026-07-31+12:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93304",
+      "theater_name": "Maya Bakersfield 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 558099333,
+      "date": "2026-07-31+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93311",
+      "theater_name": "Regal Edwards Bakersfield",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097859,
+      "date": "2026-07-31+11:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93311",
+      "theater_name": "Regal Edwards Bakersfield",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097855,
+      "date": "2026-07-31+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93311",
+      "theater_name": "Regal Edwards Bakersfield",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558097856,
+      "date": "2026-07-31+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Tulare",
+      "zip": "93274",
+      "theater_name": "Galaxy Tulare",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 558099324,
+      "date": "2026-08-01+00:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094341,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094344,
+      "date": "2026-07-31+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094342,
+      "date": "2026-07-31+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094345,
+      "date": "2026-07-31+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094343,
+      "date": "2026-07-31+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094347,
+      "date": "2026-07-31+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094346,
+      "date": "2026-07-31+23:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094348,
+      "date": "2026-08-01+00:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93722",
+      "theater_name": "Regal Marketplace @ El Paseo & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 558094642,
+      "date": "2026-07-31+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Luis Obispo",
+      "zip": "93401",
+      "theater_name": "The Movie Experience - Downtown Centre Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 558096906,
+      "date": "2026-07-31+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pacific Grove",
+      "zip": "93950",
+      "theater_name": "Lighthouse Cinema & Cafe",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558099249,
+      "date": "2026-07-31+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pacific Grove",
+      "zip": "93950",
+      "theater_name": "Lighthouse Cinema & Cafe",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558099250,
+      "date": "2026-07-31+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pacific Grove",
+      "zip": "93950",
+      "theater_name": "Lighthouse Cinema & Cafe",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558099251,
+      "date": "2026-07-31+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lakewood",
+      "zip": "98499",
+      "theater_name": "AMC Lakewood Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558085334,
+      "date": "2026-07-31+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 558095718,
+      "date": "2026-07-31+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 558095807,
+      "date": "2026-07-31+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 558095788,
+      "date": "2026-07-31+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 558095786,
+      "date": "2026-07-31+15:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 558097542,
+      "date": "2026-07-31+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 558095787,
+      "date": "2026-07-31+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 558097543,
+      "date": "2026-07-31+21:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
