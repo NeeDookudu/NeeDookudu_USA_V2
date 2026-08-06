@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06 01:44:31 PM",
+  "last_updated": "2026-08-06 04:12:38 PM",
   "errors": [
     {
       "state": "MA",
@@ -8131,134 +8131,6 @@
     },
     {
       "state": "PA",
-      "city": "Philadelphia",
-      "zip": "19107",
-      "theater_name": "AMC DINE-IN Fashion District 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558577523,
-      "date": "2026-08-06+12:50",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Philadelphia",
-      "zip": "19107",
-      "theater_name": "AMC DINE-IN Fashion District 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558577525,
-      "date": "2026-08-06+19:55",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Philadelphia",
-      "zip": "19107",
-      "theater_name": "AMC DINE-IN Fashion District 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558577545,
-      "date": "2026-08-06+11:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Philadelphia",
-      "zip": "19107",
-      "theater_name": "AMC DINE-IN Fashion District 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558577546,
-      "date": "2026-08-06+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Philadelphia",
-      "zip": "19107",
-      "theater_name": "AMC DINE-IN Fashion District 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558577551,
-      "date": "2026-08-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Philadelphia",
-      "zip": "19107",
-      "theater_name": "AMC DINE-IN Fashion District 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558577552,
-      "date": "2026-08-06+22:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Philadelphia",
-      "zip": "19107",
-      "theater_name": "AMC DINE-IN Fashion District 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558577534,
-      "date": "2026-08-06+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Philadelphia",
-      "zip": "19107",
-      "theater_name": "AMC DINE-IN Fashion District 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558577547,
-      "date": "2026-08-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
       "city": "Narberth",
       "zip": "19072",
       "theater_name": "Reel Cinemas Narberth 2",
@@ -8319,278 +8191,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359779,
-      "date": "2026-08-06+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359776,
-      "date": "2026-08-06+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359778,
-      "date": "2026-08-06+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359774,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359773,
-      "date": "2026-08-06+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359775,
-      "date": "2026-08-06+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359782,
-      "date": "2026-08-06+10:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359789,
-      "date": "2026-08-06+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359781,
-      "date": "2026-08-06+13:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359788,
-      "date": "2026-08-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359780,
-      "date": "2026-08-06+17:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359786,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359783,
-      "date": "2026-08-06+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558359787,
-      "date": "2026-08-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552941777,
-      "date": "2026-08-06+12:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551618018,
-      "date": "2026-08-06+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Springfield",
-      "zip": "19064",
-      "theater_name": "AMC Marple 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551618019,
-      "date": "2026-08-06+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
       }
     },
     {
@@ -8879,1046 +8479,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558067112,
-      "date": "2026-08-06+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558067116,
-      "date": "2026-08-06+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558067113,
-      "date": "2026-08-06+14:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558067117,
-      "date": "2026-08-06+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558067114,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558067118,
-      "date": "2026-08-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558067115,
-      "date": "2026-08-06+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558067119,
-      "date": "2026-08-06+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558389724,
-      "date": "2026-08-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558389725,
-      "date": "2026-08-06+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558389730,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558389731,
-      "date": "2026-08-06+17:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Flourtown",
-      "zip": "19031",
-      "theater_name": "Movie Tavern Flourtown",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 558389721,
-      "date": "2026-08-06+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276127,
-      "date": "2026-08-06+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558574370,
-      "date": "2026-08-06+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558574360,
-      "date": "2026-08-06+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276126,
-      "date": "2026-08-06+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558574371,
-      "date": "2026-08-06+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276133,
-      "date": "2026-08-06+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558574358,
-      "date": "2026-08-06+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276125,
-      "date": "2026-08-06+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558667992,
-      "date": "2026-08-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558574359,
-      "date": "2026-08-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276124,
-      "date": "2026-08-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558667993,
-      "date": "2026-08-06+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276131,
-      "date": "2026-08-06+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558574355,
-      "date": "2026-08-06+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276134,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276130,
-      "date": "2026-08-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558574356,
-      "date": "2026-08-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276128,
-      "date": "2026-08-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558574357,
-      "date": "2026-08-06+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276132,
-      "date": "2026-08-06+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Plymouth Meeting",
-      "zip": "19462",
-      "theater_name": "AMC Plymouth Meeting Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551276129,
-      "date": "2026-08-06+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246208,
-      "date": "2026-08-07+00:00",
-      "format": "IMAX",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550591848,
-      "date": "2026-08-06+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246211,
-      "date": "2026-08-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550591843,
-      "date": "2026-08-06+16:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246209,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246210,
-      "date": "2026-08-06+21:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697307,
-      "date": "2026-08-06+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697297,
-      "date": "2026-08-06+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697305,
-      "date": "2026-08-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697298,
-      "date": "2026-08-06+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697306,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697300,
-      "date": "2026-08-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697308,
-      "date": "2026-08-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557584655,
-      "date": "2026-08-07+00:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557584656,
-      "date": "2026-08-06+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558483772,
-      "date": "2026-08-06+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552562553,
-      "date": "2026-08-06+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554662892,
-      "date": "2026-08-06+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697304,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558483771,
-      "date": "2026-08-06+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552562552,
-      "date": "2026-08-06+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554662891,
-      "date": "2026-08-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697303,
-      "date": "2026-08-06+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558483770,
-      "date": "2026-08-06+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552562550,
-      "date": "2026-08-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554662889,
-      "date": "2026-08-06+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697301,
-      "date": "2026-08-06+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558915876,
-      "date": "2026-08-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552562551,
-      "date": "2026-08-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554662890,
-      "date": "2026-08-06+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Levittown",
-      "zip": "11756",
-      "theater_name": "AMC Levittown 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550697302,
-      "date": "2026-08-06+23:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
       }
     },
     {
@@ -12271,310 +10831,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425437,
-      "date": "2026-08-06+10:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425442,
-      "date": "2026-08-06+14:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551240653,
-      "date": "2026-08-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425441,
-      "date": "2026-08-06+17:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551240652,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425439,
-      "date": "2026-08-06+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551240651,
-      "date": "2026-08-06+10:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425445,
-      "date": "2026-08-06+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551240650,
-      "date": "2026-08-06+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425434,
-      "date": "2026-08-06+12:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425440,
-      "date": "2026-08-06+13:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551240649,
-      "date": "2026-08-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425436,
-      "date": "2026-08-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551240648,
-      "date": "2026-08-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425435,
-      "date": "2026-08-06+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425451,
-      "date": "2026-08-06+20:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551240654,
-      "date": "2026-08-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558425444,
-      "date": "2026-08-06+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Webster",
-      "zip": "14580",
-      "theater_name": "AMC Webster 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551240655,
-      "date": "2026-08-06+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
       }
     },
     {
@@ -17055,54 +15311,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Warrington",
-      "zip": "18976",
-      "theater_name": "Regal Warrington Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551598943,
-      "date": "2026-08-06+08:40",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Salisbury",
-      "zip": "21801",
-      "theater_name": "Regal Salisbury & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558627300,
-      "date": "2026-08-06+17:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Arlington",
-      "zip": "22202",
-      "theater_name": "Alamo Drafthouse Crystal City",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 558398576,
-      "date": "2026-08-06+16:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -29315,342 +27523,6 @@
     },
     {
       "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557371140,
-      "date": "2026-08-06+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557371139,
-      "date": "2026-08-06+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557371138,
-      "date": "2026-08-06+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546091,
-      "date": "2026-08-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546105,
-      "date": "2026-08-06+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546104,
-      "date": "2026-08-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546107,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546106,
-      "date": "2026-08-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557371141,
-      "date": "2026-08-06+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546111,
-      "date": "2026-08-06+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546126,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551511226,
-      "date": "2026-08-06+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546110,
-      "date": "2026-08-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546124,
-      "date": "2026-08-06+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551511224,
-      "date": "2026-08-06+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546108,
-      "date": "2026-08-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546125,
-      "date": "2026-08-06+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551511225,
-      "date": "2026-08-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558630370,
-      "date": "2026-08-06+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546099,
-      "date": "2026-08-06+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cleveland",
-      "zip": "37312",
-      "theater_name": "AMC Bradley Square 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558546109,
-      "date": "2026-08-06+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TN",
       "city": "Athens",
       "zip": "37303",
       "theater_name": "Athens Movie Palace",
@@ -34735,22 +32607,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Doral",
-      "zip": "33122",
-      "theater_name": "CMX CinéBistro CityPlace Doral",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 552461466,
-      "date": "2026-08-06+23:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -44691,182 +42547,6 @@
     },
     {
       "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551320470,
-      "date": "2026-08-06+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552178993,
-      "date": "2026-08-06+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551320473,
-      "date": "2026-08-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558746572,
-      "date": "2026-08-06+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551320469,
-      "date": "2026-08-06+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552542965,
-      "date": "2026-08-06+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552542967,
-      "date": "2026-08-06+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552178995,
-      "date": "2026-08-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552542966,
-      "date": "2026-08-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552542968,
-      "date": "2026-08-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551320466,
-      "date": "2026-08-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
       "city": "Huntington",
       "zip": "46750",
       "theater_name": "GQT Huntington 7",
@@ -45519,22 +43199,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Greenwood",
-      "zip": "46142",
-      "theater_name": "Regal Greenwood & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551506626,
-      "date": "2026-08-06+15:30",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -46931,438 +44595,6 @@
     },
     {
       "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780777,
-      "date": "2026-08-06+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780793,
-      "date": "2026-08-06+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780776,
-      "date": "2026-08-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780792,
-      "date": "2026-08-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780775,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550538041,
-      "date": "2026-08-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780791,
-      "date": "2026-08-06+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550538040,
-      "date": "2026-08-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780790,
-      "date": "2026-08-06+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780797,
-      "date": "2026-08-06+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550538045,
-      "date": "2026-08-06+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780779,
-      "date": "2026-08-06+10:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780798,
-      "date": "2026-08-06+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550538042,
-      "date": "2026-08-06+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780781,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780796,
-      "date": "2026-08-06+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780801,
-      "date": "2026-08-06+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550538039,
-      "date": "2026-08-06+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550538043,
-      "date": "2026-08-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780780,
-      "date": "2026-08-06+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780795,
-      "date": "2026-08-06+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780799,
-      "date": "2026-08-06+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550538044,
-      "date": "2026-08-06+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780782,
-      "date": "2026-08-06+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780794,
-      "date": "2026-08-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780800,
-      "date": "2026-08-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "South Bend",
-      "zip": "46614",
-      "theater_name": "AMC CLASSIC South Bend 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558780778,
-      "date": "2026-08-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IN",
       "city": "Syracuse",
       "zip": "46567",
       "theater_name": "Pickwick Theatre",
@@ -48403,294 +45635,6 @@
     },
     {
       "state": "IL",
-      "city": "Chicago",
-      "zip": "60602",
-      "theater_name": "AMC DINE-IN Block 37 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550474065,
-      "date": "2026-08-06+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60602",
-      "theater_name": "AMC DINE-IN Block 37 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558483577,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60602",
-      "theater_name": "AMC DINE-IN Block 37 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558483595,
-      "date": "2026-08-06+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60602",
-      "theater_name": "AMC DINE-IN Block 37 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558483578,
-      "date": "2026-08-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551457909,
-      "date": "2026-08-06+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551457906,
-      "date": "2026-08-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558614751,
-      "date": "2026-08-06+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551457907,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558614750,
-      "date": "2026-08-06+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551457908,
-      "date": "2026-08-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558614749,
-      "date": "2026-08-06+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551457902,
-      "date": "2026-08-06+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558614748,
-      "date": "2026-08-06+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551457903,
-      "date": "2026-08-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558614747,
-      "date": "2026-08-06+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551457904,
-      "date": "2026-08-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558614746,
-      "date": "2026-08-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551457905,
-      "date": "2026-08-06+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
       "city": "New Lenox",
       "zip": "60451",
       "theater_name": "AMC New Lenox 14",
@@ -48703,534 +45647,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557414180,
-      "date": "2026-08-06+08:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849952,
-      "date": "2026-08-06+12:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849953,
-      "date": "2026-08-06+15:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849954,
-      "date": "2026-08-06+19:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849955,
-      "date": "2026-08-06+22:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552557993,
-      "date": "2026-08-06+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552557994,
-      "date": "2026-08-06+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552557991,
-      "date": "2026-08-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552557992,
-      "date": "2026-08-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557414183,
-      "date": "2026-08-06+09:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557354563,
-      "date": "2026-08-06+10:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849959,
-      "date": "2026-08-06+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552558001,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557354562,
-      "date": "2026-08-06+14:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849957,
-      "date": "2026-08-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552558000,
-      "date": "2026-08-06+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557354564,
-      "date": "2026-08-06+17:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849956,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557354565,
-      "date": "2026-08-06+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849958,
-      "date": "2026-08-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558093600,
-      "date": "2026-08-06+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557354568,
-      "date": "2026-08-06+09:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552557995,
-      "date": "2026-08-06+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558613987,
-      "date": "2026-08-06+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849961,
-      "date": "2026-08-06+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552557996,
-      "date": "2026-08-06+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849960,
-      "date": "2026-08-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552557997,
-      "date": "2026-08-06+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849962,
-      "date": "2026-08-06+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552557998,
-      "date": "2026-08-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557414182,
-      "date": "2026-08-06+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557354566,
-      "date": "2026-08-07+00:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "AMC Village Crossing 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550849964,
-      "date": "2026-08-06+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
       }
     },
     {
@@ -50607,22 +47023,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Grand Rapids",
-      "zip": "49525",
-      "theater_name": "Celebration Cinema Grand Rapids North",
-      "chainName": "Celebration Cinema ",
-      "chainCode": "CELE",
-      "showtime_id": 557660178,
-      "date": "2026-08-06+09:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -63298,70 +59698,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Houma",
-      "zip": "70364",
-      "theater_name": "AMC Houma Palace 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551235551,
-      "date": "2026-08-06+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Houma",
-      "zip": "70364",
-      "theater_name": "AMC Houma Palace 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551235555,
-      "date": "2026-08-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Houma",
-      "zip": "70364",
-      "theater_name": "AMC Houma Palace 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558589952,
-      "date": "2026-08-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Houma",
-      "zip": "70364",
-      "theater_name": "AMC Houma Palace 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551235552,
-      "date": "2026-08-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
       "state": "AR",
       "city": "El Dorado",
       "zip": "71730",
@@ -63471,198 +59807,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222506,
-      "date": "2026-08-06+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222504,
-      "date": "2026-08-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222505,
-      "date": "2026-08-06+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222502,
-      "date": "2026-08-06+11:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222500,
-      "date": "2026-08-06+11:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222501,
-      "date": "2026-08-06+13:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222498,
-      "date": "2026-08-06+14:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222499,
-      "date": "2026-08-06+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222497,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222503,
-      "date": "2026-08-06+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222496,
-      "date": "2026-08-06+21:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 558222495,
-      "date": "2026-08-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -64079,70 +60223,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Shawnee",
-      "zip": "74804",
-      "theater_name": "Cinema Centre 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558613038,
-      "date": "2026-08-06+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Shawnee",
-      "zip": "74804",
-      "theater_name": "Cinema Centre 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551248132,
-      "date": "2026-08-06+10:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Shawnee",
-      "zip": "74804",
-      "theater_name": "Cinema Centre 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558613054,
-      "date": "2026-08-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Shawnee",
-      "zip": "74804",
-      "theater_name": "Cinema Centre 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551248128,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
       }
     },
     {
@@ -64863,22 +60943,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Dallas",
-      "zip": "75243",
-      "theater_name": "Studio Movie Grill-Dallas",
-      "chainName": "Studio Movie Grill",
-      "chainCode": "SMG",
-      "showtime_id": 551357980,
-      "date": "2026-08-06+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -68835,646 +64899,6 @@
     },
     {
       "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019974,
-      "date": "2026-08-06+09:25",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019975,
-      "date": "2026-08-06+16:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019977,
-      "date": "2026-08-06+23:05",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019985,
-      "date": "2026-08-06+09:25",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019983,
-      "date": "2026-08-06+16:15",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019982,
-      "date": "2026-08-06+19:40",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019984,
-      "date": "2026-08-06+23:05",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019964,
-      "date": "2026-08-06+10:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902585,
-      "date": "2026-08-06+11:50",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019965,
-      "date": "2026-08-06+13:25",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902586,
-      "date": "2026-08-06+15:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902587,
-      "date": "2026-08-06+18:40",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019966,
-      "date": "2026-08-06+20:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902588,
-      "date": "2026-08-06+22:05",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019987,
-      "date": "2026-08-06+12:50",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019989,
-      "date": "2026-08-06+12:50",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019988,
-      "date": "2026-08-06+16:50",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902611,
-      "date": "2026-08-06+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902609,
-      "date": "2026-08-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902610,
-      "date": "2026-08-06+22:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902619,
-      "date": "2026-08-06+09:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019967,
-      "date": "2026-08-06+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902603,
-      "date": "2026-08-06+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902580,
-      "date": "2026-08-06+11:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902613,
-      "date": "2026-08-06+11:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019970,
-      "date": "2026-08-06+12:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902615,
-      "date": "2026-08-06+13:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019968,
-      "date": "2026-08-06+13:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902608,
-      "date": "2026-08-06+14:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902604,
-      "date": "2026-08-06+14:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902614,
-      "date": "2026-08-06+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019971,
-      "date": "2026-08-06+15:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902616,
-      "date": "2026-08-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902581,
-      "date": "2026-08-06+17:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902605,
-      "date": "2026-08-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902612,
-      "date": "2026-08-06+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902578,
-      "date": "2026-08-06+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552019969,
-      "date": "2026-08-06+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902623,
-      "date": "2026-08-06+20:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84115",
-      "theater_name": "Cinemark Century Salt Lake 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558902606,
-      "date": "2026-08-06+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
       "city": "Tooele",
       "zip": "84074",
       "theater_name": "UEC Theatres Tooele",
@@ -73300,38 +68724,6 @@
     {
       "state": "CA",
       "city": "Fresno",
-      "zip": "93726",
-      "theater_name": "Regal Manchester - Fresno",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 557081902,
-      "date": "2026-08-06+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fresno",
-      "zip": "93726",
-      "theater_name": "Regal Manchester - Fresno",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 558508009,
-      "date": "2026-08-06+17:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fresno",
       "zip": "93720",
       "theater_name": "Regal Edwards Fresno ScreenX, 4DX & IMAX",
       "chainName": "Regal",
@@ -73901,22 +69293,6 @@
       "error": {
         "status": 500,
         "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558873818,
-      "date": "2026-08-06+21:55",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -79469,6 +74845,2182 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28273",
+      "theater_name": "AMC Carolina Pavilion 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558986559,
+      "date": "2026-08-06+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558209876,
+      "date": "2026-08-06+17:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558209877,
+      "date": "2026-08-06+20:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855639,
+      "date": "2026-08-06+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485076,
+      "date": "2026-08-06+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855641,
+      "date": "2026-08-06+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855650,
+      "date": "2026-08-06+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485077,
+      "date": "2026-08-06+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855640,
+      "date": "2026-08-06+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855652,
+      "date": "2026-08-06+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485075,
+      "date": "2026-08-06+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855638,
+      "date": "2026-08-06+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855637,
+      "date": "2026-08-06+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485074,
+      "date": "2026-08-06+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855657,
+      "date": "2026-08-06+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855644,
+      "date": "2026-08-06+13:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485071,
+      "date": "2026-08-06+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485072,
+      "date": "2026-08-06+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485068,
+      "date": "2026-08-06+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485070,
+      "date": "2026-08-06+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485073,
+      "date": "2026-08-06+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485066,
+      "date": "2026-08-06+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855653,
+      "date": "2026-08-06+20:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485069,
+      "date": "2026-08-06+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855659,
+      "date": "2026-08-06+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551485067,
+      "date": "2026-08-06+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558855655,
+      "date": "2026-08-06+16:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558210123,
+      "date": "2026-08-06+17:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558210124,
+      "date": "2026-08-06+20:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557358415,
+      "date": "2026-08-06+08:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518249,
+      "date": "2026-08-06+12:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518250,
+      "date": "2026-08-06+15:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518251,
+      "date": "2026-08-06+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518248,
+      "date": "2026-08-06+22:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558504078,
+      "date": "2026-08-06+10:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551010580,
+      "date": "2026-08-06+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518233,
+      "date": "2026-08-06+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518240,
+      "date": "2026-08-06+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518236,
+      "date": "2026-08-06+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518234,
+      "date": "2026-08-06+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518238,
+      "date": "2026-08-06+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518235,
+      "date": "2026-08-06+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558380626,
+      "date": "2026-08-06+08:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558380625,
+      "date": "2026-08-06+12:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558380624,
+      "date": "2026-08-06+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558504077,
+      "date": "2026-08-06+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557358414,
+      "date": "2026-08-06+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558380633,
+      "date": "2026-08-06+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518237,
+      "date": "2026-08-06+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558380629,
+      "date": "2026-08-06+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518246,
+      "date": "2026-08-06+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518243,
+      "date": "2026-08-06+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558380632,
+      "date": "2026-08-06+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518244,
+      "date": "2026-08-06+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518241,
+      "date": "2026-08-06+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558380631,
+      "date": "2026-08-06+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518239,
+      "date": "2026-08-06+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518242,
+      "date": "2026-08-06+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550518245,
+      "date": "2026-08-06+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298541,
+      "date": "2026-08-06+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298542,
+      "date": "2026-08-06+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298543,
+      "date": "2026-08-06+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298544,
+      "date": "2026-08-06+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555161862,
+      "date": "2026-08-06+08:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298538,
+      "date": "2026-08-06+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298540,
+      "date": "2026-08-06+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298548,
+      "date": "2026-08-06+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298555,
+      "date": "2026-08-06+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298547,
+      "date": "2026-08-06+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298553,
+      "date": "2026-08-06+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298545,
+      "date": "2026-08-06+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298546,
+      "date": "2026-08-06+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298537,
+      "date": "2026-08-06+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298539,
+      "date": "2026-08-06+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555161863,
+      "date": "2026-08-06+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495740,
+      "date": "2026-08-06+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298556,
+      "date": "2026-08-06+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298549,
+      "date": "2026-08-06+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298557,
+      "date": "2026-08-06+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495738,
+      "date": "2026-08-06+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298550,
+      "date": "2026-08-06+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298558,
+      "date": "2026-08-06+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495739,
+      "date": "2026-08-06+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298551,
+      "date": "2026-08-06+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298559,
+      "date": "2026-08-06+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495745,
+      "date": "2026-08-06+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298552,
+      "date": "2026-08-06+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298560,
+      "date": "2026-08-06+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298554,
+      "date": "2026-08-06+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558208428,
+      "date": "2026-08-06+17:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558208429,
+      "date": "2026-08-06+20:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442362,
+      "date": "2026-08-06+08:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564133,
+      "date": "2026-08-06+12:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564132,
+      "date": "2026-08-06+15:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564134,
+      "date": "2026-08-06+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564135,
+      "date": "2026-08-06+22:40",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564143,
+      "date": "2026-08-06+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564142,
+      "date": "2026-08-06+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564140,
+      "date": "2026-08-06+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442385,
+      "date": "2026-08-06+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442369,
+      "date": "2026-08-06+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442372,
+      "date": "2026-08-06+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442367,
+      "date": "2026-08-06+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564139,
+      "date": "2026-08-06+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442368,
+      "date": "2026-08-06+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442366,
+      "date": "2026-08-06+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564138,
+      "date": "2026-08-06+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564136,
+      "date": "2026-08-06+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442365,
+      "date": "2026-08-06+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442384,
+      "date": "2026-08-06+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564137,
+      "date": "2026-08-06+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550564141,
+      "date": "2026-08-06+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Canoga Park",
+      "zip": "91303",
+      "theater_name": "AMC Topanga 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558442370,
+      "date": "2026-08-06+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552362861,
+      "date": "2026-08-06+09:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551299193,
+      "date": "2026-08-06+12:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551299192,
+      "date": "2026-08-06+16:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551299190,
+      "date": "2026-08-06+19:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551299191,
+      "date": "2026-08-06+23:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556327235,
+      "date": "2026-08-06+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786787,
+      "date": "2026-08-06+23:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786802,
+      "date": "2026-08-06+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551299196,
+      "date": "2026-08-06+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551299194,
+      "date": "2026-08-06+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556327234,
+      "date": "2026-08-06+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556327233,
+      "date": "2026-08-06+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556327232,
+      "date": "2026-08-06+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786793,
+      "date": "2026-08-06+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786792,
+      "date": "2026-08-06+11:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786798,
+      "date": "2026-08-06+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786806,
+      "date": "2026-08-06+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786797,
+      "date": "2026-08-06+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786808,
+      "date": "2026-08-06+17:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786794,
+      "date": "2026-08-06+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786788,
+      "date": "2026-08-06+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551299195,
+      "date": "2026-08-06+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chatsworth",
+      "zip": "91326",
+      "theater_name": "AMC Porter Ranch 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558786795,
+      "date": "2026-08-06+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 429,
+        "reason": "HTTP 429"
       }
     }
   ]
