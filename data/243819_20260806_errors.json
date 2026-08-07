@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 07:52:30 AM",
+  "last_updated": "2026-08-07 10:24:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -71057,22 +71057,6 @@
     },
     {
       "state": "OR",
-      "city": "Springfield",
-      "zip": "97477",
-      "theater_name": "Cinemark Eugene Springfield 17",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551760062,
-      "date": "2026-08-06+22:45",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "OR",
       "city": "Florence",
       "zip": "97439",
       "theater_name": "City Lights Cinemas",
@@ -79864,6 +79848,886 @@
       "chainCode": "REGL",
       "showtime_id": 559030621,
       "date": "2026-08-06+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559001001,
+      "date": "2026-08-06+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559001003,
+      "date": "2026-08-06+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559001002,
+      "date": "2026-08-06+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Waco",
+      "zip": "76711",
+      "theater_name": "Cinemark Waco and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992585,
+      "date": "2026-08-06+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Waco",
+      "zip": "76711",
+      "theater_name": "Cinemark Waco and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992586,
+      "date": "2026-08-06+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Waco",
+      "zip": "76711",
+      "theater_name": "Cinemark Waco and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992587,
+      "date": "2026-08-06+23:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Missouri City",
+      "zip": "77459",
+      "theater_name": "Cinemark Missouri City and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558991141,
+      "date": "2026-08-06+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Colorado Springs",
+      "zip": "80921",
+      "theater_name": "Icon Cinema Colorado Springs",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 559031420,
+      "date": "2026-08-06+18:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992371,
+      "date": "2026-08-06+09:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992369,
+      "date": "2026-08-06+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992370,
+      "date": "2026-08-06+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992373,
+      "date": "2026-08-06+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992372,
+      "date": "2026-08-06+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992392,
+      "date": "2026-08-06+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992344,
+      "date": "2026-08-06+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992353,
+      "date": "2026-08-06+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992356,
+      "date": "2026-08-06+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992393,
+      "date": "2026-08-06+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992390,
+      "date": "2026-08-06+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992342,
+      "date": "2026-08-06+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992352,
+      "date": "2026-08-06+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992380,
+      "date": "2026-08-06+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992345,
+      "date": "2026-08-06+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992354,
+      "date": "2026-08-06+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992357,
+      "date": "2026-08-06+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992379,
+      "date": "2026-08-06+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992386,
+      "date": "2026-08-06+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992343,
+      "date": "2026-08-06+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992394,
+      "date": "2026-08-06+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992355,
+      "date": "2026-08-06+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992387,
+      "date": "2026-08-06+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992391,
+      "date": "2026-08-06+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992389,
+      "date": "2026-08-06+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85716",
+      "theater_name": "Cinemark Century El Con 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558992385,
+      "date": "2026-08-06+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392749,
+      "date": "2026-08-06+08:15",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392748,
+      "date": "2026-08-06+12:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392747,
+      "date": "2026-08-06+15:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392745,
+      "date": "2026-08-06+19:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552479334,
+      "date": "2026-08-06+09:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552479335,
+      "date": "2026-08-06+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552479336,
+      "date": "2026-08-06+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552479337,
+      "date": "2026-08-06+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392750,
+      "date": "2026-08-06+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392751,
+      "date": "2026-08-06+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392752,
+      "date": "2026-08-06+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392753,
+      "date": "2026-08-06+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551629736,
+      "date": "2026-08-06+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551629733,
+      "date": "2026-08-06+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551629734,
+      "date": "2026-08-06+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474186,
+      "date": "2026-08-06+08:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474185,
+      "date": "2026-08-06+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474184,
+      "date": "2026-08-06+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474182,
+      "date": "2026-08-06+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Quinta",
+      "zip": "92253",
+      "theater_name": "Cinemark Century La Quinta and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559007488,
+      "date": "2026-08-06+20:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95123",
+      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559002181,
+      "date": "2026-08-06+20:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
