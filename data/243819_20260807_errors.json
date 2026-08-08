@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 08:35:22 AM",
+  "last_updated": "2026-08-08 09:42:26 AM",
   "errors": [
     {
       "state": "MA",
@@ -65002,22 +65002,6 @@
       "chainCode": "AMC",
       "showtime_id": 551543934,
       "date": "2026-08-07+20:30",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Morrow",
-      "zip": "30260",
-      "theater_name": "AMC Southlake 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551543929,
-      "date": "2026-08-08+00:00",
       "format": "4DX",
       "language": "Unknown",
       "error": {
@@ -198360,22 +198344,6 @@
       "theater_name": "Cinemark Century Orleans 18 and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551476272,
-      "date": "2026-08-07+23:25",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551476274,
       "date": "2026-08-07+09:45",
       "format": "Cinemark XD",
@@ -198410,22 +198378,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551476276,
       "date": "2026-08-07+20:00",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551476275,
-      "date": "2026-08-07+23:25",
       "format": "Cinemark XD",
       "language": "Unknown",
       "error": {
@@ -198603,22 +198555,6 @@
       "showtime_id": 551476281,
       "date": "2026-08-07+22:25",
       "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551476261,
-      "date": "2026-08-07+22:25",
-      "format": "Standard",
       "language": "Unknown",
       "error": {
         "status": 429,
@@ -199002,86 +198938,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558850486,
       "date": "2026-08-07+20:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558850491,
-      "date": "2026-08-07+20:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558850516,
-      "date": "2026-08-07+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558850511,
-      "date": "2026-08-07+21:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558850528,
-      "date": "2026-08-07+21:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551476268,
-      "date": "2026-08-07+22:55",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -234349,6 +234205,230 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84084",
+      "theater_name": "Cinemark Jordan Landing 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559057065,
+      "date": "2026-08-07+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84084",
+      "theater_name": "Cinemark Jordan Landing 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559057066,
+      "date": "2026-08-07+20:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559071623,
+      "date": "2026-08-07+13:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376103,
+      "date": "2026-08-07+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376107,
+      "date": "2026-08-07+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376100,
+      "date": "2026-08-07+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376104,
+      "date": "2026-08-07+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376108,
+      "date": "2026-08-07+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376101,
+      "date": "2026-08-07+17:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376116,
+      "date": "2026-08-07+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376105,
+      "date": "2026-08-07+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376109,
+      "date": "2026-08-07+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376102,
+      "date": "2026-08-07+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 558376106,
+      "date": "2026-08-07+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
       }
     }
   ]
