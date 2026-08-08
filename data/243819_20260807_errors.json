@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 09:42:26 AM",
+  "last_updated": "2026-08-08 11:10:37 AM",
   "errors": [
     {
       "state": "MA",
@@ -198504,22 +198504,6 @@
       "theater_name": "Cinemark Century Orleans 18 and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551476259,
-      "date": "2026-08-07+22:55",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551476260,
       "date": "2026-08-07+16:35",
       "format": "Cinemark XD",
@@ -198538,22 +198522,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551476280,
       "date": "2026-08-07+16:35",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551476281,
-      "date": "2026-08-07+22:25",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -234429,6 +234397,38 @@
       "error": {
         "status": 403,
         "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80012",
+      "theater_name": "Cinemark Century Aurora and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559105022,
+      "date": "2026-08-07+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80012",
+      "theater_name": "Cinemark Century Aurora and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559119448,
+      "date": "2026-08-07+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
