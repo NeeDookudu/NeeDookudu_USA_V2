@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 06:42:17 AM",
+  "last_updated": "2026-08-08 08:35:22 AM",
   "errors": [
     {
       "state": "MA",
@@ -7096,38 +7096,6 @@
       "theater_name": "AMC MarketFair 10",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558636379,
-      "date": "2026-08-07+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Princeton",
-      "zip": "08540",
-      "theater_name": "AMC MarketFair 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558636396,
-      "date": "2026-08-08+00:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Princeton",
-      "zip": "08540",
-      "theater_name": "AMC MarketFair 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558636384,
       "date": "2026-08-07+10:00",
       "format": "Standard",
@@ -7258,38 +7226,6 @@
       "chainCode": "AMC",
       "showtime_id": 558636391,
       "date": "2026-08-07+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Princeton",
-      "zip": "08540",
-      "theater_name": "AMC MarketFair 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550541280,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Princeton",
-      "zip": "08540",
-      "theater_name": "AMC MarketFair 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558636380,
-      "date": "2026-08-07+23:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -22120,22 +22056,6 @@
       "theater_name": "AMC Loews Fresh Meadows 7",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558246231,
-      "date": "2026-08-08+02:00",
-      "format": "IMAX",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 550591850,
       "date": "2026-08-07+11:00",
       "format": "Standard",
@@ -22186,54 +22106,6 @@
       "chainCode": "AMC",
       "showtime_id": 550591852,
       "date": "2026-08-07+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246237,
-      "date": "2026-08-07+23:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246240,
-      "date": "2026-08-08+01:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246216,
-      "date": "2026-08-08+02:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -22404,38 +22276,6 @@
     {
       "state": "NY",
       "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246235,
-      "date": "2026-08-08+00:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11365",
-      "theater_name": "AMC Loews Fresh Meadows 7",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558246220,
-      "date": "2026-08-08+01:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
       "zip": "11360",
       "theater_name": "AMC Loews Bay Terrace 6",
       "chainName": "AMC",
@@ -22536,22 +22376,6 @@
       "theater_name": "AMC Loews Bay Terrace 6",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558413045,
-      "date": "2026-08-07+23:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11360",
-      "theater_name": "AMC Loews Bay Terrace 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 551392991,
       "date": "2026-08-07+12:30",
       "format": "Standard",
@@ -22634,22 +22458,6 @@
       "chainCode": "AMC",
       "showtime_id": 558413043,
       "date": "2026-08-07+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Queens",
-      "zip": "11360",
-      "theater_name": "AMC Loews Bay Terrace 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551392994,
-      "date": "2026-08-07+23:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -65144,22 +64952,6 @@
       "theater_name": "AMC Southlake 24",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558921661,
-      "date": "2026-08-08+01:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Morrow",
-      "zip": "30260",
-      "theater_name": "AMC Southlake 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 551385008,
       "date": "2026-08-07+10:00",
       "format": "4DX",
@@ -65834,38 +65626,6 @@
       "chainCode": "AMC",
       "showtime_id": 558921673,
       "date": "2026-08-07+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Morrow",
-      "zip": "30260",
-      "theater_name": "AMC Southlake 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558921660,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Morrow",
-      "zip": "30260",
-      "theater_name": "AMC Southlake 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558921677,
-      "date": "2026-08-07+23:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -72280,22 +72040,6 @@
       "theater_name": "AMC Tiger 13",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558277847,
-      "date": "2026-08-07+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Opelika",
-      "zip": "36804",
-      "theater_name": "AMC Tiger 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558277851,
       "date": "2026-08-07+10:00",
       "format": "Standard",
@@ -72410,22 +72154,6 @@
       "chainCode": "AMC",
       "showtime_id": 558277848,
       "date": "2026-08-07+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Opelika",
-      "zip": "36804",
-      "theater_name": "AMC Tiger 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 550455357,
-      "date": "2026-08-07+22:25",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -86456,22 +86184,6 @@
       "theater_name": "AMC DINE-IN Anderson Towne Center 9",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 550851982,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Anderson Township",
-      "zip": "45255",
-      "theater_name": "AMC DINE-IN Anderson Towne Center 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 550851988,
       "date": "2026-08-07+11:30",
       "format": "Standard",
@@ -87544,22 +87256,6 @@
       "theater_name": "AMC Newport On The Levee 20",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 557594273,
-      "date": "2026-08-07+23:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Newport",
-      "zip": "41071",
-      "theater_name": "AMC Newport On The Levee 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558403219,
       "date": "2026-08-07+10:10",
       "format": "Standard",
@@ -87754,22 +87450,6 @@
       "chainCode": "AMC",
       "showtime_id": 558403226,
       "date": "2026-08-07+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Newport",
-      "zip": "41071",
-      "theater_name": "AMC Newport On The Levee 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558403179,
-      "date": "2026-08-07+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -88042,22 +87722,6 @@
       "chainCode": "AMC",
       "showtime_id": 558403216,
       "date": "2026-08-07+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Newport",
-      "zip": "41071",
-      "theater_name": "AMC Newport On The Levee 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558403231,
-      "date": "2026-08-07+22:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -95288,22 +94952,6 @@
       "theater_name": "AMC Easton Town Center 30",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 550825776,
-      "date": "2026-08-07+22:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558588338,
       "date": "2026-08-07+08:00",
       "format": "Standard",
@@ -95530,22 +95178,6 @@
       "chainCode": "AMC",
       "showtime_id": 558440331,
       "date": "2026-08-07+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558440325,
-      "date": "2026-08-07+23:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -96026,38 +95658,6 @@
       "chainCode": "AMC",
       "showtime_id": 558440415,
       "date": "2026-08-07+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558440371,
-      "date": "2026-08-07+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558440379,
-      "date": "2026-08-07+23:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -102730,38 +102330,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558420104,
       "date": "2026-08-07+21:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Piqua",
-      "zip": "45356",
-      "theater_name": "Cinemark Miami Valley",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558420097,
-      "date": "2026-08-07+22:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Piqua",
-      "zip": "45356",
-      "theater_name": "Cinemark Miami Valley",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552395004,
-      "date": "2026-08-07+22:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -131459,22 +131027,6 @@
     },
     {
       "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 558390134,
-      "date": "2026-08-07+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "MN",
       "city": "Wadena",
       "zip": "56482",
       "theater_name": "Cozy 3 Theatre",
@@ -135448,22 +135000,6 @@
       "theater_name": "Cinemark Helena and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551527042,
-      "date": "2026-08-07+21:30",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "MT",
-      "city": "Helena",
-      "zip": "59601",
-      "theater_name": "Cinemark Helena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551527046,
       "date": "2026-08-07+14:30",
       "format": "Cinemark XD",
@@ -135674,54 +135210,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558657845,
       "date": "2026-08-07+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "MT",
-      "city": "Helena",
-      "zip": "59601",
-      "theater_name": "Cinemark Helena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558657831,
-      "date": "2026-08-07+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "MT",
-      "city": "Helena",
-      "zip": "59601",
-      "theater_name": "Cinemark Helena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551527044,
-      "date": "2026-08-07+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "MT",
-      "city": "Helena",
-      "zip": "59601",
-      "theater_name": "Cinemark Helena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558657841,
-      "date": "2026-08-07+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -146216,22 +145704,6 @@
       "theater_name": "Alamo Drafthouse City Foundry",
       "chainName": "Alamo Drafthouse Cinemas",
       "chainCode": "ALAM",
-      "showtime_id": 558258383,
-      "date": "2026-08-07+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "St. Louis",
-      "zip": "63110",
-      "theater_name": "Alamo Drafthouse City Foundry",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
       "showtime_id": 558258483,
       "date": "2026-08-07+09:30",
       "format": "Standard",
@@ -146952,38 +146424,6 @@
       "theater_name": "AMC Creve Coeur 12",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558305327,
-      "date": "2026-08-07+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Creve Coeur",
-      "zip": "63141",
-      "theater_name": "AMC Creve Coeur 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558305340,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Creve Coeur",
-      "zip": "63141",
-      "theater_name": "AMC Creve Coeur 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558305343,
       "date": "2026-08-07+10:30",
       "format": "Standard",
@@ -147146,38 +146586,6 @@
       "chainCode": "AMC",
       "showtime_id": 558305329,
       "date": "2026-08-07+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Creve Coeur",
-      "zip": "63141",
-      "theater_name": "AMC Creve Coeur 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558305333,
-      "date": "2026-08-07+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Creve Coeur",
-      "zip": "63141",
-      "theater_name": "AMC Creve Coeur 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558353366,
-      "date": "2026-08-07+23:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -164312,22 +163720,6 @@
       "theater_name": "Cinemark Pearland and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 552286567,
-      "date": "2026-08-07+21:50",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pearland",
-      "zip": "77584",
-      "theater_name": "Cinemark Pearland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 552286562,
       "date": "2026-08-07+08:00",
       "format": "Cinemark XD",
@@ -164714,118 +164106,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558772020,
       "date": "2026-08-07+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pearland",
-      "zip": "77584",
-      "theater_name": "Cinemark Pearland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558772035,
-      "date": "2026-08-07+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pearland",
-      "zip": "77584",
-      "theater_name": "Cinemark Pearland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558772026,
-      "date": "2026-08-07+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pearland",
-      "zip": "77584",
-      "theater_name": "Cinemark Pearland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552286572,
-      "date": "2026-08-07+22:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pearland",
-      "zip": "77584",
-      "theater_name": "Cinemark Pearland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558772013,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pearland",
-      "zip": "77584",
-      "theater_name": "Cinemark Pearland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558772038,
-      "date": "2026-08-07+23:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pearland",
-      "zip": "77584",
-      "theater_name": "Cinemark Pearland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558772030,
-      "date": "2026-08-07+23:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pearland",
-      "zip": "77584",
-      "theater_name": "Cinemark Pearland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558772021,
-      "date": "2026-08-07+23:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -171768,22 +171048,6 @@
       "theater_name": "Cinemark Cypress and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 552119973,
-      "date": "2026-08-07+22:25",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 552119964,
       "date": "2026-08-07+15:35",
       "format": "Cinemark XD",
@@ -172250,102 +171514,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558593764,
       "date": "2026-08-07+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558593740,
-      "date": "2026-08-07+21:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558593760,
-      "date": "2026-08-07+22:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558593754,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552119969,
-      "date": "2026-08-07+23:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558593723,
-      "date": "2026-08-07+23:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558640362,
-      "date": "2026-08-08+00:01",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -175160,22 +174328,6 @@
       "theater_name": "AMC Katy Mills 20",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558547164,
-      "date": "2026-08-07+22:00",
-      "format": "IMAX",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77494",
-      "theater_name": "AMC Katy Mills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558547168,
       "date": "2026-08-07+08:30",
       "format": "Dolby Cinema",
@@ -175226,22 +174378,6 @@
       "chainCode": "AMC",
       "showtime_id": 550518257,
       "date": "2026-08-07+19:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77494",
-      "theater_name": "AMC Katy Mills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558547167,
-      "date": "2026-08-07+22:30",
       "format": "Dolby Cinema",
       "language": "Unknown",
       "error": {
@@ -175528,22 +174664,6 @@
       "theater_name": "AMC Katy Mills 20",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558633939,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77494",
-      "theater_name": "AMC Katy Mills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 559033048,
       "date": "2026-08-07+09:30",
       "format": "Standard",
@@ -175594,38 +174714,6 @@
       "chainCode": "AMC",
       "showtime_id": 559033045,
       "date": "2026-08-07+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77494",
-      "theater_name": "AMC Katy Mills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558633954,
-      "date": "2026-08-07+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77494",
-      "theater_name": "AMC Katy Mills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 559033057,
-      "date": "2026-08-07+22:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -179544,54 +178632,6 @@
       "theater_name": "Cinemark Rosenberg 12",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 558712137,
-      "date": "2026-08-07+22:10",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558712142,
-      "date": "2026-08-07+22:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551441927,
-      "date": "2026-08-07+23:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551441932,
       "date": "2026-08-07+12:45",
       "format": "D-Box",
@@ -180010,134 +179050,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558712153,
       "date": "2026-08-07+20:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558712144,
-      "date": "2026-08-07+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558712186,
-      "date": "2026-08-07+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558712163,
-      "date": "2026-08-07+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558712168,
-      "date": "2026-08-07+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558712178,
-      "date": "2026-08-07+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558712154,
-      "date": "2026-08-07+22:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551441931,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Rosenberg",
-      "zip": "77471",
-      "theater_name": "Cinemark Rosenberg 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558712170,
-      "date": "2026-08-07+23:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -197651,134 +196563,6 @@
     },
     {
       "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89122",
-      "theater_name": "Cinemark Century Sam's Town 18",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558985452,
-      "date": "2026-08-07+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89122",
-      "theater_name": "Cinemark Century Sam's Town 18",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558985411,
-      "date": "2026-08-07+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89122",
-      "theater_name": "Cinemark Century Sam's Town 18",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551639032,
-      "date": "2026-08-07+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89122",
-      "theater_name": "Cinemark Century Sam's Town 18",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558985394,
-      "date": "2026-08-07+20:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89122",
-      "theater_name": "Cinemark Century Sam's Town 18",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551639026,
-      "date": "2026-08-07+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89122",
-      "theater_name": "Cinemark Century Sam's Town 18",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558985426,
-      "date": "2026-08-07+20:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89122",
-      "theater_name": "Cinemark Century Sam's Town 18",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558985390,
-      "date": "2026-08-07+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89122",
-      "theater_name": "Cinemark Century Sam's Town 18",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558985416,
-      "date": "2026-08-07+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
       "city": "Henderson",
       "zip": "89052",
       "theater_name": "Regal Green Valley Ranch",
@@ -198632,54 +197416,6 @@
       "theater_name": "Cinemark Century South Point 16 and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551640623,
-      "date": "2026-08-07+19:30",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558387463,
-      "date": "2026-08-07+22:25",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551640624,
-      "date": "2026-08-07+23:00",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551640636,
       "date": "2026-08-07+09:30",
       "format": "Cinemark XD",
@@ -198730,22 +197466,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558387468,
       "date": "2026-08-07+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551640631,
-      "date": "2026-08-07+21:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -199034,118 +197754,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558771372,
       "date": "2026-08-07+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551640628,
-      "date": "2026-08-07+20:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558387442,
-      "date": "2026-08-07+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551640635,
-      "date": "2026-08-07+20:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558771367,
-      "date": "2026-08-07+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558771378,
-      "date": "2026-08-07+21:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558771373,
-      "date": "2026-08-07+22:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551640629,
-      "date": "2026-08-07+23:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -211958,38 +210566,6 @@
       "theater_name": "Cinemark Century Walnut Creek 14 and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 552451622,
-      "date": "2026-08-07+20:20",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552451621,
-      "date": "2026-08-07+23:55",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 552451630,
       "date": "2026-08-07+16:50",
       "format": "Cinemark XD",
@@ -212072,38 +210648,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558445283,
       "date": "2026-08-07+18:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552451617,
-      "date": "2026-08-07+19:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552451616,
-      "date": "2026-08-07+23:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -212385,118 +210929,6 @@
     },
     {
       "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558445297,
-      "date": "2026-08-07+19:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558445276,
-      "date": "2026-08-07+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558445312,
-      "date": "2026-08-07+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552451631,
-      "date": "2026-08-07+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552451625,
-      "date": "2026-08-07+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558445298,
-      "date": "2026-08-07+23:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Walnut Creek",
-      "zip": "94596",
-      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558445299,
-      "date": "2026-08-07+23:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Mountain View",
       "zip": "94040",
       "theater_name": "Alamo Drafthouse Mountain View",
@@ -212758,70 +211190,6 @@
       "theater_name": "Cinemark Century Mountain View 16",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 558510099,
-      "date": "2026-08-07+19:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551503152,
-      "date": "2026-08-07+22:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510100,
-      "date": "2026-08-07+22:55",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551503159,
-      "date": "2026-08-07+23:45",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551503155,
       "date": "2026-08-07+13:25",
       "format": "D-Box",
@@ -212856,38 +211224,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551503153,
       "date": "2026-08-07+13:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551503154,
-      "date": "2026-08-07+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510080,
-      "date": "2026-08-07+21:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -213304,150 +211640,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558510062,
       "date": "2026-08-07+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510120,
-      "date": "2026-08-07+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510057,
-      "date": "2026-08-07+19:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510094,
-      "date": "2026-08-07+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551503144,
-      "date": "2026-08-07+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510105,
-      "date": "2026-08-07+22:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510063,
-      "date": "2026-08-07+22:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510121,
-      "date": "2026-08-07+23:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551503147,
-      "date": "2026-08-07+23:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558510087,
-      "date": "2026-08-08+00:01",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -228310,22 +226502,6 @@
       "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551473372,
-      "date": "2026-08-07+22:20",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551473380,
       "date": "2026-08-07+09:00",
       "format": "Cinemark XD",
@@ -228360,22 +226536,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551473382,
       "date": "2026-08-07+19:00",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551473383,
-      "date": "2026-08-07+22:20",
       "format": "Cinemark XD",
       "language": "Unknown",
       "error": {
@@ -230888,22 +229048,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551403489,
       "date": "2026-08-07+19:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Kirkland",
-      "zip": "98034",
-      "theater_name": "Cinemark Totem Lake Kirkland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551403482,
-      "date": "2026-08-07+23:30",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -235672,6 +233816,534 @@
       "chainCode": "FAE",
       "showtime_id": 559059129,
       "date": "2026-08-07+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "York",
+      "zip": "17408",
+      "theater_name": "Regal West Manchester",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 559121672,
+      "date": "2026-08-07+22:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29485",
+      "theater_name": "Cinemark Summerville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559131021,
+      "date": "2026-08-07+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29485",
+      "theater_name": "Cinemark Summerville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559131012,
+      "date": "2026-08-07+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29485",
+      "theater_name": "Cinemark Summerville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559131022,
+      "date": "2026-08-07+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29485",
+      "theater_name": "Cinemark Summerville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559131013,
+      "date": "2026-08-07+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29485",
+      "theater_name": "Cinemark Summerville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559131023,
+      "date": "2026-08-07+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29485",
+      "theater_name": "Cinemark Summerville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559131014,
+      "date": "2026-08-07+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29485",
+      "theater_name": "Cinemark Summerville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559131024,
+      "date": "2026-08-07+19:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29485",
+      "theater_name": "Cinemark Summerville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559131015,
+      "date": "2026-08-07+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "Cinemark Jacksonville Atlantic North and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559039216,
+      "date": "2026-08-07+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Sebring",
+      "zip": "33870",
+      "theater_name": "AMC Lakeshore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559121673,
+      "date": "2026-08-07+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 559129868,
+      "date": "2026-08-07+20:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Connersville",
+      "zip": "47331",
+      "theater_name": "Showtime Cinemas Connersville 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 559129870,
+      "date": "2026-08-07+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559038967,
+      "date": "2026-08-07+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559038968,
+      "date": "2026-08-07+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60605",
+      "theater_name": "AMC Roosevelt Collection 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559050051,
+      "date": "2026-08-07+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Washington",
+      "zip": "52353",
+      "theater_name": "State Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 558365323,
+      "date": "2026-08-07+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Washington",
+      "zip": "52353",
+      "theater_name": "State Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 558365325,
+      "date": "2026-08-07+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Washington",
+      "zip": "52353",
+      "theater_name": "State Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 558365324,
+      "date": "2026-08-07+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Washington",
+      "zip": "52353",
+      "theater_name": "State Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 558365326,
+      "date": "2026-08-07+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75025",
+      "theater_name": "Cinemark Legacy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559038655,
+      "date": "2026-08-07+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75025",
+      "theater_name": "Cinemark Legacy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559038656,
+      "date": "2026-08-07+19:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Round Rock",
+      "zip": "78664",
+      "theater_name": "Cinemark Round Rock 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559039109,
+      "date": "2026-08-07+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Round Rock",
+      "zip": "78664",
+      "theater_name": "Cinemark Round Rock 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559084111,
+      "date": "2026-08-07+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pearland",
+      "zip": "77584",
+      "theater_name": "Cinemark Pearland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559038653,
+      "date": "2026-08-07+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pearland",
+      "zip": "77584",
+      "theater_name": "Cinemark Pearland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559038654,
+      "date": "2026-08-07+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559074657,
+      "date": "2026-08-07+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "College Station",
+      "zip": "77845",
+      "theater_name": "Cinemark College Station and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559089149,
+      "date": "2026-08-07+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bee Cave",
+      "zip": "78738",
+      "theater_name": "Cinemark Hill Country Galleria",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559105568,
+      "date": "2026-08-07+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lubbock",
+      "zip": "79423",
+      "theater_name": "Cinemark Tinseltown Lubbock and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559050982,
+      "date": "2026-08-07+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Spokane",
+      "zip": "99201",
+      "theater_name": "AMC River Park Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559114327,
+      "date": "2026-08-07+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Chula Vista",
+      "zip": "91910",
+      "theater_name": "AMC Chula Vista 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559118757,
+      "date": "2026-08-07+07:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Daly City",
+      "zip": "94015",
+      "theater_name": "Cinemark Century Daly City 20 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559050649,
+      "date": "2026-08-07+14:25",
       "format": "Standard",
       "language": "Unknown",
       "error": {
