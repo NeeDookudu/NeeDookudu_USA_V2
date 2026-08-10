@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 09:22:05 AM",
+  "last_updated": "2026-08-10 10:51:32 AM",
   "errors": [
     {
       "state": "MA",
@@ -439723,6 +439723,822 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474272,
+      "date": "2026-08-09+08:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392782,
+      "date": "2026-08-09+12:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392781,
+      "date": "2026-08-09+15:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551392779,
+      "date": "2026-08-09+19:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474305,
+      "date": "2026-08-09+08:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474304,
+      "date": "2026-08-09+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474306,
+      "date": "2026-08-09+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474275,
+      "date": "2026-08-09+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474274,
+      "date": "2026-08-09+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474281,
+      "date": "2026-08-09+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474280,
+      "date": "2026-08-09+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474279,
+      "date": "2026-08-09+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474277,
+      "date": "2026-08-09+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474276,
+      "date": "2026-08-09+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474273,
+      "date": "2026-08-09+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474289,
+      "date": "2026-08-09+09:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474285,
+      "date": "2026-08-09+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Angeles",
+      "zip": "90036",
+      "theater_name": "AMC The Grove 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558474286,
+      "date": "2026-08-09+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298621,
+      "date": "2026-08-09+09:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298618,
+      "date": "2026-08-09+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298619,
+      "date": "2026-08-09+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298620,
+      "date": "2026-08-09+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298613,
+      "date": "2026-08-09+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298615,
+      "date": "2026-08-09+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298630,
+      "date": "2026-08-09+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298629,
+      "date": "2026-08-09+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298631,
+      "date": "2026-08-09+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298628,
+      "date": "2026-08-09+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298624,
+      "date": "2026-08-09+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298632,
+      "date": "2026-08-09+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298626,
+      "date": "2026-08-09+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298633,
+      "date": "2026-08-09+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298627,
+      "date": "2026-08-09+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298614,
+      "date": "2026-08-09+12:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298616,
+      "date": "2026-08-09+19:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558725997,
+      "date": "2026-08-09+07:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556237595,
+      "date": "2026-08-09+08:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495840,
+      "date": "2026-08-09+08:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495821,
+      "date": "2026-08-09+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298637,
+      "date": "2026-08-09+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298625,
+      "date": "2026-08-09+12:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495828,
+      "date": "2026-08-09+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495820,
+      "date": "2026-08-09+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298636,
+      "date": "2026-08-09+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495827,
+      "date": "2026-08-09+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495818,
+      "date": "2026-08-09+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298634,
+      "date": "2026-08-09+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551298622,
+      "date": "2026-08-09+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495838,
+      "date": "2026-08-09+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495819,
+      "date": "2026-08-09+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558495829,
+      "date": "2026-08-09+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
       }
     }
   ]
