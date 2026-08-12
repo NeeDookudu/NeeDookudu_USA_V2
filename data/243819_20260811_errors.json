@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 09:33:18 AM",
+  "last_updated": "2026-08-12 11:02:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -508184,22 +508184,6 @@
       "theater_name": "Cinemark Century South Point 16 and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 558694326,
-      "date": "2026-08-11+22:30",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 553404920,
       "date": "2026-08-11+11:50",
       "format": "Cinemark XD",
@@ -508586,38 +508570,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558969243,
       "date": "2026-08-11+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558694330,
-      "date": "2026-08-11+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89183",
-      "theater_name": "Cinemark Century South Point 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558969249,
-      "date": "2026-08-11+23:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -511112,22 +511064,6 @@
       "theater_name": "Cinemark Century Suncoast 16 and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551872614,
-      "date": "2026-08-11+22:40",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89144",
-      "theater_name": "Cinemark Century Suncoast 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551872607,
       "date": "2026-08-11+15:50",
       "format": "Cinemark XD",
@@ -511594,70 +511530,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558887805,
       "date": "2026-08-11+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89144",
-      "theater_name": "Cinemark Century Suncoast 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558887849,
-      "date": "2026-08-11+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89144",
-      "theater_name": "Cinemark Century Suncoast 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558887845,
-      "date": "2026-08-11+22:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89144",
-      "theater_name": "Cinemark Century Suncoast 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558887855,
-      "date": "2026-08-11+22:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89144",
-      "theater_name": "Cinemark Century Suncoast 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551872617,
-      "date": "2026-08-11+23:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -528152,38 +528024,6 @@
       "theater_name": "AMC Fullerton 20",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558532067,
-      "date": "2026-08-11+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fullerton",
-      "zip": "92832",
-      "theater_name": "AMC Fullerton 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558532071,
-      "date": "2026-08-11+23:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fullerton",
-      "zip": "92832",
-      "theater_name": "AMC Fullerton 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558532104,
       "date": "2026-08-11+13:15",
       "format": "Standard",
@@ -528536,54 +528376,6 @@
       "theater_name": "AMC Fullerton 20",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 550779358,
-      "date": "2026-08-11+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fullerton",
-      "zip": "92832",
-      "theater_name": "AMC Fullerton 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558532093,
-      "date": "2026-08-11+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fullerton",
-      "zip": "92832",
-      "theater_name": "AMC Fullerton 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558532077,
-      "date": "2026-08-11+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fullerton",
-      "zip": "92832",
-      "theater_name": "AMC Fullerton 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558532099,
       "date": "2026-08-11+10:45",
       "format": "Standard",
@@ -528634,22 +528426,6 @@
       "chainCode": "AMC",
       "showtime_id": 558532108,
       "date": "2026-08-11+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fullerton",
-      "zip": "92832",
-      "theater_name": "AMC Fullerton 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558532110,
-      "date": "2026-08-11+23:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -531192,38 +530968,6 @@
       "theater_name": "Cinemark Century Orange and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 558861007,
-      "date": "2026-08-11+22:20",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551573639,
-      "date": "2026-08-11+22:45",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 558860940,
       "date": "2026-08-11+08:40",
       "format": "D-Box",
@@ -531336,38 +531080,6 @@
       "theater_name": "Cinemark Century Orange and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 558860939,
-      "date": "2026-08-11+22:20",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551573643,
-      "date": "2026-08-11+22:45",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551573646,
       "date": "2026-08-11+09:40",
       "format": "ScreenX",
@@ -531432,22 +531144,6 @@
       "theater_name": "Cinemark Century Orange and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551573650,
-      "date": "2026-08-11+23:20",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551573651,
       "date": "2026-08-11+09:40",
       "format": "D-Box",
@@ -531498,22 +531194,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551573654,
       "date": "2026-08-11+19:55",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551573655,
-      "date": "2026-08-11+23:20",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -532664,120 +532344,8 @@
       "theater_name": "Cinemark Century Orange and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 558860958,
-      "date": "2026-08-11+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558860956,
-      "date": "2026-08-11+22:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 558861002,
       "date": "2026-08-11+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558860969,
-      "date": "2026-08-11+23:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558861012,
-      "date": "2026-08-11+23:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558860945,
-      "date": "2026-08-11+23:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558860996,
-      "date": "2026-08-11+23:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551573660,
-      "date": "2026-08-11+23:55",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -604632,22 +604200,6 @@
       "theater_name": "Cinemark Century Olympia",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 558946540,
-      "date": "2026-08-11+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Olympia",
-      "zip": "98502",
-      "theater_name": "Cinemark Century Olympia",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 558946560,
       "date": "2026-08-11+09:10",
       "format": "Standard",
@@ -605098,54 +604650,6 @@
       "chainCode": "CNMK",
       "showtime_id": 558946567,
       "date": "2026-08-11+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Olympia",
-      "zip": "98502",
-      "theater_name": "Cinemark Century Olympia",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558946564,
-      "date": "2026-08-11+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Olympia",
-      "zip": "98502",
-      "theater_name": "Cinemark Century Olympia",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558946524,
-      "date": "2026-08-11+23:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Olympia",
-      "zip": "98502",
-      "theater_name": "Cinemark Century Olympia",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 558946531,
-      "date": "2026-08-11+23:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -617130,6 +616634,86 @@
       "chainCode": "CNMK",
       "showtime_id": 551622078,
       "date": "2026-08-11+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mankato",
+      "zip": "56001",
+      "theater_name": "Cinemark River Hills Mall Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559608562,
+      "date": "2026-08-11+09:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mankato",
+      "zip": "56001",
+      "theater_name": "Cinemark River Hills Mall Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559608563,
+      "date": "2026-08-11+12:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mankato",
+      "zip": "56001",
+      "theater_name": "Cinemark River Hills Mall Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559608564,
+      "date": "2026-08-11+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mankato",
+      "zip": "56001",
+      "theater_name": "Cinemark River Hills Mall Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559608565,
+      "date": "2026-08-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mankato",
+      "zip": "56001",
+      "theater_name": "Cinemark River Hills Mall Movies 8",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559608566,
+      "date": "2026-08-11+22:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
