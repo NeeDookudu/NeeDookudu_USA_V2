@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 06:57:10 AM",
+  "last_updated": "2026-08-13 09:38:39 AM",
   "errors": [
     {
       "state": "MA",
@@ -76248,22 +76248,6 @@
       "theater_name": "AMC Porter Ranch 9",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 558807282,
-      "date": "2026-08-12+23:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Chatsworth",
-      "zip": "91326",
-      "theater_name": "AMC Porter Ranch 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558807286,
       "date": "2026-08-12+14:30",
       "format": "Standard",
@@ -82698,6 +82682,1782 @@
       "chainCode": "AMC",
       "showtime_id": 558764897,
       "date": "2026-08-12+17:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558746905,
+      "date": "2026-08-12+07:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558746904,
+      "date": "2026-08-12+11:15",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558746903,
+      "date": "2026-08-12+14:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558746902,
+      "date": "2026-08-12+18:15",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558746901,
+      "date": "2026-08-12+21:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918129,
+      "date": "2026-08-12+09:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918130,
+      "date": "2026-08-12+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918145,
+      "date": "2026-08-12+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918141,
+      "date": "2026-08-12+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918144,
+      "date": "2026-08-12+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918128,
+      "date": "2026-08-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918143,
+      "date": "2026-08-12+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918161,
+      "date": "2026-08-12+08:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918126,
+      "date": "2026-08-12+08:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918106,
+      "date": "2026-08-12+09:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918150,
+      "date": "2026-08-12+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918162,
+      "date": "2026-08-12+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918127,
+      "date": "2026-08-12+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918104,
+      "date": "2026-08-12+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918149,
+      "date": "2026-08-12+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550447978,
+      "date": "2026-08-12+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918152,
+      "date": "2026-08-12+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918146,
+      "date": "2026-08-12+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918153,
+      "date": "2026-08-12+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918098,
+      "date": "2026-08-12+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918158,
+      "date": "2026-08-12+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918102,
+      "date": "2026-08-12+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918131,
+      "date": "2026-08-12+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558918132,
+      "date": "2026-08-12+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554303126,
+      "date": "2026-08-12+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977267,
+      "date": "2026-08-12+12:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551640638,
+      "date": "2026-08-12+15:10",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977268,
+      "date": "2026-08-12+15:35",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551640639,
+      "date": "2026-08-12+18:30",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977269,
+      "date": "2026-08-12+19:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 553404926,
+      "date": "2026-08-12+11:40",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977277,
+      "date": "2026-08-12+10:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977276,
+      "date": "2026-08-12+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977278,
+      "date": "2026-08-12+20:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977275,
+      "date": "2026-08-12+09:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977236,
+      "date": "2026-08-12+10:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977271,
+      "date": "2026-08-12+10:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551640647,
+      "date": "2026-08-12+10:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977246,
+      "date": "2026-08-12+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977290,
+      "date": "2026-08-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977249,
+      "date": "2026-08-12+13:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977237,
+      "date": "2026-08-12+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977272,
+      "date": "2026-08-12+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977280,
+      "date": "2026-08-12+14:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977245,
+      "date": "2026-08-12+14:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977289,
+      "date": "2026-08-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977250,
+      "date": "2026-08-12+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977238,
+      "date": "2026-08-12+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977279,
+      "date": "2026-08-12+17:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977273,
+      "date": "2026-08-12+17:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977281,
+      "date": "2026-08-12+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977248,
+      "date": "2026-08-12+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977292,
+      "date": "2026-08-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89183",
+      "theater_name": "Cinemark Century South Point 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 558977251,
+      "date": "2026-08-12+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558279782,
+      "date": "2026-08-12+09:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558279786,
+      "date": "2026-08-12+12:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558279785,
+      "date": "2026-08-12+16:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558279783,
+      "date": "2026-08-12+19:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558279780,
+      "date": "2026-08-12+11:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558279779,
+      "date": "2026-08-12+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558279777,
+      "date": "2026-08-12+18:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461295,
+      "date": "2026-08-12+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461278,
+      "date": "2026-08-12+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461294,
+      "date": "2026-08-12+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551293690,
+      "date": "2026-08-12+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461277,
+      "date": "2026-08-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461269,
+      "date": "2026-08-12+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461284,
+      "date": "2026-08-12+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461270,
+      "date": "2026-08-12+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461298,
+      "date": "2026-08-12+09:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461282,
+      "date": "2026-08-12+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461286,
+      "date": "2026-08-12+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551293691,
+      "date": "2026-08-12+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461273,
+      "date": "2026-08-12+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461268,
+      "date": "2026-08-12+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461297,
+      "date": "2026-08-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461281,
+      "date": "2026-08-12+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461285,
+      "date": "2026-08-12+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461272,
+      "date": "2026-08-12+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461267,
+      "date": "2026-08-12+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461308,
+      "date": "2026-08-12+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461280,
+      "date": "2026-08-12+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551293689,
+      "date": "2026-08-12+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461310,
+      "date": "2026-08-12+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461265,
+      "date": "2026-08-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558461279,
+      "date": "2026-08-12+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555059108,
+      "date": "2026-08-12+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524895,
+      "date": "2026-08-12+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551391363,
+      "date": "2026-08-12+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524894,
+      "date": "2026-08-12+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524922,
+      "date": "2026-08-12+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524893,
+      "date": "2026-08-12+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551391365,
+      "date": "2026-08-12+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524892,
+      "date": "2026-08-12+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524902,
+      "date": "2026-08-12+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524923,
+      "date": "2026-08-12+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524905,
+      "date": "2026-08-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524896,
+      "date": "2026-08-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524899,
+      "date": "2026-08-12+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551391364,
+      "date": "2026-08-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524904,
+      "date": "2026-08-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524897,
+      "date": "2026-08-12+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524900,
+      "date": "2026-08-12+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524916,
+      "date": "2026-08-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524903,
+      "date": "2026-08-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "La Jolla",
+      "zip": "92037",
+      "theater_name": "AMC La Jolla 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558524898,
+      "date": "2026-08-12+20:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
