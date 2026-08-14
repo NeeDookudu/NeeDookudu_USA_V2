@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 09:33:53 AM",
+  "last_updated": "2026-08-14 11:11:42 AM",
   "errors": [
     {
       "state": "MA",
@@ -54300,6 +54300,790 @@
       "chainCode": "CNMK",
       "showtime_id": 560139356,
       "date": "2026-08-13+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550513899,
+      "date": "2026-08-13+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550513900,
+      "date": "2026-08-13+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550513901,
+      "date": "2026-08-13+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558379875,
+      "date": "2026-08-13+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559276560,
+      "date": "2026-08-13+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558379874,
+      "date": "2026-08-13+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559276559,
+      "date": "2026-08-13+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558379873,
+      "date": "2026-08-13+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Owasso",
+      "zip": "74055",
+      "theater_name": "AMC CLASSIC Owasso 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559276558,
+      "date": "2026-08-13+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457799,
+      "date": "2026-08-13+16:35",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457800,
+      "date": "2026-08-13+20:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457829,
+      "date": "2026-08-13+16:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457830,
+      "date": "2026-08-13+20:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569713,
+      "date": "2026-08-13+09:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457847,
+      "date": "2026-08-13+10:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569712,
+      "date": "2026-08-13+16:05",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569715,
+      "date": "2026-08-13+19:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457848,
+      "date": "2026-08-13+21:45",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569714,
+      "date": "2026-08-13+22:55",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457843,
+      "date": "2026-08-13+11:10",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457844,
+      "date": "2026-08-13+14:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457846,
+      "date": "2026-08-13+21:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457838,
+      "date": "2026-08-13+09:45",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457837,
+      "date": "2026-08-13+13:10",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457836,
+      "date": "2026-08-13+23:25",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457858,
+      "date": "2026-08-13+09:45",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457859,
+      "date": "2026-08-13+13:10",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457857,
+      "date": "2026-08-13+23:25",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569721,
+      "date": "2026-08-13+12:40",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569716,
+      "date": "2026-08-13+12:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569720,
+      "date": "2026-08-13+09:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457803,
+      "date": "2026-08-13+09:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457812,
+      "date": "2026-08-13+10:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457853,
+      "date": "2026-08-13+10:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457821,
+      "date": "2026-08-13+11:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457808,
+      "date": "2026-08-13+11:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457813,
+      "date": "2026-08-13+13:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457822,
+      "date": "2026-08-13+14:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457810,
+      "date": "2026-08-13+15:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569719,
+      "date": "2026-08-13+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457814,
+      "date": "2026-08-13+17:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457811,
+      "date": "2026-08-13+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569718,
+      "date": "2026-08-13+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457815,
+      "date": "2026-08-13+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457824,
+      "date": "2026-08-13+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457854,
+      "date": "2026-08-13+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457809,
+      "date": "2026-08-13+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559457863,
+      "date": "2026-08-13+22:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551569717,
+      "date": "2026-08-13+22:55",
       "format": "Standard",
       "language": "Unknown",
       "error": {
