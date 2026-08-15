@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 09:07:59 AM",
+  "last_updated": "2026-08-15 09:55:41 AM",
   "errors": [
     {
       "state": "MA",
@@ -48668,6 +48668,22 @@
       "chainCode": "RTSIND",
       "showtime_id": 559417796,
       "date": "2026-08-14+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Chapel Hill",
+      "zip": "27514",
+      "theater_name": "Silverspot Cinema Chapel Hill 13",
+      "chainName": "Silverspot Cinemas",
+      "chainCode": "SLVR",
+      "showtime_id": 559662814,
+      "date": "2026-08-14+22:25",
       "format": "Standard",
       "language": "Unknown",
       "error": {
