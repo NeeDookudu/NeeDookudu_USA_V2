@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 09:55:41 AM",
+  "last_updated": "2026-08-15 10:51:44 AM",
   "errors": [
     {
       "state": "MA",
@@ -48684,6 +48684,22 @@
       "chainCode": "SLVR",
       "showtime_id": 559662814,
       "date": "2026-08-14+22:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20001",
+      "theater_name": "Regal Gallery Place & 4DX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 560381252,
+      "date": "2026-08-15+00:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
