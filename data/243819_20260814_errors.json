@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 06:24:37 AM",
+  "last_updated": "2026-08-15 07:47:05 AM",
   "errors": [
     {
       "state": "MA",
@@ -18984,22 +18984,6 @@
       "theater_name": "AMC DINE-IN Disney Springs™ 24",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 559816383,
-      "date": "2026-08-14+22:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Lake Buena Vista",
-      "zip": "32830",
-      "theater_name": "AMC DINE-IN Disney Springs™ 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 559816408,
       "date": "2026-08-14+10:30",
       "format": "Standard",
@@ -19112,22 +19096,6 @@
       "theater_name": "AMC DINE-IN Disney Springs™ 24",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 559816426,
-      "date": "2026-08-14+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Lake Buena Vista",
-      "zip": "32830",
-      "theater_name": "AMC DINE-IN Disney Springs™ 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 556945550,
       "date": "2026-08-14+12:30",
       "format": "Standard",
@@ -19162,22 +19130,6 @@
       "chainCode": "AMC",
       "showtime_id": 556945548,
       "date": "2026-08-14+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Lake Buena Vista",
-      "zip": "32830",
-      "theater_name": "AMC DINE-IN Disney Springs™ 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556945547,
-      "date": "2026-08-14+23:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -48033,6 +47985,214 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Franklin",
+      "zip": "37067",
+      "theater_name": "AMC Thoroughbred 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560269039,
+      "date": "2026-08-14+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Allen",
+      "zip": "75013",
+      "theater_name": "Cinemark Allen 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560271286,
+      "date": "2026-08-14+20:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559844043,
+      "date": "2026-08-14+12:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557212220,
+      "date": "2026-08-14+16:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559844059,
+      "date": "2026-08-14+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559844058,
+      "date": "2026-08-14+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559844067,
+      "date": "2026-08-14+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559844061,
+      "date": "2026-08-14+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559844044,
+      "date": "2026-08-14+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559844064,
+      "date": "2026-08-14+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556073638,
+      "date": "2026-08-14+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559844047,
+      "date": "2026-08-14+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556073631,
+      "date": "2026-08-14+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
