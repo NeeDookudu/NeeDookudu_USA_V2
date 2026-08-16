@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 07:54:11 AM",
+  "last_updated": "2026-08-16 09:16:12 AM",
   "errors": [
     {
       "state": "MA",
@@ -71738,22 +71738,6 @@
       "chainCode": "AMC",
       "showtime_id": 559687977,
       "date": "2026-08-15+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Concord",
-      "zip": "28027",
-      "theater_name": "AMC Concord Mills 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 559404513,
-      "date": "2026-08-15+23:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -180771,22 +180755,6 @@
     },
     {
       "state": "MN",
-      "city": "Roseville",
-      "zip": "55113",
-      "theater_name": "AMC Rosedale 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 559837167,
-      "date": "2026-08-15+22:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "MN",
       "city": "Eagan",
       "zip": "55122",
       "theater_name": "Emagine Eagan",
@@ -192314,22 +192282,6 @@
       "chainCode": "AMC",
       "showtime_id": 558996182,
       "date": "2026-08-15+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Saint Charles",
-      "zip": "63303",
-      "theater_name": "AMC Streets of St. Charles 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 559048487,
-      "date": "2026-08-15+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -208968,22 +208920,6 @@
       "theater_name": "Cinemark Cedar Hill",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 551635267,
-      "date": "2026-08-15+22:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cedar Hill",
-      "zip": "75104",
-      "theater_name": "Cinemark Cedar Hill",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 559958679,
       "date": "2026-08-15+14:55",
       "format": "Standard",
@@ -221768,22 +221704,6 @@
       "theater_name": "Cinemark Cypress and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 559122841,
-      "date": "2026-08-15+23:25",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 559943088,
       "date": "2026-08-15+09:15",
       "format": "Standard",
@@ -221834,22 +221754,6 @@
       "chainCode": "CNMK",
       "showtime_id": 559943090,
       "date": "2026-08-15+19:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559943091,
-      "date": "2026-08-15+23:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -222122,22 +222026,6 @@
       "chainCode": "CNMK",
       "showtime_id": 559943049,
       "date": "2026-08-15+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552120034,
-      "date": "2026-08-15+22:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -336186,6 +336074,230 @@
       "chainCode": "AMC",
       "showtime_id": 559688015,
       "date": "2026-08-15+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Queens",
+      "zip": "11375",
+      "theater_name": "Cinemart Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 560413159,
+      "date": "2026-08-15+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lynbrook",
+      "zip": "11563",
+      "theater_name": "Regal Lynbrook",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 560414472,
+      "date": "2026-08-15+23:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75025",
+      "theater_name": "Cinemark Legacy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560390011,
+      "date": "2026-08-15+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Hill",
+      "zip": "75104",
+      "theater_name": "Cinemark Cedar Hill",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560411482,
+      "date": "2026-08-15+20:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Hill",
+      "zip": "75104",
+      "theater_name": "Cinemark Cedar Hill",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560411481,
+      "date": "2026-08-15+21:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Hill",
+      "zip": "75104",
+      "theater_name": "Cinemark Cedar Hill",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560402357,
+      "date": "2026-08-15+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Hill",
+      "zip": "75104",
+      "theater_name": "Cinemark Cedar Hill",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560402358,
+      "date": "2026-08-15+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Luis Obispo",
+      "zip": "93401",
+      "theater_name": "The Movie Experience - Downtown Centre Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 560413891,
+      "date": "2026-08-15+19:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 559417815,
+      "date": "2026-08-15+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 559417811,
+      "date": "2026-08-15+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 559417814,
+      "date": "2026-08-15+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 559417810,
+      "date": "2026-08-15+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 559417813,
+      "date": "2026-08-15+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 559417809,
+      "date": "2026-08-15+19:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
