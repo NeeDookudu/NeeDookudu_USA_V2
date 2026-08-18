@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 07:48:06 AM",
+  "last_updated": "2026-08-18 09:12:37 AM",
   "errors": [
     {
       "state": "MA",
@@ -9578,22 +9578,6 @@
       "chainCode": "AMC",
       "showtime_id": 559845226,
       "date": "2026-08-17+15:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 559845219,
-      "date": "2026-08-17+23:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -35418,22 +35402,6 @@
       "chainCode": "AMC",
       "showtime_id": 556619952,
       "date": "2026-08-17+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Murfreesboro",
-      "zip": "37129",
-      "theater_name": "AMC Stones River 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556619954,
-      "date": "2026-08-17+23:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -63219,22 +63187,6 @@
     },
     {
       "state": "TX",
-      "city": "Cypress",
-      "zip": "77429",
-      "theater_name": "Cinemark Cypress and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559353601,
-      "date": "2026-08-17+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Katy",
       "zip": "77494",
       "theater_name": "AMC Katy Mills 20",
@@ -76696,22 +76648,6 @@
       "theater_name": "Cinemark Century Laguna 16 and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 559173023,
-      "date": "2026-08-17+22:00",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 559173026,
       "date": "2026-08-17+12:05",
       "format": "D-Box",
@@ -76730,22 +76666,6 @@
       "chainCode": "CNMK",
       "showtime_id": 559173027,
       "date": "2026-08-17+18:45",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559173028,
-      "date": "2026-08-17+22:00",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -76794,22 +76714,6 @@
       "chainCode": "CNMK",
       "showtime_id": 552039298,
       "date": "2026-08-17+19:10",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552039299,
-      "date": "2026-08-17+22:30",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -76874,38 +76778,6 @@
       "chainCode": "CNMK",
       "showtime_id": 559869293,
       "date": "2026-08-17+17:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559869294,
-      "date": "2026-08-17+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559869296,
-      "date": "2026-08-17+21:05",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -77066,54 +76938,6 @@
       "chainCode": "CNMK",
       "showtime_id": 559869316,
       "date": "2026-08-17+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559869302,
-      "date": "2026-08-17+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559869317,
-      "date": "2026-08-17+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552039296,
-      "date": "2026-08-17+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -80360,22 +80184,6 @@
       "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 559115869,
-      "date": "2026-08-17+22:45",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 559115876,
       "date": "2026-08-17+09:25",
       "format": "Cinemark XD",
@@ -80424,22 +80232,6 @@
       "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 559115877,
-      "date": "2026-08-17+22:45",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551473447,
       "date": "2026-08-17+11:50",
       "format": "D-Box",
@@ -80474,38 +80266,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551473449,
       "date": "2026-08-17+18:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559483504,
-      "date": "2026-08-17+21:35",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551473450,
-      "date": "2026-08-17+21:50",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -80682,86 +80442,6 @@
       "chainCode": "CNMK",
       "showtime_id": 559483490,
       "date": "2026-08-17+19:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559483537,
-      "date": "2026-08-17+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559483503,
-      "date": "2026-08-17+21:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559483538,
-      "date": "2026-08-17+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551473446,
-      "date": "2026-08-17+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rocklin",
-      "zip": "95765",
-      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559483491,
-      "date": "2026-08-17+22:25",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -81554,38 +81234,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Yuba City",
-      "zip": "95993",
-      "theater_name": "Cinemark Yuba City",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555760461,
-      "date": "2026-08-17+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Yuba City",
-      "zip": "95993",
-      "theater_name": "Cinemark Yuba City",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559354810,
-      "date": "2026-08-17+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
       "state": "HI",
       "city": "Kapolei",
       "zip": "96707",
@@ -82264,22 +81912,6 @@
       "theater_name": "Regal Windward",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "showtime_id": 559521703,
-      "date": "2026-08-17+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "HI",
-      "city": "Kaneohe",
-      "zip": "96744",
-      "theater_name": "Regal Windward",
-      "chainName": "Regal",
-      "chainCode": "REGL",
       "showtime_id": 559521709,
       "date": "2026-08-17+12:00",
       "format": "Standard",
@@ -82362,38 +81994,6 @@
       "chainCode": "REGL",
       "showtime_id": 559521682,
       "date": "2026-08-17+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "HI",
-      "city": "Kaneohe",
-      "zip": "96744",
-      "theater_name": "Regal Windward",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 559521696,
-      "date": "2026-08-17+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "HI",
-      "city": "Kaneohe",
-      "zip": "96744",
-      "theater_name": "Regal Windward",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 559521698,
-      "date": "2026-08-17+20:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -82714,22 +82314,6 @@
       "chainCode": "REGL",
       "showtime_id": 559535927,
       "date": "2026-08-17+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "HI",
-      "city": "Kahului",
-      "zip": "96732",
-      "theater_name": "Regal Maui Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 559142748,
-      "date": "2026-08-17+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -84170,86 +83754,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551622092,
       "date": "2026-08-17+19:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Portland",
-      "zip": "97266",
-      "theater_name": "Cinemark Century Eastport Plaza 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559973378,
-      "date": "2026-08-17+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Portland",
-      "zip": "97266",
-      "theater_name": "Cinemark Century Eastport Plaza 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559973423,
-      "date": "2026-08-17+21:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Portland",
-      "zip": "97266",
-      "theater_name": "Cinemark Century Eastport Plaza 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559973395,
-      "date": "2026-08-17+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Portland",
-      "zip": "97266",
-      "theater_name": "Cinemark Century Eastport Plaza 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559973421,
-      "date": "2026-08-17+22:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Portland",
-      "zip": "97266",
-      "theater_name": "Cinemark Century Eastport Plaza 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551622093,
-      "date": "2026-08-17+22:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -89802,6 +89306,534 @@
       "chainCode": "AMC",
       "showtime_id": 559915614,
       "date": "2026-08-17+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559236516,
+      "date": "2026-08-17+22:15",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052148,
+      "date": "2026-08-17+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052141,
+      "date": "2026-08-17+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052159,
+      "date": "2026-08-17+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052164,
+      "date": "2026-08-17+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558949845,
+      "date": "2026-08-17+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052161,
+      "date": "2026-08-17+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052163,
+      "date": "2026-08-17+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558949846,
+      "date": "2026-08-17+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052160,
+      "date": "2026-08-17+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052145,
+      "date": "2026-08-17+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560052165,
+      "date": "2026-08-17+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559106128,
+      "date": "2026-08-17+10:30",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559106130,
+      "date": "2026-08-17+17:10",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551290015,
+      "date": "2026-08-17+10:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551290016,
+      "date": "2026-08-17+13:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551290017,
+      "date": "2026-08-17+16:40",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551290018,
+      "date": "2026-08-17+20:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993958,
+      "date": "2026-08-17+13:50",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551290011,
+      "date": "2026-08-17+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993926,
+      "date": "2026-08-17+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993974,
+      "date": "2026-08-17+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993959,
+      "date": "2026-08-17+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551290012,
+      "date": "2026-08-17+13:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993927,
+      "date": "2026-08-17+14:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993975,
+      "date": "2026-08-17+14:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993960,
+      "date": "2026-08-17+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551290013,
+      "date": "2026-08-17+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993976,
+      "date": "2026-08-17+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993918,
+      "date": "2026-08-17+18:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551290014,
+      "date": "2026-08-17+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993908,
+      "date": "2026-08-17+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bruno",
+      "zip": "94066",
+      "theater_name": "Cinemark Century at Tanforan and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559993962,
+      "date": "2026-08-17+17:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
