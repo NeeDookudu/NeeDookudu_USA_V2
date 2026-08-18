@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 06:23:55 AM",
+  "last_updated": "2026-08-18 07:48:06 AM",
   "errors": [
     {
       "state": "MA",
@@ -10456,22 +10456,6 @@
       "theater_name": "AMC 84th Street 6",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 559363317,
-      "date": "2026-08-17+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10024",
-      "theater_name": "AMC 84th Street 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 558933527,
       "date": "2026-08-17+12:15",
       "format": "Standard",
@@ -10554,22 +10538,6 @@
       "chainCode": "AMC",
       "showtime_id": 559363314,
       "date": "2026-08-17+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10024",
-      "theater_name": "AMC 84th Street 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558933530,
-      "date": "2026-08-17+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -11531,22 +11499,6 @@
       "showtime_id": 559771157,
       "date": "2026-08-17+22:30",
       "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10027",
-      "theater_name": "AMC Magic Johnson Harlem 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 558966794,
-      "date": "2026-08-17+22:15",
-      "format": "Dolby Cinema",
       "language": "Unknown",
       "error": {
         "status": 429,
@@ -63640,38 +63592,6 @@
       "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 552416185,
-      "date": "2026-08-17+21:50",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77433",
-      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559411964,
-      "date": "2026-08-17+22:50",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77433",
-      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 552416184,
       "date": "2026-08-17+15:10",
       "format": "D-Box",
@@ -63818,54 +63738,6 @@
       "chainCode": "CNMK",
       "showtime_id": 559411957,
       "date": "2026-08-17+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77433",
-      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552416189,
-      "date": "2026-08-17+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77433",
-      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559411959,
-      "date": "2026-08-17+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cypress",
-      "zip": "77433",
-      "theater_name": "CUT! by Cinemark Cypress - Dine-in Theatre & Bar",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559411958,
-      "date": "2026-08-17+22:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -66200,40 +66072,8 @@
       "theater_name": "AMC Metropark 10",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 559691091,
-      "date": "2026-08-17+22:40",
-      "format": "IMAX",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Shenandoah",
-      "zip": "77385",
-      "theater_name": "AMC Metropark 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 559691072,
       "date": "2026-08-17+15:35",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Shenandoah",
-      "zip": "77385",
-      "theater_name": "AMC Metropark 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 559691073,
-      "date": "2026-08-17+22:10",
       "format": "Dolby Cinema",
       "language": "Unknown",
       "error": {
@@ -68680,22 +68520,6 @@
       "theater_name": "Cinemark Victoria 12",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 559200228,
-      "date": "2026-08-17+22:15",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 559200229,
       "date": "2026-08-17+12:00",
       "format": "D-Box",
@@ -68776,22 +68600,6 @@
       "theater_name": "Cinemark Victoria 12",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 559200231,
-      "date": "2026-08-17+22:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 551436446,
       "date": "2026-08-17+11:40",
       "format": "D-Box",
@@ -68810,38 +68618,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551436444,
       "date": "2026-08-17+18:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559371143,
-      "date": "2026-08-17+21:25",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551436447,
-      "date": "2026-08-17+21:55",
       "format": "D-Box",
       "language": "Unknown",
       "error": {
@@ -69082,102 +68858,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551436440,
       "date": "2026-08-17+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559371135,
-      "date": "2026-08-17+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559371160,
-      "date": "2026-08-17+21:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559371134,
-      "date": "2026-08-17+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559371151,
-      "date": "2026-08-17+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559371126,
-      "date": "2026-08-17+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Victoria",
-      "zip": "77904",
-      "theater_name": "Cinemark Victoria 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551436443,
-      "date": "2026-08-17+21:55",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -77464,38 +77144,6 @@
       "theater_name": "Cinemark Century DOCO and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 559072337,
-      "date": "2026-08-17+19:00",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95814",
-      "theater_name": "Cinemark Century DOCO and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559072338,
-      "date": "2026-08-17+22:25",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95814",
-      "theater_name": "Cinemark Century DOCO and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 559072335,
       "date": "2026-08-17+15:35",
       "format": "Cinemark XD",
@@ -77610,54 +77258,6 @@
       "chainCode": "CNMK",
       "showtime_id": 551589333,
       "date": "2026-08-17+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95814",
-      "theater_name": "Cinemark Century DOCO and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551589334,
-      "date": "2026-08-17+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95814",
-      "theater_name": "Cinemark Century DOCO and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559355575,
-      "date": "2026-08-17+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 429,
-        "reason": "HTTP 429"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95814",
-      "theater_name": "Cinemark Century DOCO and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559355571,
-      "date": "2026-08-17+19:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -90074,6 +89674,134 @@
       "chainCode": "CCC",
       "showtime_id": 559711512,
       "date": "2026-08-17+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Brigham City",
+      "zip": "84302",
+      "theater_name": "Capitol Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 559599201,
+      "date": "2026-08-17+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559915627,
+      "date": "2026-08-17+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557212239,
+      "date": "2026-08-17+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556073672,
+      "date": "2026-08-17+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559915597,
+      "date": "2026-08-17+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557212233,
+      "date": "2026-08-17+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557212237,
+      "date": "2026-08-17+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85204",
+      "theater_name": "AMC Mesa Grand 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559915614,
+      "date": "2026-08-17+17:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
