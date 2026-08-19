@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 06:24:04 AM",
+  "last_updated": "2026-08-19 07:51:18 AM",
   "errors": [
     {
       "state": "MA",
@@ -45434,6 +45434,902 @@
       "chainCode": "AMC",
       "showtime_id": 559237980,
       "date": "2026-08-18+14:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Trumbull",
+      "zip": "06611",
+      "theater_name": "AMC Marquis 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560926315,
+      "date": "2026-08-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438603,
+      "date": "2026-08-18+11:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438602,
+      "date": "2026-08-18+14:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438592,
+      "date": "2026-08-18+19:20",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438573,
+      "date": "2026-08-18+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438572,
+      "date": "2026-08-18+17:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438571,
+      "date": "2026-08-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556582383,
+      "date": "2026-08-18+11:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438582,
+      "date": "2026-08-18+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556582381,
+      "date": "2026-08-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438581,
+      "date": "2026-08-18+16:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556582380,
+      "date": "2026-08-18+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559438580,
+      "date": "2026-08-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556582382,
+      "date": "2026-08-18+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Newark",
+      "zip": "19711",
+      "theater_name": "Main Street Movies 5",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 561137509,
+      "date": "2026-08-18+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816623,
+      "date": "2026-08-18+11:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816622,
+      "date": "2026-08-18+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816624,
+      "date": "2026-08-18+18:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816625,
+      "date": "2026-08-18+22:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816652,
+      "date": "2026-08-18+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816653,
+      "date": "2026-08-18+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816654,
+      "date": "2026-08-18+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816655,
+      "date": "2026-08-18+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816679,
+      "date": "2026-08-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816680,
+      "date": "2026-08-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816681,
+      "date": "2026-08-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816645,
+      "date": "2026-08-18+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556945582,
+      "date": "2026-08-18+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556945581,
+      "date": "2026-08-18+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556945580,
+      "date": "2026-08-18+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556945575,
+      "date": "2026-08-18+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556945576,
+      "date": "2026-08-18+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556945577,
+      "date": "2026-08-18+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556945578,
+      "date": "2026-08-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904797,
+      "date": "2026-08-18+11:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904798,
+      "date": "2026-08-18+18:10",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904804,
+      "date": "2026-08-18+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904803,
+      "date": "2026-08-18+15:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904801,
+      "date": "2026-08-18+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904770,
+      "date": "2026-08-18+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904768,
+      "date": "2026-08-18+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904769,
+      "date": "2026-08-18+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904821,
+      "date": "2026-08-18+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558950137,
+      "date": "2026-08-18+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904820,
+      "date": "2026-08-18+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558950139,
+      "date": "2026-08-18+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904819,
+      "date": "2026-08-18+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559904771,
+      "date": "2026-08-18+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89108",
+      "theater_name": "AMC Rainbow Promenade 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559887318,
+      "date": "2026-08-18+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89108",
+      "theater_name": "AMC Rainbow Promenade 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559887324,
+      "date": "2026-08-18+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89108",
+      "theater_name": "AMC Rainbow Promenade 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559887325,
+      "date": "2026-08-18+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89108",
+      "theater_name": "AMC Rainbow Promenade 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559887307,
+      "date": "2026-08-18+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89108",
+      "theater_name": "AMC Rainbow Promenade 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559887313,
+      "date": "2026-08-18+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89108",
+      "theater_name": "AMC Rainbow Promenade 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559887330,
+      "date": "2026-08-18+14:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89108",
+      "theater_name": "AMC Rainbow Promenade 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559887316,
+      "date": "2026-08-18+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89108",
+      "theater_name": "AMC Rainbow Promenade 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559887329,
+      "date": "2026-08-18+18:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
