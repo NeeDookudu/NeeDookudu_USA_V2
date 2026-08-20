@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 10:56:07 AM",
+  "last_updated": "2026-08-20 12:03:40 PM",
   "errors": [
     {
       "state": "MA",
@@ -147848,6 +147848,54 @@
       "chainCode": "AMC",
       "showtime_id": 559665153,
       "date": "2026-08-19+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pacific Grove",
+      "zip": "93950",
+      "theater_name": "Lighthouse Cinema & Cafe",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561236902,
+      "date": "2026-08-19+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pacific Grove",
+      "zip": "93950",
+      "theater_name": "Lighthouse Cinema & Cafe",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561236903,
+      "date": "2026-08-19+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pacific Grove",
+      "zip": "93950",
+      "theater_name": "Lighthouse Cinema & Cafe",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561236904,
+      "date": "2026-08-19+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
