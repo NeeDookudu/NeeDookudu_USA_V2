@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 07:55:35 AM",
+  "last_updated": "2026-08-21 09:16:51 AM",
   "errors": [
     {
       "state": "MA",
@@ -35576,6 +35576,86 @@
       "chainCode": "AMC",
       "showtime_id": 560948431,
       "date": "2026-08-20+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98006",
+      "theater_name": "AMC Loews Factoria 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560340352,
+      "date": "2026-08-20+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98006",
+      "theater_name": "AMC Loews Factoria 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560340351,
+      "date": "2026-08-20+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98006",
+      "theater_name": "AMC Loews Factoria 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561246829,
+      "date": "2026-08-20+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98006",
+      "theater_name": "AMC Loews Factoria 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560340349,
+      "date": "2026-08-20+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98006",
+      "theater_name": "AMC Loews Factoria 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560340347,
+      "date": "2026-08-20+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
