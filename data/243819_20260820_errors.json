@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 06:25:17 AM",
+  "last_updated": "2026-08-21 07:55:35 AM",
   "errors": [
     {
       "state": "MA",
@@ -35464,6 +35464,118 @@
       "chainCode": "CNMK",
       "showtime_id": 561238205,
       "date": "2026-08-20+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Grand Rapids",
+      "zip": "49508",
+      "theater_name": "Celebration Cinema Grand Rapids South",
+      "chainName": "Celebration Cinema ",
+      "chainCode": "CELE",
+      "showtime_id": 560136052,
+      "date": "2026-08-20+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77036",
+      "theater_name": "America Cinemas Houston",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561269900,
+      "date": "2026-08-20+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80016",
+      "theater_name": "AMC Arapahoe Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560948442,
+      "date": "2026-08-20+12:10",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80016",
+      "theater_name": "AMC Arapahoe Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558978052,
+      "date": "2026-08-20+15:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80016",
+      "theater_name": "AMC Arapahoe Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558978051,
+      "date": "2026-08-20+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80016",
+      "theater_name": "AMC Arapahoe Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560948432,
+      "date": "2026-08-20+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80016",
+      "theater_name": "AMC Arapahoe Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560948431,
+      "date": "2026-08-20+18:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
