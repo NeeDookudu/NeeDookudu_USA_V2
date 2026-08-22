@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 06:21:45 AM",
+  "last_updated": "2026-08-22 07:45:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -25636,22 +25636,6 @@
     {
       "state": "MO",
       "city": "St. Louis",
-      "zip": "63110",
-      "theater_name": "Alamo Drafthouse City Foundry",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 560485860,
-      "date": "2026-08-21+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400,
-        "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "St. Louis",
       "zip": "63133",
       "theater_name": "24:1 Cinema",
       "chainName": "Veezi Theaters",
@@ -34362,6 +34346,54 @@
       "chainCode": "SREG",
       "showtime_id": 560733737,
       "date": "2026-08-21+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28277",
+      "theater_name": "Regal Stonecrest at Piper Glen",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561316530,
+      "date": "2026-08-21+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33625",
+      "theater_name": "NCG Citrus Park",
+      "chainName": "NCG Cinemas",
+      "chainCode": "NCG",
+      "showtime_id": 561316552,
+      "date": "2026-08-21+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Brigham City",
+      "zip": "84302",
+      "theater_name": "Capitol Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 560803821,
+      "date": "2026-08-21+18:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
