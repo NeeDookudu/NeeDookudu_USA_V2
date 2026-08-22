@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 07:45:23 AM",
+  "last_updated": "2026-08-22 09:09:24 AM",
   "errors": [
     {
       "state": "MA",
@@ -34394,6 +34394,70 @@
       "chainCode": "VZ",
       "showtime_id": 560803821,
       "date": "2026-08-21+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Stillwater",
+      "zip": "74074",
+      "theater_name": "AMC Stillwater 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561322602,
+      "date": "2026-08-21+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 560690105,
+      "date": "2026-08-21+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 560690106,
+      "date": "2026-08-21+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 560690107,
+      "date": "2026-08-21+18:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
