@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 04:46:11 AM",
+  "last_updated": "2026-08-22 06:21:45 AM",
   "errors": [
     {
       "state": "MA",
@@ -1306,22 +1306,6 @@
       "chainCode": "ENTR",
       "showtime_id": 560531708,
       "date": "2026-08-21+17:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Hyannis",
-      "zip": "02601",
-      "theater_name": "Entertainment Cinemas - Hyannis",
-      "chainName": "Entertainment Cinemas",
-      "chainCode": "ENTR",
-      "showtime_id": 560531709,
-      "date": "2026-08-21+20:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -3304,22 +3288,6 @@
       "theater_name": "AMC Neshaminy 24",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 561100014,
-      "date": "2026-08-21+21:30",
-      "format": "IMAX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Bensalem",
-      "zip": "19020",
-      "theater_name": "AMC Neshaminy 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 561100049,
       "date": "2026-08-21+13:00",
       "format": "Standard",
@@ -3354,22 +3322,6 @@
       "chainCode": "AMC",
       "showtime_id": 561100048,
       "date": "2026-08-21+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Bensalem",
-      "zip": "19020",
-      "theater_name": "AMC Neshaminy 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561100071,
-      "date": "2026-08-21+21:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -3450,22 +3402,6 @@
       "chainCode": "AMC",
       "showtime_id": 561100019,
       "date": "2026-08-21+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Bensalem",
-      "zip": "19020",
-      "theater_name": "AMC Neshaminy 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561100018,
-      "date": "2026-08-21+22:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -9107,22 +9043,6 @@
     },
     {
       "state": "NC",
-      "city": "Cary",
-      "zip": "27518",
-      "theater_name": "CMX CinéBistro Waverly Place",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 560678385,
-      "date": "2026-08-21+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
       "city": "Fayetteville",
       "zip": "28306",
       "theater_name": "Stone Theatres Millstone 14 Cinemas",
@@ -14744,40 +14664,8 @@
       "theater_name": "CMX Dolphin 19 & IMAX",
       "chainName": "CMX Cinemas",
       "chainCode": "COBB",
-      "showtime_id": 560850351,
-      "date": "2026-08-21+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33172",
-      "theater_name": "CMX Dolphin 19 & IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
       "showtime_id": 560850493,
       "date": "2026-08-21+17:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33172",
-      "theater_name": "CMX Dolphin 19 & IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 560850366,
-      "date": "2026-08-21+22:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -14810,38 +14698,6 @@
       "chainCode": "COBB",
       "showtime_id": 561011522,
       "date": "2026-08-21+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33130",
-      "theater_name": "CMX Brickell Dine-In",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 561011524,
-      "date": "2026-08-21+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33130",
-      "theater_name": "CMX Brickell Dine-In",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 561011355,
-      "date": "2026-08-21+21:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -14906,22 +14762,6 @@
       "chainCode": "COBB",
       "showtime_id": 560811965,
       "date": "2026-08-21+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Wellington",
-      "zip": "33414",
-      "theater_name": "CMX Wellington",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 560811990,
-      "date": "2026-08-21+22:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -15034,38 +14874,6 @@
       "chainCode": "COBB",
       "showtime_id": 560701444,
       "date": "2026-08-21+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Palm Beach Gardens",
-      "zip": "33410",
-      "theater_name": "CMX Downtown At The Gardens + IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 560701626,
-      "date": "2026-08-21+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33606",
-      "theater_name": "CMX CinéBistro Hyde Park",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 560827535,
-      "date": "2026-08-21+21:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -15354,22 +15162,6 @@
       "chainCode": "COBB",
       "showtime_id": 560811917,
       "date": "2026-08-21+20:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Clearwater",
-      "zip": "33761",
-      "theater_name": "CMX Countryside",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 560811850,
-      "date": "2026-08-21+21:55",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -20712,22 +20504,6 @@
       "theater_name": "AMC Schererville 12",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 560822059,
-      "date": "2026-08-21+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 560822058,
       "date": "2026-08-21+16:00",
       "format": "Standard",
@@ -20746,22 +20522,6 @@
       "chainCode": "AMC",
       "showtime_id": 560822036,
       "date": "2026-08-21+14:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560822037,
-      "date": "2026-08-21+21:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -20826,22 +20586,6 @@
       "chainCode": "AMC",
       "showtime_id": 556883279,
       "date": "2026-08-21+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556883274,
-      "date": "2026-08-21+20:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -21560,22 +21304,6 @@
       "theater_name": "CMX Old Orchard Luxury",
       "chainName": "CMX Cinemas",
       "chainCode": "COBB",
-      "showtime_id": 560827088,
-      "date": "2026-08-21+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "CMX Old Orchard Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
       "showtime_id": 560827135,
       "date": "2026-08-21+11:45",
       "format": "Standard",
@@ -21610,22 +21338,6 @@
       "chainCode": "COBB",
       "showtime_id": 560827211,
       "date": "2026-08-21+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Skokie",
-      "zip": "60077",
-      "theater_name": "CMX Old Orchard Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 560827180,
-      "date": "2026-08-21+21:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -28883,38 +28595,6 @@
     },
     {
       "state": "TX",
-      "city": "Galveston",
-      "zip": "77554",
-      "theater_name": "Galveston Primetime Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 561115567,
-      "date": "2026-08-21+19:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Galveston",
-      "zip": "77554",
-      "theater_name": "Galveston Primetime Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 561115573,
-      "date": "2026-08-21+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
       "city": "New Braunfels",
       "zip": "78130",
       "theater_name": "Stars & Stripes Drive-In - New Braunfels",
@@ -29242,22 +28922,6 @@
       "chainCode": "ALAM",
       "showtime_id": 561210407,
       "date": "2026-08-21+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Littleton",
-      "zip": "80120",
-      "theater_name": "Alamo Drafthouse Littleton",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 561210563,
-      "date": "2026-08-21+21:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -34376,22 +34040,6 @@
       "theater_name": "AMC Surprise Pointe 14",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 560653667,
-      "date": "2026-08-21+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Surprise",
-      "zip": "85374",
-      "theater_name": "AMC Surprise Pointe 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 560653677,
       "date": "2026-08-21+10:30",
       "format": "Standard",
@@ -34466,19 +34114,259 @@
       }
     },
     {
-      "state": "AZ",
-      "city": "Surprise",
-      "zip": "85374",
-      "theater_name": "AMC Surprise Pointe 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560653689,
-      "date": "2026-08-21+18:30",
+      "state": "PA",
+      "city": "Stroudsburg",
+      "zip": "18360",
+      "theater_name": "Cinemark Stroud Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560284781,
+      "date": "2026-08-21+19:35",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Buffalo",
+      "zip": "14225",
+      "theater_name": "Regal Walden Galleria 4DX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561305559,
+      "date": "2026-08-21+19:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "status": 403,
-        "reason": "HTTP 403"
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Rockville",
+      "zip": "20850",
+      "theater_name": "Regal Rockville Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561066108,
+      "date": "2026-08-21+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Rockville",
+      "zip": "20850",
+      "theater_name": "Regal Rockville Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561066099,
+      "date": "2026-08-21+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Summersville",
+      "zip": "26651",
+      "theater_name": "Marquee Cinemas Nicholas Showplace",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561113165,
+      "date": "2026-08-21+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27610",
+      "theater_name": "Alamo Drafthouse Raleigh",
+      "chainName": "Alamo Drafthouse Cinemas",
+      "chainCode": "ALAM",
+      "showtime_id": 561296892,
+      "date": "2026-08-21+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Hickory",
+      "zip": "28602",
+      "theater_name": "AMC Hickory 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561280035,
+      "date": "2026-08-21+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30096",
+      "theater_name": "Studio Movie Grill - Duluth",
+      "chainName": "Studio Movie Grill",
+      "chainCode": "SMG",
+      "showtime_id": 561276879,
+      "date": "2026-08-21+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Dublin",
+      "zip": "31021",
+      "theater_name": "Golden Ticket Cinemas Dublin 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561136607,
+      "date": "2026-08-21+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Flowood",
+      "zip": "39232",
+      "theater_name": "Legacy Theaters Parkway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561282845,
+      "date": "2026-08-21+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Flowood",
+      "zip": "39232",
+      "theater_name": "Legacy Theaters Parkway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561282846,
+      "date": "2026-08-21+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Glasgow",
+      "zip": "42141",
+      "theater_name": "Marquee Cinemas Highland 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561113024,
+      "date": "2026-08-21+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561283351,
+      "date": "2026-08-21+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Longmont",
+      "zip": "80501",
+      "theater_name": "Regal Village At The Peaks",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561283956,
+      "date": "2026-08-21+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Camarillo",
+      "zip": "93012",
+      "theater_name": "Roxy Stadium 11",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560877309,
+      "date": "2026-08-21+16:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lodi",
+      "zip": "95240",
+      "theater_name": "Lodi Stadium 12",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560733737,
+      "date": "2026-08-21+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
