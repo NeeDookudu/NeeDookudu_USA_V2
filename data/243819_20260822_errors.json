@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 01:09:29 PM",
+  "last_updated": "2026-08-22 02:03:13 PM",
   "errors": [
     {
       "state": "MA",
@@ -2258,86 +2258,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "Staten Island",
-      "zip": "10309",
-      "theater_name": "Regal Bricktown Charleston",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561097356,
-      "date": "2026-08-22+12:00",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Staten Island",
-      "zip": "10309",
-      "theater_name": "Regal Bricktown Charleston",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561097357,
-      "date": "2026-08-22+15:30",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Staten Island",
-      "zip": "10309",
-      "theater_name": "Regal Bricktown Charleston",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561097354,
-      "date": "2026-08-22+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Staten Island",
-      "zip": "10309",
-      "theater_name": "Regal Bricktown Charleston",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561097353,
-      "date": "2026-08-22+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Staten Island",
-      "zip": "10309",
-      "theater_name": "Regal Bricktown Charleston",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561097351,
-      "date": "2026-08-22+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "NJ",
       "city": "Piscataway",
       "zip": "08854",
@@ -2547,134 +2467,6 @@
     },
     {
       "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 560726611,
-      "date": "2026-08-22+12:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 560726610,
-      "date": "2026-08-22+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 560726609,
-      "date": "2026-08-22+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 559066523,
-      "date": "2026-08-22+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 559066522,
-      "date": "2026-08-22+13:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 559066521,
-      "date": "2026-08-22+16:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 559066520,
-      "date": "2026-08-22+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manville",
-      "zip": "08835",
-      "theater_name": "Reading Cinemas Manville with Titan Luxe",
-      "chainName": "Reading Theaters",
-      "chainCode": "READ",
-      "showtime_id": 559066519,
-      "date": "2026-08-22+22:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
       "city": "Hillsborough",
       "zip": "08844",
       "theater_name": "Hillsborough Cinemas",
@@ -2879,22 +2671,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10016",
-      "theater_name": "AMC Kips Bay 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560948797,
-      "date": "2026-08-22+11:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -15683,278 +15459,6 @@
     },
     {
       "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026780,
-      "date": "2026-08-22+12:55",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026781,
-      "date": "2026-08-22+16:20",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026923,
-      "date": "2026-08-22+11:05",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026924,
-      "date": "2026-08-22+18:00",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026936,
-      "date": "2026-08-22+14:40",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026935,
-      "date": "2026-08-22+21:25",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026890,
-      "date": "2026-08-22+15:10",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026891,
-      "date": "2026-08-22+18:20",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026826,
-      "date": "2026-08-22+16:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026812,
-      "date": "2026-08-22+10:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026949,
-      "date": "2026-08-22+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026813,
-      "date": "2026-08-22+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026950,
-      "date": "2026-08-22+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026951,
-      "date": "2026-08-22+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026814,
-      "date": "2026-08-22+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026952,
-      "date": "2026-08-22+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561026815,
-      "date": "2026-08-22+23:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
       "city": "Oneida",
       "zip": "37841",
       "theater_name": "Capitol 3 Theatre",
@@ -20623,22 +20127,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Mishawaka",
-      "zip": "46545",
-      "theater_name": "Cinemark South Bend Movies 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559246631,
-      "date": "2026-08-22+09:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -28787,182 +28275,6 @@
     },
     {
       "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561083807,
-      "date": "2026-08-22+19:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561083759,
-      "date": "2026-08-22+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561083760,
-      "date": "2026-08-22+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561083761,
-      "date": "2026-08-22+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561083762,
-      "date": "2026-08-22+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561083805,
-      "date": "2026-08-22+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557199566,
-      "date": "2026-08-22+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557199565,
-      "date": "2026-08-22+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 557199564,
-      "date": "2026-08-22+23:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561083780,
-      "date": "2026-08-22+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Arlington",
-      "zip": "76015",
-      "theater_name": "AMC The Parks At Arlington 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561083804,
-      "date": "2026-08-22+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Forney",
       "zip": "75126",
       "theater_name": "AMC CLASSIC Forney 12",
@@ -29167,22 +28479,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Tyler",
-      "zip": "75703",
-      "theater_name": "AMC Tyler 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560545672,
-      "date": "2026-08-22+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -29423,246 +28719,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565320,
-      "date": "2026-08-22+09:15",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565316,
-      "date": "2026-08-22+12:40",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565317,
-      "date": "2026-08-22+16:10",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561272039,
-      "date": "2026-08-22+22:30",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565299,
-      "date": "2026-08-22+11:55",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565300,
-      "date": "2026-08-22+15:25",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565301,
-      "date": "2026-08-22+18:55",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565332,
-      "date": "2026-08-22+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565329,
-      "date": "2026-08-22+10:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565315,
-      "date": "2026-08-22+11:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565331,
-      "date": "2026-08-22+13:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565312,
-      "date": "2026-08-22+14:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565309,
-      "date": "2026-08-22+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565333,
-      "date": "2026-08-22+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560565307,
-      "date": "2026-08-22+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -31779,118 +30835,6 @@
     },
     {
       "state": "CA",
-      "city": "Cerritos",
-      "zip": "90701",
-      "theater_name": "Regal Edwards Cerritos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560955532,
-      "date": "2026-08-22+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90701",
-      "theater_name": "Regal Edwards Cerritos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560955540,
-      "date": "2026-08-22+10:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90701",
-      "theater_name": "Regal Edwards Cerritos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560955536,
-      "date": "2026-08-22+12:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90701",
-      "theater_name": "Regal Edwards Cerritos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560955544,
-      "date": "2026-08-22+14:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90701",
-      "theater_name": "Regal Edwards Cerritos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560955549,
-      "date": "2026-08-22+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90701",
-      "theater_name": "Regal Edwards Cerritos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560955564,
-      "date": "2026-08-22+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90701",
-      "theater_name": "Regal Edwards Cerritos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560955562,
-      "date": "2026-08-22+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Coronado",
       "zip": "92118",
       "theater_name": "Coronado Village Theatre - UltraStar",
@@ -32543,38 +31487,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Morgan Hill",
-      "zip": "95037",
-      "theater_name": "CineLux Morgan Hill",
-      "chainName": "Cinelux Theatres",
-      "chainCode": "CLUX",
-      "showtime_id": 560734546,
-      "date": "2026-08-22+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Clara",
-      "zip": "95050",
-      "theater_name": "Alamo Drafthouse Valley Fair",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 560672543,
-      "date": "2026-08-22+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -33471,70 +32383,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Vancouver",
-      "zip": "98665",
-      "theater_name": "Regal Cinema 99",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561127758,
-      "date": "2026-08-22+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Vancouver",
-      "zip": "98665",
-      "theater_name": "Regal Cinema 99",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561127762,
-      "date": "2026-08-22+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Vancouver",
-      "zip": "98665",
-      "theater_name": "Regal Cinema 99",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561127759,
-      "date": "2026-08-22+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Vancouver",
-      "zip": "98665",
-      "theater_name": "Regal Cinema 99",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561127763,
-      "date": "2026-08-22+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -35391,6 +34239,246 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227946,
+      "date": "2026-08-22+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227943,
+      "date": "2026-08-22+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227944,
+      "date": "2026-08-22+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227945,
+      "date": "2026-08-22+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227948,
+      "date": "2026-08-22+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556545869,
+      "date": "2026-08-22+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227949,
+      "date": "2026-08-22+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556545868,
+      "date": "2026-08-22+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227950,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556545867,
+      "date": "2026-08-22+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227947,
+      "date": "2026-08-22+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harvey",
+      "zip": "70058",
+      "theater_name": "AMC Westbank Palace 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561061282,
+      "date": "2026-08-22+10:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harvey",
+      "zip": "70058",
+      "theater_name": "AMC Westbank Palace 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561061285,
+      "date": "2026-08-22+14:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harvey",
+      "zip": "70058",
+      "theater_name": "AMC Westbank Palace 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561061283,
+      "date": "2026-08-22+17:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harvey",
+      "zip": "70058",
+      "theater_name": "AMC Westbank Palace 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561061284,
+      "date": "2026-08-22+21:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
       }
     }
   ]
