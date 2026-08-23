@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 04:43:00 AM",
+  "last_updated": "2026-08-23 06:25:46 AM",
   "errors": [
     {
       "state": "MA",
@@ -15706,22 +15706,6 @@
       "chainCode": "PHNX",
       "showtime_id": 560733121,
       "date": "2026-08-22+19:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400,
-        "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Atoka",
-      "zip": "38004",
-      "theater_name": "Phoenix Theatres Atoka 16",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 560733122,
-      "date": "2026-08-22+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -31747,22 +31731,6 @@
     },
     {
       "state": "CA",
-      "city": "Woodland",
-      "zip": "95695",
-      "theater_name": "CinemaWest State Theatre & Giant Screen",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 561110505,
-      "date": "2026-08-22+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Sebastopol",
       "zip": "95472",
       "theater_name": "Rialto Cinemas Sebastopol",
@@ -34479,6 +34447,1654 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Falmouth",
+      "zip": "02563",
+      "theater_name": "Entertainment Cinemas - Falmouth Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 561328550,
+      "date": "2026-08-22+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Falmouth",
+      "zip": "02563",
+      "theater_name": "Entertainment Cinemas - Falmouth Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 561328551,
+      "date": "2026-08-22+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Trumbull",
+      "zip": "06611",
+      "theater_name": "AMC Marquis 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561332193,
+      "date": "2026-08-22+09:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 561331492,
+      "date": "2026-08-22+14:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 561331491,
+      "date": "2026-08-22+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cranford",
+      "zip": "07016",
+      "theater_name": "Cranford Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561071587,
+      "date": "2026-08-22+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cranford",
+      "zip": "07016",
+      "theater_name": "Cranford Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561071588,
+      "date": "2026-08-22+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cranford",
+      "zip": "07016",
+      "theater_name": "Cranford Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561071589,
+      "date": "2026-08-22+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Staten Island",
+      "zip": "10308",
+      "theater_name": "Atrium Cinema",
+      "chainName": "Atrium Theater",
+      "chainCode": "ATRM",
+      "showtime_id": 561050735,
+      "date": "2026-08-22+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Quakertown",
+      "zip": "18951",
+      "theater_name": "R/C Richland Crossings Movies 12",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560552159,
+      "date": "2026-08-22+19:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Quakertown",
+      "zip": "18951",
+      "theater_name": "R/C Richland Crossings Movies 12",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560552160,
+      "date": "2026-08-22+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561112682,
+      "date": "2026-08-22+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561112678,
+      "date": "2026-08-22+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Carlisle",
+      "zip": "17013",
+      "theater_name": "R/C Carlisle Commons Movies 8",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560530544,
+      "date": "2026-08-22+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Hanover",
+      "zip": "17331",
+      "theater_name": "R/C Hanover Movies 16",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560587132,
+      "date": "2026-08-22+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Hanover",
+      "zip": "17331",
+      "theater_name": "R/C Hanover Movies 16",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560587129,
+      "date": "2026-08-22+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Westminster",
+      "zip": "21157",
+      "theater_name": "R/C Westminster Movies 9",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 561051365,
+      "date": "2026-08-22+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Wilkes-Barre",
+      "zip": "18701",
+      "theater_name": "R/C Wilkes Barre Movies 14",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560530265,
+      "date": "2026-08-22+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Wilkes-Barre",
+      "zip": "18701",
+      "theater_name": "R/C Wilkes Barre Movies 14",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560530259,
+      "date": "2026-08-22+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "California",
+      "zip": "20619",
+      "theater_name": "R/C Lexington Exchange Movies 12",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560586010,
+      "date": "2026-08-22+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Elizabeth City",
+      "zip": "27909",
+      "theater_name": "R/C Albemarle Movies 8",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560586778,
+      "date": "2026-08-22+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Lewisburg",
+      "zip": "24901",
+      "theater_name": "Lewisburg Cinema 8",
+      "chainName": "Greater Huntington Theatre Corp",
+      "chainCode": "GHTC",
+      "showtime_id": 560787034,
+      "date": "2026-08-22+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Wytheville",
+      "zip": "24382",
+      "theater_name": "Marquee Cinemas Wytheville 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561112442,
+      "date": "2026-08-22+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Johnson City",
+      "zip": "37601",
+      "theater_name": "AMC Johnson City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561332186,
+      "date": "2026-08-22+18:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Summersville",
+      "zip": "26651",
+      "theater_name": "Marquee Cinemas Nicholas Showplace",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561113177,
+      "date": "2026-08-22+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 560661915,
+      "date": "2026-08-22+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 560661909,
+      "date": "2026-08-22+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Huntington",
+      "zip": "25701",
+      "theater_name": "Marquee Cinemas Pullman Square 16",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561138988,
+      "date": "2026-08-22+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Huntington",
+      "zip": "25701",
+      "theater_name": "Marquee Cinemas Pullman Square 16",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561138992,
+      "date": "2026-08-22+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Kill Devil Hills",
+      "zip": "27948",
+      "theater_name": "R/C Kill Devil Hills Movies 10",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 560587345,
+      "date": "2026-08-22+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tallahassee",
+      "zip": "32303",
+      "theater_name": "AMC Tallahassee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561336786,
+      "date": "2026-08-22+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tallahassee",
+      "zip": "32303",
+      "theater_name": "AMC Tallahassee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561336787,
+      "date": "2026-08-22+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 561340561,
+      "date": "2026-08-22+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 561340562,
+      "date": "2026-08-22+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Glasgow",
+      "zip": "42141",
+      "theater_name": "Marquee Cinemas Highland 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 561113054,
+      "date": "2026-08-22+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cleveland Heights",
+      "zip": "44118",
+      "theater_name": "Cedar Lee Theatre",
+      "chainName": "Cleveland Cinemas",
+      "chainCode": "CLEV",
+      "showtime_id": 560530133,
+      "date": "2026-08-22+22:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 561340867,
+      "date": "2026-08-22+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561062350,
+      "date": "2026-08-22+11:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561062351,
+      "date": "2026-08-22+14:30",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561062352,
+      "date": "2026-08-22+18:00",
+      "format": "IMAX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558063647,
+      "date": "2026-08-22+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558063646,
+      "date": "2026-08-22+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558063642,
+      "date": "2026-08-22+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Mooresville",
+      "zip": "46158",
+      "theater_name": "Torchlight Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561328543,
+      "date": "2026-08-22+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Ft. Dodge",
+      "zip": "50501",
+      "theater_name": "Fort 8 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560551843,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Ottumwa",
+      "zip": "52501",
+      "theater_name": "Ottumwa 8",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560716879,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Mason City",
+      "zip": "50401",
+      "theater_name": "CEC Theatres Cinema West 10",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560477154,
+      "date": "2026-08-22+18:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Mason City",
+      "zip": "50401",
+      "theater_name": "CEC Theatres Cinema West 10",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560477158,
+      "date": "2026-08-22+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Winona",
+      "zip": "55987",
+      "theater_name": "Winona 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560478010,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Hudson",
+      "zip": "54016",
+      "theater_name": "Hudson 12 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560477740,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Hudson",
+      "zip": "54016",
+      "theater_name": "Hudson 12 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560477742,
+      "date": "2026-08-22+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "St. Paul",
+      "zip": "55116",
+      "theater_name": "Mann Highland Theatre",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 560509307,
+      "date": "2026-08-22+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Menomonie",
+      "zip": "54751",
+      "theater_name": "Menomonie 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560959449,
+      "date": "2026-08-22+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Edina",
+      "zip": "55424",
+      "theater_name": "Edina Cinema 4",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 561007126,
+      "date": "2026-08-22+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Andover",
+      "zip": "55304",
+      "theater_name": "Andover Cinema",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560509876,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Andover",
+      "zip": "55304",
+      "theater_name": "Andover Cinema",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560509849,
+      "date": "2026-08-22+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Plymouth",
+      "zip": "55447",
+      "theater_name": "Mann Plymouth Grand 15",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 560960315,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Plymouth",
+      "zip": "55447",
+      "theater_name": "Mann Plymouth Grand 15",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 560960300,
+      "date": "2026-08-22+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Owatonna",
+      "zip": "55060",
+      "theater_name": "Northwoods Cinema 10",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560509570,
+      "date": "2026-08-22+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Marshall",
+      "zip": "56258",
+      "theater_name": "Marshall 6 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560477350,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Marshall",
+      "zip": "56258",
+      "theater_name": "Marshall 6 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560477352,
+      "date": "2026-08-22+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560509382,
+      "date": "2026-08-22+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Alexandria",
+      "zip": "56308",
+      "theater_name": "Midway 9 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560509386,
+      "date": "2026-08-22+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Baxter",
+      "zip": "56401",
+      "theater_name": "Mann Lakes 12",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 560959703,
+      "date": "2026-08-22+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Baxter",
+      "zip": "56401",
+      "theater_name": "Mann Lakes 12",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 560959689,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Grand Rapids",
+      "zip": "55744",
+      "theater_name": "Mann Grand Rapids Cinema 8 ",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 561091000,
+      "date": "2026-08-22+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Columbus",
+      "zip": "68601",
+      "theater_name": "Center 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560692635,
+      "date": "2026-08-22+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Norfolk",
+      "zip": "68701",
+      "theater_name": "Norfolk 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 560552326,
+      "date": "2026-08-22+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bay City",
+      "zip": "77414",
+      "theater_name": "Schulman's Movie Bowl Grille Bay City",
+      "chainName": "Movie Bowl Grille",
+      "chainCode": "SMBG",
+      "showtime_id": 561335926,
+      "date": "2026-08-22+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bay City",
+      "zip": "77414",
+      "theater_name": "Schulman's Movie Bowl Grille Bay City",
+      "chainName": "Movie Bowl Grille",
+      "chainCode": "SMBG",
+      "showtime_id": 561338144,
+      "date": "2026-08-22+13:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560653709,
+      "date": "2026-08-22+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560653719,
+      "date": "2026-08-22+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560653705,
+      "date": "2026-08-22+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557162844,
+      "date": "2026-08-22+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560653736,
+      "date": "2026-08-22+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557162845,
+      "date": "2026-08-22+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560653710,
+      "date": "2026-08-22+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560721498,
+      "date": "2026-08-22+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560721501,
+      "date": "2026-08-22+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557018127,
+      "date": "2026-08-22+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560721500,
+      "date": "2026-08-22+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557018126,
+      "date": "2026-08-22+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Camarillo",
+      "zip": "93012",
+      "theater_name": "Roxy Stadium 11",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560750024,
+      "date": "2026-08-22+16:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560960563,
+      "date": "2026-08-22+17:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560960560,
+      "date": "2026-08-22+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560960564,
+      "date": "2026-08-22+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560960561,
+      "date": "2026-08-22+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Clovis",
+      "zip": "93612",
+      "theater_name": "Sierra Vista Cinemas 16",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 561152019,
+      "date": "2026-08-22+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560972830,
+      "date": "2026-08-22+08:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560972834,
+      "date": "2026-08-22+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560972833,
+      "date": "2026-08-22+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560972837,
+      "date": "2026-08-22+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560972838,
+      "date": "2026-08-22+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556875179,
+      "date": "2026-08-22+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556875178,
+      "date": "2026-08-22+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560972836,
+      "date": "2026-08-22+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Francisco",
+      "zip": "94115",
+      "theater_name": "AMC Kabuki 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558956417,
+      "date": "2026-08-22+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Francisco",
+      "zip": "94115",
+      "theater_name": "AMC Kabuki 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558956416,
+      "date": "2026-08-22+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cinemark Century at Pacific Commons and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561329337,
+      "date": "2026-08-22+11:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Tracy",
+      "zip": "95376",
+      "theater_name": "Cinemark Tracy 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561329319,
+      "date": "2026-08-22+11:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lodi",
+      "zip": "95240",
+      "theater_name": "Lodi Stadium 12",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560733775,
+      "date": "2026-08-22+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Rosa",
+      "zip": "95404",
+      "theater_name": "Roxy Stadium 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 561007657,
+      "date": "2026-08-22+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Rosa",
+      "zip": "95403",
+      "theater_name": "Airport Stadium 12",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 560802159,
+      "date": "2026-08-22+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
