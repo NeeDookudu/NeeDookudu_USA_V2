@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 01:06:27 PM",
+  "last_updated": "2026-08-23 02:01:50 PM",
   "errors": [
     {
       "state": "MA",
@@ -479,22 +479,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Berlin",
-      "zip": "06037",
-      "theater_name": "Picture Show at Berlin",
-      "chainName": "Picture Show Entertainment, LLC",
-      "chainCode": "PSE",
-      "showtime_id": 560804965,
-      "date": "2026-08-23+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -8450,22 +8434,6 @@
       }
     },
     {
-      "state": "SC",
-      "city": "Greenville",
-      "zip": "29607",
-      "theater_name": "Regal Hollywood - Greenville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560734929,
-      "date": "2026-08-23+14:30",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "NC",
       "city": "Wilmington",
       "zip": "28412",
@@ -13123,70 +13091,6 @@
     },
     {
       "state": "FL",
-      "city": "Inverness",
-      "zip": "34453",
-      "theater_name": "Regal Citrus Cinemas",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561193144,
-      "date": "2026-08-23+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Inverness",
-      "zip": "34453",
-      "theater_name": "Regal Citrus Cinemas",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561193149,
-      "date": "2026-08-23+15:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Inverness",
-      "zip": "34453",
-      "theater_name": "Regal Citrus Cinemas",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561193156,
-      "date": "2026-08-23+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Saint Petersburg",
-      "zip": "33710",
-      "theater_name": "CMX Tyrone 10",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 560951702,
-      "date": "2026-08-23+11:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Lakewood Ranch",
       "zip": "34202",
       "theater_name": "Lakewood Ranch Cinemas",
@@ -13791,22 +13695,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Gallatin",
-      "zip": "37066",
-      "theater_name": "NCG Gallatin Cinemas",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 560612420,
-      "date": "2026-08-23+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -18803,38 +18691,6 @@
     },
     {
       "state": "MI",
-      "city": "Lapeer",
-      "zip": "48446",
-      "theater_name": "NCG Lapeer Cinemas",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 561249972,
-      "date": "2026-08-23+15:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Grand Blanc",
-      "zip": "48439",
-      "theater_name": "NCG Trillium Cinema",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 560707866,
-      "date": "2026-08-23+13:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
       "city": "Jackson",
       "zip": "49202",
       "theater_name": "GQT Jackson 10",
@@ -21823,22 +21679,6 @@
       "error": {
         "status": 0,
         "reason": "Timeout"
-      }
-    },
-    {
-      "state": "ND",
-      "city": "Fargo",
-      "zip": "58103",
-      "theater_name": "Marcus Century Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 560810817,
-      "date": "2026-08-23+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
       }
     },
     {
@@ -25571,22 +25411,6 @@
     },
     {
       "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "Cinemark Frisco Square and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 560202104,
-      "date": "2026-08-23+19:20",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Dallas",
       "zip": "75209",
       "theater_name": "Landmark Inwood Theatre",
@@ -26995,38 +26819,6 @@
     },
     {
       "state": "CO",
-      "city": "Loveland",
-      "zip": "80538",
-      "theater_name": "MetroLux 12 Theatres + IMAX @ Centerra",
-      "chainName": "Metropolitan Theatres",
-      "chainCode": "MTRO",
-      "showtime_id": 561093842,
-      "date": "2026-08-23+11:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Loveland",
-      "zip": "80538",
-      "theater_name": "MetroLux 12 Theatres + IMAX @ Centerra",
-      "chainName": "Metropolitan Theatres",
-      "chainCode": "MTRO",
-      "showtime_id": 561093843,
-      "date": "2026-08-23+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "CO",
       "city": "Burlington",
       "zip": "80807",
       "theater_name": "The Midway Theater & Cultural Event Center",
@@ -27679,22 +27471,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85085",
-      "theater_name": "Harkins Norterra 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 561164248,
-      "date": "2026-08-23+09:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -28495,38 +28271,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90703",
-      "theater_name": "Harkins Cerritos 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 561340242,
-      "date": "2026-08-23+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90703",
-      "theater_name": "Harkins Cerritos 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 561340245,
-      "date": "2026-08-23+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
       }
     },
     {
@@ -31610,6 +31354,166 @@
       "chainCode": "CATT",
       "showtime_id": 560650363,
       "date": "2026-08-23+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227978,
+      "date": "2026-08-23+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227979,
+      "date": "2026-08-23+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227980,
+      "date": "2026-08-23+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227977,
+      "date": "2026-08-23+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227983,
+      "date": "2026-08-23+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556545872,
+      "date": "2026-08-23+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227982,
+      "date": "2026-08-23+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556545871,
+      "date": "2026-08-23+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561227981,
+      "date": "2026-08-23+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556545870,
+      "date": "2026-08-23+19:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
