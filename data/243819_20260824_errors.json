@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 06:21:43 AM",
+  "last_updated": "2026-08-25 07:49:07 AM",
   "errors": [
     {
       "state": "MA",
@@ -26415,6 +26415,22 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561360344,
+      "date": "2026-08-24+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
