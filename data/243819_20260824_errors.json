@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 04:45:56 AM",
+  "last_updated": "2026-08-25 06:21:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -1626,22 +1626,6 @@
       "chainCode": "AMC",
       "showtime_id": 560593920,
       "date": "2026-08-24+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Huntington",
-      "zip": "11743",
-      "theater_name": "AMC Shore 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560593921,
-      "date": "2026-08-24+22:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -11779,38 +11763,6 @@
     },
     {
       "state": "FL",
-      "city": "Fort Myers",
-      "zip": "33907",
-      "theater_name": "Regal Belltower",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560804276,
-      "date": "2026-08-24+20:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Fort Myers",
-      "zip": "33907",
-      "theater_name": "Regal Belltower",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 560804264,
-      "date": "2026-08-24+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Naples",
       "zip": "34108",
       "theater_name": "Paragon Theaters Pavilion + Axis15",
@@ -21218,22 +21170,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Harvey",
-      "zip": "70058",
-      "theater_name": "AMC Westbank Palace 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561097869,
-      "date": "2026-08-24+21:00",
-      "format": "IMAX",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
       "state": "AR",
       "city": "El Dorado",
       "zip": "71730",
@@ -23397,22 +23333,6 @@
       "state": "NV",
       "city": "Elko",
       "zip": "89801",
-      "theater_name": "UEC Theatres Crystal 5",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 560573542,
-      "date": "2026-08-24+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Elko",
-      "zip": "89801",
       "theater_name": "UEC Theatres Elko Cinema 6",
       "chainName": "UEC Theatres",
       "chainCode": "UEC",
@@ -23535,22 +23455,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90503",
-      "theater_name": "AMC Del Amo 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560653536,
-      "date": "2026-08-24+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -26170,6 +26074,342 @@
       "chainCode": "RTSIND",
       "showtime_id": 561071614,
       "date": "2026-08-24+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "East Brunswick",
+      "zip": "08816",
+      "theater_name": "AMC Brunswick Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561370328,
+      "date": "2026-08-24+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Mechanicsburg",
+      "zip": "17050",
+      "theater_name": "AMC CLASSIC Hampden 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560796121,
+      "date": "2026-08-24+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Mechanicsburg",
+      "zip": "17050",
+      "theater_name": "AMC CLASSIC Hampden 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560796115,
+      "date": "2026-08-24+14:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Mechanicsburg",
+      "zip": "17050",
+      "theater_name": "AMC CLASSIC Hampden 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560796122,
+      "date": "2026-08-24+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Falls Church",
+      "zip": "22046",
+      "theater_name": "Paragon Theaters Founders Row + Axis15 Extreme",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 561366097,
+      "date": "2026-08-24+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Falls Church",
+      "zip": "22046",
+      "theater_name": "Paragon Theaters Founders Row + Axis15 Extreme",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 561366099,
+      "date": "2026-08-24+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Fayetteville",
+      "zip": "28314",
+      "theater_name": "AMC Market Fair 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561362560,
+      "date": "2026-08-24+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Wilmington",
+      "zip": "28412",
+      "theater_name": "Stone Theatres The Pointe 14 Cinemas",
+      "chainName": "Stone Theatres",
+      "chainCode": "STON",
+      "showtime_id": 561359895,
+      "date": "2026-08-24+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30331",
+      "theater_name": "AMC Camp Creek 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561372607,
+      "date": "2026-08-24+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Gadsden",
+      "zip": "35901",
+      "theater_name": "Gadsden Premiere 16 - Gadsden Mall",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 561376286,
+      "date": "2026-08-24+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33324",
+      "theater_name": "Paragon Theaters Ridge + Axis15",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 561369454,
+      "date": "2026-08-24+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33324",
+      "theater_name": "Paragon Theaters Ridge + Axis15",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 561369457,
+      "date": "2026-08-24+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Coral Springs",
+      "zip": "33071",
+      "theater_name": "Paragon Theaters Coral Square + Axis15",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 561361234,
+      "date": "2026-08-24+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Spencer",
+      "zip": "51301",
+      "theater_name": "The Palms Theatres - Southpark",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 561365187,
+      "date": "2026-08-24+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Spencer",
+      "zip": "51301",
+      "theater_name": "The Palms Theatres - Southpark",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 561365185,
+      "date": "2026-08-24+17:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Cozard",
+      "zip": "69130",
+      "theater_name": "Fox Theater Cozard",
+      "chainName": "Fox Theaters",
+      "chainCode": "FOX",
+      "showtime_id": 561361949,
+      "date": "2026-08-24+08:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Ardmore",
+      "zip": "73401",
+      "theater_name": "AMC CLASSIC Ardmore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561361532,
+      "date": "2026-08-24+14:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Waco",
+      "zip": "76710",
+      "theater_name": "AMC Galaxy 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561400562,
+      "date": "2026-08-24+10:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 561378612,
+      "date": "2026-08-24+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 561378617,
+      "date": "2026-08-24+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 561378622,
+      "date": "2026-08-24+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
