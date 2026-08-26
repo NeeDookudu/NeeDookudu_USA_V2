@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 07:55:09 AM",
+  "last_updated": "2026-08-26 09:20:01 AM",
   "errors": [
     {
       "state": "MA",
@@ -26907,6 +26907,22 @@
       "showtime_id": 562007343,
       "date": "2026-08-25+15:15",
       "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Los Gatos",
+      "zip": "95030",
+      "theater_name": "CineLux Los Gatos Theatre",
+      "chainName": "Cinelux Theatres",
+      "chainCode": "CLUX",
+      "showtime_id": 562093699,
+      "date": "2026-08-25+18:30",
+      "format": "Standard",
       "language": "Unknown",
       "error": {
         "status": 404,
