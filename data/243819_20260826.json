@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-26 01:23:33 PM",
+  "last_updated": "2026-08-26 02:17:33 PM",
   "movie_id": 243819,
   "movie_details": {
     "title": "Spider-Man: Brand New Day (2026)",
     "poster": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/243819/SMBND_Onlinefinal.jpg",
     "overview": "It's a BRAND NEW DAY for Peter Parker. Fighting crime full-time as Spider-Man in a world that doesn’t remember him -- and the pressure of seeing his old friends move on without him -- sparks a change in Peter he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a  powerful villain no one can even see.\r\nThe world may have forgotten Peter Parker, but he hasn’t forgotten them.",
     "stats": {
-      "total_gross_usd": 1346627.89,
-      "total_shows": 17471,
+      "total_gross_usd": 1361064.14,
+      "total_shows": 17716,
       "avg_occupancy": 3.35,
-      "tickets_sold": 85427,
-      "unique_venues": 2177,
+      "tickets_sold": 86300,
+      "unique_venues": 2191,
       "housefull_shows": 0,
-      "error_shows": 1816
+      "error_shows": 1608
     }
   },
   "showtimes": [
@@ -6837,10 +6837,12 @@
       "date": "2026-08-26+12:05",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 12.12,
+      "totalAvailableSeatCount": 29,
+      "totalSeatCount": 33,
+      "grossRevenueUSD": 91.0,
+      "adultTicketPrice": 22.75
     },
     {
       "state": "NH",
@@ -6853,10 +6855,12 @@
       "date": "2026-08-26+12:05",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 1.89,
+      "totalAvailableSeatCount": 156,
+      "totalSeatCount": 159,
+      "grossRevenueUSD": 44.25,
+      "adultTicketPrice": 14.75
     },
     {
       "state": "NH",
@@ -6869,10 +6873,12 @@
       "date": "2026-08-26+13:15",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 21,
+      "totalSeatCount": 21,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 19.25
     },
     {
       "state": "NH",
@@ -6903,10 +6909,12 @@
       "date": "2026-08-26+18:30",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 28.57,
+      "totalAvailableSeatCount": 15,
+      "totalSeatCount": 21,
+      "grossRevenueUSD": 130.5,
+      "adultTicketPrice": 21.75
     },
     {
       "state": "NH",
@@ -6937,10 +6945,12 @@
       "date": "2026-08-26+15:25",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.26,
+      "totalAvailableSeatCount": 157,
+      "totalSeatCount": 159,
+      "grossRevenueUSD": 33.5,
+      "adultTicketPrice": 16.75
     },
     {
       "state": "NH",
@@ -6953,10 +6963,12 @@
       "date": "2026-08-26+15:25",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 5,
+      "occupancy": 15.15,
+      "totalAvailableSeatCount": 28,
+      "totalSeatCount": 33,
+      "grossRevenueUSD": 123.75,
+      "adultTicketPrice": 24.75
     },
     {
       "state": "NH",
@@ -6969,10 +6981,12 @@
       "date": "2026-08-26+10:55",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 6.52,
+      "totalAvailableSeatCount": 43,
+      "totalSeatCount": 46,
+      "grossRevenueUSD": 42.75,
+      "adultTicketPrice": 14.25
     },
     {
       "state": "NH",
@@ -7003,10 +7017,12 @@
       "date": "2026-08-26+11:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 3.67,
+      "totalAvailableSeatCount": 105,
+      "totalSeatCount": 109,
+      "grossRevenueUSD": 45.0,
+      "adultTicketPrice": 11.25
     },
     {
       "state": "NH",
@@ -7073,10 +7089,12 @@
       "date": "2026-08-26+15:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 46,
+      "totalSeatCount": 46,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.25
     },
     {
       "state": "NH",
@@ -7089,10 +7107,12 @@
       "date": "2026-08-26+16:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 82,
+      "totalSeatCount": 82,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.75
     },
     {
       "state": "NH",
@@ -7123,10 +7143,12 @@
       "date": "2026-08-26+17:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 109,
+      "totalSeatCount": 109,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.75
     },
     {
       "state": "NH",
@@ -7139,10 +7161,12 @@
       "date": "2026-08-26+18:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.66,
+      "totalAvailableSeatCount": 79,
+      "totalSeatCount": 82,
+      "grossRevenueUSD": 41.25,
+      "adultTicketPrice": 13.75
     },
     {
       "state": "NH",
@@ -9951,11 +9975,11 @@
       "date": "2026-08-26+16:00",
       "format": "ScreenX",
       "language": "Unknown",
-      "totalSeatSold": 13,
-      "occupancy": 10.74,
-      "totalAvailableSeatCount": 108,
+      "totalSeatSold": 16,
+      "occupancy": 13.22,
+      "totalAvailableSeatCount": 105,
       "totalSeatCount": 121,
-      "grossRevenueUSD": 260.0,
+      "grossRevenueUSD": 320.0,
       "adultTicketPrice": 20.0
     },
     {
@@ -12433,11 +12457,11 @@
       "date": "2026-08-26+21:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 3.28,
-      "totalAvailableSeatCount": 59,
+      "totalSeatSold": 4,
+      "occupancy": 6.56,
+      "totalAvailableSeatCount": 57,
       "totalSeatCount": 61,
-      "grossRevenueUSD": 35.98,
+      "grossRevenueUSD": 71.96,
       "adultTicketPrice": 17.99
     },
     {
@@ -12523,11 +12547,11 @@
       "date": "2026-08-26+20:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 10,
-      "occupancy": 8.85,
-      "totalAvailableSeatCount": 103,
+      "totalSeatSold": 8,
+      "occupancy": 7.08,
+      "totalAvailableSeatCount": 105,
       "totalSeatCount": 113,
-      "grossRevenueUSD": 149.9,
+      "grossRevenueUSD": 119.92,
       "adultTicketPrice": 14.99
     },
     {
@@ -13877,11 +13901,11 @@
       "date": "2026-08-26+15:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 3.57,
-      "totalAvailableSeatCount": 108,
+      "totalSeatSold": 2,
+      "occupancy": 1.79,
+      "totalAvailableSeatCount": 110,
       "totalSeatCount": 112,
-      "grossRevenueUSD": 44.0,
+      "grossRevenueUSD": 22.0,
       "adultTicketPrice": 11.0
     },
     {
@@ -19993,11 +20017,11 @@
       "date": "2026-08-26+12:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 7,
-      "occupancy": 6.09,
-      "totalAvailableSeatCount": 108,
+      "totalSeatSold": 11,
+      "occupancy": 9.57,
+      "totalAvailableSeatCount": 104,
       "totalSeatCount": 115,
-      "grossRevenueUSD": 111.86,
+      "grossRevenueUSD": 175.78,
       "adultTicketPrice": 15.98
     },
     {
@@ -22195,11 +22219,11 @@
       "date": "2026-08-26+10:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 5,
-      "occupancy": 8.47,
-      "totalAvailableSeatCount": 54,
+      "totalSeatSold": 4,
+      "occupancy": 6.78,
+      "totalAvailableSeatCount": 55,
       "totalSeatCount": 59,
-      "grossRevenueUSD": 84.95,
+      "grossRevenueUSD": 67.96,
       "adultTicketPrice": 16.99
     },
     {
@@ -22637,11 +22661,11 @@
       "date": "2026-08-26+10:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 20,
-      "occupancy": 28.57,
-      "totalAvailableSeatCount": 50,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 70,
       "totalSeatCount": 70,
-      "grossRevenueUSD": 479.8,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 23.99
     },
     {
@@ -23141,11 +23165,11 @@
       "date": "2026-08-26+15:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 11,
-      "occupancy": 8.66,
-      "totalAvailableSeatCount": 116,
+      "totalSeatSold": 14,
+      "occupancy": 11.02,
+      "totalAvailableSeatCount": 113,
       "totalSeatCount": 127,
-      "grossRevenueUSD": 178.86,
+      "grossRevenueUSD": 227.64,
       "adultTicketPrice": 16.26
     },
     {
@@ -23711,10 +23735,12 @@
       "date": "2026-08-26+19:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 20,
+      "occupancy": 10.2,
+      "totalAvailableSeatCount": 176,
+      "totalSeatCount": 196,
+      "grossRevenueUSD": 426.2,
+      "adultTicketPrice": 21.31
     },
     {
       "state": "NJ",
@@ -24033,11 +24059,11 @@
       "date": "2026-08-26+19:20",
       "format": "ScreenX",
       "language": "Unknown",
-      "totalSeatSold": 15,
-      "occupancy": 11.03,
-      "totalAvailableSeatCount": 121,
+      "totalSeatSold": 19,
+      "occupancy": 13.97,
+      "totalAvailableSeatCount": 117,
       "totalSeatCount": 136,
-      "grossRevenueUSD": 291.9,
+      "grossRevenueUSD": 369.74,
       "adultTicketPrice": 19.46
     },
     {
@@ -26241,11 +26267,11 @@
       "date": "2026-08-26+18:50",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 22,
-      "occupancy": 17.89,
-      "totalAvailableSeatCount": 101,
+      "totalSeatSold": 28,
+      "occupancy": 22.76,
+      "totalAvailableSeatCount": 95,
       "totalSeatCount": 123,
-      "grossRevenueUSD": 516.78,
+      "grossRevenueUSD": 657.72,
       "adultTicketPrice": 23.49
     },
     {
@@ -28345,11 +28371,11 @@
       "date": "2026-08-26+19:15",
       "format": "Dolby Cinema",
       "language": "Unknown",
-      "totalSeatSold": 20,
-      "occupancy": 11.56,
-      "totalAvailableSeatCount": 153,
+      "totalSeatSold": 18,
+      "occupancy": 10.4,
+      "totalAvailableSeatCount": 155,
       "totalSeatCount": 173,
-      "grossRevenueUSD": 559.8,
+      "grossRevenueUSD": 503.82,
       "adultTicketPrice": 27.99
     },
     {
@@ -28417,11 +28443,11 @@
       "date": "2026-08-26+18:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 12,
-      "occupancy": 10.17,
-      "totalAvailableSeatCount": 106,
+      "totalSeatSold": 14,
+      "occupancy": 11.86,
+      "totalAvailableSeatCount": 104,
       "totalSeatCount": 118,
-      "grossRevenueUSD": 317.88,
+      "grossRevenueUSD": 370.86,
       "adultTicketPrice": 26.49
     },
     {
@@ -31299,11 +31325,11 @@
       "date": "2026-08-26+13:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 3.28,
-      "totalAvailableSeatCount": 59,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 61,
       "totalSeatCount": 61,
-      "grossRevenueUSD": 36.52,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 18.26
     },
     {
@@ -31893,11 +31919,11 @@
       "date": "2026-08-26+21:20",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 188,
+      "totalSeatSold": 2,
+      "occupancy": 1.06,
+      "totalAvailableSeatCount": 186,
       "totalSeatCount": 188,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 34.1,
       "adultTicketPrice": 17.05
     },
     {
@@ -34375,11 +34401,11 @@
       "date": "2026-08-26+14:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 132,
+      "totalSeatSold": 2,
+      "occupancy": 1.52,
+      "totalAvailableSeatCount": 130,
       "totalSeatCount": 132,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 37.18,
       "adultTicketPrice": 18.59
     },
     {
@@ -36803,11 +36829,11 @@
       "date": "2026-08-26+20:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 37,
-      "occupancy": 59.68,
-      "totalAvailableSeatCount": 25,
+      "totalSeatSold": 35,
+      "occupancy": 56.45,
+      "totalAvailableSeatCount": 27,
       "totalSeatCount": 62,
-      "grossRevenueUSD": 1072.63,
+      "grossRevenueUSD": 1014.65,
       "adultTicketPrice": 28.99
     },
     {
@@ -36875,11 +36901,11 @@
       "date": "2026-08-26+14:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 49,
-      "occupancy": 48.51,
-      "totalAvailableSeatCount": 52,
+      "totalSeatSold": 51,
+      "occupancy": 50.5,
+      "totalAvailableSeatCount": 50,
       "totalSeatCount": 101,
-      "grossRevenueUSD": 920.71,
+      "grossRevenueUSD": 958.29,
       "adultTicketPrice": 18.79
     },
     {
@@ -45281,10 +45307,12 @@
       "date": "2026-08-26+16:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 0.87,
+      "totalAvailableSeatCount": 227,
+      "totalSeatCount": 229,
+      "grossRevenueUSD": 24.02,
+      "adultTicketPrice": 12.01
     },
     {
       "state": "PA",
@@ -45297,10 +45325,12 @@
       "date": "2026-08-26+17:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 104,
+      "totalSeatCount": 104,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.01
     },
     {
       "state": "PA",
@@ -45439,10 +45469,12 @@
       "date": "2026-08-26+19:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.09,
+      "totalAvailableSeatCount": 182,
+      "totalSeatCount": 184,
+      "grossRevenueUSD": 21.54,
+      "adultTicketPrice": 10.77
     },
     {
       "state": "PA",
@@ -45455,10 +45487,12 @@
       "date": "2026-08-26+20:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 99,
+      "totalSeatCount": 99,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.77
     },
     {
       "state": "PA",
@@ -45705,10 +45739,12 @@
       "date": "2026-08-26+12:20",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 12,
+      "occupancy": 6.28,
+      "totalAvailableSeatCount": 179,
+      "totalSeatCount": 191,
+      "grossRevenueUSD": 156.0,
+      "adultTicketPrice": 13.0
     },
     {
       "state": "OH",
@@ -45721,10 +45757,12 @@
       "date": "2026-08-26+19:00",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 10,
+      "occupancy": 5.24,
+      "totalAvailableSeatCount": 181,
+      "totalSeatCount": 191,
+      "grossRevenueUSD": 160.0,
+      "adultTicketPrice": 16.0
     },
     {
       "state": "OH",
@@ -45737,10 +45775,12 @@
       "date": "2026-08-26+15:40",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 10,
+      "occupancy": 5.24,
+      "totalAvailableSeatCount": 181,
+      "totalSeatCount": 191,
+      "grossRevenueUSD": 150.0,
+      "adultTicketPrice": 15.0
     },
     {
       "state": "OH",
@@ -45753,10 +45793,12 @@
       "date": "2026-08-26+15:10",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 3.45,
+      "totalAvailableSeatCount": 112,
+      "totalSeatCount": 116,
+      "grossRevenueUSD": 52.0,
+      "adultTicketPrice": 13.0
     },
     {
       "state": "OH",
@@ -45787,10 +45829,12 @@
       "date": "2026-08-26+16:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 2.59,
+      "totalAvailableSeatCount": 113,
+      "totalSeatCount": 116,
+      "grossRevenueUSD": 28.5,
+      "adultTicketPrice": 9.5
     },
     {
       "state": "OH",
@@ -45803,10 +45847,12 @@
       "date": "2026-08-26+18:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 3.45,
+      "totalAvailableSeatCount": 112,
+      "totalSeatCount": 116,
+      "grossRevenueUSD": 50.0,
+      "adultTicketPrice": 12.5
     },
     {
       "state": "OH",
@@ -64541,11 +64587,11 @@
       "date": "2026-08-26+14:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 136,
+      "totalSeatSold": 2,
+      "occupancy": 1.47,
+      "totalAvailableSeatCount": 134,
       "totalSeatCount": 136,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 13.18,
       "adultTicketPrice": 6.59
     },
     {
@@ -68077,11 +68123,11 @@
       "date": "2026-08-26+14:25",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 1,
-      "occupancy": 1.52,
-      "totalAvailableSeatCount": 65,
+      "totalSeatSold": 3,
+      "occupancy": 4.55,
+      "totalAvailableSeatCount": 63,
       "totalSeatCount": 66,
-      "grossRevenueUSD": 13.33,
+      "grossRevenueUSD": 39.99,
       "adultTicketPrice": 13.33
     },
     {
@@ -75247,11 +75293,11 @@
       "date": "2026-08-26+18:25",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 17,
-      "occupancy": 17.0,
-      "totalAvailableSeatCount": 83,
+      "totalSeatSold": 19,
+      "occupancy": 19.0,
+      "totalAvailableSeatCount": 81,
       "totalSeatCount": 100,
-      "grossRevenueUSD": 257.38,
+      "grossRevenueUSD": 287.66,
       "adultTicketPrice": 15.14
     },
     {
@@ -75409,11 +75455,11 @@
       "date": "2026-08-26+18:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 260,
+      "totalSeatSold": 2,
+      "occupancy": 0.77,
+      "totalAvailableSeatCount": 258,
       "totalSeatCount": 260,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 34.62,
       "adultTicketPrice": 17.31
     },
     {
@@ -77383,11 +77429,11 @@
       "date": "2026-08-26+12:10",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 0.75,
-      "totalAvailableSeatCount": 264,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 266,
       "totalSeatCount": 266,
-      "grossRevenueUSD": 28.32,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 14.16
     },
     {
@@ -78385,10 +78431,12 @@
       "date": "2026-08-26+18:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 170,
+      "totalSeatCount": 170,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.5
     },
     {
       "state": "TN",
@@ -78437,10 +78485,12 @@
       "date": "2026-08-26+14:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.33,
+      "totalAvailableSeatCount": 87,
+      "totalSeatCount": 90,
+      "grossRevenueUSD": 28.5,
+      "adultTicketPrice": 9.5
     },
     {
       "state": "TN",
@@ -78453,10 +78503,12 @@
       "date": "2026-08-26+16:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 150,
+      "totalSeatCount": 150,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.5
     },
     {
       "state": "TN",
@@ -78505,10 +78557,12 @@
       "date": "2026-08-26+20:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.33,
+      "totalAvailableSeatCount": 87,
+      "totalSeatCount": 90,
+      "grossRevenueUSD": 37.5,
+      "adultTicketPrice": 12.5
     },
     {
       "state": "NC",
@@ -80011,11 +80065,11 @@
       "date": "2026-08-26+15:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 6,
-      "occupancy": 10.53,
-      "totalAvailableSeatCount": 51,
+      "totalSeatSold": 7,
+      "occupancy": 12.28,
+      "totalAvailableSeatCount": 50,
       "totalSeatCount": 57,
-      "grossRevenueUSD": 65.46,
+      "grossRevenueUSD": 76.37,
       "adultTicketPrice": 10.91
     },
     {
@@ -84885,11 +84939,11 @@
       "date": "2026-08-26+12:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 0.68,
-      "totalAvailableSeatCount": 293,
+      "totalSeatSold": 4,
+      "occupancy": 1.36,
+      "totalAvailableSeatCount": 291,
       "totalSeatCount": 295,
-      "grossRevenueUSD": 31.36,
+      "grossRevenueUSD": 62.72,
       "adultTicketPrice": 15.68
     },
     {
@@ -92939,11 +92993,11 @@
       "date": "2026-08-26+19:00",
       "format": "ScreenX",
       "language": "Unknown",
-      "totalSeatSold": 7,
-      "occupancy": 5.74,
-      "totalAvailableSeatCount": 115,
+      "totalSeatSold": 6,
+      "occupancy": 4.92,
+      "totalAvailableSeatCount": 116,
       "totalSeatCount": 122,
-      "grossRevenueUSD": 158.76,
+      "grossRevenueUSD": 136.08,
       "adultTicketPrice": 22.68
     },
     {
@@ -95705,11 +95759,11 @@
       "date": "2026-08-26+16:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 144,
+      "totalSeatSold": 5,
+      "occupancy": 3.47,
+      "totalAvailableSeatCount": 139,
       "totalSeatCount": 144,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 80.55,
       "adultTicketPrice": 16.11
     },
     {
@@ -104327,11 +104381,11 @@
       "date": "2026-08-26+11:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 1,
-      "occupancy": 1.61,
-      "totalAvailableSeatCount": 61,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 62,
       "totalSeatCount": 62,
-      "grossRevenueUSD": 39.24,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 39.24
     },
     {
@@ -105245,11 +105299,11 @@
       "date": "2026-08-26+19:50",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 23,
-      "occupancy": 22.55,
-      "totalAvailableSeatCount": 79,
+      "totalSeatSold": 25,
+      "occupancy": 24.51,
+      "totalAvailableSeatCount": 77,
       "totalSeatCount": 102,
-      "grossRevenueUSD": 393.76,
+      "grossRevenueUSD": 428.0,
       "adultTicketPrice": 17.12
     },
     {
@@ -105875,11 +105929,11 @@
       "date": "2026-08-26+22:10",
       "format": "D-Box",
       "language": "Unknown",
-      "totalSeatSold": 3,
-      "occupancy": 13.64,
-      "totalAvailableSeatCount": 19,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 22,
       "totalSeatCount": 22,
-      "grossRevenueUSD": 62.61,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 20.87
     },
     {
@@ -114597,10 +114651,12 @@
       "date": "2026-08-26+12:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 3.32,
+      "totalAvailableSeatCount": 233,
+      "totalSeatCount": 241,
+      "grossRevenueUSD": 105.92,
+      "adultTicketPrice": 13.24
     },
     {
       "state": "FL",
@@ -114613,10 +114669,12 @@
       "date": "2026-08-26+15:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 3.32,
+      "totalAvailableSeatCount": 233,
+      "totalSeatCount": 241,
+      "grossRevenueUSD": 105.92,
+      "adultTicketPrice": 13.24
     },
     {
       "state": "FL",
@@ -114629,10 +114687,12 @@
       "date": "2026-08-26+18:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 3.32,
+      "totalAvailableSeatCount": 233,
+      "totalSeatCount": 241,
+      "grossRevenueUSD": 118.64,
+      "adultTicketPrice": 14.83
     },
     {
       "state": "FL",
@@ -115557,10 +115617,12 @@
       "date": "2026-08-26+16:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 58,
+      "totalSeatCount": 58,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.71
     },
     {
       "state": "FL",
@@ -123473,10 +123535,12 @@
       "date": "2026-08-26+15:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 55,
+      "totalSeatCount": 55,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 8.51
     },
     {
       "state": "TN",
@@ -123741,11 +123805,11 @@
       "date": "2026-08-26+19:20",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 19,
-      "occupancy": 17.92,
-      "totalAvailableSeatCount": 87,
+      "totalSeatSold": 20,
+      "occupancy": 18.87,
+      "totalAvailableSeatCount": 86,
       "totalSeatCount": 106,
-      "grossRevenueUSD": 367.08,
+      "grossRevenueUSD": 386.4,
       "adultTicketPrice": 19.32
     },
     {
@@ -128967,11 +129031,11 @@
       "date": "2026-08-26+12:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 354,
+      "totalSeatSold": 1,
+      "occupancy": 0.28,
+      "totalAvailableSeatCount": 353,
       "totalSeatCount": 354,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 9.08,
       "adultTicketPrice": 9.08
     },
     {
@@ -134007,11 +134071,11 @@
       "date": "2026-08-26+21:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 471,
+      "totalSeatSold": 2,
+      "occupancy": 0.42,
+      "totalAvailableSeatCount": 469,
       "totalSeatCount": 471,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 25.92,
       "adultTicketPrice": 12.96
     },
     {
@@ -142835,11 +142899,11 @@
       "date": "2026-08-26+12:15",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 1.62,
-      "totalAvailableSeatCount": 243,
+      "totalSeatSold": 6,
+      "occupancy": 2.43,
+      "totalAvailableSeatCount": 241,
       "totalSeatCount": 247,
-      "grossRevenueUSD": 51.0,
+      "grossRevenueUSD": 76.5,
       "adultTicketPrice": 12.75
     },
     {
@@ -150477,11 +150541,11 @@
       "date": "2026-08-26+13:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 99,
+      "totalSeatSold": 1,
+      "occupancy": 1.01,
+      "totalAvailableSeatCount": 98,
       "totalSeatCount": 99,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 20.82,
       "adultTicketPrice": 20.82
     },
     {
@@ -156577,11 +156641,11 @@
       "date": "2026-08-26+20:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 149,
+      "totalSeatSold": 2,
+      "occupancy": 1.34,
+      "totalAvailableSeatCount": 147,
       "totalSeatCount": 149,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 22.5,
       "adultTicketPrice": 11.25
     },
     {
@@ -158413,11 +158477,11 @@
       "date": "2026-08-26+18:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 5,
-      "occupancy": 3.38,
-      "totalAvailableSeatCount": 143,
+      "totalSeatSold": 7,
+      "occupancy": 4.73,
+      "totalAvailableSeatCount": 141,
       "totalSeatCount": 148,
-      "grossRevenueUSD": 75.0,
+      "grossRevenueUSD": 105.0,
       "adultTicketPrice": 15.0
     },
     {
@@ -159847,11 +159911,11 @@
       "date": "2026-08-26+21:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 3,
-      "occupancy": 1.89,
-      "totalAvailableSeatCount": 156,
+      "totalSeatSold": 2,
+      "occupancy": 1.26,
+      "totalAvailableSeatCount": 157,
       "totalSeatCount": 159,
-      "grossRevenueUSD": 30.0,
+      "grossRevenueUSD": 20.0,
       "adultTicketPrice": 10.0
     },
     {
@@ -160153,11 +160217,11 @@
       "date": "2026-08-26+19:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 3.28,
-      "totalAvailableSeatCount": 118,
+      "totalSeatSold": 6,
+      "occupancy": 4.92,
+      "totalAvailableSeatCount": 116,
       "totalSeatCount": 122,
-      "grossRevenueUSD": 49.0,
+      "grossRevenueUSD": 73.5,
       "adultTicketPrice": 12.25
     },
     {
@@ -162119,10 +162183,12 @@
       "date": "2026-08-26+18:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 3.95,
+      "totalAvailableSeatCount": 146,
+      "totalSeatCount": 152,
+      "grossRevenueUSD": 94.5,
+      "adultTicketPrice": 15.75
     },
     {
       "state": "MI",
@@ -163695,11 +163761,11 @@
       "date": "2026-08-26+21:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 1.96,
-      "totalAvailableSeatCount": 200,
+      "totalSeatSold": 6,
+      "occupancy": 2.94,
+      "totalAvailableSeatCount": 198,
       "totalSeatCount": 204,
-      "grossRevenueUSD": 25.68,
+      "grossRevenueUSD": 38.52,
       "adultTicketPrice": 6.42
     },
     {
@@ -173695,11 +173761,11 @@
       "date": "2026-08-26+16:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 3.03,
-      "totalAvailableSeatCount": 64,
+      "totalSeatSold": 6,
+      "occupancy": 9.09,
+      "totalAvailableSeatCount": 60,
       "totalSeatCount": 66,
-      "grossRevenueUSD": 34.54,
+      "grossRevenueUSD": 103.62,
       "adultTicketPrice": 17.27
     },
     {
@@ -176913,11 +176979,11 @@
       "date": "2026-08-26+12:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 1.23,
-      "totalAvailableSeatCount": 160,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 162,
       "totalSeatCount": 162,
-      "grossRevenueUSD": 31.58,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 15.79
     },
     {
@@ -177695,11 +177761,11 @@
       "date": "2026-08-26+15:10",
       "format": "Dolby Cinema",
       "language": "Unknown",
-      "totalSeatSold": 6,
-      "occupancy": 2.74,
-      "totalAvailableSeatCount": 213,
+      "totalSeatSold": 4,
+      "occupancy": 1.83,
+      "totalAvailableSeatCount": 215,
       "totalSeatCount": 219,
-      "grossRevenueUSD": 120.3,
+      "grossRevenueUSD": 80.2,
       "adultTicketPrice": 20.05
     },
     {
@@ -177731,11 +177797,11 @@
       "date": "2026-08-26+21:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 132,
+      "totalSeatSold": 2,
+      "occupancy": 1.52,
+      "totalAvailableSeatCount": 130,
       "totalSeatCount": 132,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 44.68,
       "adultTicketPrice": 22.34
     },
     {
@@ -180965,10 +181031,12 @@
       "date": "2026-08-26+16:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.79,
+      "totalAvailableSeatCount": 110,
+      "totalSeatCount": 112,
+      "grossRevenueUSD": 18.24,
+      "adultTicketPrice": 9.12
     },
     {
       "state": "MN",
@@ -180981,10 +181049,12 @@
       "date": "2026-08-26+18:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 3.33,
+      "totalAvailableSeatCount": 58,
+      "totalSeatCount": 60,
+      "grossRevenueUSD": 21.48,
+      "adultTicketPrice": 10.74
     },
     {
       "state": "MN",
@@ -180997,10 +181067,12 @@
       "date": "2026-08-26+19:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.79,
+      "totalAvailableSeatCount": 110,
+      "totalSeatCount": 112,
+      "grossRevenueUSD": 21.48,
+      "adultTicketPrice": 10.74
     },
     {
       "state": "MN",
@@ -185785,11 +185857,11 @@
       "date": "2026-08-26+13:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 94,
+      "totalSeatSold": 2,
+      "occupancy": 2.13,
+      "totalAvailableSeatCount": 92,
       "totalSeatCount": 94,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 30.58,
       "adultTicketPrice": 15.29
     },
     {
@@ -186321,10 +186393,12 @@
       "date": "2026-08-26+12:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 104,
+      "totalSeatCount": 104,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.08
     },
     {
       "state": "IL",
@@ -186459,10 +186533,12 @@
       "date": "2026-08-26+17:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 2.13,
+      "totalAvailableSeatCount": 46,
+      "totalSeatCount": 47,
+      "grossRevenueUSD": 15.64,
+      "adultTicketPrice": 15.64
     },
     {
       "state": "MO",
@@ -194021,11 +194097,11 @@
       "date": "2026-08-26+12:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 98,
+      "totalSeatSold": 2,
+      "occupancy": 2.04,
+      "totalAvailableSeatCount": 96,
       "totalSeatCount": 98,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 22.34,
       "adultTicketPrice": 11.17
     },
     {
@@ -196393,11 +196469,11 @@
       "date": "2026-08-26+17:45",
       "format": "Dolby Cinema",
       "language": "Unknown",
-      "totalSeatSold": 6,
-      "occupancy": 2.78,
-      "totalAvailableSeatCount": 210,
+      "totalSeatSold": 7,
+      "occupancy": 3.24,
+      "totalAvailableSeatCount": 209,
       "totalSeatCount": 216,
-      "grossRevenueUSD": 134.94,
+      "grossRevenueUSD": 157.43,
       "adultTicketPrice": 22.49
     },
     {
@@ -199881,10 +199957,12 @@
       "date": "2026-08-26+18:30",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 2.99,
+      "totalAvailableSeatCount": 260,
+      "totalSeatCount": 268,
+      "grossRevenueUSD": 115.68,
+      "adultTicketPrice": 14.46
     },
     {
       "state": "AR",
@@ -199915,10 +199993,12 @@
       "date": "2026-08-26+14:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 3.25,
+      "totalAvailableSeatCount": 238,
+      "totalSeatCount": 246,
+      "grossRevenueUSD": 93.84,
+      "adultTicketPrice": 11.73
     },
     {
       "state": "AR",
@@ -199949,10 +200029,12 @@
       "date": "2026-08-26+12:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.0,
+      "totalAvailableSeatCount": 97,
+      "totalSeatCount": 100,
+      "grossRevenueUSD": 26.19,
+      "adultTicketPrice": 8.73
     },
     {
       "state": "AR",
@@ -199965,10 +200047,12 @@
       "date": "2026-08-26+12:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 100,
+      "totalSeatCount": 100,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 8.73
     },
     {
       "state": "AR",
@@ -199981,10 +200065,12 @@
       "date": "2026-08-26+15:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.0,
+      "totalAvailableSeatCount": 97,
+      "totalSeatCount": 100,
+      "grossRevenueUSD": 26.19,
+      "adultTicketPrice": 8.73
     },
     {
       "state": "AR",
@@ -200015,10 +200101,12 @@
       "date": "2026-08-26+18:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 3.25,
+      "totalAvailableSeatCount": 238,
+      "totalSeatCount": 246,
+      "grossRevenueUSD": 85.12,
+      "adultTicketPrice": 10.64
     },
     {
       "state": "AR",
@@ -200067,10 +200155,12 @@
       "date": "2026-08-26+21:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.03,
+      "totalAvailableSeatCount": 192,
+      "totalSeatCount": 194,
+      "grossRevenueUSD": 21.28,
+      "adultTicketPrice": 10.64
     },
     {
       "state": "AR",
@@ -200083,10 +200173,12 @@
       "date": "2026-08-26+21:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 3.25,
+      "totalAvailableSeatCount": 238,
+      "totalSeatCount": 246,
+      "grossRevenueUSD": 85.12,
+      "adultTicketPrice": 10.64
     },
     {
       "state": "AR",
@@ -204827,11 +204919,11 @@
       "date": "2026-08-26+18:45",
       "format": "Dolby Cinema",
       "language": "Unknown",
-      "totalSeatSold": 13,
-      "occupancy": 5.94,
-      "totalAvailableSeatCount": 206,
+      "totalSeatSold": 15,
+      "occupancy": 6.85,
+      "totalAvailableSeatCount": 204,
       "totalSeatCount": 219,
-      "grossRevenueUSD": 274.95,
+      "grossRevenueUSD": 317.25,
       "adultTicketPrice": 21.15
     },
     {
@@ -211761,10 +211853,12 @@
       "date": "2026-08-26+11:50",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 23.54
     },
     {
       "state": "TX",
@@ -211777,10 +211871,12 @@
       "date": "2026-08-26+15:10",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 23.54
     },
     {
       "state": "TX",
@@ -211793,10 +211889,12 @@
       "date": "2026-08-26+11:50",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 5.36,
+      "totalAvailableSeatCount": 106,
+      "totalSeatCount": 112,
+      "grossRevenueUSD": 89.28,
+      "adultTicketPrice": 14.88
     },
     {
       "state": "TX",
@@ -211809,10 +211907,12 @@
       "date": "2026-08-26+15:10",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 112,
+      "totalSeatCount": 112,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.88
     },
     {
       "state": "TX",
@@ -211825,10 +211925,12 @@
       "date": "2026-08-26+15:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 5,
+      "occupancy": 15.15,
+      "totalAvailableSeatCount": 28,
+      "totalSeatCount": 33,
+      "grossRevenueUSD": 70.35,
+      "adultTicketPrice": 14.07
     },
     {
       "state": "TX",
@@ -211841,10 +211943,12 @@
       "date": "2026-08-26+12:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.67,
+      "totalAvailableSeatCount": 73,
+      "totalSeatCount": 75,
+      "grossRevenueUSD": 21.66,
+      "adultTicketPrice": 10.83
     },
     {
       "state": "TX",
@@ -211857,10 +211961,12 @@
       "date": "2026-08-26+18:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 14,
+      "occupancy": 18.67,
+      "totalAvailableSeatCount": 61,
+      "totalSeatCount": 75,
+      "grossRevenueUSD": 193.2,
+      "adultTicketPrice": 13.8
     },
     {
       "state": "TX",
@@ -211873,10 +211979,12 @@
       "date": "2026-08-26+21:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 51,
+      "totalSeatCount": 51,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.8
     },
     {
       "state": "TX",
@@ -223267,11 +223375,11 @@
       "date": "2026-08-26+14:30",
       "format": "D-Box",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 20,
+      "totalSeatSold": 1,
+      "occupancy": 5.0,
+      "totalAvailableSeatCount": 19,
       "totalSeatCount": 20,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 20.84,
       "adultTicketPrice": 20.84
     },
     {
@@ -223717,11 +223825,11 @@
       "date": "2026-08-26+14:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 3,
-      "occupancy": 2.17,
-      "totalAvailableSeatCount": 135,
+      "totalSeatSold": 4,
+      "occupancy": 2.9,
+      "totalAvailableSeatCount": 134,
       "totalSeatCount": 138,
-      "grossRevenueUSD": 56.46,
+      "grossRevenueUSD": 75.28,
       "adultTicketPrice": 18.82
     },
     {
@@ -225121,11 +225229,11 @@
       "date": "2026-08-26+17:30",
       "format": "4DX",
       "language": "Unknown",
-      "totalSeatSold": 19,
-      "occupancy": 15.32,
-      "totalAvailableSeatCount": 105,
+      "totalSeatSold": 21,
+      "occupancy": 16.94,
+      "totalAvailableSeatCount": 103,
       "totalSeatCount": 124,
-      "grossRevenueUSD": 431.68,
+      "grossRevenueUSD": 477.12,
       "adultTicketPrice": 22.72
     },
     {
@@ -225445,10 +225553,12 @@
       "date": "2026-08-26+11:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 78,
+      "totalSeatCount": 78,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 7.58
     },
     {
       "state": "TX",
@@ -225461,10 +225571,12 @@
       "date": "2026-08-26+12:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 58,
+      "totalSeatCount": 58,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 7.58
     },
     {
       "state": "TX",
@@ -227367,11 +227479,11 @@
       "date": "2026-08-26+15:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 49,
+      "totalSeatSold": 5,
+      "occupancy": 10.2,
+      "totalAvailableSeatCount": 44,
       "totalSeatCount": 49,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 52.75,
       "adultTicketPrice": 10.55
     },
     {
@@ -227403,11 +227515,11 @@
       "date": "2026-08-26+18:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 12,
-      "occupancy": 10.81,
-      "totalAvailableSeatCount": 99,
+      "totalSeatSold": 7,
+      "occupancy": 6.31,
+      "totalAvailableSeatCount": 104,
       "totalSeatCount": 111,
-      "grossRevenueUSD": 149.4,
+      "grossRevenueUSD": 87.15,
       "adultTicketPrice": 12.45
     },
     {
@@ -234777,10 +234889,12 @@
       "date": "2026-08-26+11:45",
       "format": "ScreenX",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 134,
+      "totalSeatCount": 134,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 15.16
     },
     {
       "state": "TX",
@@ -234793,10 +234907,12 @@
       "date": "2026-08-26+15:15",
       "format": "ScreenX",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 134,
+      "totalSeatCount": 134,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 15.16
     },
     {
       "state": "TX",
@@ -234809,10 +234925,12 @@
       "date": "2026-08-26+18:45",
       "format": "ScreenX",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 5.97,
+      "totalAvailableSeatCount": 126,
+      "totalSeatCount": 134,
+      "grossRevenueUSD": 142.88,
+      "adultTicketPrice": 17.86
     },
     {
       "state": "TX",
@@ -234825,10 +234943,12 @@
       "date": "2026-08-26+22:15",
       "format": "ScreenX",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 134,
+      "totalSeatCount": 134,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 17.86
     },
     {
       "state": "TX",
@@ -234841,10 +234961,12 @@
       "date": "2026-08-26+11:45",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 23.82
     },
     {
       "state": "TX",
@@ -234857,10 +234979,12 @@
       "date": "2026-08-26+15:15",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 11.76,
+      "totalAvailableSeatCount": 15,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 47.64,
+      "adultTicketPrice": 23.82
     },
     {
       "state": "TX",
@@ -234873,10 +234997,12 @@
       "date": "2026-08-26+18:45",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.52
     },
     {
       "state": "TX",
@@ -234889,10 +235015,12 @@
       "date": "2026-08-26+22:15",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 11.76,
+      "totalAvailableSeatCount": 15,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 53.04,
+      "adultTicketPrice": 26.52
     },
     {
       "state": "TX",
@@ -234905,10 +235033,12 @@
       "date": "2026-08-26+11:00",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 18.94
     },
     {
       "state": "TX",
@@ -234921,10 +235051,12 @@
       "date": "2026-08-26+18:00",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 21.65
     },
     {
       "state": "TX",
@@ -234937,10 +235069,12 @@
       "date": "2026-08-26+21:30",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 21.65
     },
     {
       "state": "TX",
@@ -234953,10 +235087,12 @@
       "date": "2026-08-26+14:30",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 22.19
     },
     {
       "state": "TX",
@@ -234969,10 +235105,12 @@
       "date": "2026-08-26+14:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 122,
+      "totalSeatCount": 122,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.53
     },
     {
       "state": "TX",
@@ -234985,10 +235123,12 @@
       "date": "2026-08-26+11:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 122,
+      "totalSeatCount": 122,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.28
     },
     {
       "state": "TX",
@@ -235001,10 +235141,12 @@
       "date": "2026-08-26+11:10",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 99,
+      "totalSeatCount": 99,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.28
     },
     {
       "state": "TX",
@@ -235017,10 +235159,12 @@
       "date": "2026-08-26+11:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 4.82,
+      "totalAvailableSeatCount": 79,
+      "totalSeatCount": 83,
+      "grossRevenueUSD": 41.12,
+      "adultTicketPrice": 10.28
     },
     {
       "state": "TX",
@@ -235033,10 +235177,12 @@
       "date": "2026-08-26+14:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 99,
+      "totalSeatCount": 99,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.28
     },
     {
       "state": "TX",
@@ -235049,10 +235195,12 @@
       "date": "2026-08-26+14:55",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 83,
+      "totalSeatCount": 83,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.28
     },
     {
       "state": "TX",
@@ -235065,10 +235213,12 @@
       "date": "2026-08-26+18:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 11,
+      "occupancy": 9.02,
+      "totalAvailableSeatCount": 111,
+      "totalSeatCount": 122,
+      "grossRevenueUSD": 142.89,
+      "adultTicketPrice": 12.99
     },
     {
       "state": "TX",
@@ -235081,10 +235231,12 @@
       "date": "2026-08-26+20:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 6.06,
+      "totalAvailableSeatCount": 93,
+      "totalSeatCount": 99,
+      "grossRevenueUSD": 77.94,
+      "adultTicketPrice": 12.99
     },
     {
       "state": "TX",
@@ -235097,10 +235249,12 @@
       "date": "2026-08-26+21:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 122,
+      "totalSeatCount": 122,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.99
     },
     {
       "state": "TX",
@@ -242503,10 +242657,12 @@
       "date": "2026-08-26+11:45",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 33,
+      "totalSeatCount": 33,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 23.0
     },
     {
       "state": "TX",
@@ -242717,10 +242873,12 @@
       "date": "2026-08-26+11:10",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 26,
+      "totalSeatCount": 26,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 19.49
     },
     {
       "state": "TX",
@@ -242733,10 +242891,12 @@
       "date": "2026-08-26+14:35",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 26,
+      "totalSeatCount": 26,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 19.49
     },
     {
       "state": "TX",
@@ -242749,10 +242909,12 @@
       "date": "2026-08-26+21:25",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 11.54,
+      "totalAvailableSeatCount": 23,
+      "totalSeatCount": 26,
+      "grossRevenueUSD": 64.95,
+      "adultTicketPrice": 21.65
     },
     {
       "state": "TX",
@@ -242765,10 +242927,12 @@
       "date": "2026-08-26+15:10",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 206,
+      "totalSeatCount": 206,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 16.51
     },
     {
       "state": "TX",
@@ -243231,11 +243395,11 @@
       "date": "2026-08-26+18:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 5,
-      "occupancy": 3.79,
-      "totalAvailableSeatCount": 127,
+      "totalSeatSold": 7,
+      "occupancy": 5.3,
+      "totalAvailableSeatCount": 125,
       "totalSeatCount": 132,
-      "grossRevenueUSD": 62.25,
+      "grossRevenueUSD": 87.15,
       "adultTicketPrice": 12.45
     },
     {
@@ -245757,11 +245921,11 @@
       "date": "2026-08-26+10:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 5,
-      "occupancy": 9.09,
-      "totalAvailableSeatCount": 50,
+      "totalSeatSold": 7,
+      "occupancy": 12.73,
+      "totalAvailableSeatCount": 48,
       "totalSeatCount": 55,
-      "grossRevenueUSD": 40.6,
+      "grossRevenueUSD": 56.84,
       "adultTicketPrice": 8.12
     },
     {
@@ -245847,11 +246011,11 @@
       "date": "2026-08-26+16:20",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 2.27,
-      "totalAvailableSeatCount": 172,
+      "totalSeatSold": 6,
+      "occupancy": 3.41,
+      "totalAvailableSeatCount": 170,
       "totalSeatCount": 176,
-      "grossRevenueUSD": 47.64,
+      "grossRevenueUSD": 71.46,
       "adultTicketPrice": 11.91
     },
     {
@@ -248997,10 +249161,12 @@
       "date": "2026-08-26+11:50",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 161,
+      "totalSeatCount": 161,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.26
     },
     {
       "state": "TX",
@@ -249013,10 +249179,12 @@
       "date": "2026-08-26+12:00",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 2.61,
+      "totalAvailableSeatCount": 149,
+      "totalSeatCount": 153,
+      "grossRevenueUSD": 53.04,
+      "adultTicketPrice": 13.26
     },
     {
       "state": "TX",
@@ -249029,10 +249197,12 @@
       "date": "2026-08-26+18:40",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 161,
+      "totalSeatCount": 161,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 16.51
     },
     {
       "state": "TX",
@@ -249045,10 +249215,12 @@
       "date": "2026-08-26+22:05",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 161,
+      "totalSeatCount": 161,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 16.51
     },
     {
       "state": "TX",
@@ -249061,10 +249233,12 @@
       "date": "2026-08-26+11:50",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 23.53,
+      "totalAvailableSeatCount": 13,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 87.68,
+      "adultTicketPrice": 21.92
     },
     {
       "state": "TX",
@@ -249077,10 +249251,12 @@
       "date": "2026-08-26+12:00",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 17.65,
+      "totalAvailableSeatCount": 14,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 65.76,
+      "adultTicketPrice": 21.92
     },
     {
       "state": "TX",
@@ -249093,10 +249269,12 @@
       "date": "2026-08-26+18:40",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 17.65,
+      "totalAvailableSeatCount": 14,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 75.51,
+      "adultTicketPrice": 25.17
     },
     {
       "state": "TX",
@@ -249109,10 +249287,12 @@
       "date": "2026-08-26+22:05",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 17.65,
+      "totalAvailableSeatCount": 14,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 75.51,
+      "adultTicketPrice": 25.17
     },
     {
       "state": "TX",
@@ -249287,10 +249467,12 @@
       "date": "2026-08-26+14:55",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 13,
+      "totalSeatCount": 13,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 21.38
     },
     {
       "state": "TX",
@@ -249303,10 +249485,12 @@
       "date": "2026-08-26+14:55",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 124,
+      "totalSeatCount": 124,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.72
     },
     {
       "state": "TX",
@@ -249589,11 +249773,11 @@
       "date": "2026-08-26+18:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 31,
-      "occupancy": 15.74,
-      "totalAvailableSeatCount": 166,
+      "totalSeatSold": 36,
+      "occupancy": 18.27,
+      "totalAvailableSeatCount": 161,
       "totalSeatCount": 197,
-      "grossRevenueUSD": 201.5,
+      "grossRevenueUSD": 234.0,
       "adultTicketPrice": 6.5
     },
     {
@@ -249895,10 +250079,12 @@
       "date": "2026-08-26+11:30",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 160,
+      "totalSeatCount": 160,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.19
     },
     {
       "state": "CO",
@@ -249911,10 +250097,12 @@
       "date": "2026-08-26+15:40",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 162,
+      "totalSeatCount": 162,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.19
     },
     {
       "state": "CO",
@@ -249927,10 +250115,12 @@
       "date": "2026-08-26+19:05",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 10,
+      "occupancy": 6.17,
+      "totalAvailableSeatCount": 152,
+      "totalSeatCount": 162,
+      "grossRevenueUSD": 145.3,
+      "adultTicketPrice": 14.53
     },
     {
       "state": "CO",
@@ -249943,10 +250133,12 @@
       "date": "2026-08-26+22:30",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 162,
+      "totalSeatCount": 162,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.53
     },
     {
       "state": "CO",
@@ -249959,10 +250151,12 @@
       "date": "2026-08-26+12:15",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 162,
+      "totalSeatCount": 162,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.75
     },
     {
       "state": "CO",
@@ -249975,10 +250169,12 @@
       "date": "2026-08-26+14:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 76,
+      "totalSeatCount": 76,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.15
     },
     {
       "state": "CO",
@@ -249991,10 +250187,12 @@
       "date": "2026-08-26+21:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.95,
+      "totalAvailableSeatCount": 73,
+      "totalSeatCount": 76,
+      "grossRevenueUSD": 40.47,
+      "adultTicketPrice": 13.49
     },
     {
       "state": "CO",
@@ -250007,10 +250205,12 @@
       "date": "2026-08-26+11:55",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 88,
+      "totalSeatCount": 88,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 8.56
     },
     {
       "state": "CO",
@@ -250023,10 +250223,12 @@
       "date": "2026-08-26+17:55",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 5.26,
+      "totalAvailableSeatCount": 72,
+      "totalSeatCount": 76,
+      "grossRevenueUSD": 34.24,
+      "adultTicketPrice": 8.56
     },
     {
       "state": "CO",
@@ -250039,10 +250241,12 @@
       "date": "2026-08-26+15:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 9.09,
+      "totalAvailableSeatCount": 80,
+      "totalSeatCount": 88,
+      "grossRevenueUSD": 68.48,
+      "adultTicketPrice": 8.56
     },
     {
       "state": "CO",
@@ -250055,10 +250259,12 @@
       "date": "2026-08-26+21:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 88,
+      "totalSeatCount": 88,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.89
     },
     {
       "state": "CO",
@@ -252839,10 +253045,12 @@
       "date": "2026-08-26+20:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 1.01,
+      "totalAvailableSeatCount": 98,
+      "totalSeatCount": 99,
+      "grossRevenueUSD": 13.45,
+      "adultTicketPrice": 13.45
     },
     {
       "state": "CO",
@@ -252873,10 +253081,12 @@
       "date": "2026-08-26+22:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 1.02,
+      "totalAvailableSeatCount": 97,
+      "totalSeatCount": 98,
+      "grossRevenueUSD": 13.45,
+      "adultTicketPrice": 13.45
     },
     {
       "state": "CO",
@@ -253929,10 +254139,12 @@
       "date": "2026-08-26+11:15",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.2,
+      "totalAvailableSeatCount": 165,
+      "totalSeatCount": 167,
+      "grossRevenueUSD": 28.06,
+      "adultTicketPrice": 14.03
     },
     {
       "state": "CO",
@@ -253945,10 +254157,12 @@
       "date": "2026-08-26+14:40",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 2.4,
+      "totalAvailableSeatCount": 163,
+      "totalSeatCount": 167,
+      "grossRevenueUSD": 56.12,
+      "adultTicketPrice": 14.03
     },
     {
       "state": "CO",
@@ -253993,10 +254207,12 @@
       "date": "2026-08-26+15:45",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 13.64,
+      "totalAvailableSeatCount": 19,
+      "totalSeatCount": 22,
+      "grossRevenueUSD": 55.86,
+      "adultTicketPrice": 18.62
     },
     {
       "state": "CO",
@@ -254009,10 +254225,12 @@
       "date": "2026-08-26+19:10",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 9,
+      "occupancy": 40.91,
+      "totalAvailableSeatCount": 13,
+      "totalSeatCount": 22,
+      "grossRevenueUSD": 199.71,
+      "adultTicketPrice": 22.19
     },
     {
       "state": "CO",
@@ -254025,10 +254243,12 @@
       "date": "2026-08-26+22:35",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 27.27,
+      "totalAvailableSeatCount": 16,
+      "totalSeatCount": 22,
+      "grossRevenueUSD": 133.14,
+      "adultTicketPrice": 22.19
     },
     {
       "state": "CO",
@@ -254041,10 +254261,12 @@
       "date": "2026-08-26+18:10",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 13,
+      "occupancy": 7.78,
+      "totalAvailableSeatCount": 154,
+      "totalSeatCount": 167,
+      "grossRevenueUSD": 255.32,
+      "adultTicketPrice": 19.64
     },
     {
       "state": "CO",
@@ -254073,10 +254295,12 @@
       "date": "2026-08-26+12:20",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 5,
+      "occupancy": 22.73,
+      "totalAvailableSeatCount": 17,
+      "totalSeatCount": 22,
+      "grossRevenueUSD": 108.4,
+      "adultTicketPrice": 21.68
     },
     {
       "state": "CO",
@@ -254089,10 +254313,12 @@
       "date": "2026-08-26+12:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.67,
+      "totalAvailableSeatCount": 73,
+      "totalSeatCount": 75,
+      "grossRevenueUSD": 27.04,
+      "adultTicketPrice": 13.52
     },
     {
       "state": "CO",
@@ -254105,10 +254331,12 @@
       "date": "2026-08-26+10:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 1.05,
+      "totalAvailableSeatCount": 94,
+      "totalSeatCount": 95,
+      "grossRevenueUSD": 10.46,
+      "adultTicketPrice": 10.46
     },
     {
       "state": "CO",
@@ -254121,10 +254349,12 @@
       "date": "2026-08-26+13:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.16,
+      "totalAvailableSeatCount": 92,
+      "totalSeatCount": 95,
+      "grossRevenueUSD": 31.38,
+      "adultTicketPrice": 10.46
     },
     {
       "state": "CO",
@@ -254137,10 +254367,12 @@
       "date": "2026-08-26+15:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.67,
+      "totalAvailableSeatCount": 73,
+      "totalSeatCount": 75,
+      "grossRevenueUSD": 20.92,
+      "adultTicketPrice": 10.46
     },
     {
       "state": "CO",
@@ -254153,10 +254385,12 @@
       "date": "2026-08-26+17:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 8.42,
+      "totalAvailableSeatCount": 87,
+      "totalSeatCount": 95,
+      "grossRevenueUSD": 83.68,
+      "adultTicketPrice": 10.46
     },
     {
       "state": "CO",
@@ -254169,10 +254403,12 @@
       "date": "2026-08-26+19:10",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 12,
+      "occupancy": 16.0,
+      "totalAvailableSeatCount": 63,
+      "totalSeatCount": 75,
+      "grossRevenueUSD": 168.36,
+      "adultTicketPrice": 14.03
     },
     {
       "state": "CO",
@@ -254185,10 +254421,12 @@
       "date": "2026-08-26+22:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.67,
+      "totalAvailableSeatCount": 73,
+      "totalSeatCount": 75,
+      "grossRevenueUSD": 28.06,
+      "adultTicketPrice": 14.03
     },
     {
       "state": "CO",
@@ -254201,10 +254439,12 @@
       "date": "2026-08-26+20:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.11,
+      "totalAvailableSeatCount": 93,
+      "totalSeatCount": 95,
+      "grossRevenueUSD": 28.06,
+      "adultTicketPrice": 14.03
     },
     {
       "state": "CO",
@@ -255907,10 +256147,12 @@
       "date": "2026-08-26+12:10",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 80,
+      "totalSeatCount": 80,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.36
     },
     {
       "state": "CO",
@@ -255923,10 +256165,12 @@
       "date": "2026-08-26+21:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 153,
+      "totalSeatCount": 153,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.94
     },
     {
       "state": "CO",
@@ -255939,10 +256183,12 @@
       "date": "2026-08-26+11:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 3.92,
+      "totalAvailableSeatCount": 147,
+      "totalSeatCount": 153,
+      "grossRevenueUSD": 55.62,
+      "adultTicketPrice": 9.27
     },
     {
       "state": "CO",
@@ -255955,10 +256201,12 @@
       "date": "2026-08-26+12:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 2.63,
+      "totalAvailableSeatCount": 111,
+      "totalSeatCount": 114,
+      "grossRevenueUSD": 27.81,
+      "adultTicketPrice": 9.27
     },
     {
       "state": "CO",
@@ -255971,10 +256219,12 @@
       "date": "2026-08-26+14:55",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 153,
+      "totalSeatCount": 153,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.27
     },
     {
       "state": "CO",
@@ -255987,10 +256237,12 @@
       "date": "2026-08-26+15:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 80,
+      "totalSeatCount": 80,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.27
     },
     {
       "state": "CO",
@@ -256003,10 +256255,12 @@
       "date": "2026-08-26+16:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 114,
+      "totalSeatCount": 114,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.27
     },
     {
       "state": "CO",
@@ -256019,10 +256273,12 @@
       "date": "2026-08-26+18:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 3.92,
+      "totalAvailableSeatCount": 147,
+      "totalSeatCount": 153,
+      "grossRevenueUSD": 71.1,
+      "adultTicketPrice": 11.85
     },
     {
       "state": "CO",
@@ -256035,10 +256291,12 @@
       "date": "2026-08-26+19:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 5.0,
+      "totalAvailableSeatCount": 76,
+      "totalSeatCount": 80,
+      "grossRevenueUSD": 47.4,
+      "adultTicketPrice": 11.85
     },
     {
       "state": "CO",
@@ -256051,10 +256309,12 @@
       "date": "2026-08-26+20:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 113,
+      "totalSeatCount": 113,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.85
     },
     {
       "state": "CO",
@@ -256319,11 +256579,11 @@
       "date": "2026-08-26+22:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 152,
+      "totalSeatSold": 2,
+      "occupancy": 1.32,
+      "totalAvailableSeatCount": 150,
       "totalSeatCount": 152,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 23.5,
       "adultTicketPrice": 11.75
     },
     {
@@ -259237,10 +259497,12 @@
       "date": "2026-08-26+11:10",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 156,
+      "totalSeatCount": 156,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.87
     },
     {
       "state": "UT",
@@ -259253,10 +259515,12 @@
       "date": "2026-08-26+14:35",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 156,
+      "totalSeatCount": 156,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 15.02
     },
     {
       "state": "UT",
@@ -259269,10 +259533,12 @@
       "date": "2026-08-26+11:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 4.08,
+      "totalAvailableSeatCount": 47,
+      "totalSeatCount": 49,
+      "grossRevenueUSD": 19.3,
+      "adultTicketPrice": 9.65
     },
     {
       "state": "UT",
@@ -259285,10 +259551,12 @@
       "date": "2026-08-26+11:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 89,
+      "totalSeatCount": 89,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.65
     },
     {
       "state": "UT",
@@ -259301,10 +259569,12 @@
       "date": "2026-08-26+12:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 129,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.65
     },
     {
       "state": "UT",
@@ -259317,10 +259587,12 @@
       "date": "2026-08-26+14:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 4.08,
+      "totalAvailableSeatCount": 47,
+      "totalSeatCount": 49,
+      "grossRevenueUSD": 19.3,
+      "adultTicketPrice": 9.65
     },
     {
       "state": "UT",
@@ -259333,10 +259605,12 @@
       "date": "2026-08-26+15:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 89,
+      "totalSeatCount": 89,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.65
     },
     {
       "state": "UT",
@@ -259349,10 +259623,12 @@
       "date": "2026-08-26+15:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 129,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.65
     },
     {
       "state": "UT",
@@ -259365,10 +259641,12 @@
       "date": "2026-08-26+18:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 4.08,
+      "totalAvailableSeatCount": 47,
+      "totalSeatCount": 49,
+      "grossRevenueUSD": 23.6,
+      "adultTicketPrice": 11.8
     },
     {
       "state": "UT",
@@ -259381,10 +259659,12 @@
       "date": "2026-08-26+18:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 129,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.8
     },
     {
       "state": "UT",
@@ -259397,10 +259677,12 @@
       "date": "2026-08-26+21:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 37,
+      "totalSeatCount": 37,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.8
     },
     {
       "state": "UT",
@@ -259413,10 +259695,12 @@
       "date": "2026-08-26+21:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 5,
+      "occupancy": 5.62,
+      "totalAvailableSeatCount": 84,
+      "totalSeatCount": 89,
+      "grossRevenueUSD": 59.0,
+      "adultTicketPrice": 11.8
     },
     {
       "state": "UT",
@@ -259429,10 +259713,12 @@
       "date": "2026-08-26+21:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 4.08,
+      "totalAvailableSeatCount": 47,
+      "totalSeatCount": 49,
+      "grossRevenueUSD": 23.6,
+      "adultTicketPrice": 11.8
     },
     {
       "state": "UT",
@@ -259445,10 +259731,12 @@
       "date": "2026-08-26+22:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 129,
+      "totalSeatCount": 129,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.8
     },
     {
       "state": "UT",
@@ -260595,10 +260883,12 @@
       "date": "2026-08-26+16:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.49,
+      "totalAvailableSeatCount": 132,
+      "totalSeatCount": 134,
+      "grossRevenueUSD": 27.88,
+      "adultTicketPrice": 13.94
     },
     {
       "state": "UT",
@@ -261907,10 +262197,12 @@
       "date": "2026-08-26+12:20",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 0.59,
+      "totalAvailableSeatCount": 169,
+      "totalSeatCount": 170,
+      "grossRevenueUSD": 13.16,
+      "adultTicketPrice": 13.16
     },
     {
       "state": "UT",
@@ -262019,10 +262311,12 @@
       "date": "2026-08-26+14:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 62,
+      "totalSeatCount": 62,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.67
     },
     {
       "state": "UT",
@@ -262035,10 +262329,12 @@
       "date": "2026-08-26+15:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 0.71,
+      "totalAvailableSeatCount": 139,
+      "totalSeatCount": 140,
+      "grossRevenueUSD": 9.67,
+      "adultTicketPrice": 9.67
     },
     {
       "state": "UT",
@@ -262051,10 +262347,12 @@
       "date": "2026-08-26+17:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 72,
+      "totalSeatCount": 72,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 9.67
     },
     {
       "state": "UT",
@@ -262067,10 +262365,12 @@
       "date": "2026-08-26+18:05",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 9.68,
+      "totalAvailableSeatCount": 56,
+      "totalSeatCount": 62,
+      "grossRevenueUSD": 70.92,
+      "adultTicketPrice": 11.82
     },
     {
       "state": "UT",
@@ -262083,10 +262383,12 @@
       "date": "2026-08-26+18:40",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 9,
+      "occupancy": 6.43,
+      "totalAvailableSeatCount": 131,
+      "totalSeatCount": 140,
+      "grossRevenueUSD": 106.38,
+      "adultTicketPrice": 11.82
     },
     {
       "state": "UT",
@@ -262099,10 +262401,12 @@
       "date": "2026-08-26+20:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 72,
+      "totalSeatCount": 72,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.82
     },
     {
       "state": "UT",
@@ -262115,10 +262419,12 @@
       "date": "2026-08-26+21:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 62,
+      "totalSeatCount": 62,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 11.82
     },
     {
       "state": "UT",
@@ -262131,10 +262437,12 @@
       "date": "2026-08-26+22:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 0.71,
+      "totalAvailableSeatCount": 139,
+      "totalSeatCount": 140,
+      "grossRevenueUSD": 11.82,
+      "adultTicketPrice": 11.82
     },
     {
       "state": "UT",
@@ -263877,10 +264185,12 @@
       "date": "2026-08-26+10:30",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 21,
+      "totalSeatCount": 21,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 18.8
     },
     {
       "state": "UT",
@@ -263893,10 +264203,12 @@
       "date": "2026-08-26+11:50",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 11.76,
+      "totalAvailableSeatCount": 15,
+      "totalSeatCount": 17,
+      "grossRevenueUSD": 37.6,
+      "adultTicketPrice": 18.8
     },
     {
       "state": "UT",
@@ -264215,10 +264527,12 @@
       "date": "2026-08-26+18:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 10,
+      "occupancy": 12.82,
+      "totalAvailableSeatCount": 68,
+      "totalSeatCount": 78,
+      "grossRevenueUSD": 126.3,
+      "adultTicketPrice": 12.63
     },
     {
       "state": "UT",
@@ -264249,10 +264563,12 @@
       "date": "2026-08-26+20:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 79,
+      "totalSeatCount": 79,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 12.63
     },
     {
       "state": "UT",
@@ -266275,11 +266591,11 @@
       "date": "2026-08-26+15:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 10,
-      "occupancy": 7.69,
-      "totalAvailableSeatCount": 120,
+      "totalSeatSold": 12,
+      "occupancy": 9.23,
+      "totalAvailableSeatCount": 118,
       "totalSeatCount": 130,
-      "grossRevenueUSD": 144.1,
+      "grossRevenueUSD": 172.92,
       "adultTicketPrice": 14.41
     },
     {
@@ -269245,11 +269561,11 @@
       "date": "2026-08-26+12:50",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 3.05,
-      "totalAvailableSeatCount": 127,
+      "totalSeatSold": 6,
+      "occupancy": 4.58,
+      "totalAvailableSeatCount": 125,
       "totalSeatCount": 131,
-      "grossRevenueUSD": 43.0,
+      "grossRevenueUSD": 64.5,
       "adultTicketPrice": 10.75
     },
     {
@@ -270231,11 +270547,11 @@
       "date": "2026-08-26+14:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 418,
+      "totalSeatSold": 2,
+      "occupancy": 0.48,
+      "totalAvailableSeatCount": 416,
       "totalSeatCount": 418,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 18.5,
       "adultTicketPrice": 9.25
     },
     {
@@ -270753,11 +271069,11 @@
       "date": "2026-08-26+20:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 7,
-      "occupancy": 6.48,
-      "totalAvailableSeatCount": 101,
+      "totalSeatSold": 10,
+      "occupancy": 9.26,
+      "totalAvailableSeatCount": 98,
       "totalSeatCount": 108,
-      "grossRevenueUSD": 96.25,
+      "grossRevenueUSD": 137.5,
       "adultTicketPrice": 13.75
     },
     {
@@ -274975,11 +275291,11 @@
       "date": "2026-08-26+17:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 7,
-      "occupancy": 6.14,
-      "totalAvailableSeatCount": 107,
+      "totalSeatSold": 9,
+      "occupancy": 7.89,
+      "totalAvailableSeatCount": 105,
       "totalSeatCount": 114,
-      "grossRevenueUSD": 126.21,
+      "grossRevenueUSD": 162.27,
       "adultTicketPrice": 18.03
     },
     {
@@ -275859,11 +276175,11 @@
       "date": "2026-08-26+11:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 10,
-      "occupancy": 4.42,
-      "totalAvailableSeatCount": 216,
+      "totalSeatSold": 8,
+      "occupancy": 3.54,
+      "totalAvailableSeatCount": 218,
       "totalSeatCount": 226,
-      "grossRevenueUSD": 142.5,
+      "grossRevenueUSD": 114.0,
       "adultTicketPrice": 14.25
     },
     {
@@ -276895,10 +277211,12 @@
       "date": "2026-08-26+10:10",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 27,
+      "totalSeatCount": 27,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 23.14
     },
     {
       "state": "NM",
@@ -276911,10 +277229,12 @@
       "date": "2026-08-26+12:15",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 30,
+      "totalSeatCount": 30,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 23.14
     },
     {
       "state": "NM",
@@ -276927,10 +277247,12 @@
       "date": "2026-08-26+13:30",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 3.7,
+      "totalAvailableSeatCount": 26,
+      "totalSeatCount": 27,
+      "grossRevenueUSD": 23.14,
+      "adultTicketPrice": 23.14
     },
     {
       "state": "NM",
@@ -276943,10 +277265,12 @@
       "date": "2026-08-26+15:35",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 30,
+      "totalSeatCount": 30,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 23.14
     },
     {
       "state": "NM",
@@ -276959,10 +277283,12 @@
       "date": "2026-08-26+21:35",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 30,
+      "totalSeatCount": 30,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 26.37
     },
     {
       "state": "NM",
@@ -276975,10 +277301,12 @@
       "date": "2026-08-26+10:10",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 183,
+      "totalSeatCount": 183,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.53
     },
     {
       "state": "NM",
@@ -276991,10 +277319,12 @@
       "date": "2026-08-26+12:15",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 0.6,
+      "totalAvailableSeatCount": 165,
+      "totalSeatCount": 166,
+      "grossRevenueUSD": 14.53,
+      "adultTicketPrice": 14.53
     },
     {
       "state": "NM",
@@ -277007,10 +277337,12 @@
       "date": "2026-08-26+13:30",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 3.28,
+      "totalAvailableSeatCount": 177,
+      "totalSeatCount": 183,
+      "grossRevenueUSD": 87.18,
+      "adultTicketPrice": 14.53
     },
     {
       "state": "NM",
@@ -277023,10 +277355,12 @@
       "date": "2026-08-26+15:35",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 0.6,
+      "totalAvailableSeatCount": 165,
+      "totalSeatCount": 166,
+      "grossRevenueUSD": 14.53,
+      "adultTicketPrice": 14.53
     },
     {
       "state": "NM",
@@ -277039,10 +277373,12 @@
       "date": "2026-08-26+21:35",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 0.6,
+      "totalAvailableSeatCount": 165,
+      "totalSeatCount": 166,
+      "grossRevenueUSD": 17.76,
+      "adultTicketPrice": 17.76
     },
     {
       "state": "NM",
@@ -277055,10 +277391,12 @@
       "date": "2026-08-26+12:50",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 26,
+      "totalSeatCount": 26,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 19.37
     },
     {
       "state": "NM",
@@ -277071,10 +277409,12 @@
       "date": "2026-08-26+19:30",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 26,
+      "totalSeatCount": 26,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 22.6
     },
     {
       "state": "NM",
@@ -277087,10 +277427,12 @@
       "date": "2026-08-26+22:50",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 26,
+      "totalSeatCount": 26,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 22.6
     },
     {
       "state": "NM",
@@ -277103,10 +277445,12 @@
       "date": "2026-08-26+16:50",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 183,
+      "totalSeatCount": 183,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 16.14
     },
     {
       "state": "NM",
@@ -277119,10 +277463,12 @@
       "date": "2026-08-26+16:50",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 22.22,
+      "totalAvailableSeatCount": 21,
+      "totalSeatCount": 27,
+      "grossRevenueUSD": 148.5,
+      "adultTicketPrice": 24.75
     },
     {
       "state": "NM",
@@ -277135,10 +277481,12 @@
       "date": "2026-08-26+16:10",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 26,
+      "totalSeatCount": 26,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 23.14
     },
     {
       "state": "NM",
@@ -277151,10 +277499,12 @@
       "date": "2026-08-26+16:10",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 105,
+      "totalSeatCount": 105,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.53
     },
     {
       "state": "NM",
@@ -277167,10 +277517,12 @@
       "date": "2026-08-26+10:20",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 94,
+      "totalSeatCount": 94,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.76
     },
     {
       "state": "NM",
@@ -277183,10 +277535,12 @@
       "date": "2026-08-26+11:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 4.55,
+      "totalAvailableSeatCount": 42,
+      "totalSeatCount": 44,
+      "grossRevenueUSD": 21.52,
+      "adultTicketPrice": 10.76
     },
     {
       "state": "NM",
@@ -277199,10 +277553,12 @@
       "date": "2026-08-26+12:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 105,
+      "totalSeatCount": 105,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.76
     },
     {
       "state": "NM",
@@ -277215,10 +277571,12 @@
       "date": "2026-08-26+13:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 94,
+      "totalSeatCount": 94,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.76
     },
     {
       "state": "NM",
@@ -277231,10 +277589,12 @@
       "date": "2026-08-26+14:55",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 44,
+      "totalSeatCount": 44,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 10.76
     },
     {
       "state": "NM",
@@ -277247,10 +277607,12 @@
       "date": "2026-08-26+15:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.06,
+      "totalAvailableSeatCount": 95,
+      "totalSeatCount": 98,
+      "grossRevenueUSD": 32.28,
+      "adultTicketPrice": 10.76
     },
     {
       "state": "NM",
@@ -277263,10 +277625,12 @@
       "date": "2026-08-26+17:10",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 3.19,
+      "totalAvailableSeatCount": 91,
+      "totalSeatCount": 94,
+      "grossRevenueUSD": 32.28,
+      "adultTicketPrice": 10.76
     },
     {
       "state": "NM",
@@ -277279,10 +277643,12 @@
       "date": "2026-08-26+18:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 6.12,
+      "totalAvailableSeatCount": 92,
+      "totalSeatCount": 98,
+      "grossRevenueUSD": 83.94,
+      "adultTicketPrice": 13.99
     },
     {
       "state": "NM",
@@ -277295,10 +277661,12 @@
       "date": "2026-08-26+19:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 8,
+      "occupancy": 7.62,
+      "totalAvailableSeatCount": 97,
+      "totalSeatCount": 105,
+      "grossRevenueUSD": 111.92,
+      "adultTicketPrice": 13.99
     },
     {
       "state": "NM",
@@ -277311,10 +277679,12 @@
       "date": "2026-08-26+20:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.13,
+      "totalAvailableSeatCount": 92,
+      "totalSeatCount": 94,
+      "grossRevenueUSD": 27.98,
+      "adultTicketPrice": 13.99
     },
     {
       "state": "NM",
@@ -277327,10 +277697,12 @@
       "date": "2026-08-26+21:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 44,
+      "totalSeatCount": 44,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.99
     },
     {
       "state": "NM",
@@ -277343,10 +277715,12 @@
       "date": "2026-08-26+22:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 98,
+      "totalSeatCount": 98,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.99
     },
     {
       "state": "NM",
@@ -277359,10 +277733,12 @@
       "date": "2026-08-26+22:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 105,
+      "totalSeatCount": 105,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 13.99
     },
     {
       "state": "NM",
@@ -277429,11 +277805,11 @@
       "date": "2026-08-26+15:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 3,
-      "occupancy": 12.5,
-      "totalAvailableSeatCount": 21,
+      "totalSeatSold": 5,
+      "occupancy": 20.83,
+      "totalAvailableSeatCount": 19,
       "totalSeatCount": 24,
-      "grossRevenueUSD": 19.11,
+      "grossRevenueUSD": 31.85,
       "adultTicketPrice": 6.37
     },
     {
@@ -278003,10 +278379,12 @@
       "date": "2026-08-26+13:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 2.17,
+      "totalAvailableSeatCount": 90,
+      "totalSeatCount": 92,
+      "grossRevenueUSD": 14.0,
+      "adultTicketPrice": 7.0
     },
     {
       "state": "NV",
@@ -278037,10 +278415,12 @@
       "date": "2026-08-26+15:10",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 0.78,
+      "totalAvailableSeatCount": 255,
+      "totalSeatCount": 257,
+      "grossRevenueUSD": 14.0,
+      "adultTicketPrice": 7.0
     },
     {
       "state": "NV",
@@ -278053,10 +278433,12 @@
       "date": "2026-08-26+16:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 110,
+      "totalSeatCount": 110,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 7.0
     },
     {
       "state": "NV",
@@ -278069,10 +278451,12 @@
       "date": "2026-08-26+16:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 1,
+      "occupancy": 1.09,
+      "totalAvailableSeatCount": 91,
+      "totalSeatCount": 92,
+      "grossRevenueUSD": 7.0,
+      "adultTicketPrice": 7.0
     },
     {
       "state": "NV",
@@ -278085,10 +278469,12 @@
       "date": "2026-08-26+17:45",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 90,
+      "totalSeatCount": 90,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 7.0
     },
     {
       "state": "NV",
@@ -278101,10 +278487,12 @@
       "date": "2026-08-26+18:35",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 0.78,
+      "totalAvailableSeatCount": 255,
+      "totalSeatCount": 257,
+      "grossRevenueUSD": 19.0,
+      "adultTicketPrice": 9.5
     },
     {
       "state": "NV",
@@ -278837,11 +279225,11 @@
       "date": "2026-08-26+17:05",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 100,
+      "totalSeatSold": 2,
+      "occupancy": 2.0,
+      "totalAvailableSeatCount": 98,
       "totalSeatCount": 100,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 34.98,
       "adultTicketPrice": 17.49
     },
     {
@@ -278909,11 +279297,11 @@
       "date": "2026-08-26+11:15",
       "format": "Sony Digital Cinema",
       "language": "Unknown",
-      "totalSeatSold": 1,
-      "occupancy": 0.53,
-      "totalAvailableSeatCount": 189,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 190,
       "totalSeatCount": 190,
-      "grossRevenueUSD": 14.25,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 14.25
     },
     {
@@ -279863,11 +280251,11 @@
       "date": "2026-08-26+19:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 99,
+      "totalSeatSold": 2,
+      "occupancy": 2.02,
+      "totalAvailableSeatCount": 97,
       "totalSeatCount": 99,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 27.0,
       "adultTicketPrice": 13.5
     },
     {
@@ -281619,11 +282007,11 @@
       "date": "2026-08-26+19:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 16,
-      "occupancy": 16.84,
-      "totalAvailableSeatCount": 79,
+      "totalSeatSold": 14,
+      "occupancy": 14.74,
+      "totalAvailableSeatCount": 81,
       "totalSeatCount": 95,
-      "grossRevenueUSD": 375.84,
+      "grossRevenueUSD": 328.86,
       "adultTicketPrice": 23.49
     },
     {
@@ -283059,11 +283447,11 @@
       "date": "2026-08-26+13:20",
       "format": "4DX",
       "language": "Unknown",
-      "totalSeatSold": 7,
-      "occupancy": 7.0,
-      "totalAvailableSeatCount": 93,
+      "totalSeatSold": 6,
+      "occupancy": 6.0,
+      "totalAvailableSeatCount": 94,
       "totalSeatCount": 100,
-      "grossRevenueUSD": 216.93,
+      "grossRevenueUSD": 185.94,
       "adultTicketPrice": 30.99
     },
     {
@@ -283221,11 +283609,11 @@
       "date": "2026-08-26+12:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 16,
-      "occupancy": 9.52,
-      "totalAvailableSeatCount": 152,
+      "totalSeatSold": 14,
+      "occupancy": 8.33,
+      "totalAvailableSeatCount": 154,
       "totalSeatCount": 168,
-      "grossRevenueUSD": 371.04,
+      "grossRevenueUSD": 324.66,
       "adultTicketPrice": 23.19
     },
     {
@@ -283401,11 +283789,11 @@
       "date": "2026-08-26+19:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 15,
-      "occupancy": 35.71,
-      "totalAvailableSeatCount": 27,
+      "totalSeatSold": 16,
+      "occupancy": 38.1,
+      "totalAvailableSeatCount": 26,
       "totalSeatCount": 42,
-      "grossRevenueUSD": 307.35,
+      "grossRevenueUSD": 327.84,
       "adultTicketPrice": 20.49
     },
     {
@@ -284281,11 +284669,11 @@
       "date": "2026-08-26+19:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 41,
-      "occupancy": 23.7,
-      "totalAvailableSeatCount": 132,
+      "totalSeatSold": 43,
+      "occupancy": 24.86,
+      "totalAvailableSeatCount": 130,
       "totalSeatCount": 173,
-      "grossRevenueUSD": 1145.95,
+      "grossRevenueUSD": 1201.85,
       "adultTicketPrice": 27.95
     },
     {
@@ -284443,11 +284831,11 @@
       "date": "2026-08-26+14:30",
       "format": "IMAX",
       "language": "Unknown",
-      "totalSeatSold": 29,
-      "occupancy": 20.0,
-      "totalAvailableSeatCount": 116,
+      "totalSeatSold": 31,
+      "occupancy": 21.38,
+      "totalAvailableSeatCount": 114,
       "totalSeatCount": 145,
-      "grossRevenueUSD": 678.31,
+      "grossRevenueUSD": 725.09,
       "adultTicketPrice": 23.39
     },
     {
@@ -285267,11 +285655,11 @@
       "date": "2026-08-26+12:50",
       "format": "ScreenX",
       "language": "Unknown",
-      "totalSeatSold": 14,
-      "occupancy": 5.88,
-      "totalAvailableSeatCount": 224,
+      "totalSeatSold": 13,
+      "occupancy": 5.46,
+      "totalAvailableSeatCount": 225,
       "totalSeatCount": 238,
-      "grossRevenueUSD": 324.66,
+      "grossRevenueUSD": 301.47,
       "adultTicketPrice": 23.19
     },
     {
@@ -285303,11 +285691,11 @@
       "date": "2026-08-26+19:35",
       "format": "ScreenX",
       "language": "Unknown",
-      "totalSeatSold": 56,
-      "occupancy": 23.53,
-      "totalAvailableSeatCount": 182,
+      "totalSeatSold": 55,
+      "occupancy": 23.11,
+      "totalAvailableSeatCount": 183,
       "totalSeatCount": 238,
-      "grossRevenueUSD": 1539.44,
+      "grossRevenueUSD": 1511.95,
       "adultTicketPrice": 27.49
     },
     {
@@ -285447,11 +285835,11 @@
       "date": "2026-08-26+16:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 9,
-      "occupancy": 8.91,
-      "totalAvailableSeatCount": 92,
+      "totalSeatSold": 11,
+      "occupancy": 10.89,
+      "totalAvailableSeatCount": 90,
       "totalSeatCount": 101,
-      "grossRevenueUSD": 193.41,
+      "grossRevenueUSD": 236.39,
       "adultTicketPrice": 21.49
     },
     {
@@ -286545,11 +286933,11 @@
       "date": "2026-08-26+14:35",
       "format": "RPX",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 224,
+      "totalSeatSold": 2,
+      "occupancy": 0.89,
+      "totalAvailableSeatCount": 222,
       "totalSeatCount": 224,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 41.98,
       "adultTicketPrice": 20.99
     },
     {
@@ -286599,11 +286987,11 @@
       "date": "2026-08-26+15:05",
       "format": "4DX",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 1.35,
-      "totalAvailableSeatCount": 146,
+      "totalSeatSold": 4,
+      "occupancy": 2.7,
+      "totalAvailableSeatCount": 144,
       "totalSeatCount": 148,
-      "grossRevenueUSD": 55.98,
+      "grossRevenueUSD": 111.96,
       "adultTicketPrice": 27.99
     },
     {
@@ -286617,11 +287005,11 @@
       "date": "2026-08-26+18:30",
       "format": "4DX",
       "language": "Unknown",
-      "totalSeatSold": 5,
-      "occupancy": 3.38,
-      "totalAvailableSeatCount": 143,
+      "totalSeatSold": 4,
+      "occupancy": 2.7,
+      "totalAvailableSeatCount": 144,
       "totalSeatCount": 148,
-      "grossRevenueUSD": 159.95,
+      "grossRevenueUSD": 127.96,
       "adultTicketPrice": 31.99
     },
     {
@@ -287121,11 +287509,11 @@
       "date": "2026-08-26+12:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 2.38,
-      "totalAvailableSeatCount": 164,
+      "totalSeatSold": 2,
+      "occupancy": 1.19,
+      "totalAvailableSeatCount": 166,
       "totalSeatCount": 168,
-      "grossRevenueUSD": 65.56,
+      "grossRevenueUSD": 32.78,
       "adultTicketPrice": 16.39
     },
     {
@@ -287661,11 +288049,11 @@
       "date": "2026-08-26+14:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 8,
-      "occupancy": 4.57,
-      "totalAvailableSeatCount": 167,
+      "totalSeatSold": 11,
+      "occupancy": 6.29,
+      "totalAvailableSeatCount": 164,
       "totalSeatCount": 175,
-      "grossRevenueUSD": 121.52,
+      "grossRevenueUSD": 167.09,
       "adultTicketPrice": 15.19
     },
     {
@@ -290109,11 +290497,11 @@
       "date": "2026-08-26+21:00",
       "format": "IMAX",
       "language": "Unknown",
-      "totalSeatSold": 25,
-      "occupancy": 13.09,
-      "totalAvailableSeatCount": 166,
+      "totalSeatSold": 26,
+      "occupancy": 13.61,
+      "totalAvailableSeatCount": 165,
       "totalSeatCount": 191,
-      "grossRevenueUSD": 637.25,
+      "grossRevenueUSD": 662.74,
       "adultTicketPrice": 25.49
     },
     {
@@ -292827,11 +293215,11 @@
       "date": "2026-08-26+15:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 106,
+      "totalSeatSold": 2,
+      "occupancy": 1.89,
+      "totalAvailableSeatCount": 104,
       "totalSeatCount": 106,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 20.0,
       "adultTicketPrice": 10.0
     },
     {
@@ -293673,11 +294061,11 @@
       "date": "2026-08-26+16:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 1.36,
-      "totalAvailableSeatCount": 145,
+      "totalSeatSold": 5,
+      "occupancy": 3.4,
+      "totalAvailableSeatCount": 142,
       "totalSeatCount": 147,
-      "grossRevenueUSD": 56.98,
+      "grossRevenueUSD": 142.45,
       "adultTicketPrice": 28.49
     },
     {
@@ -295311,11 +295699,11 @@
       "date": "2026-08-26+13:10",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 0.85,
-      "totalAvailableSeatCount": 233,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 235,
       "totalSeatCount": 235,
-      "grossRevenueUSD": 27.98,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 13.99
     },
     {
@@ -297201,11 +297589,11 @@
       "date": "2026-08-26+15:40",
       "format": "Dolby Cinema",
       "language": "Unknown",
-      "totalSeatSold": 14,
-      "occupancy": 7.33,
-      "totalAvailableSeatCount": 177,
+      "totalSeatSold": 16,
+      "occupancy": 8.38,
+      "totalAvailableSeatCount": 175,
       "totalSeatCount": 191,
-      "grossRevenueUSD": 274.26,
+      "grossRevenueUSD": 313.44,
       "adultTicketPrice": 19.59
     },
     {
@@ -299109,11 +299497,11 @@
       "date": "2026-08-26+15:00",
       "format": "Dolby Cinema",
       "language": "Unknown",
-      "totalSeatSold": 3,
-      "occupancy": 1.91,
-      "totalAvailableSeatCount": 154,
+      "totalSeatSold": 4,
+      "occupancy": 2.55,
+      "totalAvailableSeatCount": 153,
       "totalSeatCount": 157,
-      "grossRevenueUSD": 62.97,
+      "grossRevenueUSD": 83.96,
       "adultTicketPrice": 20.99
     },
     {
@@ -301251,11 +301639,11 @@
       "date": "2026-08-26+14:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 269,
+      "totalSeatSold": 2,
+      "occupancy": 0.74,
+      "totalAvailableSeatCount": 267,
       "totalSeatCount": 269,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 28.5,
       "adultTicketPrice": 14.25
     },
     {
@@ -303827,11 +304215,11 @@
       "date": "2026-08-26+19:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 2.35,
-      "totalAvailableSeatCount": 83,
+      "totalSeatSold": 4,
+      "occupancy": 4.71,
+      "totalAvailableSeatCount": 81,
       "totalSeatCount": 85,
-      "grossRevenueUSD": 42.98,
+      "grossRevenueUSD": 85.96,
       "adultTicketPrice": 21.49
     },
     {
@@ -305569,11 +305957,11 @@
       "date": "2026-08-26+11:10",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 2.2,
-      "totalAvailableSeatCount": 89,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 91,
       "totalSeatCount": 91,
-      "grossRevenueUSD": 22.5,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 11.25
     },
     {
@@ -306091,11 +306479,11 @@
       "date": "2026-08-26+18:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 7,
-      "occupancy": 11.48,
-      "totalAvailableSeatCount": 54,
+      "totalSeatSold": 9,
+      "occupancy": 14.75,
+      "totalAvailableSeatCount": 52,
       "totalSeatCount": 61,
-      "grossRevenueUSD": 105.0,
+      "grossRevenueUSD": 135.0,
       "adultTicketPrice": 15.0
     },
     {
@@ -306751,11 +307139,11 @@
       "date": "2026-08-26+15:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 115,
+      "totalSeatSold": 3,
+      "occupancy": 2.61,
+      "totalAvailableSeatCount": 112,
       "totalSeatCount": 115,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 46.47,
       "adultTicketPrice": 15.49
     },
     {
@@ -306895,11 +307283,11 @@
       "date": "2026-08-26+19:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 13,
-      "occupancy": 7.39,
-      "totalAvailableSeatCount": 163,
+      "totalSeatSold": 16,
+      "occupancy": 9.09,
+      "totalAvailableSeatCount": 160,
       "totalSeatCount": 176,
-      "grossRevenueUSD": 194.35,
+      "grossRevenueUSD": 239.2,
       "adultTicketPrice": 14.95
     },
     {
@@ -309331,11 +309719,11 @@
       "date": "2026-08-26+14:10",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 6,
-      "occupancy": 7.79,
-      "totalAvailableSeatCount": 71,
+      "totalSeatSold": 4,
+      "occupancy": 5.19,
+      "totalAvailableSeatCount": 73,
       "totalSeatCount": 77,
-      "grossRevenueUSD": 158.94,
+      "grossRevenueUSD": 105.96,
       "adultTicketPrice": 26.49
     },
     {
@@ -309421,11 +309809,11 @@
       "date": "2026-08-26+11:45",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 529,
+      "totalSeatSold": 2,
+      "occupancy": 0.38,
+      "totalAvailableSeatCount": 527,
       "totalSeatCount": 529,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 36.98,
       "adultTicketPrice": 18.49
     },
     {
@@ -311943,11 +312331,11 @@
       "date": "2026-08-26+20:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 3.15,
-      "totalAvailableSeatCount": 123,
+      "totalSeatSold": 6,
+      "occupancy": 4.72,
+      "totalAvailableSeatCount": 121,
       "totalSeatCount": 127,
-      "grossRevenueUSD": 78.0,
+      "grossRevenueUSD": 117.0,
       "adultTicketPrice": 19.5
     },
     {
@@ -313033,11 +313421,11 @@
       "date": "2026-08-26+15:25",
       "format": "4DX",
       "language": "Unknown",
-      "totalSeatSold": 20,
-      "occupancy": 11.56,
-      "totalAvailableSeatCount": 153,
+      "totalSeatSold": 22,
+      "occupancy": 12.72,
+      "totalAvailableSeatCount": 151,
       "totalSeatCount": 173,
-      "grossRevenueUSD": 509.8,
+      "grossRevenueUSD": 560.78,
       "adultTicketPrice": 25.49
     },
     {
@@ -313177,11 +313565,11 @@
       "date": "2026-08-26+15:40",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 5,
-      "occupancy": 1.47,
-      "totalAvailableSeatCount": 334,
+      "totalSeatSold": 7,
+      "occupancy": 2.06,
+      "totalAvailableSeatCount": 332,
       "totalSeatCount": 339,
-      "grossRevenueUSD": 74.95,
+      "grossRevenueUSD": 104.93,
       "adultTicketPrice": 14.99
     },
     {
@@ -315685,11 +316073,11 @@
       "date": "2026-08-26+18:00",
       "format": "Dolby Cinema",
       "language": "Unknown",
-      "totalSeatSold": 12,
-      "occupancy": 7.55,
-      "totalAvailableSeatCount": 147,
+      "totalSeatSold": 14,
+      "occupancy": 8.81,
+      "totalAvailableSeatCount": 145,
       "totalSeatCount": 159,
-      "grossRevenueUSD": 293.88,
+      "grossRevenueUSD": 342.86,
       "adultTicketPrice": 24.49
     },
     {
@@ -316027,10 +316415,12 @@
       "date": "2026-08-26+10:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 4,
+      "occupancy": 3.12,
+      "totalAvailableSeatCount": 124,
+      "totalSeatCount": 128,
+      "grossRevenueUSD": 50.0,
+      "adultTicketPrice": 12.5
     },
     {
       "state": "CA",
@@ -316043,10 +316433,12 @@
       "date": "2026-08-26+13:50",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 2,
+      "occupancy": 1.56,
+      "totalAvailableSeatCount": 126,
+      "totalSeatCount": 128,
+      "grossRevenueUSD": 25.0,
+      "adultTicketPrice": 12.5
     },
     {
       "state": "CA",
@@ -316059,10 +316451,12 @@
       "date": "2026-08-26+17:10",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 21,
+      "occupancy": 16.41,
+      "totalAvailableSeatCount": 107,
+      "totalSeatCount": 128,
+      "grossRevenueUSD": 262.5,
+      "adultTicketPrice": 12.5
     },
     {
       "state": "CA",
@@ -316075,10 +316469,12 @@
       "date": "2026-08-26+20:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 12,
+      "occupancy": 9.38,
+      "totalAvailableSeatCount": 116,
+      "totalSeatCount": 128,
+      "grossRevenueUSD": 189.0,
+      "adultTicketPrice": 15.75
     },
     {
       "state": "CA",
@@ -316253,10 +316649,12 @@
       "date": "2026-08-26+12:20",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 21,
+      "totalSeatCount": 21,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 24.0
     },
     {
       "state": "CA",
@@ -316269,10 +316667,12 @@
       "date": "2026-08-26+14:15",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 21,
+      "totalSeatCount": 21,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 24.0
     },
     {
       "state": "CA",
@@ -316285,10 +316685,12 @@
       "date": "2026-08-26+15:40",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 21,
+      "totalSeatCount": 21,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 24.0
     },
     {
       "state": "CA",
@@ -316319,10 +316721,12 @@
       "date": "2026-08-26+10:55",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 3,
+      "occupancy": 1.91,
+      "totalAvailableSeatCount": 154,
+      "totalSeatCount": 157,
+      "grossRevenueUSD": 48.0,
+      "adultTicketPrice": 16.0
     },
     {
       "state": "CA",
@@ -316353,10 +316757,12 @@
       "date": "2026-08-26+14:15",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 157,
+      "totalSeatCount": 157,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 16.0
     },
     {
       "state": "CA",
@@ -316387,10 +316793,12 @@
       "date": "2026-08-26+20:55",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 7,
+      "occupancy": 4.46,
+      "totalAvailableSeatCount": 150,
+      "totalSeatCount": 157,
+      "grossRevenueUSD": 136.5,
+      "adultTicketPrice": 19.5
     },
     {
       "state": "CA",
@@ -316403,10 +316811,12 @@
       "date": "2026-08-26+11:25",
       "format": "ScreenX",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 112,
+      "totalSeatCount": 112,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 17.5
     },
     {
       "state": "CA",
@@ -316419,10 +316829,12 @@
       "date": "2026-08-26+14:45",
       "format": "ScreenX",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 5.36,
+      "totalAvailableSeatCount": 106,
+      "totalSeatCount": 112,
+      "grossRevenueUSD": 105.0,
+      "adultTicketPrice": 17.5
     },
     {
       "state": "CA",
@@ -316453,10 +316865,12 @@
       "date": "2026-08-26+21:25",
       "format": "ScreenX",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 6,
+      "occupancy": 5.36,
+      "totalAvailableSeatCount": 106,
+      "totalSeatCount": 112,
+      "grossRevenueUSD": 126.0,
+      "adultTicketPrice": 21.0
     },
     {
       "state": "CA",
@@ -316559,10 +316973,12 @@
       "date": "2026-08-26+20:25",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 123,
+      "totalSeatCount": 123,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 16.0
     },
     {
       "state": "CA",
@@ -316791,11 +317207,11 @@
       "date": "2026-08-26+15:00",
       "format": "IMAX",
       "language": "Unknown",
-      "totalSeatSold": 13,
-      "occupancy": 10.32,
-      "totalAvailableSeatCount": 113,
+      "totalSeatSold": 14,
+      "occupancy": 11.11,
+      "totalAvailableSeatCount": 112,
       "totalSeatCount": 126,
-      "grossRevenueUSD": 298.87,
+      "grossRevenueUSD": 321.86,
       "adultTicketPrice": 22.99
     },
     {
@@ -316827,11 +317243,11 @@
       "date": "2026-08-26+22:00",
       "format": "IMAX",
       "language": "Unknown",
-      "totalSeatSold": 8,
-      "occupancy": 6.35,
-      "totalAvailableSeatCount": 118,
+      "totalSeatSold": 11,
+      "occupancy": 8.73,
+      "totalAvailableSeatCount": 115,
       "totalSeatCount": 126,
-      "grossRevenueUSD": 215.92,
+      "grossRevenueUSD": 296.89,
       "adultTicketPrice": 26.99
     },
     {
@@ -318933,11 +319349,11 @@
       "date": "2026-08-26+19:10",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 22,
-      "occupancy": 7.59,
-      "totalAvailableSeatCount": 268,
+      "totalSeatSold": 21,
+      "occupancy": 7.24,
+      "totalAvailableSeatCount": 269,
       "totalSeatCount": 290,
-      "grossRevenueUSD": 450.78,
+      "grossRevenueUSD": 430.29,
       "adultTicketPrice": 20.49
     },
     {
@@ -319095,11 +319511,11 @@
       "date": "2026-08-26+11:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 7,
-      "occupancy": 3.29,
-      "totalAvailableSeatCount": 206,
+      "totalSeatSold": 10,
+      "occupancy": 4.69,
+      "totalAvailableSeatCount": 203,
       "totalSeatCount": 213,
-      "grossRevenueUSD": 84.0,
+      "grossRevenueUSD": 120.0,
       "adultTicketPrice": 12.0
     },
     {
@@ -319503,11 +319919,11 @@
       "date": "2026-08-26+12:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 1,
-      "occupancy": 0.52,
-      "totalAvailableSeatCount": 193,
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 194,
       "totalSeatCount": 194,
-      "grossRevenueUSD": 13.49,
+      "grossRevenueUSD": 0.0,
       "adultTicketPrice": 13.49
     },
     {
@@ -323627,11 +324043,11 @@
       "date": "2026-08-26+18:30",
       "format": "Dolby Cinema",
       "language": "Unknown",
-      "totalSeatSold": 16,
-      "occupancy": 10.67,
-      "totalAvailableSeatCount": 134,
+      "totalSeatSold": 20,
+      "occupancy": 13.33,
+      "totalAvailableSeatCount": 130,
       "totalSeatCount": 150,
-      "grossRevenueUSD": 343.84,
+      "grossRevenueUSD": 429.8,
       "adultTicketPrice": 21.49
     },
     {
@@ -324365,11 +324781,11 @@
       "date": "2026-08-26+19:10",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 9,
-      "occupancy": 15.52,
-      "totalAvailableSeatCount": 49,
+      "totalSeatSold": 12,
+      "occupancy": 20.69,
+      "totalAvailableSeatCount": 46,
       "totalSeatCount": 58,
-      "grossRevenueUSD": 123.75,
+      "grossRevenueUSD": 165.0,
       "adultTicketPrice": 13.75
     },
     {
@@ -327283,11 +327699,11 @@
       "date": "2026-08-26+12:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 4.82,
-      "totalAvailableSeatCount": 79,
+      "totalSeatSold": 6,
+      "occupancy": 7.23,
+      "totalAvailableSeatCount": 77,
       "totalSeatCount": 83,
-      "grossRevenueUSD": 47.0,
+      "grossRevenueUSD": 70.5,
       "adultTicketPrice": 11.75
     },
     {
@@ -329257,11 +329673,11 @@
       "date": "2026-08-26+12:20",
       "format": "Cinemark XD",
       "language": "Unknown",
-      "totalSeatSold": 0,
-      "occupancy": 0.0,
-      "totalAvailableSeatCount": 76,
+      "totalSeatSold": 1,
+      "occupancy": 1.32,
+      "totalAvailableSeatCount": 75,
       "totalSeatCount": 76,
-      "grossRevenueUSD": 0.0,
+      "grossRevenueUSD": 15.25,
       "adultTicketPrice": 15.25
     },
     {
@@ -329311,11 +329727,11 @@
       "date": "2026-08-26+10:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 4,
-      "occupancy": 5.97,
-      "totalAvailableSeatCount": 63,
+      "totalSeatSold": 2,
+      "occupancy": 2.99,
+      "totalAvailableSeatCount": 65,
       "totalSeatCount": 67,
-      "grossRevenueUSD": 47.0,
+      "grossRevenueUSD": 23.5,
       "adultTicketPrice": 11.75
     },
     {
@@ -332261,11 +332677,11 @@
       "date": "2026-08-26+19:15",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 1.41,
-      "totalAvailableSeatCount": 140,
+      "totalSeatSold": 3,
+      "occupancy": 2.11,
+      "totalAvailableSeatCount": 139,
       "totalSeatCount": 142,
-      "grossRevenueUSD": 26.98,
+      "grossRevenueUSD": 40.47,
       "adultTicketPrice": 13.49
     },
     {
@@ -339407,11 +339823,11 @@
       "date": "2026-08-26+10:30",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 12,
-      "occupancy": 7.06,
-      "totalAvailableSeatCount": 158,
+      "totalSeatSold": 9,
+      "occupancy": 5.29,
+      "totalAvailableSeatCount": 161,
       "totalSeatCount": 170,
-      "grossRevenueUSD": 171.24,
+      "grossRevenueUSD": 128.43,
       "adultTicketPrice": 14.27
     },
     {
@@ -339425,11 +339841,11 @@
       "date": "2026-08-26+13:00",
       "format": "Standard",
       "language": "Unknown",
-      "totalSeatSold": 2,
-      "occupancy": 0.71,
-      "totalAvailableSeatCount": 279,
+      "totalSeatSold": 4,
+      "occupancy": 1.42,
+      "totalAvailableSeatCount": 277,
       "totalSeatCount": 281,
-      "grossRevenueUSD": 28.54,
+      "grossRevenueUSD": 57.08,
       "adultTicketPrice": 14.27
     },
     {
@@ -340327,11 +340743,11 @@
       "date": "2026-08-26+13:50",
       "format": "4DX",
       "language": "Unknown",
-      "totalSeatSold": 29,
-      "occupancy": 29.0,
-      "totalAvailableSeatCount": 71,
+      "totalSeatSold": 35,
+      "occupancy": 35.0,
+      "totalAvailableSeatCount": 65,
       "totalSeatCount": 100,
-      "grossRevenueUSD": 852.31,
+      "grossRevenueUSD": 1028.65,
       "adultTicketPrice": 29.39
     },
     {
@@ -343549,6 +343965,672 @@
       "totalSeatCount": 291,
       "grossRevenueUSD": 75.96,
       "adultTicketPrice": 18.99
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78746",
+      "theater_name": "AMC Barton Creek Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560925892,
+      "date": "2026-08-26+18:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "totalSeatSold": 18,
+      "occupancy": 13.53,
+      "totalAvailableSeatCount": 115,
+      "totalSeatCount": 133,
+      "grossRevenueUSD": 389.52,
+      "adultTicketPrice": 21.64
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78746",
+      "theater_name": "AMC Barton Creek Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560925894,
+      "date": "2026-08-26+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 5,
+      "occupancy": 5.62,
+      "totalAvailableSeatCount": 84,
+      "totalSeatCount": 89,
+      "grossRevenueUSD": 84.9,
+      "adultTicketPrice": 16.98
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78746",
+      "theater_name": "AMC Barton Creek Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557072290,
+      "date": "2026-08-26+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 89,
+      "totalSeatCount": 89,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 20.02
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78746",
+      "theater_name": "AMC Barton Creek Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557072292,
+      "date": "2026-08-26+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 9,
+      "occupancy": 10.11,
+      "totalAvailableSeatCount": 80,
+      "totalSeatCount": 89,
+      "grossRevenueUSD": 136.26,
+      "adultTicketPrice": 15.14
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78746",
+      "theater_name": "AMC Barton Creek Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560925901,
+      "date": "2026-08-26+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 69,
+      "totalSeatCount": 69,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 15.14
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85027",
+      "theater_name": "AMC Deer Valley 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562110445,
+      "date": "2026-08-26+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 241,
+      "totalSeatCount": 241,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 14.17
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558987170,
+      "date": "2026-08-26+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 5,
+      "occupancy": 4.95,
+      "totalAvailableSeatCount": 96,
+      "totalSeatCount": 101,
+      "grossRevenueUSD": 85.95,
+      "adultTicketPrice": 17.19
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558987171,
+      "date": "2026-08-26+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 3,
+      "occupancy": 5.17,
+      "totalAvailableSeatCount": 55,
+      "totalSeatCount": 58,
+      "grossRevenueUSD": 51.57,
+      "adultTicketPrice": 17.19
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558987172,
+      "date": "2026-08-26+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 15,
+      "occupancy": 25.86,
+      "totalAvailableSeatCount": 43,
+      "totalSeatCount": 58,
+      "grossRevenueUSD": 322.35,
+      "adultTicketPrice": 21.49
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558987173,
+      "date": "2026-08-26+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 1,
+      "occupancy": 2.38,
+      "totalAvailableSeatCount": 41,
+      "totalSeatCount": 42,
+      "grossRevenueUSD": 21.49,
+      "adultTicketPrice": 21.49
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994211,
+      "date": "2026-08-26+18:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "totalSeatSold": 22,
+      "occupancy": 10.95,
+      "totalAvailableSeatCount": 179,
+      "totalSeatCount": 201,
+      "grossRevenueUSD": 571.78,
+      "adultTicketPrice": 25.99
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994197,
+      "date": "2026-08-26+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 63,
+      "totalSeatCount": 63,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 20.69
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994186,
+      "date": "2026-08-26+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 2,
+      "occupancy": 2.56,
+      "totalAvailableSeatCount": 76,
+      "totalSeatCount": 78,
+      "grossRevenueUSD": 41.38,
+      "adultTicketPrice": 20.69
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994198,
+      "date": "2026-08-26+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 4,
+      "occupancy": 6.35,
+      "totalAvailableSeatCount": 59,
+      "totalSeatCount": 63,
+      "grossRevenueUSD": 82.76,
+      "adultTicketPrice": 20.69
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994188,
+      "date": "2026-08-26+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 78,
+      "totalSeatCount": 78,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 24.49
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994199,
+      "date": "2026-08-26+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 7,
+      "occupancy": 11.11,
+      "totalAvailableSeatCount": 56,
+      "totalSeatCount": 63,
+      "grossRevenueUSD": 171.43,
+      "adultTicketPrice": 24.49
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994187,
+      "date": "2026-08-26+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 78,
+      "totalSeatCount": 78,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 24.49
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994202,
+      "date": "2026-08-26+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 11,
+      "occupancy": 17.46,
+      "totalAvailableSeatCount": 52,
+      "totalSeatCount": 63,
+      "grossRevenueUSD": 167.09,
+      "adultTicketPrice": 15.19
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557621868,
+      "date": "2026-08-26+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 2,
+      "occupancy": 1.75,
+      "totalAvailableSeatCount": 112,
+      "totalSeatCount": 114,
+      "grossRevenueUSD": 30.38,
+      "adultTicketPrice": 15.19
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994196,
+      "date": "2026-08-26+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 4,
+      "occupancy": 6.56,
+      "totalAvailableSeatCount": 57,
+      "totalSeatCount": 61,
+      "grossRevenueUSD": 60.76,
+      "adultTicketPrice": 15.19
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994200,
+      "date": "2026-08-26+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 4,
+      "occupancy": 6.35,
+      "totalAvailableSeatCount": 59,
+      "totalSeatCount": 63,
+      "grossRevenueUSD": 75.96,
+      "adultTicketPrice": 18.99
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557621870,
+      "date": "2026-08-26+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 9,
+      "occupancy": 7.89,
+      "totalAvailableSeatCount": 105,
+      "totalSeatCount": 114,
+      "grossRevenueUSD": 170.91,
+      "adultTicketPrice": 18.99
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994195,
+      "date": "2026-08-26+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 4,
+      "occupancy": 6.56,
+      "totalAvailableSeatCount": 57,
+      "totalSeatCount": 61,
+      "grossRevenueUSD": 75.96,
+      "adultTicketPrice": 18.99
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994201,
+      "date": "2026-08-26+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 8,
+      "occupancy": 12.7,
+      "totalAvailableSeatCount": 55,
+      "totalSeatCount": 63,
+      "grossRevenueUSD": 151.92,
+      "adultTicketPrice": 18.99
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 557621869,
+      "date": "2026-08-26+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 2,
+      "occupancy": 1.75,
+      "totalAvailableSeatCount": 112,
+      "totalSeatCount": 114,
+      "grossRevenueUSD": 37.98,
+      "adultTicketPrice": 18.99
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560994193,
+      "date": "2026-08-26+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 61,
+      "totalSeatCount": 61,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 18.99
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018852,
+      "date": "2026-08-26+18:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "totalSeatSold": 41,
+      "occupancy": 35.04,
+      "totalAvailableSeatCount": 76,
+      "totalSeatCount": 117,
+      "grossRevenueUSD": 1106.59,
+      "adultTicketPrice": 26.99
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018860,
+      "date": "2026-08-26+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 7,
+      "occupancy": 7.78,
+      "totalAvailableSeatCount": 83,
+      "totalSeatCount": 90,
+      "grossRevenueUSD": 156.73,
+      "adultTicketPrice": 22.39
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018859,
+      "date": "2026-08-26+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 4,
+      "occupancy": 4.44,
+      "totalAvailableSeatCount": 86,
+      "totalSeatCount": 90,
+      "grossRevenueUSD": 105.96,
+      "adultTicketPrice": 26.49
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018858,
+      "date": "2026-08-26+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 2,
+      "occupancy": 2.22,
+      "totalAvailableSeatCount": 88,
+      "totalSeatCount": 90,
+      "grossRevenueUSD": 52.98,
+      "adultTicketPrice": 26.49
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018855,
+      "date": "2026-08-26+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 7,
+      "occupancy": 7.07,
+      "totalAvailableSeatCount": 92,
+      "totalSeatCount": 99,
+      "grossRevenueUSD": 114.73,
+      "adultTicketPrice": 16.39
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018865,
+      "date": "2026-08-26+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 9,
+      "occupancy": 10.34,
+      "totalAvailableSeatCount": 78,
+      "totalSeatCount": 87,
+      "grossRevenueUSD": 147.51,
+      "adultTicketPrice": 16.39
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018856,
+      "date": "2026-08-26+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 99,
+      "totalSeatCount": 99,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 20.49
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018864,
+      "date": "2026-08-26+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 11,
+      "occupancy": 12.64,
+      "totalAvailableSeatCount": 76,
+      "totalSeatCount": 87,
+      "grossRevenueUSD": 225.39,
+      "adultTicketPrice": 20.49
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561018857,
+      "date": "2026-08-26+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 12,
+      "occupancy": 12.12,
+      "totalAvailableSeatCount": 87,
+      "totalSeatCount": 99,
+      "grossRevenueUSD": 245.88,
+      "adultTicketPrice": 20.49
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561349978,
+      "date": "2026-08-26+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 87,
+      "totalSeatCount": 87,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 20.49
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561349977,
+      "date": "2026-08-26+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "totalSeatSold": 0,
+      "occupancy": 0.0,
+      "totalAvailableSeatCount": 65,
+      "totalSeatCount": 65,
+      "grossRevenueUSD": 0.0,
+      "adultTicketPrice": 20.49
     }
   ]
 }
