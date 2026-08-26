@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 02:17:33 PM",
+  "last_updated": "2026-08-26 03:17:29 PM",
   "errors": [
     {
       "state": "MA",
@@ -22175,102 +22175,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 560206510,
-      "date": "2026-08-26+12:20",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 560206511,
-      "date": "2026-08-26+15:40",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 560206512,
-      "date": "2026-08-26+15:40",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 560848899,
-      "date": "2026-08-26+11:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 559259277,
-      "date": "2026-08-26+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 560848886,
-      "date": "2026-08-26+13:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
