@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 04:48:45 AM",
+  "last_updated": "2026-08-26 06:23:20 AM",
   "errors": [
     {
       "state": "MA",
@@ -792,22 +792,6 @@
       "theater_name": "AMC South Bay Center 12",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 560924912,
-      "date": "2026-08-25+21:55",
-      "format": "IMAX",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Dorchester",
-      "zip": "02125",
-      "theater_name": "AMC South Bay Center 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 560924949,
       "date": "2026-08-25+13:45",
       "format": "Standard",
@@ -826,22 +810,6 @@
       "chainCode": "AMC",
       "showtime_id": 560924948,
       "date": "2026-08-25+17:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Dorchester",
-      "zip": "02125",
-      "theater_name": "AMC South Bay Center 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560924947,
-      "date": "2026-08-25+20:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -890,22 +858,6 @@
       "chainCode": "AMC",
       "showtime_id": 556700615,
       "date": "2026-08-25+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Dorchester",
-      "zip": "02125",
-      "theater_name": "AMC South Bay Center 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 556700618,
-      "date": "2026-08-25+21:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -21234,22 +21186,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Harvey",
-      "zip": "70058",
-      "theater_name": "AMC Westbank Palace 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561097900,
-      "date": "2026-08-25+21:00",
-      "format": "IMAX",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
       "state": "NE",
       "city": "Cozard",
       "zip": "69130",
@@ -21754,22 +21690,6 @@
       "chainCode": "AMC",
       "showtime_id": 560546028,
       "date": "2026-08-25+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Addison",
-      "zip": "75254",
-      "theater_name": "AMC Village on the Parkway 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560546029,
-      "date": "2026-08-25+21:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -24467,38 +24387,6 @@
     },
     {
       "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 560749658,
-      "date": "2026-08-25+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 560749654,
-      "date": "2026-08-25+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Sebastopol",
       "zip": "95472",
       "theater_name": "Rialto Cinemas Sebastopol",
@@ -26591,6 +26479,438 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "West Hartford",
+      "zip": "06107",
+      "theater_name": "Cinépolis West Hartford",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 561699105,
+      "date": "2026-08-25+18:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "RI",
+      "city": "Warwick",
+      "zip": "02886",
+      "theater_name": "Apple Cinemas Warwick",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 561191637,
+      "date": "2026-08-25+13:00",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "RI",
+      "city": "Warwick",
+      "zip": "02886",
+      "theater_name": "Apple Cinemas Warwick",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 561191631,
+      "date": "2026-08-25+16:00",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "RI",
+      "city": "Warwick",
+      "zip": "02886",
+      "theater_name": "Apple Cinemas Warwick",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 561191654,
+      "date": "2026-08-25+19:00",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561689661,
+      "date": "2026-08-25+10:30",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561689662,
+      "date": "2026-08-25+13:55",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561689641,
+      "date": "2026-08-25+17:20",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561689646,
+      "date": "2026-08-25+11:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561689631,
+      "date": "2026-08-25+10:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561689632,
+      "date": "2026-08-25+14:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561689658,
+      "date": "2026-08-25+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561689659,
+      "date": "2026-08-25+18:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Lancaster",
+      "zip": "17601",
+      "theater_name": "Reel Cinemas Lancaster",
+      "chainName": "Reel Cinemas",
+      "chainCode": "REEL",
+      "showtime_id": 561818220,
+      "date": "2026-08-25+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "High Point",
+      "zip": "27265",
+      "theater_name": "AMC High Point 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561953084,
+      "date": "2026-08-25+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561831802,
+      "date": "2026-08-25+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Pell City",
+      "zip": "35125",
+      "theater_name": "Pell City Premiere LUX Cinertainment",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 561697509,
+      "date": "2026-08-25+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Pell City",
+      "zip": "35125",
+      "theater_name": "Pell City Premiere LUX Cinertainment",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 561697493,
+      "date": "2026-08-25+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Pell City",
+      "zip": "35125",
+      "theater_name": "Pell City Premiere LUX Cinertainment",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 561697495,
+      "date": "2026-08-25+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Pell City",
+      "zip": "35125",
+      "theater_name": "Pell City Premiere LUX Cinertainment",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 561697492,
+      "date": "2026-08-25+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Pell City",
+      "zip": "35125",
+      "theater_name": "Pell City Premiere LUX Cinertainment",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 561697494,
+      "date": "2026-08-25+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Pell City",
+      "zip": "35125",
+      "theater_name": "Pell City Premiere LUX Cinertainment",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 561697491,
+      "date": "2026-08-25+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561730121,
+      "date": "2026-08-25+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago Heights",
+      "zip": "60411",
+      "theater_name": "Marcus Chicago Heights Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 561879096,
+      "date": "2026-08-25+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Country Club Hills",
+      "zip": "60478",
+      "theater_name": "Marcus Country Club Hills Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 561879098,
+      "date": "2026-08-25+18:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Scottsdale",
+      "zip": "85251",
+      "theater_name": "Harkins Camelview 14 at Fashion Square",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 561800332,
+      "date": "2026-08-25+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Martinez",
+      "zip": "94553",
+      "theater_name": "Contra Costa Cinema",
+      "chainName": "Contra Costa Cinema",
+      "chainCode": "CCC",
+      "showtime_id": 562007342,
+      "date": "2026-08-25+12:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Martinez",
+      "zip": "94553",
+      "theater_name": "Contra Costa Cinema",
+      "chainName": "Contra Costa Cinema",
+      "chainCode": "CCC",
+      "showtime_id": 562007343,
+      "date": "2026-08-25+15:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
