@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27 03:01:16 AM",
+  "last_updated": "2026-08-27 08:01:40 AM",
   "errors": [
     {
       "state": "MA",
@@ -25631,6 +25631,678 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Framingham",
+      "zip": "01701",
+      "theater_name": "AMC Framingham 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562114027,
+      "date": "2026-08-26+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NH",
+      "city": "Hooksett",
+      "zip": "03106",
+      "theater_name": "Apple Cinemas Hooksett IMAX",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 561617198,
+      "date": "2026-08-26+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562118384,
+      "date": "2026-08-26+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Easton",
+      "zip": "18045",
+      "theater_name": "Regal Northampton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 562130965,
+      "date": "2026-08-26+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Richmond",
+      "zip": "23230",
+      "theater_name": "BTM CINEMAS MOVIELAND AT BOULEVARD SQUARE",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 561140582,
+      "date": "2026-08-26+20:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "St. Clairsville",
+      "zip": "43950",
+      "theater_name": "Golden Ticket St. Clairsville + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562124494,
+      "date": "2026-08-26+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "St. Clairsville",
+      "zip": "43950",
+      "theater_name": "Golden Ticket St. Clairsville + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562124495,
+      "date": "2026-08-26+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "St. Clairsville",
+      "zip": "43950",
+      "theater_name": "Golden Ticket St. Clairsville + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562124496,
+      "date": "2026-08-26+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago Heights",
+      "zip": "60411",
+      "theater_name": "Marcus Chicago Heights Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 562113981,
+      "date": "2026-08-26+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Aberdeen",
+      "zip": "57401",
+      "theater_name": "Golden Ticket Cinemas Aberdeen 9",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562138085,
+      "date": "2026-08-26+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Belleville",
+      "zip": "62220",
+      "theater_name": "Lincoln Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562136932,
+      "date": "2026-08-26+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Belleville",
+      "zip": "62220",
+      "theater_name": "Lincoln Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562136931,
+      "date": "2026-08-26+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088059,
+      "date": "2026-08-26+12:20",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088060,
+      "date": "2026-08-26+12:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559775540,
+      "date": "2026-08-26+12:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088071,
+      "date": "2026-08-26+12:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559775541,
+      "date": "2026-08-26+18:40",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088061,
+      "date": "2026-08-26+15:40",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088062,
+      "date": "2026-08-26+15:40",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559775544,
+      "date": "2026-08-26+15:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559775543,
+      "date": "2026-08-26+15:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088082,
+      "date": "2026-08-26+11:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559775537,
+      "date": "2026-08-26+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088097,
+      "date": "2026-08-26+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088083,
+      "date": "2026-08-26+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559775538,
+      "date": "2026-08-26+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 561088102,
+      "date": "2026-08-26+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 562114738,
+      "date": "2026-08-26+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Brigham City",
+      "zip": "84302",
+      "theater_name": "Capitol Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 560803839,
+      "date": "2026-08-26+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Battle Ground",
+      "zip": "98604",
+      "theater_name": "Battle Ground Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 560641210,
+      "date": "2026-08-26+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Battle Ground",
+      "zip": "98604",
+      "theater_name": "Battle Ground Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 560641211,
+      "date": "2026-08-26+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Battle Ground",
+      "zip": "98604",
+      "theater_name": "Battle Ground Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 560641212,
+      "date": "2026-08-26+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560793820,
+      "date": "2026-08-26+11:25",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560793821,
+      "date": "2026-08-26+18:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560793833,
+      "date": "2026-08-26+11:25",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560793834,
+      "date": "2026-08-26+18:15",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560793835,
+      "date": "2026-08-26+14:50",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 560793836,
+      "date": "2026-08-26+14:50",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559356137,
+      "date": "2026-08-26+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559356138,
+      "date": "2026-08-26+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559356139,
+      "date": "2026-08-26+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 559356136,
+      "date": "2026-08-26+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
       }
     }
   ]
