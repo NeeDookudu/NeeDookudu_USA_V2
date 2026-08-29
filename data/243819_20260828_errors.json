@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29 02:09:45 AM",
+  "last_updated": "2026-08-29 08:34:40 AM",
   "errors": [
     {
       "state": "MA",
@@ -1562,22 +1562,6 @@
       "chainCode": "AMC",
       "showtime_id": 561431837,
       "date": "2026-08-28+20:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Stony Brook",
-      "zip": "11790",
-      "theater_name": "AMC Loews Stony Brook 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561431838,
-      "date": "2026-08-28+23:25",
       "format": "Dolby Cinema",
       "language": "Unknown",
       "error": {
@@ -21251,22 +21235,6 @@
     },
     {
       "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85044",
-      "theater_name": "AMC Ahwatukee 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561987513,
-      "date": "2026-08-28+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "AZ",
       "city": "Safford",
       "zip": "85546",
       "theater_name": "Victory Theatre",
@@ -25681,6 +25649,454 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19104",
+      "theater_name": "Cinemark University City Penn 6",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 562267624,
+      "date": "2026-08-28+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Morgantown",
+      "zip": "26501",
+      "theater_name": "AMC Morgantown 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561932223,
+      "date": "2026-08-28+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Morgantown",
+      "zip": "26501",
+      "theater_name": "AMC Morgantown 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561932222,
+      "date": "2026-08-28+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Morgantown",
+      "zip": "26501",
+      "theater_name": "AMC Morgantown 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561932221,
+      "date": "2026-08-28+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Morgantown",
+      "zip": "26501",
+      "theater_name": "AMC Morgantown 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561932220,
+      "date": "2026-08-28+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Morgantown",
+      "zip": "26501",
+      "theater_name": "AMC Morgantown 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561932219,
+      "date": "2026-08-28+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Lenoir",
+      "zip": "28645",
+      "theater_name": "Golden Ticket Cinemas Lenoir Twin",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562268734,
+      "date": "2026-08-28+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Lenoir",
+      "zip": "28645",
+      "theater_name": "Golden Ticket Cinemas Lenoir Twin",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562268736,
+      "date": "2026-08-28+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Lenoir",
+      "zip": "28645",
+      "theater_name": "Golden Ticket Cinemas Lenoir Twin",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562268738,
+      "date": "2026-08-28+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Lenoir",
+      "zip": "28645",
+      "theater_name": "Golden Ticket Cinemas Lenoir Twin",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562268701,
+      "date": "2026-08-28+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561986719,
+      "date": "2026-08-28+15:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561986718,
+      "date": "2026-08-28+22:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561986761,
+      "date": "2026-08-28+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561986762,
+      "date": "2026-08-28+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561986763,
+      "date": "2026-08-28+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561986764,
+      "date": "2026-08-28+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816780,
+      "date": "2026-08-28+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816779,
+      "date": "2026-08-28+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816778,
+      "date": "2026-08-28+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559816777,
+      "date": "2026-08-28+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Milan",
+      "zip": "38358",
+      "theater_name": "Ritz 3 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562282019,
+      "date": "2026-08-28+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40207",
+      "theater_name": "Cinemark Mall St. Matthews and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 562283147,
+      "date": "2026-08-28+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pleasanton",
+      "zip": "78064",
+      "theater_name": "Plestex 4 Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562278778,
+      "date": "2026-08-28+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85033",
+      "theater_name": "America Cinemas Phoenix",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562262828,
+      "date": "2026-08-28+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Rolling Hills Estates",
+      "zip": "90274",
+      "theater_name": "Regal Promenade",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561903597,
+      "date": "2026-08-28+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562029014,
+      "date": "2026-08-28+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562029015,
+      "date": "2026-08-28+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562029016,
+      "date": "2026-08-28+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
