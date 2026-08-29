@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29 03:22:35 PM",
+  "last_updated": "2026-08-29 08:29:39 PM",
   "errors": [
     {
       "state": "MA",
@@ -5282,22 +5282,6 @@
       }
     },
     {
-      "state": "PA",
-      "city": "Warrington",
-      "zip": "18976",
-      "theater_name": "Regal Warrington Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561975279,
-      "date": "2026-08-29+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "MD",
       "city": "Temple Hills",
       "zip": "20748",
@@ -5535,22 +5519,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Richmond",
-      "zip": "23235",
-      "theater_name": "CMX CinéBistro Stony Point",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 561742181,
-      "date": "2026-08-29+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -6255,102 +6223,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561666599,
-      "date": "2026-08-29+11:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561666601,
-      "date": "2026-08-29+12:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561666606,
-      "date": "2026-08-29+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561666603,
-      "date": "2026-08-29+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561666608,
-      "date": "2026-08-29+18:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561666609,
-      "date": "2026-08-29+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -9944,88 +9816,8 @@
       "theater_name": "AMC Ritz 13",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 561955534,
-      "date": "2026-08-29+12:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Columbus",
-      "zip": "31904",
-      "theater_name": "AMC Ritz 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561955536,
-      "date": "2026-08-29+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Columbus",
-      "zip": "31904",
-      "theater_name": "AMC Ritz 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 561955573,
       "date": "2026-08-29+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Columbus",
-      "zip": "31904",
-      "theater_name": "AMC Ritz 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561955568,
-      "date": "2026-08-29+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Columbus",
-      "zip": "31904",
-      "theater_name": "AMC Ritz 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561955579,
-      "date": "2026-08-29+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Columbus",
-      "zip": "31904",
-      "theater_name": "AMC Ritz 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561955535,
-      "date": "2026-08-29+18:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -12995,118 +12787,6 @@
     },
     {
       "state": "TN",
-      "city": "Bartlett",
-      "zip": "38133",
-      "theater_name": "Malco Stage Cinema",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 561815925,
-      "date": "2026-08-29+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38133",
-      "theater_name": "Malco Stage Cinema",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 561815932,
-      "date": "2026-08-29+13:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38133",
-      "theater_name": "Malco Stage Cinema",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 561815926,
-      "date": "2026-08-29+15:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38133",
-      "theater_name": "Malco Stage Cinema",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 561815933,
-      "date": "2026-08-29+16:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38133",
-      "theater_name": "Malco Stage Cinema",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 561815927,
-      "date": "2026-08-29+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38133",
-      "theater_name": "Malco Stage Cinema",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 561815934,
-      "date": "2026-08-29+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38133",
-      "theater_name": "Malco Stage Cinema",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 561815928,
-      "date": "2026-08-29+21:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
       "city": "Humboldt",
       "zip": "38343",
       "theater_name": "Plaza Theatre of Humboldt",
@@ -14943,22 +14623,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Willoughby",
-      "zip": "44094",
-      "theater_name": "Regal Willoughby Commons",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561755368,
-      "date": "2026-08-29+15:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -17315,22 +16979,6 @@
     },
     {
       "state": "MI",
-      "city": "Grand Rapids",
-      "zip": "49512",
-      "theater_name": "Phoenix Theatres Woodland Mall",
-      "chainName": "Phoenix Theatres - MI",
-      "chainCode": "PTMI",
-      "showtime_id": 562050305,
-      "date": "2026-08-29+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "MI",
       "city": "Grand Haven",
       "zip": "49417",
       "theater_name": "GQT Grand Haven 9",
@@ -18719,150 +18367,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 561590687,
-      "date": "2026-08-29+18:15",
-      "format": "XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 561590688,
-      "date": "2026-08-29+21:25",
-      "format": "XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 561685464,
-      "date": "2026-08-29+10:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 561685535,
-      "date": "2026-08-29+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 561685534,
-      "date": "2026-08-29+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 561685536,
-      "date": "2026-08-29+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 561685533,
-      "date": "2026-08-29+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 561685537,
-      "date": "2026-08-29+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 561685532,
-      "date": "2026-08-29+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -22648,22 +22152,6 @@
       "theater_name": "Cinemark Roanoke and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 562037080,
-      "date": "2026-08-29+20:25",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Roanoke",
-      "zip": "76262",
-      "theater_name": "Cinemark Roanoke and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
       "showtime_id": 562037074,
       "date": "2026-08-29+12:25",
       "format": "D-Box",
@@ -23519,22 +23007,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83642",
-      "theater_name": "Cinemark Majestic Cinemas",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 561501015,
-      "date": "2026-08-29+13:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -24947,22 +24419,6 @@
     },
     {
       "state": "CA",
-      "city": "San Diego",
-      "zip": "92108",
-      "theater_name": "AMC Fashion Valley 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561532335,
-      "date": "2026-08-29+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Bonsall",
       "zip": "92003",
       "theater_name": "River Village Cinema is D'Place",
@@ -26093,54 +25549,6 @@
       "showtime_id": 562052824,
       "date": "2026-08-29+21:20",
       "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "HI",
-      "city": "Honolulu",
-      "zip": "96816",
-      "theater_name": "Consolidated Theatres Kahala",
-      "chainName": "Consolidated Theatres",
-      "chainCode": "CONS",
-      "showtime_id": 561586849,
-      "date": "2026-08-29+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "HI",
-      "city": "Honolulu",
-      "zip": "96816",
-      "theater_name": "Consolidated Theatres Kahala",
-      "chainName": "Consolidated Theatres",
-      "chainCode": "CONS",
-      "showtime_id": 561586723,
-      "date": "2026-08-29+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "HI",
-      "city": "Honolulu",
-      "zip": "96816",
-      "theater_name": "Consolidated Theatres Kahala",
-      "chainName": "Consolidated Theatres",
-      "chainCode": "CONS",
-      "showtime_id": 561586730,
-      "date": "2026-08-29+18:40",
-      "format": "Standard",
       "language": "Unknown",
       "error": {
         "status": 410,
@@ -27537,6 +26945,54 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 562111474,
+      "date": "2026-08-29+09:25",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 562111455,
+      "date": "2026-08-29+09:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 562111461,
+      "date": "2026-08-29+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
