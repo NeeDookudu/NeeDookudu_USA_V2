@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29 11:41:49 PM",
+  "last_updated": "2026-08-30 03:02:08 AM",
   "errors": [
     {
       "state": "MA",
@@ -26988,6 +26988,102 @@
       "chainCode": "CMGI",
       "showtime_id": 562310333,
       "date": "2026-08-29+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Woodbridge",
+      "zip": "22192",
+      "theater_name": "AMC Potomac Mills 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562317353,
+      "date": "2026-08-29+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561673715,
+      "date": "2026-08-29+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema, an AMC Theatre",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559885129,
+      "date": "2026-08-29+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pittsburg",
+      "zip": "94565",
+      "theater_name": "Maya Pittsburg 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 561517792,
+      "date": "2026-08-29+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pittsburg",
+      "zip": "94565",
+      "theater_name": "Maya Pittsburg 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 561517960,
+      "date": "2026-08-29+12:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pittsburg",
+      "zip": "94565",
+      "theater_name": "Maya Pittsburg 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 561517961,
+      "date": "2026-08-29+13:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
