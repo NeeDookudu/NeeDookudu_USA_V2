@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30 03:02:08 AM",
+  "last_updated": "2026-08-30 05:22:05 AM",
   "errors": [
     {
       "state": "MA",
@@ -22611,38 +22611,6 @@
     },
     {
       "state": "CO",
-      "city": "Denver",
-      "zip": "80206",
-      "theater_name": "AMC DINE-IN Cherry Creek 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560576244,
-      "date": "2026-08-29+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Denver",
-      "zip": "80206",
-      "theater_name": "AMC DINE-IN Cherry Creek 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560576245,
-      "date": "2026-08-29+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CO",
       "city": "Woodland Park",
       "zip": "80863",
       "theater_name": "Gold Hill Theatres",
@@ -27084,6 +27052,70 @@
       "chainCode": "MAYA",
       "showtime_id": 561517961,
       "date": "2026-08-29+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Lewisburg",
+      "zip": "24901",
+      "theater_name": "Lewisburg Cinema 8",
+      "chainName": "Greater Huntington Theatre Corp",
+      "chainCode": "GHTC",
+      "showtime_id": 561686338,
+      "date": "2026-08-29+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Milan",
+      "zip": "38358",
+      "theater_name": "Ritz 3 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562321873,
+      "date": "2026-08-29+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Bolingbrook",
+      "zip": "60440",
+      "theater_name": "Star Cinema Grill Bolingbrook",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562323346,
+      "date": "2026-08-29+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Broken Arrow",
+      "zip": "74012",
+      "theater_name": "Cinemark Broken Arrow",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 562310664,
+      "date": "2026-08-29+10:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
