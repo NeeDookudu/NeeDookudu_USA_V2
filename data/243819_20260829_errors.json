@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29 08:29:39 PM",
+  "last_updated": "2026-08-29 11:41:49 PM",
   "errors": [
     {
       "state": "MA",
@@ -17986,22 +17986,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Niles",
-      "zip": "60714",
-      "theater_name": "AMC Niles 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561432852,
-      "date": "2026-08-29+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
       "state": "WI",
       "city": "Marinette",
       "zip": "54143",
@@ -22632,22 +22616,6 @@
       "theater_name": "AMC DINE-IN Cherry Creek 8",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 560576243,
-      "date": "2026-08-29+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Denver",
-      "zip": "80206",
-      "theater_name": "AMC DINE-IN Cherry Creek 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 560576244,
       "date": "2026-08-29+18:30",
       "format": "Standard",
@@ -26988,6 +26956,38 @@
       "chainCode": "CNMK",
       "showtime_id": 562111461,
       "date": "2026-08-29+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Jesup",
+      "zip": "31545",
+      "theater_name": "Jesup Drive-In",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 562311385,
+      "date": "2026-08-29+22:17",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 562310333,
+      "date": "2026-08-29+10:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
