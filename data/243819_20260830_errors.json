@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30 11:55:49 PM",
+  "last_updated": "2026-08-31 03:22:06 AM",
   "errors": [
     {
       "state": "MA",
@@ -24693,6 +24693,70 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Southport",
+      "zip": "28461",
+      "theater_name": "Surf Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 562344544,
+      "date": "2026-08-30+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Paris",
+      "zip": "38242",
+      "theater_name": "Parisian Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562343812,
+      "date": "2026-08-30+16:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Paris",
+      "zip": "38242",
+      "theater_name": "Parisian Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562343813,
+      "date": "2026-08-30+13:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 562342850,
+      "date": "2026-08-30+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
