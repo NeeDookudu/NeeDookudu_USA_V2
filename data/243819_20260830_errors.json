@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30 02:25:43 PM",
+  "last_updated": "2026-08-30 07:48:25 PM",
   "errors": [
     {
       "state": "MA",
@@ -671,118 +671,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561998074,
-      "date": "2026-08-30+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561998085,
-      "date": "2026-08-30+15:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561998086,
-      "date": "2026-08-30+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561998046,
-      "date": "2026-08-30+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561998047,
-      "date": "2026-08-30+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561998044,
-      "date": "2026-08-30+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561998057,
-      "date": "2026-08-30+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -7076,38 +6964,6 @@
     {
       "state": "NC",
       "city": "Raleigh",
-      "zip": "27613",
-      "theater_name": "Cinemark Bistro Raleigh",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 561501897,
-      "date": "2026-08-30+14:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27613",
-      "theater_name": "Cinemark Bistro Raleigh",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 561501885,
-      "date": "2026-08-30+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
       "zip": "27615",
       "theater_name": "Triangle Cinemas",
       "chainName": "RTSIND",
@@ -11715,22 +11571,6 @@
     },
     {
       "state": "AL",
-      "city": "Huntsville",
-      "zip": "35806",
-      "theater_name": "Cinemark Bridge Street and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 561604665,
-      "date": "2026-08-30+11:35",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "AL",
       "city": "Florence",
       "zip": "35630",
       "theater_name": "AMC CLASSIC Florence 12",
@@ -14195,22 +14035,6 @@
     },
     {
       "state": "IN",
-      "city": "Noblesville",
-      "zip": "46060",
-      "theater_name": "Emagine Noblesville",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 561924669,
-      "date": "2026-08-30+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "IN",
       "city": "Mooresville",
       "zip": "46158",
       "theater_name": "Torchlight Cinema",
@@ -15887,22 +15711,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Ames",
-      "zip": "50010",
-      "theater_name": "Cinemark Ames Movies 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 562019582,
-      "date": "2026-08-30+19:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -20866,22 +20674,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79928",
-      "theater_name": "Flix Brewhouse East El Paso",
-      "chainName": "Flix Brewhouse",
-      "chainCode": "FLIX",
-      "showtime_id": 561540750,
-      "date": "2026-08-30+14:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
       "state": "CO",
       "city": "Woodland Park",
       "zip": "80863",
@@ -22095,54 +21887,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Santa Fe",
-      "zip": "87507",
-      "theater_name": "Regal Santa Fe Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561902161,
-      "date": "2026-08-30+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Santa Fe",
-      "zip": "87507",
-      "theater_name": "Regal Santa Fe Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561902157,
-      "date": "2026-08-30+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Santa Fe",
-      "zip": "87507",
-      "theater_name": "Regal Santa Fe Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561902156,
-      "date": "2026-08-30+21:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -24213,22 +23957,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Seattle",
-      "zip": "98101",
-      "theater_name": "AMC Pacific Place 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 559224741,
-      "date": "2026-08-30+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
