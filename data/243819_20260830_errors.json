@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30 07:48:25 PM",
+  "last_updated": "2026-08-30 11:55:49 PM",
   "errors": [
     {
       "state": "MA",
@@ -9999,22 +9999,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Pensacola",
-      "zip": "32503",
-      "theater_name": "AMC Bayou 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562098645,
-      "date": "2026-08-30+13:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -24624,6 +24608,86 @@
       "chainCode": "CATT",
       "showtime_id": 561516583,
       "date": "2026-08-30+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Fort Oglethorpe",
+      "zip": "30742",
+      "theater_name": "AMC CLASSIC Battlefield 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562341527,
+      "date": "2026-08-30+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Apopka",
+      "zip": "32703",
+      "theater_name": "Regal Wekiva Riverwalk",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 562342065,
+      "date": "2026-08-30+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 562342344,
+      "date": "2026-08-30+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 562342349,
+      "date": "2026-08-30+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 562342354,
+      "date": "2026-08-30+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
