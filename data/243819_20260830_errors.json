@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31 03:22:06 AM",
+  "last_updated": "2026-08-31 05:40:07 AM",
   "errors": [
     {
       "state": "MA",
@@ -24757,6 +24757,22 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Willmar",
+      "zip": "56201",
+      "theater_name": "Golden Ticket Cinemas Kandi 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562349435,
+      "date": "2026-08-30+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
