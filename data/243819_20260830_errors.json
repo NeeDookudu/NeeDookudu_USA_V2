@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31 05:40:07 AM",
+  "last_updated": "2026-08-31 12:00:42 PM",
   "errors": [
     {
       "state": "MA",
@@ -24773,6 +24773,262 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562349665,
+      "date": "2026-08-30+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549728,
+      "date": "2026-08-30+18:40",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549726,
+      "date": "2026-08-30+22:15",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549708,
+      "date": "2026-08-30+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549707,
+      "date": "2026-08-30+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549706,
+      "date": "2026-08-30+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549705,
+      "date": "2026-08-30+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549724,
+      "date": "2026-08-30+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549755,
+      "date": "2026-08-30+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549723,
+      "date": "2026-08-30+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561549722,
+      "date": "2026-08-30+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561929932,
+      "date": "2026-08-30+11:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560118392,
+      "date": "2026-08-30+12:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560118391,
+      "date": "2026-08-30+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560118393,
+      "date": "2026-08-30+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Burbank",
+      "zip": "91501",
+      "theater_name": "AMC Burbank Town Center 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560118390,
+      "date": "2026-08-30+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
