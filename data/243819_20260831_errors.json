@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01 02:10:35 AM",
+  "last_updated": "2026-09-01 05:50:40 AM",
   "errors": [
     {
       "state": "MA",
@@ -4127,22 +4127,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Columbia",
-      "zip": "21044",
-      "theater_name": "AMC Columbia 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561959550,
-      "date": "2026-08-31+21:15",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -19786,6 +19770,22 @@
       "chainCode": "CNMK",
       "showtime_id": 561838280,
       "date": "2026-08-31+14:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Williamsburg",
+      "zip": "23185",
+      "theater_name": "Movie Tavern Williamsburg",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 562128119,
+      "date": "2026-08-31+18:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
