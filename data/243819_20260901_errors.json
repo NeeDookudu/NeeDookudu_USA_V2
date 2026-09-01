@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01 09:01:08 PM",
+  "last_updated": "2026-09-02 12:40:25 AM",
   "errors": [
     {
       "state": "MA",
@@ -5578,38 +5578,6 @@
       "chainCode": "MRQC",
       "showtime_id": 562039179,
       "date": "2026-09-01+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562039176,
-      "date": "2026-09-01+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562039180,
-      "date": "2026-09-01+15:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -18959,6 +18927,280 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Falmouth",
+      "zip": "02563",
+      "theater_name": "Entertainment Cinemas - Falmouth Luxury Cinemas",
+      "chainName": "Entertainment Luxury Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 562731745,
+      "date": "2026-09-01+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562731745/seat-map/'"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Falmouth",
+      "zip": "02563",
+      "theater_name": "Entertainment Cinemas - Falmouth Luxury Cinemas",
+      "chainName": "Entertainment Luxury Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 562731746,
+      "date": "2026-09-01+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562731746/seat-map/'"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Falmouth",
+      "zip": "02563",
+      "theater_name": "Entertainment Cinemas - Falmouth Luxury Cinemas",
+      "chainName": "Entertainment Luxury Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 562731747,
+      "date": "2026-09-01+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Yonkers",
+      "zip": "10704",
+      "theater_name": "Cross County Multiplex Cinemas",
+      "chainName": "National Amusement",
+      "chainCode": "NATA",
+      "showtime_id": 561783503,
+      "date": "2026-09-01+14:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561783503/seat-map/'"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hialeah",
+      "zip": "33012",
+      "theater_name": "AMC Hialeah 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562734044,
+      "date": "2026-09-01+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562734044/seat-map/'"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Holland",
+      "zip": "49423",
+      "theater_name": "Sperry's Moviehouse Holland",
+      "chainName": "Sperry's Moviehouse",
+      "chainCode": "SPER",
+      "showtime_id": 562722464,
+      "date": "2026-09-01+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Holland",
+      "zip": "49423",
+      "theater_name": "Sperry's Moviehouse Holland",
+      "chainName": "Sperry's Moviehouse",
+      "chainCode": "SPER",
+      "showtime_id": 562722467,
+      "date": "2026-09-01+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562722467/seat-map/'"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Holland",
+      "zip": "49423",
+      "theater_name": "Sperry's Moviehouse Holland",
+      "chainName": "Sperry's Moviehouse",
+      "chainCode": "SPER",
+      "showtime_id": 562722468,
+      "date": "2026-09-01+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562722468/seat-map/'"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Le Mars",
+      "zip": "51031",
+      "theater_name": "Royal 3 Cinema",
+      "chainName": "Three Rau's Entertainment",
+      "chainCode": "RAU",
+      "showtime_id": 562731749,
+      "date": "2026-09-01+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 562806354,
+      "date": "2026-09-01+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 562806356,
+      "date": "2026-09-01+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562806356/seat-map/'"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Logan",
+      "zip": "84341",
+      "theater_name": "Megaplex Logan at University",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 562780876,
+      "date": "2026-09-01+20:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562780876/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Inglewood",
+      "zip": "90303",
+      "theater_name": "Cinépolis Luxury Cinemas Inglewood IMAX",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 562805708,
+      "date": "2026-09-01+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562805708/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561647593,
+      "date": "2026-09-01+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561647593/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561647597,
+      "date": "2026-09-01+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561647597/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561647596,
+      "date": "2026-09-01+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561647596/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561647592,
+      "date": "2026-09-01+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561647592/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 561647595,
+      "date": "2026-09-01+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561647595/seat-map/'"
       }
     }
   ]
