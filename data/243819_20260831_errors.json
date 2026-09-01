@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01 05:50:40 AM",
+  "last_updated": "2026-09-01 11:27:41 AM",
   "errors": [
     {
       "state": "MA",
@@ -19786,6 +19786,22 @@
       "chainCode": "MRCS",
       "showtime_id": 562128119,
       "date": "2026-08-31+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Huntsville",
+      "zip": "35806",
+      "theater_name": "Cinemark Bridge Street and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 562446715,
+      "date": "2026-08-31+22:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
