@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 03:06:05 AM",
+  "last_updated": "2026-09-03 05:19:12 AM",
   "errors": [
     {
       "state": "MA",
@@ -18435,22 +18435,6 @@
     },
     {
       "state": "MN",
-      "city": "Albert Lea",
-      "zip": "56007",
-      "theater_name": "Mall Cinema 7 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 561454112,
-      "date": "2026-09-02+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MN",
       "city": "St. Paul",
       "zip": "55116",
       "theater_name": "Mann Highland Theatre",
@@ -18679,6 +18663,1350 @@
       "chainCode": "CNMK",
       "showtime_id": 562094194,
       "date": "2026-09-02+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Mamaroneck",
+      "zip": "10543",
+      "theater_name": "Mamaroneck Cinemas",
+      "chainName": "Brielle",
+      "chainCode": "BRIE",
+      "showtime_id": 561362129,
+      "date": "2026-09-02+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Mamaroneck",
+      "zip": "10543",
+      "theater_name": "Mamaroneck Cinemas",
+      "chainName": "Brielle",
+      "chainCode": "BRIE",
+      "showtime_id": 561362128,
+      "date": "2026-09-02+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Mamaroneck",
+      "zip": "10543",
+      "theater_name": "Mamaroneck Cinemas",
+      "chainName": "Brielle",
+      "chainCode": "BRIE",
+      "showtime_id": 561387007,
+      "date": "2026-09-02+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cranford",
+      "zip": "07016",
+      "theater_name": "Cranford Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561470258,
+      "date": "2026-09-02+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cranford",
+      "zip": "07016",
+      "theater_name": "Cranford Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561470257,
+      "date": "2026-09-02+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561399201,
+      "date": "2026-09-02+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561399216,
+      "date": "2026-09-02+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561399202,
+      "date": "2026-09-02+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11231",
+      "theater_name": "Cobble Hill Cinema",
+      "chainName": "Brielle",
+      "chainCode": "BRIE",
+      "showtime_id": 561362734,
+      "date": "2026-09-02+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11231",
+      "theater_name": "Cobble Hill Cinema",
+      "chainName": "Brielle",
+      "chainCode": "BRIE",
+      "showtime_id": 561362733,
+      "date": "2026-09-02+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Queens",
+      "zip": "11375",
+      "theater_name": "Cinemart Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561571946,
+      "date": "2026-09-02+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Queens",
+      "zip": "11375",
+      "theater_name": "Cinemart Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561571949,
+      "date": "2026-09-02+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 561439960,
+      "date": "2026-09-02+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 561439969,
+      "date": "2026-09-02+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 561439946,
+      "date": "2026-09-02+13:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 561439947,
+      "date": "2026-09-02+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 561439948,
+      "date": "2026-09-02+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Du Bois",
+      "zip": "15801",
+      "theater_name": "Golden Ticket Cinemas DuBois 5",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562148567,
+      "date": "2026-09-02+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Du Bois",
+      "zip": "15801",
+      "theater_name": "Golden Ticket Cinemas DuBois 5",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562148568,
+      "date": "2026-09-02+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Du Bois",
+      "zip": "15801",
+      "theater_name": "Golden Ticket Cinemas DuBois 5",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562148571,
+      "date": "2026-09-02+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Willow Street",
+      "zip": "17584",
+      "theater_name": "Kendig Square Movies 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561396967,
+      "date": "2026-09-02+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Willow Street",
+      "zip": "17584",
+      "theater_name": "Kendig Square Movies 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561396968,
+      "date": "2026-09-02+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Willow Street",
+      "zip": "17584",
+      "theater_name": "Kendig Square Movies 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561396969,
+      "date": "2026-09-02+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Willow Street",
+      "zip": "17584",
+      "theater_name": "Kendig Square Movies 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561396970,
+      "date": "2026-09-02+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Baltimore",
+      "zip": "21212",
+      "theater_name": "Senator Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561381536,
+      "date": "2026-09-02+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Baltimore",
+      "zip": "21212",
+      "theater_name": "Senator Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561381535,
+      "date": "2026-09-02+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Bluefield",
+      "zip": "24701",
+      "theater_name": "Golden Ticket Bluefield 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561851493,
+      "date": "2026-09-02+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Bluefield",
+      "zip": "24701",
+      "theater_name": "Golden Ticket Bluefield 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561851491,
+      "date": "2026-09-02+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Bluefield",
+      "zip": "24701",
+      "theater_name": "Golden Ticket Bluefield 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561851490,
+      "date": "2026-09-02+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27410",
+      "theater_name": "Golden Ticket Ale House + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561811354,
+      "date": "2026-09-02+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27410",
+      "theater_name": "Golden Ticket Ale House + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561811355,
+      "date": "2026-09-02+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27410",
+      "theater_name": "Golden Ticket Ale House + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561811356,
+      "date": "2026-09-02+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27410",
+      "theater_name": "Golden Ticket Ale House + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561811358,
+      "date": "2026-09-02+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27410",
+      "theater_name": "Golden Ticket Ale House + ELITE",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561811359,
+      "date": "2026-09-02+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 562397340,
+      "date": "2026-09-02+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 562397341,
+      "date": "2026-09-02+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 562397342,
+      "date": "2026-09-02+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Albemarle",
+      "zip": "28001",
+      "theater_name": "Eastgate Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 561877295,
+      "date": "2026-09-02+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Albemarle",
+      "zip": "28001",
+      "theater_name": "Eastgate Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 561877296,
+      "date": "2026-09-02+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Dublin",
+      "zip": "31021",
+      "theater_name": "Golden Ticket Cinemas Dublin 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561601708,
+      "date": "2026-09-02+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Dublin",
+      "zip": "31021",
+      "theater_name": "Golden Ticket Cinemas Dublin 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561601707,
+      "date": "2026-09-02+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hollywood",
+      "zip": "33024",
+      "theater_name": "Flippers Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561396514,
+      "date": "2026-09-02+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hollywood",
+      "zip": "33024",
+      "theater_name": "Flippers Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562374720,
+      "date": "2026-09-02+13:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hollywood",
+      "zip": "33024",
+      "theater_name": "Flippers Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561396527,
+      "date": "2026-09-02+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hollywood",
+      "zip": "33024",
+      "theater_name": "Flippers Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562374719,
+      "date": "2026-09-02+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hollywood",
+      "zip": "33024",
+      "theater_name": "Flippers Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561396539,
+      "date": "2026-09-02+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Fort Lauderdale",
+      "zip": "33304",
+      "theater_name": "Paradigm Cinemas: Gateway Fort Lauderdale",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561681853,
+      "date": "2026-09-02+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Fort Lauderdale",
+      "zip": "33304",
+      "theater_name": "Paradigm Cinemas: Gateway Fort Lauderdale",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561681842,
+      "date": "2026-09-02+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Fort Lauderdale",
+      "zip": "33304",
+      "theater_name": "Paradigm Cinemas: Gateway Fort Lauderdale",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561681848,
+      "date": "2026-09-02+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bartlett",
+      "zip": "38134",
+      "theater_name": "Hollywood 20 Cinema",
+      "chainName": "Bartlett Cinemas",
+      "chainCode": "BART",
+      "showtime_id": 562891449,
+      "date": "2026-09-02+16:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bartlett",
+      "zip": "38134",
+      "theater_name": "Hollywood 20 Cinema",
+      "chainName": "Bartlett Cinemas",
+      "chainCode": "BART",
+      "showtime_id": 562188824,
+      "date": "2026-09-02+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bartlett",
+      "zip": "38134",
+      "theater_name": "Hollywood 20 Cinema",
+      "chainName": "Bartlett Cinemas",
+      "chainCode": "BART",
+      "showtime_id": 562188821,
+      "date": "2026-09-02+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bartlett",
+      "zip": "38134",
+      "theater_name": "Hollywood 20 Cinema",
+      "chainName": "Bartlett Cinemas",
+      "chainCode": "BART",
+      "showtime_id": 562277326,
+      "date": "2026-09-02+17:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Meridian",
+      "zip": "39301",
+      "theater_name": "Golden Ticket Cinemas Meridian 9",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561672605,
+      "date": "2026-09-02+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Meridian",
+      "zip": "39301",
+      "theater_name": "Golden Ticket Cinemas Meridian 9",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561672596,
+      "date": "2026-09-02+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Meridian",
+      "zip": "39301",
+      "theater_name": "Golden Ticket Cinemas Meridian 9",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561672600,
+      "date": "2026-09-02+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Meridian",
+      "zip": "39301",
+      "theater_name": "Golden Ticket Cinemas Meridian 9",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561672597,
+      "date": "2026-09-02+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Laurel",
+      "zip": "39440",
+      "theater_name": "Southwest Theaters Sawmill Square 5",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 562012480,
+      "date": "2026-09-02+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cincinnati",
+      "zip": "45209",
+      "theater_name": "Cinemark Oakley Station and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563132547,
+      "date": "2026-09-02+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Ames",
+      "zip": "50010",
+      "theater_name": "North Grand Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561360982,
+      "date": "2026-09-02+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Menomonie",
+      "zip": "54751",
+      "theater_name": "Menomonie 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 561874392,
+      "date": "2026-09-02+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Aberdeen",
+      "zip": "57401",
+      "theater_name": "Golden Ticket Cinemas Aberdeen 9",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562128472,
+      "date": "2026-09-02+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Aberdeen",
+      "zip": "57401",
+      "theater_name": "Golden Ticket Cinemas Aberdeen 9",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 562128473,
+      "date": "2026-09-02+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561997728,
+      "date": "2026-09-02+10:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561997731,
+      "date": "2026-09-02+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561997730,
+      "date": "2026-09-02+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Scottsbluff",
+      "zip": "69361",
+      "theater_name": "Golden Ticket Cinemas Reel Lux 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561894947,
+      "date": "2026-09-02+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Scottsbluff",
+      "zip": "69361",
+      "theater_name": "Golden Ticket Cinemas Reel Lux 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 561894948,
+      "date": "2026-09-02+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Little Rock",
+      "zip": "72202",
+      "theater_name": "Riverdale 10 VIP Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561497708,
+      "date": "2026-09-02+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Little Rock",
+      "zip": "72202",
+      "theater_name": "Riverdale 10 VIP Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561497706,
+      "date": "2026-09-02+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Little Rock",
+      "zip": "72205",
+      "theater_name": "Film Alley Breckenridge",
+      "chainName": "Schulman Theatres",
+      "chainCode": "SCHM",
+      "showtime_id": 561435826,
+      "date": "2026-09-02+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Little Rock",
+      "zip": "72205",
+      "theater_name": "Film Alley Breckenridge",
+      "chainName": "Schulman Theatres",
+      "chainCode": "SCHM",
+      "showtime_id": 561435827,
+      "date": "2026-09-02+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Little Rock",
+      "zip": "72205",
+      "theater_name": "Film Alley Breckenridge",
+      "chainName": "Schulman Theatres",
+      "chainCode": "SCHM",
+      "showtime_id": 561435822,
+      "date": "2026-09-02+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Texas City",
+      "zip": "77591",
+      "theater_name": "Texas City Premiere LUX Cine 12 & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 562012748,
+      "date": "2026-09-02+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Texas City",
+      "zip": "77591",
+      "theater_name": "Texas City Premiere LUX Cine 12 & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 562012747,
+      "date": "2026-09-02+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Albuquerque",
+      "zip": "87109",
+      "theater_name": "Icon Cinema San Mateo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561571878,
+      "date": "2026-09-02+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Albuquerque",
+      "zip": "87109",
+      "theater_name": "Icon Cinema San Mateo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561571879,
+      "date": "2026-09-02+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pasadena",
+      "zip": "91106",
+      "theater_name": "Regency Academy 6 Theater",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 561572092,
+      "date": "2026-09-02+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pasadena",
+      "zip": "91106",
+      "theater_name": "Regency Academy 6 Theater",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 561572093,
+      "date": "2026-09-02+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fontana",
+      "zip": "92335",
+      "theater_name": "Regency Fontana 8",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 561503552,
+      "date": "2026-09-02+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fontana",
+      "zip": "92335",
+      "theater_name": "Regency Fontana 8",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 561503553,
+      "date": "2026-09-02+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fontana",
+      "zip": "92335",
+      "theater_name": "Regency Fontana 8",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 561503569,
+      "date": "2026-09-02+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Martinez",
+      "zip": "94553",
+      "theater_name": "Contra Costa Cinema",
+      "chainName": "Contra Costa Cinema",
+      "chainCode": "CCC",
+      "showtime_id": 562165761,
+      "date": "2026-09-02+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Martinez",
+      "zip": "94553",
+      "theater_name": "Contra Costa Cinema",
+      "chainName": "Contra Costa Cinema",
+      "chainCode": "CCC",
+      "showtime_id": 561524648,
+      "date": "2026-09-02+13:25",
       "format": "Standard",
       "language": "Unknown",
       "error": {
