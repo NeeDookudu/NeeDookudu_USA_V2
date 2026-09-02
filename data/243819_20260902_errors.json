@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 11:52:18 PM",
+  "last_updated": "2026-09-03 03:06:05 AM",
   "errors": [
     {
       "state": "MA",
@@ -5402,22 +5402,6 @@
       "chainCode": "AMC",
       "showtime_id": 561720239,
       "date": "2026-09-02+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28216",
-      "theater_name": "AMC Northlake 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561720238,
-      "date": "2026-09-02+19:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -14584,38 +14568,6 @@
       "theater_name": "Galaxy Grandscape",
       "chainName": "Galaxy Theatres",
       "chainCode": "GLXY",
-      "showtime_id": 561641046,
-      "date": "2026-09-02+18:00",
-      "format": "Sony Digital Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "The Colony",
-      "zip": "75056",
-      "theater_name": "Galaxy Grandscape",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 561641047,
-      "date": "2026-09-02+21:30",
-      "format": "Sony Digital Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "The Colony",
-      "zip": "75056",
-      "theater_name": "Galaxy Grandscape",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
       "showtime_id": 561641040,
       "date": "2026-09-02+12:00",
       "format": "Standard",
@@ -14666,38 +14618,6 @@
       "chainCode": "GLXY",
       "showtime_id": 561641041,
       "date": "2026-09-02+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "The Colony",
-      "zip": "75056",
-      "theater_name": "Galaxy Grandscape",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 561641042,
-      "date": "2026-09-02+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "The Colony",
-      "zip": "75056",
-      "theater_name": "Galaxy Grandscape",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 561641043,
-      "date": "2026-09-02+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -14810,38 +14730,6 @@
       "chainCode": "GLXY",
       "showtime_id": 561490559,
       "date": "2026-09-02+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78752",
-      "theater_name": "Galaxy Austin",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 561490560,
-      "date": "2026-09-02+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78752",
-      "theater_name": "Galaxy Austin",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 561490561,
-      "date": "2026-09-02+21:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -18753,21 +18641,6 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Memphis",
-      "zip": "38117",
-      "theater_name": "Malco Paradiso Cinema Grill & IMAX",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 563139407,
-      "date": "2026-09-02+19:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563139407/seat-map/'"
-      }
-    },
-    {
       "state": "NE",
       "city": "Bellevue",
       "zip": "68123",
@@ -18780,36 +18653,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563138806/seat-map/'"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Mt Prospect",
-      "zip": "60056",
-      "theater_name": "AMC Randhurst 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563134089,
-      "date": "2026-09-02+19:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563134089/seat-map/'"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Carbondale",
-      "zip": "62901",
-      "theater_name": "AMC University Place 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561412735,
-      "date": "2026-09-02+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561412735/seat-map/'"
       }
     },
     {
@@ -18828,93 +18671,19 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Carbondale",
-      "zip": "62901",
-      "theater_name": "AMC University Place 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561412729,
-      "date": "2026-09-02+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561412729/seat-map/'"
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Fayetteville",
-      "zip": "72703",
-      "theater_name": "Malco Razorback Cinema Grill & IMAX",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 563136476,
-      "date": "2026-09-02+18:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563136476/seat-map/'"
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Fayetteville",
-      "zip": "72703",
-      "theater_name": "Malco Razorback Cinema Grill & IMAX",
-      "chainName": "Malco Theatres 2",
-      "chainCode": "MALCO",
-      "showtime_id": 563136477,
-      "date": "2026-09-02+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563136477/seat-map/'"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77089",
-      "theater_name": "AMC Gulf Pointe 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563125505,
-      "date": "2026-09-02+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563125505/seat-map/'"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Taylorsville",
-      "zip": "84123",
-      "theater_name": "Regal Crossroads - Taylorsville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563142180,
-      "date": "2026-09-02+18:20",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563142180/seat-map/'"
-      }
-    },
-    {
       "state": "OR",
-      "city": "Medford",
-      "zip": "97501",
-      "theater_name": "Cinemark Tinseltown Medford 15",
+      "city": "Portland",
+      "zip": "97266",
+      "theater_name": "Cinemark Century Eastport Plaza 16",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 563128727,
-      "date": "2026-09-02+19:05",
+      "showtime_id": 562094194,
+      "date": "2026-09-02+12:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563128727/seat-map/'"
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
