@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 08:31:07 PM",
+  "last_updated": "2026-09-02 11:52:18 PM",
   "errors": [
     {
       "state": "MA",
@@ -18735,6 +18735,186 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38117",
+      "theater_name": "Malco Paradiso Cinema Grill & IMAX",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 563139406,
+      "date": "2026-09-02+16:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563139406/seat-map/'"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38117",
+      "theater_name": "Malco Paradiso Cinema Grill & IMAX",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 563139407,
+      "date": "2026-09-02+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563139407/seat-map/'"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Bellevue",
+      "zip": "68123",
+      "theater_name": "Marcus Twin Creek Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 563138806,
+      "date": "2026-09-02+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563138806/seat-map/'"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt Prospect",
+      "zip": "60056",
+      "theater_name": "AMC Randhurst 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563134089,
+      "date": "2026-09-02+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563134089/seat-map/'"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Carbondale",
+      "zip": "62901",
+      "theater_name": "AMC University Place 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561412735,
+      "date": "2026-09-02+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561412735/seat-map/'"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Carbondale",
+      "zip": "62901",
+      "theater_name": "AMC University Place 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561412736,
+      "date": "2026-09-02+13:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561412736/seat-map/'"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Carbondale",
+      "zip": "62901",
+      "theater_name": "AMC University Place 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 561412729,
+      "date": "2026-09-02+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561412729/seat-map/'"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fayetteville",
+      "zip": "72703",
+      "theater_name": "Malco Razorback Cinema Grill & IMAX",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 563136476,
+      "date": "2026-09-02+18:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563136476/seat-map/'"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fayetteville",
+      "zip": "72703",
+      "theater_name": "Malco Razorback Cinema Grill & IMAX",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 563136477,
+      "date": "2026-09-02+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563136477/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563125505,
+      "date": "2026-09-02+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563125505/seat-map/'"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Taylorsville",
+      "zip": "84123",
+      "theater_name": "Regal Crossroads - Taylorsville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 563142180,
+      "date": "2026-09-02+18:20",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563142180/seat-map/'"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563128727,
+      "date": "2026-09-02+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563128727/seat-map/'"
       }
     }
   ]
