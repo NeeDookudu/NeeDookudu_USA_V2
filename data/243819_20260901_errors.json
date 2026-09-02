@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 06:18:26 AM",
+  "last_updated": "2026-09-02 10:51:13 AM",
   "errors": [
     {
       "state": "MA",
@@ -20260,6 +20260,22 @@
       "chainCode": "CCC",
       "showtime_id": 561524695,
       "date": "2026-09-01+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "HI",
+      "city": "Kailua",
+      "zip": "96734",
+      "theater_name": "Kailua Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563072186,
+      "date": "2026-09-01+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
