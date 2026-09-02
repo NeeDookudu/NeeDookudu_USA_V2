@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 03:57:13 PM",
+  "last_updated": "2026-09-02 08:31:07 PM",
   "errors": [
     {
       "state": "MA",
@@ -403,22 +403,6 @@
     },
     {
       "state": "CT",
-      "city": "Plainville",
-      "zip": "06062",
-      "theater_name": "AMC Plainville 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561495104,
-      "date": "2026-09-02+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CT",
       "city": "Lisbon",
       "zip": "06351",
       "theater_name": "AMC CLASSIC Lisbon 12",
@@ -575,102 +559,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Somerville",
-      "zip": "02145",
-      "theater_name": "AMC Assembly Row 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561552715,
-      "date": "2026-09-02+15:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Somerville",
-      "zip": "02145",
-      "theater_name": "AMC Assembly Row 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561552716,
-      "date": "2026-09-02+18:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Somerville",
-      "zip": "02145",
-      "theater_name": "AMC Assembly Row 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561552718,
-      "date": "2026-09-02+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Somerville",
-      "zip": "02145",
-      "theater_name": "AMC Assembly Row 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561552717,
-      "date": "2026-09-02+17:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Somerville",
-      "zip": "02145",
-      "theater_name": "AMC Assembly Row 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561552719,
-      "date": "2026-09-02+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Somerville",
-      "zip": "02145",
-      "theater_name": "AMC Assembly Row 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 559265997,
-      "date": "2026-09-02+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
       }
     },
     {
@@ -1506,22 +1394,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "White Plains",
-      "zip": "10601",
-      "theater_name": "Apple Cinemas White Plains",
-      "chainName": "Apple Cinemas",
-      "chainCode": "APPL",
-      "showtime_id": 561925288,
-      "date": "2026-09-02+13:30",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
       "state": "NJ",
       "city": "Piscataway",
       "zip": "08854",
@@ -2210,22 +2082,6 @@
       }
     },
     {
-      "state": "NJ",
-      "city": "Mays Landing",
-      "zip": "08330",
-      "theater_name": "Regal Hamilton Commons",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561880894,
-      "date": "2026-09-02+16:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "DE",
       "city": "Rehoboth Beach",
       "zip": "19971",
@@ -2319,150 +2175,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Vineland",
-      "zip": "08360",
-      "theater_name": "Regal Cumberland Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562267049,
-      "date": "2026-09-02+14:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Manahawkin",
-      "zip": "08050",
-      "theater_name": "Regal Manahawkin",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561873761,
-      "date": "2026-09-02+14:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Wilmington",
-      "zip": "19803",
-      "theater_name": "Regal Brandywine Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561696800,
-      "date": "2026-09-02+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Flushing",
-      "zip": "11354",
-      "theater_name": "Regal Tangram",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561792925,
-      "date": "2026-09-02+11:30",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Flushing",
-      "zip": "11354",
-      "theater_name": "Regal Tangram",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561792926,
-      "date": "2026-09-02+22:10",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Flushing",
-      "zip": "11354",
-      "theater_name": "Regal Tangram",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561792913,
-      "date": "2026-09-02+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Flushing",
-      "zip": "11354",
-      "theater_name": "Regal Tangram",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561792914,
-      "date": "2026-09-02+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Flushing",
-      "zip": "11354",
-      "theater_name": "Regal Tangram",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561792916,
-      "date": "2026-09-02+22:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Flushing",
-      "zip": "11354",
-      "theater_name": "Regal Tangram",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561922898,
-      "date": "2026-09-02+19:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -4050,166 +3762,6 @@
       }
     },
     {
-      "state": "VA",
-      "city": "Ashburn",
-      "zip": "20147",
-      "theater_name": "AMC Loudoun Station 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561963085,
-      "date": "2026-09-02+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Ashburn",
-      "zip": "20147",
-      "theater_name": "AMC Loudoun Station 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561963099,
-      "date": "2026-09-02+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Ashburn",
-      "zip": "20147",
-      "theater_name": "AMC Loudoun Station 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561963098,
-      "date": "2026-09-02+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561922064,
-      "date": "2026-09-02+10:40",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561922061,
-      "date": "2026-09-02+20:30",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561922063,
-      "date": "2026-09-02+14:00",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561922058,
-      "date": "2026-09-02+12:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561922054,
-      "date": "2026-09-02+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561922053,
-      "date": "2026-09-02+19:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561922060,
-      "date": "2026-09-02+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "MD",
       "city": "Temple Hills",
       "zip": "20748",
@@ -4239,54 +3791,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Greenbelt",
-      "zip": "20770",
-      "theater_name": "AMC Academy 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561832714,
-      "date": "2026-09-02+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Greenbelt",
-      "zip": "20770",
-      "theater_name": "AMC Academy 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561832719,
-      "date": "2026-09-02+13:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Greenbelt",
-      "zip": "20770",
-      "theater_name": "AMC Academy 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561832721,
-      "date": "2026-09-02+19:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
       }
     },
     {
@@ -4435,86 +3939,6 @@
     },
     {
       "state": "VA",
-      "city": "Charlottesville",
-      "zip": "22901",
-      "theater_name": "Regal Stonefield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561875944,
-      "date": "2026-09-02+16:00",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Charlottesville",
-      "zip": "22901",
-      "theater_name": "Regal Stonefield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561875934,
-      "date": "2026-09-02+12:40",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Charlottesville",
-      "zip": "22901",
-      "theater_name": "Regal Stonefield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561875966,
-      "date": "2026-09-02+12:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Charlottesville",
-      "zip": "22901",
-      "theater_name": "Regal Stonefield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561875968,
-      "date": "2026-09-02+16:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Charlottesville",
-      "zip": "22901",
-      "theater_name": "Regal Stonefield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561875969,
-      "date": "2026-09-02+19:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
       "city": "Stauton",
       "zip": "24401",
       "theater_name": "Visulite Cinemas",
@@ -4559,86 +3983,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Suffolk",
-      "zip": "23435",
-      "theater_name": "Regal Harbour View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561849324,
-      "date": "2026-09-02+12:45",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Suffolk",
-      "zip": "23435",
-      "theater_name": "Regal Harbour View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561849308,
-      "date": "2026-09-02+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Suffolk",
-      "zip": "23435",
-      "theater_name": "Regal Harbour View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561849321,
-      "date": "2026-09-02+13:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Suffolk",
-      "zip": "23435",
-      "theater_name": "Regal Harbour View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561849312,
-      "date": "2026-09-02+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Suffolk",
-      "zip": "23435",
-      "theater_name": "Regal Harbour View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561849313,
-      "date": "2026-09-02+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -6723,182 +6067,6 @@
     },
     {
       "state": "SC",
-      "city": "Lexington",
-      "zip": "29072",
-      "theater_name": "Regal Northlake Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561715087,
-      "date": "2026-09-02+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Lexington",
-      "zip": "29072",
-      "theater_name": "Regal Northlake Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561715082,
-      "date": "2026-09-02+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Lexington",
-      "zip": "29072",
-      "theater_name": "Regal Northlake Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561715086,
-      "date": "2026-09-02+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29229",
-      "theater_name": "Regal Sandhill",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561810189,
-      "date": "2026-09-02+12:50",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29229",
-      "theater_name": "Regal Sandhill",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561810190,
-      "date": "2026-09-02+16:00",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29229",
-      "theater_name": "Regal Sandhill",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561810191,
-      "date": "2026-09-02+19:10",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29229",
-      "theater_name": "Regal Sandhill",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561810192,
-      "date": "2026-09-02+22:20",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29229",
-      "theater_name": "Regal Sandhill",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561810165,
-      "date": "2026-09-02+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29229",
-      "theater_name": "Regal Sandhill",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561810166,
-      "date": "2026-09-02+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29229",
-      "theater_name": "Regal Sandhill",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561810167,
-      "date": "2026-09-02+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29229",
-      "theater_name": "Regal Sandhill",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561810168,
-      "date": "2026-09-02+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
       "city": "Charleston",
       "zip": "29412",
       "theater_name": "Terrace Theater",
@@ -7155,22 +6323,6 @@
     },
     {
       "state": "GA",
-      "city": "Atlanta",
-      "zip": "30363",
-      "theater_name": "Regal Atlantic Station",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561733343,
-      "date": "2026-09-02+18:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "GA",
       "city": "Canton",
       "zip": "30114",
       "theater_name": "AMC CLASSIC Riverstone 15",
@@ -7311,38 +6463,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Newnan",
-      "zip": "30265",
-      "theater_name": "Regal Georgian",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562243367,
-      "date": "2026-09-02+13:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Newnan",
-      "zip": "30265",
-      "theater_name": "Regal Georgian",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562000563,
-      "date": "2026-09-02+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -8643,102 +7763,6 @@
     },
     {
       "state": "FL",
-      "city": "Miami Lakes",
-      "zip": "33014",
-      "theater_name": "CMX Miami Lakes 13",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 561704092,
-      "date": "2026-09-02+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Plantation",
-      "zip": "33324",
-      "theater_name": "Regal Broward",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561962179,
-      "date": "2026-09-02+21:25",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Plantation",
-      "zip": "33324",
-      "theater_name": "Regal Broward",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561962174,
-      "date": "2026-09-02+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Plantation",
-      "zip": "33324",
-      "theater_name": "Regal Broward",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561962168,
-      "date": "2026-09-02+17:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Plantation",
-      "zip": "33324",
-      "theater_name": "Regal Broward",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561962164,
-      "date": "2026-09-02+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Plantation",
-      "zip": "33324",
-      "theater_name": "Regal Broward",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561962170,
-      "date": "2026-09-02+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Miami",
       "zip": "33183",
       "theater_name": "Regal Kendall Village",
@@ -8760,216 +7784,8 @@
       "theater_name": "Regal Kendall Village",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "showtime_id": 561760424,
-      "date": "2026-09-02+12:45",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760435,
-      "date": "2026-09-02+13:20",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760434,
-      "date": "2026-09-02+16:40",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760433,
-      "date": "2026-09-02+19:55",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760427,
-      "date": "2026-09-02+11:45",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760426,
-      "date": "2026-09-02+21:40",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
       "showtime_id": 561760440,
       "date": "2026-09-02+09:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760446,
-      "date": "2026-09-02+11:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760441,
-      "date": "2026-09-02+12:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760447,
-      "date": "2026-09-02+15:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760442,
-      "date": "2026-09-02+16:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760439,
-      "date": "2026-09-02+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760443,
-      "date": "2026-09-02+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33183",
-      "theater_name": "Regal Kendall Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561760456,
-      "date": "2026-09-02+21:55",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -10707,38 +9523,6 @@
     },
     {
       "state": "OH",
-      "city": "Rocky River",
-      "zip": "44116",
-      "theater_name": "AMC Westwood Town Center 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561691342,
-      "date": "2026-09-02+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Rocky River",
-      "zip": "44116",
-      "theater_name": "AMC Westwood Town Center 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 561691341,
-      "date": "2026-09-02+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "OH",
       "city": "Mentor",
       "zip": "44060",
       "theater_name": "Atlas Cinema Great Lakes Stadium 16",
@@ -10943,22 +9727,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Beachwood",
-      "zip": "44122",
-      "theater_name": "Silverspot Cinema Pinecrest",
-      "chainName": "Silverspot Cinemas",
-      "chainCode": "SLVR",
-      "showtime_id": 562062849,
-      "date": "2026-09-02+19:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -11219,54 +9987,6 @@
     },
     {
       "state": "OH",
-      "city": "Springdale",
-      "zip": "45246",
-      "theater_name": "Showcase Cinema de Lux Springdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561770861,
-      "date": "2026-09-02+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Springdale",
-      "zip": "45246",
-      "theater_name": "Showcase Cinema de Lux Springdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561770867,
-      "date": "2026-09-02+12:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Springdale",
-      "zip": "45246",
-      "theater_name": "Showcase Cinema de Lux Springdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 561770869,
-      "date": "2026-09-02+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "OH",
       "city": "Hamilton",
       "zip": "45013",
       "theater_name": "AMC CLASSIC Hamilton 8",
@@ -11471,38 +10191,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Carmel",
-      "zip": "46033",
-      "theater_name": "Regal Village Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561761790,
-      "date": "2026-09-02+12:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Carmel",
-      "zip": "46033",
-      "theater_name": "Regal Village Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561761779,
-      "date": "2026-09-02+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -13251,38 +11939,6 @@
     },
     {
       "state": "WI",
-      "city": "Oshkosh",
-      "zip": "54902",
-      "theater_name": "Marcus Oshkosh Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 561534604,
-      "date": "2026-09-02+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Oshkosh",
-      "zip": "54902",
-      "theater_name": "Marcus Oshkosh Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 561534605,
-      "date": "2026-09-02+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "WI",
       "city": "Johnson Creek",
       "zip": "53038",
       "theater_name": "AMC CLASSIC Johnson Creek 12",
@@ -13615,54 +12271,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Edina",
-      "zip": "55424",
-      "theater_name": "Edina Cinema 4",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 561522847,
-      "date": "2026-09-02+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Edina",
-      "zip": "55424",
-      "theater_name": "Edina Cinema 4",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 561522848,
-      "date": "2026-09-02+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Edina",
-      "zip": "55424",
-      "theater_name": "Edina Cinema 4",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 561522849,
-      "date": "2026-09-02+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -15235,54 +13843,6 @@
     },
     {
       "state": "KS",
-      "city": "Lawrence",
-      "zip": "66046",
-      "theater_name": "Regal Southwind",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561920806,
-      "date": "2026-09-02+12:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "KS",
-      "city": "Lawrence",
-      "zip": "66046",
-      "theater_name": "Regal Southwind",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561920807,
-      "date": "2026-09-02+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "KS",
-      "city": "Lawrence",
-      "zip": "66046",
-      "theater_name": "Regal Southwind",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561920808,
-      "date": "2026-09-02+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "KS",
       "city": "Iola",
       "zip": "66749",
       "theater_name": "Sterling Six Cinemas",
@@ -15634,70 +14194,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Baton Rouge",
-      "zip": "70808",
-      "theater_name": "Movie Tavern Citiplace Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 562031883,
-      "date": "2026-09-02+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Port Arthur",
-      "zip": "77642",
-      "theater_name": "B&B Theatres Port Arthur Central Mall 10",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 561506255,
-      "date": "2026-09-02+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Lafayette",
-      "zip": "70508",
-      "theater_name": "The Grand 14 - Ambassador",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 561999405,
-      "date": "2026-09-02+15:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Lafayette",
-      "zip": "70508",
-      "theater_name": "The Grand 14 - Ambassador",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 561999413,
-      "date": "2026-09-02+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "AR",
       "city": "El Dorado",
       "zip": "71730",
@@ -15839,38 +14335,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Oklahoma City",
-      "zip": "73111",
-      "theater_name": "Cinemark Tinseltown Oklahoma City and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 561914751,
-      "date": "2026-09-02+15:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Oklahoma City",
-      "zip": "73111",
-      "theater_name": "Cinemark Tinseltown Oklahoma City and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 561914701,
-      "date": "2026-09-02+12:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -16079,70 +14543,6 @@
       "error": {
         "status": 500,
         "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Terrell",
-      "zip": "75160",
-      "theater_name": "Film Alley Terrell 8",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 561414123,
-      "date": "2026-09-02+12:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Terrell",
-      "zip": "75160",
-      "theater_name": "Film Alley Terrell 8",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 561414115,
-      "date": "2026-09-02+15:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Terrell",
-      "zip": "75160",
-      "theater_name": "Film Alley Terrell 8",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 561414114,
-      "date": "2026-09-02+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Terrell",
-      "zip": "75160",
-      "theater_name": "Film Alley Terrell 8",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 561414124,
-      "date": "2026-09-02+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -17087,70 +15487,6 @@
       "error": {
         "status": 0,
         "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Arvada",
-      "zip": "80002",
-      "theater_name": "Harkins Arvada 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 561950332,
-      "date": "2026-09-02+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Lakewood",
-      "zip": "80401",
-      "theater_name": "Regal UA Colorado Mills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562053673,
-      "date": "2026-09-02+14:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Lakewood",
-      "zip": "80401",
-      "theater_name": "Regal UA Colorado Mills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562053672,
-      "date": "2026-09-02+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Lakewood",
-      "zip": "80401",
-      "theater_name": "Regal UA Colorado Mills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562053671,
-      "date": "2026-09-02+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -18195,198 +16531,6 @@
     },
     {
       "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515466,
-      "date": "2026-09-02+12:15",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515465,
-      "date": "2026-09-02+15:40",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515463,
-      "date": "2026-09-02+19:15",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515464,
-      "date": "2026-09-02+22:50",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515468,
-      "date": "2026-09-02+22:10",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515475,
-      "date": "2026-09-02+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515484,
-      "date": "2026-09-02+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515485,
-      "date": "2026-09-02+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sherman Oaks",
-      "zip": "91403",
-      "theater_name": "Regal Sherman Oaks Galleria",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561515486,
-      "date": "2026-09-02+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "South Gate",
-      "zip": "90280",
-      "theater_name": "Regal Edwards South Gate",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561669867,
-      "date": "2026-09-02+11:55",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "South Gate",
-      "zip": "90280",
-      "theater_name": "Regal Edwards South Gate",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561669869,
-      "date": "2026-09-02+18:15",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "South Gate",
-      "zip": "90280",
-      "theater_name": "Regal Edwards South Gate",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561669948,
-      "date": "2026-09-02+15:45",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Torrance",
       "zip": "90503",
       "theater_name": "AMC Del Amo 18",
@@ -18399,38 +16543,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Westminster",
-      "zip": "92683",
-      "theater_name": "Regency Westminster 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 562086998,
-      "date": "2026-09-02+12:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Westminster",
-      "zip": "92683",
-      "theater_name": "Regency Westminster 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 562086980,
-      "date": "2026-09-02+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -18611,102 +16723,6 @@
     },
     {
       "state": "CA",
-      "city": "Aliso Viejo",
-      "zip": "92656",
-      "theater_name": "Regal Edwards Aliso Viejo",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561798790,
-      "date": "2026-09-02+13:40",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Aliso Viejo",
-      "zip": "92656",
-      "theater_name": "Regal Edwards Aliso Viejo",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561798793,
-      "date": "2026-09-02+17:10",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Aliso Viejo",
-      "zip": "92656",
-      "theater_name": "Regal Edwards Aliso Viejo",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561798785,
-      "date": "2026-09-02+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Aliso Viejo",
-      "zip": "92656",
-      "theater_name": "Regal Edwards Aliso Viejo",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561798784,
-      "date": "2026-09-02+15:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Aliso Viejo",
-      "zip": "92656",
-      "theater_name": "Regal Edwards Aliso Viejo",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561798783,
-      "date": "2026-09-02+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Aliso Viejo",
-      "zip": "92656",
-      "theater_name": "Regal Edwards Aliso Viejo",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561798782,
-      "date": "2026-09-02+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Dinuba",
       "zip": "93618",
       "theater_name": "Dinuba Cinema 6 is D'Place ",
@@ -18835,70 +16851,6 @@
     },
     {
       "state": "CA",
-      "city": "Bakersfield",
-      "zip": "93311",
-      "theater_name": "Regal Edwards Bakersfield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561572860,
-      "date": "2026-09-02+11:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Bakersfield",
-      "zip": "93311",
-      "theater_name": "Regal Edwards Bakersfield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561572866,
-      "date": "2026-09-02+14:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Bakersfield",
-      "zip": "93311",
-      "theater_name": "Regal Edwards Bakersfield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561572865,
-      "date": "2026-09-02+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Bakersfield",
-      "zip": "93311",
-      "theater_name": "Regal Edwards Bakersfield",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561572864,
-      "date": "2026-09-02+22:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Mammoth Lakes",
       "zip": "93546",
       "theater_name": "Minaret Cinemas is D'Place",
@@ -18995,182 +16947,6 @@
     },
     {
       "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501451,
-      "date": "2026-09-02+12:00",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501447,
-      "date": "2026-09-02+15:30",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501449,
-      "date": "2026-09-02+19:00",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501452,
-      "date": "2026-09-02+22:25",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561482695,
-      "date": "2026-09-02+15:00",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561482696,
-      "date": "2026-09-02+18:30",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501515,
-      "date": "2026-09-02+18:45",
-      "format": "4DX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501583,
-      "date": "2026-09-02+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501576,
-      "date": "2026-09-02+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501577,
-      "date": "2026-09-02+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94132",
-      "theater_name": "Regal Stonestown Galleria ScreenX, 4DX, & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561501582,
-      "date": "2026-09-02+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
       "city": "El Cerrito",
       "zip": "94530",
       "theater_name": "Rialto Cinemas Cerrito",
@@ -19231,214 +17007,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95823",
-      "theater_name": "Regal UA Laguna Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562333578,
-      "date": "2026-09-02+20:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600054,
-      "date": "2026-09-02+09:15",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600053,
-      "date": "2026-09-02+12:35",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600055,
-      "date": "2026-09-02+15:55",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600057,
-      "date": "2026-09-02+19:15",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600056,
-      "date": "2026-09-02+22:35",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600068,
-      "date": "2026-09-02+10:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600131,
-      "date": "2026-09-02+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600070,
-      "date": "2026-09-02+16:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561600069,
-      "date": "2026-09-02+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95834",
-      "theater_name": "Regal Natomas Marketplace ScreenX, 4DX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561669428,
-      "date": "2026-09-02+14:45",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95834",
-      "theater_name": "Regal Natomas Marketplace ScreenX, 4DX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561669429,
-      "date": "2026-09-02+18:10",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95834",
-      "theater_name": "Regal Natomas Marketplace ScreenX, 4DX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 561669420,
-      "date": "2026-09-02+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -19551,38 +17119,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Riverbank",
-      "zip": "95367",
-      "theater_name": "Galaxy Riverbank",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 561595403,
-      "date": "2026-09-02+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Riverbank",
-      "zip": "95367",
-      "theater_name": "Galaxy Riverbank",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 561595417,
-      "date": "2026-09-02+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -20762,6 +18298,438 @@
       "chainCode": "CATT",
       "showtime_id": 561527285,
       "date": "2026-09-02+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562039659,
+      "date": "2026-09-02+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562039660,
+      "date": "2026-09-02+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562039661,
+      "date": "2026-09-02+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562039662,
+      "date": "2026-09-02+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Summersville",
+      "zip": "26651",
+      "theater_name": "Marquee Cinemas Nicholas Showplace",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562040474,
+      "date": "2026-09-02+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Summersville",
+      "zip": "26651",
+      "theater_name": "Marquee Cinemas Nicholas Showplace",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562040475,
+      "date": "2026-09-02+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562120114,
+      "date": "2026-09-02+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562120118,
+      "date": "2026-09-02+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562120115,
+      "date": "2026-09-02+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562120116,
+      "date": "2026-09-02+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562120119,
+      "date": "2026-09-02+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562120117,
+      "date": "2026-09-02+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Glasgow",
+      "zip": "42141",
+      "theater_name": "Marquee Cinemas Highland 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562042651,
+      "date": "2026-09-02+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Glasgow",
+      "zip": "42141",
+      "theater_name": "Marquee Cinemas Highland 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562042652,
+      "date": "2026-09-02+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Glasgow",
+      "zip": "42141",
+      "theater_name": "Marquee Cinemas Highland 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562042653,
+      "date": "2026-09-02+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Albert Lea",
+      "zip": "56007",
+      "theater_name": "Mall Cinema 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 561454112,
+      "date": "2026-09-02+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "St. Paul",
+      "zip": "55116",
+      "theater_name": "Mann Highland Theatre",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 561522576,
+      "date": "2026-09-02+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "St. Paul",
+      "zip": "55116",
+      "theater_name": "Mann Highland Theatre",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 561522577,
+      "date": "2026-09-02+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "St. Paul",
+      "zip": "55116",
+      "theater_name": "Mann Highland Theatre",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 561522578,
+      "date": "2026-09-02+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Marshall",
+      "zip": "56258",
+      "theater_name": "Marshall 6 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 561591157,
+      "date": "2026-09-02+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Marshall",
+      "zip": "56258",
+      "theater_name": "Marshall 6 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 561591146,
+      "date": "2026-09-02+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 561817353,
+      "date": "2026-09-02+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 561817351,
+      "date": "2026-09-02+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 561817354,
+      "date": "2026-09-02+17:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 561817371,
+      "date": "2026-09-02+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 561817352,
+      "date": "2026-09-02+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 561817355,
+      "date": "2026-09-02+20:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
