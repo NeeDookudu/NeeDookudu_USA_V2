@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 05:19:12 AM",
+  "last_updated": "2026-09-03 07:50:54 AM",
   "errors": [
     {
       "state": "MA",
@@ -20008,6 +20008,22 @@
       "showtime_id": 561524648,
       "date": "2026-09-02+13:25",
       "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Roanoke",
+      "zip": "76262",
+      "theater_name": "Cinemark Roanoke and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563183741,
+      "date": "2026-09-02+21:35",
+      "format": "D-Box",
       "language": "Unknown",
       "error": {
         "status": 404,
