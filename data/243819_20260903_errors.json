@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 06:03:30 PM",
+  "last_updated": "2026-09-03 10:26:57 PM",
   "errors": [
     {
       "state": "MA",
@@ -6575,22 +6575,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30009",
-      "theater_name": "Regal Avalon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562737868,
-      "date": "2026-09-03+12:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -17707,6 +17691,230 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Staten Island",
+      "zip": "10308",
+      "theater_name": "Atrium Cinema",
+      "chainName": "Atrium Theater",
+      "chainCode": "ATRM",
+      "showtime_id": 562605091,
+      "date": "2026-09-03+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Toms River",
+      "zip": "08755",
+      "theater_name": "Marquee Cinemas Orchard 10",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562041123,
+      "date": "2026-09-03+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Oneida",
+      "zip": "13421",
+      "theater_name": "Oneida Movieplex",
+      "chainName": "Zurich Cinemas",
+      "chainCode": "ZURC",
+      "showtime_id": 563194052,
+      "date": "2026-09-03+11:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Wytheville",
+      "zip": "24382",
+      "theater_name": "Marquee Cinemas Wytheville 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562038653,
+      "date": "2026-09-03+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Wytheville",
+      "zip": "24382",
+      "theater_name": "Marquee Cinemas Wytheville 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562038654,
+      "date": "2026-09-03+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Wytheville",
+      "zip": "24382",
+      "theater_name": "Marquee Cinemas Wytheville 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562038655,
+      "date": "2026-09-03+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bristol",
+      "zip": "37620",
+      "theater_name": "Marquee Cinemas Pinnacle 12",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562042499,
+      "date": "2026-09-03+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bristol",
+      "zip": "37620",
+      "theater_name": "Marquee Cinemas Pinnacle 12",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562042483,
+      "date": "2026-09-03+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27614",
+      "theater_name": "Marquee Cinemas Wakefield Commons 12",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562039272,
+      "date": "2026-09-03+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27614",
+      "theater_name": "Marquee Cinemas Wakefield Commons 12",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562039276,
+      "date": "2026-09-03+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Glasgow",
+      "zip": "42141",
+      "theater_name": "Marquee Cinemas Highland 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563014660,
+      "date": "2026-09-03+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Waukesha",
+      "zip": "53186",
+      "theater_name": "Marcus Majestic Cinema of Brookfield",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 563197386,
+      "date": "2026-09-03+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Lakeville",
+      "zip": "55044",
+      "theater_name": "Emagine Lakeville ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 563193669,
+      "date": "2026-09-03+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Plymouth",
+      "zip": "55447",
+      "theater_name": "Mann Plymouth Grand 15",
+      "chainName": "Mann Theatres",
+      "chainCode": "MANN",
+      "showtime_id": 562498625,
+      "date": "2026-09-03+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
