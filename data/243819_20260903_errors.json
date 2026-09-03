@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 10:26:57 PM",
+  "last_updated": "2026-09-04 01:05:48 AM",
   "errors": [
     {
       "state": "MA",
@@ -17915,6 +17915,788 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Webster",
+      "zip": "14580",
+      "theater_name": "AMC Webster 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558187630,
+      "date": "2026-09-03+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/558187630/seat-map/'"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Webster",
+      "zip": "14580",
+      "theater_name": "AMC Webster 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558187629,
+      "date": "2026-09-03+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/558187629/seat-map/'"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Webster",
+      "zip": "14580",
+      "theater_name": "AMC Webster 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 558187631,
+      "date": "2026-09-03+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/558187631/seat-map/'"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15217",
+      "theater_name": "Manor Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 563200420,
+      "date": "2026-09-03+14:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563200420/seat-map/'"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15217",
+      "theater_name": "Manor Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 563200421,
+      "date": "2026-09-03+17:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563200421/seat-map/'"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15217",
+      "theater_name": "Manor Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 561396775,
+      "date": "2026-09-03+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/561396775/seat-map/'"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Richmond",
+      "zip": "23235",
+      "theater_name": "CMX CinéBistro Stony Point",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 563202909,
+      "date": "2026-09-03+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563202909/seat-map/'"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Richmond",
+      "zip": "23235",
+      "theater_name": "CMX CinéBistro Stony Point",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 563202849,
+      "date": "2026-09-03+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563202849/seat-map/'"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Southport",
+      "zip": "28461",
+      "theater_name": "Surf Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563200934,
+      "date": "2026-09-03+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563200934/seat-map/'"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30331",
+      "theater_name": "AMC Camp Creek 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563196478,
+      "date": "2026-09-03+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563196478/seat-map/'"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Lakeville",
+      "zip": "55044",
+      "theater_name": "Emagine Lakeville ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 563208730,
+      "date": "2026-09-03+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563208730/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Jacksonville",
+      "zip": "75766",
+      "theater_name": "Hometown Jackson Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563209262,
+      "date": "2026-09-03+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563209262/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Jacksonville",
+      "zip": "75766",
+      "theater_name": "Hometown Jackson Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563203481,
+      "date": "2026-09-03+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206517,
+      "date": "2026-09-03+10:45",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206517/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206518,
+      "date": "2026-09-03+14:10",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206518/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206519,
+      "date": "2026-09-03+17:35",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206519/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206520,
+      "date": "2026-09-03+20:55",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206520/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206572,
+      "date": "2026-09-03+10:45",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206572/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206573,
+      "date": "2026-09-03+14:10",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206573/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206574,
+      "date": "2026-09-03+17:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206574/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206575,
+      "date": "2026-09-03+20:55",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206575/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206539,
+      "date": "2026-09-03+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206539/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206551,
+      "date": "2026-09-03+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206551/seat-map/'"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Temple",
+      "zip": "76502",
+      "theater_name": "Cinemark Temple and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563206552,
+      "date": "2026-09-03+14:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206552/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207174,
+      "date": "2026-09-03+09:35",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207174/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207173,
+      "date": "2026-09-03+12:50",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207173/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207170,
+      "date": "2026-09-03+16:05",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207170/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207171,
+      "date": "2026-09-03+19:20",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207171/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207172,
+      "date": "2026-09-03+22:35",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207172/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207189,
+      "date": "2026-09-03+09:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207185,
+      "date": "2026-09-03+12:50",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207185/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207186,
+      "date": "2026-09-03+16:05",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207186/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207187,
+      "date": "2026-09-03+19:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207187/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207188,
+      "date": "2026-09-03+22:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207188/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207232,
+      "date": "2026-09-03+10:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207232/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207233,
+      "date": "2026-09-03+13:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207233/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207234,
+      "date": "2026-09-03+16:45",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207234/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207235,
+      "date": "2026-09-03+20:05",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207235/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207236,
+      "date": "2026-09-03+23:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207236/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207202,
+      "date": "2026-09-03+11:10",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207202/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207203,
+      "date": "2026-09-03+14:40",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207203/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207205,
+      "date": "2026-09-03+21:25",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207205/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207206,
+      "date": "2026-09-03+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207206/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207166,
+      "date": "2026-09-03+11:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207166/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207207,
+      "date": "2026-09-03+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207207/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207167,
+      "date": "2026-09-03+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207167/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207208,
+      "date": "2026-09-03+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207208/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207209,
+      "date": "2026-09-03+20:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207209/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207169,
+      "date": "2026-09-03+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207169/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Downey",
+      "zip": "90242",
+      "theater_name": "Cinemark Downey and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563207210,
+      "date": "2026-09-03+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563207210/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92122",
+      "theater_name": "AMC UTC 14 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563203484,
+      "date": "2026-09-03+22:20",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563203484/seat-map/'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Martinez",
+      "zip": "94553",
+      "theater_name": "Contra Costa Cinema",
+      "chainName": "Contra Costa Cinema",
+      "chainCode": "CCC",
+      "showtime_id": 563206397,
+      "date": "2026-09-03+19:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206397/seat-map/'"
       }
     }
   ]
