@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 03:40:21 AM",
+  "last_updated": "2026-09-04 06:08:44 AM",
   "errors": [
     {
       "state": "MA",
@@ -18293,21 +18293,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Martinez",
-      "zip": "94553",
-      "theater_name": "Contra Costa Cinema",
-      "chainName": "Contra Costa Cinema",
-      "chainCode": "CCC",
-      "showtime_id": 563206397,
-      "date": "2026-09-03+19:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563206397/seat-map/'"
-      }
-    },
-    {
       "state": "NY",
       "city": "Mamaroneck",
       "zip": "10543",
@@ -18385,6 +18370,278 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Johnson City",
+      "zip": "37601",
+      "theater_name": "AMC Johnson City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563211168,
+      "date": "2026-09-03+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hollywood",
+      "zip": "33024",
+      "theater_name": "Flippers Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562390575,
+      "date": "2026-09-03+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hollywood",
+      "zip": "33024",
+      "theater_name": "Flippers Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562390574,
+      "date": "2026-09-03+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hollywood",
+      "zip": "33024",
+      "theater_name": "Flippers Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 562390573,
+      "date": "2026-09-03+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Milan",
+      "zip": "38358",
+      "theater_name": "Ritz 3 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563238815,
+      "date": "2026-09-03+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Ames",
+      "zip": "50010",
+      "theater_name": "North Grand Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 561360996,
+      "date": "2026-09-03+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Davenport",
+      "zip": "52807",
+      "theater_name": "Cinemark Davenport 18 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563229434,
+      "date": "2026-09-03+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236089,
+      "date": "2026-09-03+11:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236088,
+      "date": "2026-09-03+14:55",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236125,
+      "date": "2026-09-03+11:30",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236124,
+      "date": "2026-09-03+14:55",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236093,
+      "date": "2026-09-03+10:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236092,
+      "date": "2026-09-03+13:55",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236091,
+      "date": "2026-09-03+17:20",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236107,
+      "date": "2026-09-03+10:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236106,
+      "date": "2026-09-03+13:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563236105,
+      "date": "2026-09-03+17:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
