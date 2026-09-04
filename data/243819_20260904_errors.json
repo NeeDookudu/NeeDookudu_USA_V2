@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 08:19:22 PM",
+  "last_updated": "2026-09-04 11:36:15 PM",
   "errors": [
     {
       "state": "MA",
@@ -11234,54 +11234,6 @@
       }
     },
     {
-      "state": "MI",
-      "city": "Hillsdale",
-      "zip": "49242",
-      "theater_name": "UEC Theatres Hillsdale",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 563112481,
-      "date": "2026-09-04+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Hillsdale",
-      "zip": "49242",
-      "theater_name": "UEC Theatres Hillsdale",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 563112480,
-      "date": "2026-09-04+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Hillsdale",
-      "zip": "49242",
-      "theater_name": "UEC Theatres Hillsdale",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 563112518,
-      "date": "2026-09-04+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "OH",
       "city": "Van Wert",
       "zip": "45891",
@@ -14979,54 +14931,6 @@
     },
     {
       "state": "MT",
-      "city": "Billings",
-      "zip": "59102",
-      "theater_name": "AMC Shiloh 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563246239,
-      "date": "2026-09-04+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400,
-        "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MT",
-      "city": "Billings",
-      "zip": "59102",
-      "theater_name": "AMC Shiloh 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563246240,
-      "date": "2026-09-04+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400,
-        "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MT",
-      "city": "Billings",
-      "zip": "59102",
-      "theater_name": "AMC Shiloh 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563246241,
-      "date": "2026-09-04+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400,
-        "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MT",
       "city": "Great Falls",
       "zip": "59404",
       "theater_name": "AMC CLASSIC Great Falls 10",
@@ -17551,70 +17455,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Seguin",
-      "zip": "78155",
-      "theater_name": "Hometown Cinemas - Seguin",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562387510,
-      "date": "2026-09-04+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Seguin",
-      "zip": "78155",
-      "theater_name": "Hometown Cinemas - Seguin",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562387509,
-      "date": "2026-09-04+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Seguin",
-      "zip": "78155",
-      "theater_name": "Hometown Cinemas - Seguin",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562387501,
-      "date": "2026-09-04+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Seguin",
-      "zip": "78155",
-      "theater_name": "Hometown Cinemas - Seguin",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562387511,
-      "date": "2026-09-04+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -21247,6 +21087,118 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Marblehead",
+      "zip": "01945",
+      "theater_name": "Warwick Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 563256532,
+      "date": "2026-09-04+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 563253256,
+      "date": "2026-09-04+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 563253257,
+      "date": "2026-09-04+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Venice",
+      "zip": "34292",
+      "theater_name": "The Grand Luxury Cinema",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 563255704,
+      "date": "2026-09-04+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Huntsville",
+      "zip": "35806",
+      "theater_name": "Cinemark Bridge Street and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563261524,
+      "date": "2026-09-04+12:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Odessa",
+      "zip": "79765",
+      "theater_name": "Cinergy Odessa featuring Epic",
+      "chainName": "Cinergy Entertainment",
+      "chainCode": "CNRGY",
+      "showtime_id": 563256565,
+      "date": "2026-09-04+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Odessa",
+      "zip": "79765",
+      "theater_name": "Cinergy Odessa featuring Epic",
+      "chainName": "Cinergy Entertainment",
+      "chainCode": "CNRGY",
+      "showtime_id": 563256602,
+      "date": "2026-09-04+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
