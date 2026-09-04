@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 11:36:15 PM",
+  "last_updated": "2026-09-05 01:43:37 AM",
   "errors": [
     {
       "state": "MA",
@@ -21199,6 +21199,86 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 562856107,
+      "date": "2026-09-04+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 562856130,
+      "date": "2026-09-04+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 562856112,
+      "date": "2026-09-04+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Starkville",
+      "zip": "39759",
+      "theater_name": "UEC Theatres Hollywood ",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 563264907,
+      "date": "2026-09-04+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Starkville",
+      "zip": "39759",
+      "theater_name": "UEC Theatres Hollywood ",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 563264906,
+      "date": "2026-09-04+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
