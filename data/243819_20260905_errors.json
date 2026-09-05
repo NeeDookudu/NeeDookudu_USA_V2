@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 10:05:32 PM",
+  "last_updated": "2026-09-06 12:21:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -2570,54 +2570,6 @@
       "chainCode": "MRQC",
       "showtime_id": 563162738,
       "date": "2026-09-05+11:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Toms River",
-      "zip": "08755",
-      "theater_name": "Marquee Cinemas Orchard 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 563162739,
-      "date": "2026-09-05+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Toms River",
-      "zip": "08755",
-      "theater_name": "Marquee Cinemas Orchard 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 563162740,
-      "date": "2026-09-05+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Toms River",
-      "zip": "08755",
-      "theater_name": "Marquee Cinemas Orchard 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 563162741,
-      "date": "2026-09-05+21:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -5258,38 +5210,6 @@
       "chainCode": "RC",
       "showtime_id": 562465793,
       "date": "2026-09-05+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Lexington",
-      "zip": "24450",
-      "theater_name": "R/C State Cinema 3",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465794,
-      "date": "2026-09-05+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Lexington",
-      "zip": "24450",
-      "theater_name": "R/C State Cinema 3",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465795,
-      "date": "2026-09-05+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -9956,38 +9876,6 @@
     {
       "state": "FL",
       "city": "Pensacola",
-      "zip": "32503",
-      "theater_name": "AMC Bayou 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562736010,
-      "date": "2026-09-05+19:00",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Pensacola",
-      "zip": "32503",
-      "theater_name": "AMC Bayou 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562736011,
-      "date": "2026-09-05+22:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Pensacola",
       "zip": "32505",
       "theater_name": "AMC CLASSIC Pensacola 18",
       "chainName": "AMC",
@@ -10607,38 +10495,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Fort Lauderdale",
-      "zip": "33304",
-      "theater_name": "Paradigm Cinemas: Gateway Fort Lauderdale",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562723370,
-      "date": "2026-09-05+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Fort Lauderdale",
-      "zip": "33304",
-      "theater_name": "Paradigm Cinemas: Gateway Fort Lauderdale",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562723372,
-      "date": "2026-09-05+22:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -20899,22 +20755,6 @@
     },
     {
       "state": "TX",
-      "city": "Corpus Christi",
-      "zip": "78417",
-      "theater_name": "AMC CLASSIC Corpus Christi 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563288217,
-      "date": "2026-09-05+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400,
-        "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Rio Grande City",
       "zip": "78582",
       "theater_name": "AMC CLASSIC Rio Grande 10",
@@ -24666,6 +24506,54 @@
       "chainCode": "REGL",
       "showtime_id": 563311089,
       "date": "2026-09-05+12:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Saratoga Springs",
+      "zip": "12866",
+      "theater_name": "AMC Saratoga Springs 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563312960,
+      "date": "2026-09-05+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Orono",
+      "zip": "04473",
+      "theater_name": "Black Bear Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563313545,
+      "date": "2026-09-05+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Arlington",
+      "zip": "22206",
+      "theater_name": "AMC Shirlington 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562786715,
+      "date": "2026-09-05+12:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
