@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 06:49:38 PM",
+  "last_updated": "2026-09-05 10:05:32 PM",
   "errors": [
     {
       "state": "MA",
@@ -4842,22 +4842,6 @@
       "chainCode": "CNMK",
       "showtime_id": 562627444,
       "date": "2026-09-05+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Oxon Hill",
-      "zip": "20745",
-      "theater_name": "AMC Rivertowne 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562915937,
-      "date": "2026-09-05+22:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -12687,70 +12671,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mount Vernon",
-      "zip": "43050",
-      "theater_name": "UEC Theaters Mt Vernon",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 562437876,
-      "date": "2026-09-05+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mount Vernon",
-      "zip": "43050",
-      "theater_name": "UEC Theaters Mt Vernon",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 562437875,
-      "date": "2026-09-05+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mount Vernon",
-      "zip": "43050",
-      "theater_name": "UEC Theaters Mt Vernon",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 562437874,
-      "date": "2026-09-05+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mount Vernon",
-      "zip": "43050",
-      "theater_name": "UEC Theaters Mt Vernon",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 562437873,
-      "date": "2026-09-05+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -20787,70 +20707,6 @@
     },
     {
       "state": "TX",
-      "city": "Austin",
-      "zip": "78752",
-      "theater_name": "Galaxy Austin",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 562622502,
-      "date": "2026-09-05+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78752",
-      "theater_name": "Galaxy Austin",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 562622503,
-      "date": "2026-09-05+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78752",
-      "theater_name": "Galaxy Austin",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 562622504,
-      "date": "2026-09-05+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78752",
-      "theater_name": "Galaxy Austin",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 562622505,
-      "date": "2026-09-05+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Houston",
       "zip": "77064",
       "theater_name": "AMC Willowbrook 24",
@@ -24783,6 +24639,38 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Muncy",
+      "zip": "17756",
+      "theater_name": "The District Cinema",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 562423041,
+      "date": "2026-09-05+11:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Simpsonville",
+      "zip": "29681",
+      "theater_name": "Regal Simpsonville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 563311089,
+      "date": "2026-09-05+12:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
