@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 03:25:04 PM",
+  "last_updated": "2026-09-05 06:49:38 PM",
   "errors": [
     {
       "state": "MA",
@@ -2194,22 +2194,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10003",
-      "theater_name": "Regal Union Square ScreenX & 4DX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562703949,
-      "date": "2026-09-05+16:40",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
       "state": "NJ",
       "city": "Hillsborough",
       "zip": "08844",
@@ -4355,54 +4339,6 @@
     },
     {
       "state": "PA",
-      "city": "Harrisburg",
-      "zip": "17112",
-      "theater_name": "Regal Harrisburg",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562710855,
-      "date": "2026-09-05+13:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Harrisburg",
-      "zip": "17112",
-      "theater_name": "Regal Harrisburg",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562710857,
-      "date": "2026-09-05+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Harrisburg",
-      "zip": "17112",
-      "theater_name": "Regal Harrisburg",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562710875,
-      "date": "2026-09-05+20:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "PA",
       "city": "Selinsgrove",
       "zip": "17870",
       "theater_name": "AMC CLASSIC Selinsgrove 12",
@@ -4655,22 +4591,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Gaithersburg",
-      "zip": "20878",
-      "theater_name": "Cinepolis Luxury Cinema Gaithersburg",
-      "chainName": "Cinepolis",
-      "chainCode": "CPLS",
-      "showtime_id": 563210273,
-      "date": "2026-09-05+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -5023,118 +4943,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435469,
-      "date": "2026-09-05+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435470,
-      "date": "2026-09-05+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435471,
-      "date": "2026-09-05+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435478,
-      "date": "2026-09-05+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435473,
-      "date": "2026-09-05+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435479,
-      "date": "2026-09-05+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435472,
-      "date": "2026-09-05+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -5679,54 +5487,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562671740,
-      "date": "2026-09-05+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562671741,
-      "date": "2026-09-05+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562671744,
-      "date": "2026-09-05+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -12802,22 +12562,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Newburgh",
-      "zip": "47630",
-      "theater_name": "Showplace Cinemas Newburgh 10",
-      "chainName": "Showplace Cinemas",
-      "chainCode": "SHOW",
-      "showtime_id": 563000946,
-      "date": "2026-09-05+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "KY",
       "city": "Henderson",
       "zip": "42420",
@@ -12879,86 +12623,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Evansville",
-      "zip": "47715",
-      "theater_name": "Showplace Cinemas East 20",
-      "chainName": "Showplace Cinemas",
-      "chainCode": "SHOW",
-      "showtime_id": 563112260,
-      "date": "2026-09-05+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Evansville",
-      "zip": "47715",
-      "theater_name": "Showplace Cinemas East 20",
-      "chainName": "Showplace Cinemas",
-      "chainCode": "SHOW",
-      "showtime_id": 563112258,
-      "date": "2026-09-05+19:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Evansville",
-      "zip": "47710",
-      "theater_name": "Showplace Cinema North 9",
-      "chainName": "Showplace Cinemas",
-      "chainCode": "SHOW",
-      "showtime_id": 563015232,
-      "date": "2026-09-05+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Jasper",
-      "zip": "47546",
-      "theater_name": "Jasper 8",
-      "chainName": "Showplace Cinemas",
-      "chainCode": "SHOW",
-      "showtime_id": 563110878,
-      "date": "2026-09-05+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Jasper",
-      "zip": "47546",
-      "theater_name": "Jasper 8",
-      "chainName": "Showplace Cinemas",
-      "chainCode": "SHOW",
-      "showtime_id": 563110879,
-      "date": "2026-09-05+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -17106,70 +16770,6 @@
       }
     },
     {
-      "state": "WI",
-      "city": "Hudson",
-      "zip": "54016",
-      "theater_name": "Hudson 12 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388300,
-      "date": "2026-09-05+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Hudson",
-      "zip": "54016",
-      "theater_name": "Hudson 12 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388301,
-      "date": "2026-09-05+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Hudson",
-      "zip": "54016",
-      "theater_name": "Hudson 12 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388302,
-      "date": "2026-09-05+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Hudson",
-      "zip": "54016",
-      "theater_name": "Hudson 12 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388303,
-      "date": "2026-09-05+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "MN",
       "city": "Red Wing",
       "zip": "55066",
@@ -17443,134 +17043,6 @@
     },
     {
       "state": "MN",
-      "city": "Edina",
-      "zip": "55424",
-      "theater_name": "Edina Cinema 4",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562498527,
-      "date": "2026-09-05+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Edina",
-      "zip": "55424",
-      "theater_name": "Edina Cinema 4",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562498528,
-      "date": "2026-09-05+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Edina",
-      "zip": "55424",
-      "theater_name": "Edina Cinema 4",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562498529,
-      "date": "2026-09-05+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Dundas",
-      "zip": "55019",
-      "theater_name": "Cannon Valley Cinema 10",
-      "chainName": "CABB Theatres",
-      "chainCode": "CABB",
-      "showtime_id": 562608975,
-      "date": "2026-09-05+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Andover",
-      "zip": "55304",
-      "theater_name": "Andover Cinema",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388658,
-      "date": "2026-09-05+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Andover",
-      "zip": "55304",
-      "theater_name": "Andover Cinema",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388659,
-      "date": "2026-09-05+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Andover",
-      "zip": "55304",
-      "theater_name": "Andover Cinema",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388657,
-      "date": "2026-09-05+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Andover",
-      "zip": "55304",
-      "theater_name": "Andover Cinema",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388681,
-      "date": "2026-09-05+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
       "city": "Champlin",
       "zip": "55316",
       "theater_name": "Mann Champlin Cinema 14",
@@ -17827,134 +17299,6 @@
     },
     {
       "state": "MN",
-      "city": "Owatonna",
-      "zip": "55060",
-      "theater_name": "Northwoods Cinema 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562389089,
-      "date": "2026-09-05+12:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Owatonna",
-      "zip": "55060",
-      "theater_name": "Northwoods Cinema 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562389088,
-      "date": "2026-09-05+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Owatonna",
-      "zip": "55060",
-      "theater_name": "Northwoods Cinema 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562389087,
-      "date": "2026-09-05+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Owatonna",
-      "zip": "55060",
-      "theater_name": "Northwoods Cinema 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562389086,
-      "date": "2026-09-05+21:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 562711239,
-      "date": "2026-09-05+11:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 562711242,
-      "date": "2026-09-05+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 562711245,
-      "date": "2026-09-05+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 562711247,
-      "date": "2026-09-05+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
       "city": "Cold Spring",
       "zip": "56320",
       "theater_name": "Quarry Cinema",
@@ -18179,134 +17523,6 @@
     },
     {
       "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573528,
-      "date": "2026-09-05+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573529,
-      "date": "2026-09-05+15:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573532,
-      "date": "2026-09-05+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573530,
-      "date": "2026-09-05+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573536,
-      "date": "2026-09-05+21:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573531,
-      "date": "2026-09-05+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Grand Rapids",
-      "zip": "55744",
-      "theater_name": "Mann Grand Rapids Cinema 8 ",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534397,
-      "date": "2026-09-05+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Grand Rapids",
-      "zip": "55744",
-      "theater_name": "Mann Grand Rapids Cinema 8 ",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534398,
-      "date": "2026-09-05+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
       "city": "Grand Rapids",
       "zip": "55744",
       "theater_name": "Mann Grand Rapids Cinema 8 ",
@@ -18314,22 +17530,6 @@
       "chainCode": "MANN",
       "showtime_id": 562534399,
       "date": "2026-09-05+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Grand Rapids",
-      "zip": "55744",
-      "theater_name": "Mann Grand Rapids Cinema 8 ",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534400,
-      "date": "2026-09-05+21:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -21042,70 +20242,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Leesville",
-      "zip": "71446",
-      "theater_name": "Regal UA Lee Hills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563047075,
-      "date": "2026-09-05+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Leesville",
-      "zip": "71446",
-      "theater_name": "Regal UA Lee Hills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563047069,
-      "date": "2026-09-05+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Leesville",
-      "zip": "71446",
-      "theater_name": "Regal UA Lee Hills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563047080,
-      "date": "2026-09-05+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Leesville",
-      "zip": "71446",
-      "theater_name": "Regal UA Lee Hills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563047089,
-      "date": "2026-09-05+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "AR",
       "city": "Monticello",
       "zip": "71655",
@@ -21151,38 +20287,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Cabot",
-      "zip": "72023",
-      "theater_name": "Cabot 8 VIP Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562344669,
-      "date": "2026-09-05+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Cabot",
-      "zip": "72023",
-      "theater_name": "Cabot 8 VIP Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562344670,
-      "date": "2026-09-05+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -21571,22 +20675,6 @@
     },
     {
       "state": "TX",
-      "city": "Waxahachie",
-      "zip": "75165",
-      "theater_name": "Hooky Entertainment Waxahachie + IMAX",
-      "chainName": "Hooky Entertainment",
-      "chainCode": "HOOK",
-      "showtime_id": 562598893,
-      "date": "2026-09-05+12:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Gun Barrel City",
       "zip": "75156",
       "theater_name": "Hometown Cinemas - Gun Barrel City",
@@ -21651,54 +20739,6 @@
     },
     {
       "state": "TX",
-      "city": "Weatherford",
-      "zip": "76086",
-      "theater_name": "Film Alley Weatherford 8",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 562409031,
-      "date": "2026-09-05+10:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Weatherford",
-      "zip": "76086",
-      "theater_name": "Film Alley Weatherford 8",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 562409029,
-      "date": "2026-09-05+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Weatherford",
-      "zip": "76086",
-      "theater_name": "Film Alley Weatherford 8",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 562409035,
-      "date": "2026-09-05+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Mineral Wells",
       "zip": "76067",
       "theater_name": "Hometown Cinemas - Mineral Wells",
@@ -21743,22 +20783,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 563304192,
-      "date": "2026-09-05+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -22164,22 +21188,6 @@
     {
       "state": "TX",
       "city": "Lubbock",
-      "zip": "79414",
-      "theater_name": "Lubbock Premiere LUX 16 IMAX & Pizza Pub",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562945209,
-      "date": "2026-09-05+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lubbock",
       "zip": "79416",
       "theater_name": "Stars & Stripes Drive-In - Lubbock",
       "chainName": "RTSIND",
@@ -22191,22 +21199,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Abilene",
-      "zip": "79606",
-      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562691532,
-      "date": "2026-09-05+17:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -22975,86 +21967,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Scottsdale",
-      "zip": "85250",
-      "theater_name": "RoadHouse Cinemas Scottsdale",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 562930720,
-      "date": "2026-09-05+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Scottsdale",
-      "zip": "85250",
-      "theater_name": "RoadHouse Cinemas Scottsdale",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 562930722,
-      "date": "2026-09-05+13:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Scottsdale",
-      "zip": "85250",
-      "theater_name": "RoadHouse Cinemas Scottsdale",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 562930723,
-      "date": "2026-09-05+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562648897,
-      "date": "2026-09-05+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562648901,
-      "date": "2026-09-05+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -23971,22 +22883,6 @@
     },
     {
       "state": "CA",
-      "city": "Irvine",
-      "zip": "92618",
-      "theater_name": "Regal Irvine Spectrum",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562923678,
-      "date": "2026-09-05+12:30",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Oxnard",
       "zip": "93030",
       "theater_name": "Plaza Cinemas 14",
@@ -24275,150 +23171,6 @@
     },
     {
       "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778538,
-      "date": "2026-09-05+12:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778539,
-      "date": "2026-09-05+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778542,
-      "date": "2026-09-05+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778540,
-      "date": "2026-09-05+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778543,
-      "date": "2026-09-05+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778541,
-      "date": "2026-09-05+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778535,
-      "date": "2026-09-05+13:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778536,
-      "date": "2026-09-05+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778537,
-      "date": "2026-09-05+19:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Mammoth Lakes",
       "zip": "93546",
       "theater_name": "Minaret Cinemas is D'Place",
@@ -24463,22 +23215,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Cruz",
-      "zip": "95060",
-      "theater_name": "Santa Cruz Cinema",
-      "chainName": "West Wind Theaters",
-      "chainCode": "SYUF",
-      "showtime_id": 562557058,
-      "date": "2026-09-05+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -24831,22 +23567,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95825",
-      "theater_name": "CinemaWest Country Club & Giant Screen",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 563117949,
-      "date": "2026-09-05+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -25859,22 +24579,6 @@
     },
     {
       "state": "WA",
-      "city": "Union Gap",
-      "zip": "98903",
-      "theater_name": "The Majestic",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562166984,
-      "date": "2026-09-05+21:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WA",
       "city": "Sunnyside",
       "zip": "98944",
       "theater_name": "Grand Cinemas Yakima Valley",
@@ -25983,134 +24687,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563007744,
-      "date": "2026-09-05+11:50",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563007745,
-      "date": "2026-09-05+15:15",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563007746,
-      "date": "2026-09-05+18:35",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563007747,
-      "date": "2026-09-05+22:00",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563007789,
-      "date": "2026-09-05+12:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563007790,
-      "date": "2026-09-05+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563007791,
-      "date": "2026-09-05+19:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563007792,
-      "date": "2026-09-05+22:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
