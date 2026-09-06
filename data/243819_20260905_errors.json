@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06 06:00:40 AM",
+  "last_updated": "2026-09-06 10:54:06 AM",
   "errors": [
     {
       "state": "MA",
@@ -24634,6 +24634,70 @@
       "chainCode": "AMC",
       "showtime_id": 563320181,
       "date": "2026-09-05+16:01",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80012",
+      "theater_name": "Cinemark Century Aurora and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563325295,
+      "date": "2026-09-05+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Carson",
+      "zip": "90746",
+      "theater_name": "Cinemark Carson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563323953,
+      "date": "2026-09-05+16:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Carson",
+      "zip": "90746",
+      "theater_name": "Cinemark Carson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563325330,
+      "date": "2026-09-05+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Leandro",
+      "zip": "94578",
+      "theater_name": "Cinemark Century Bayfair Mall 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563327479,
+      "date": "2026-09-05+21:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
