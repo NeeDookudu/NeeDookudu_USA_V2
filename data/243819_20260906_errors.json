@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06 03:36:59 PM",
+  "last_updated": "2026-09-06 07:04:54 PM",
   "errors": [
     {
       "state": "MA",
@@ -655,22 +655,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Tyngsboro",
-      "zip": "01879",
-      "theater_name": "AMC Tyngsboro 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562883896,
-      "date": "2026-09-06+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -4659,54 +4643,6 @@
     },
     {
       "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562821769,
-      "date": "2026-09-06+16:00",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562821773,
-      "date": "2026-09-06+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562821774,
-      "date": "2026-09-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "VA",
       "city": "Stauton",
       "zip": "24401",
       "theater_name": "Visulite Cinemas",
@@ -4831,22 +4767,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Chesapeake",
-      "zip": "23320",
-      "theater_name": "Cinema Cafe Greenbrier",
-      "chainName": "Cinema Cafe",
-      "chainCode": "CAFE",
-      "showtime_id": 562939161,
-      "date": "2026-09-06+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -5535,54 +5455,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562677430,
-      "date": "2026-09-06+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562677432,
-      "date": "2026-09-06+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "Regal Palladium",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562677431,
-      "date": "2026-09-06+19:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -7011,22 +6883,6 @@
     },
     {
       "state": "NC",
-      "city": "Lenoir",
-      "zip": "28645",
-      "theater_name": "Golden Ticket Cinemas Lenoir Twin",
-      "chainName": "Golden Ticket Cinemas",
-      "chainCode": "GOLD",
-      "showtime_id": 562805619,
-      "date": "2026-09-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
       "city": "Wilmington",
       "zip": "28412",
       "theater_name": "Stone Theatres The Pointe 14 Cinemas",
@@ -7763,70 +7619,6 @@
     },
     {
       "state": "SC",
-      "city": "Columbia",
-      "zip": "29212",
-      "theater_name": "Regal Columbiana Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562660508,
-      "date": "2026-09-06+12:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29212",
-      "theater_name": "Regal Columbiana Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562660509,
-      "date": "2026-09-06+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29212",
-      "theater_name": "Regal Columbiana Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562660510,
-      "date": "2026-09-06+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29212",
-      "theater_name": "Regal Columbiana Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562660516,
-      "date": "2026-09-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "SC",
       "city": "Charleston",
       "zip": "29412",
       "theater_name": "Terrace Theater",
@@ -7887,22 +7679,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "North Charleston",
-      "zip": "29406",
-      "theater_name": "Northwoods Stadium Cinema",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 562394966,
-      "date": "2026-09-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -8131,22 +7907,6 @@
     },
     {
       "state": "GA",
-      "city": "Lawrenceville",
-      "zip": "30043",
-      "theater_name": "AMC Colonial 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562755055,
-      "date": "2026-09-06+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "GA",
       "city": "Canton",
       "zip": "30114",
       "theater_name": "AMC CLASSIC Riverstone 15",
@@ -8239,22 +7999,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Conyers",
-      "zip": "30013",
-      "theater_name": "AMC Conyers Crossing 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562654037,
-      "date": "2026-09-06+17:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -8399,70 +8143,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Gadsden",
-      "zip": "35901",
-      "theater_name": "Gadsden Premiere 16 - Gadsden Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563002618,
-      "date": "2026-09-06+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Gadsden",
-      "zip": "35901",
-      "theater_name": "Gadsden Premiere 16 - Gadsden Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563002576,
-      "date": "2026-09-06+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Gadsden",
-      "zip": "35901",
-      "theater_name": "Gadsden Premiere 16 - Gadsden Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563002577,
-      "date": "2026-09-06+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Gadsden",
-      "zip": "35901",
-      "theater_name": "Gadsden Premiere 16 - Gadsden Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563002575,
-      "date": "2026-09-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -10211,22 +9891,6 @@
     },
     {
       "state": "FL",
-      "city": "Tampa",
-      "zip": "33609",
-      "theater_name": "AMC West Shore 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562735390,
-      "date": "2026-09-06+16:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Palm Harbor",
       "zip": "34684",
       "theater_name": "AMC CLASSIC Palm Harbor 10",
@@ -10803,150 +10467,6 @@
     },
     {
       "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904582,
-      "date": "2026-09-06+13:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904596,
-      "date": "2026-09-06+15:05",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904581,
-      "date": "2026-09-06+16:45",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904597,
-      "date": "2026-09-06+18:20",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904552,
-      "date": "2026-09-06+20:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904549,
-      "date": "2026-09-06+21:35",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904573,
-      "date": "2026-09-06+13:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904574,
-      "date": "2026-09-06+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Birmingham",
-      "zip": "35209",
-      "theater_name": "Birmingham Premiere LUX Cine GSX & Pizza Pub ",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562904551,
-      "date": "2026-09-06+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AL",
       "city": "Bessemer",
       "zip": "35022",
       "theater_name": "Bessemer Premiere 14 Promenade",
@@ -11247,38 +10767,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Tullahoma",
-      "zip": "37388",
-      "theater_name": "Regal Tullahoma",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562963238,
-      "date": "2026-09-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Lebanon",
-      "zip": "37087",
-      "theater_name": "UEC Theatres Lebanon Roxy",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 562688186,
-      "date": "2026-09-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -11615,22 +11103,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Hollywood Cinema 16",
-      "chainName": "Cinema Management Group Inc",
-      "chainCode": "CMGI",
-      "showtime_id": 563049963,
-      "date": "2026-09-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -13023,118 +12495,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Canton",
-      "zip": "48187",
-      "theater_name": "Emagine Canton",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 562902276,
-      "date": "2026-09-06+11:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Canton",
-      "zip": "48187",
-      "theater_name": "Emagine Canton",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 562902288,
-      "date": "2026-09-06+13:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Canton",
-      "zip": "48187",
-      "theater_name": "Emagine Canton",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 562902277,
-      "date": "2026-09-06+14:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Canton",
-      "zip": "48187",
-      "theater_name": "Emagine Canton",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 562902295,
-      "date": "2026-09-06+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Canton",
-      "zip": "48187",
-      "theater_name": "Emagine Canton",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 562902264,
-      "date": "2026-09-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Canton",
-      "zip": "48187",
-      "theater_name": "Emagine Canton",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 562902296,
-      "date": "2026-09-06+20:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Canton",
-      "zip": "48187",
-      "theater_name": "Emagine Canton",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 562902265,
-      "date": "2026-09-06+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -14851,38 +14211,6 @@
     },
     {
       "state": "IL",
-      "city": "Chicago",
-      "zip": "60605",
-      "theater_name": "AMC Roosevelt Collection 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563099131,
-      "date": "2026-09-06+16:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 560753103,
-      "date": "2026-09-06+16:50",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IL",
       "city": "Park Ridge",
       "zip": "60068",
       "theater_name": "Pickwick Theatre",
@@ -16047,22 +15375,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "NE",
-      "city": "La Vista",
-      "zip": "68138",
-      "theater_name": "Alamo Drafthouse Cinema La Vista",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 562442030,
-      "date": "2026-09-06+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -18355,22 +17667,6 @@
     },
     {
       "state": "IL",
-      "city": "Carbondale",
-      "zip": "62901",
-      "theater_name": "AMC University Place 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562429084,
-      "date": "2026-09-06+16:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IL",
       "city": "Harrisburg",
       "zip": "62946",
       "theater_name": "Showplace Cinemas Harrisburg 9",
@@ -20323,22 +19619,6 @@
     },
     {
       "state": "OK",
-      "city": "Oklahoma City",
-      "zip": "73114",
-      "theater_name": "Flix Brewhouse Oklahoma City",
-      "chainName": "Flix Brewhouse",
-      "chainCode": "FLIX",
-      "showtime_id": 562479988,
-      "date": "2026-09-06+11:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "OK",
       "city": "Edmond",
       "zip": "73034",
       "theater_name": "Icon Cinema Edmond",
@@ -20643,86 +19923,6 @@
     },
     {
       "state": "TX",
-      "city": "Dallas",
-      "zip": "75204",
-      "theater_name": "Violet Crown Dallas",
-      "chainName": "Hooky Entertainment",
-      "chainCode": "HOOK",
-      "showtime_id": 562640118,
-      "date": "2026-09-06+10:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Grand Prairie",
-      "zip": "75052",
-      "theater_name": "Grand Prairie Premiere LUX Cine 10 & Pizza Pub",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562708032,
-      "date": "2026-09-06+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Grand Prairie",
-      "zip": "75052",
-      "theater_name": "Grand Prairie Premiere LUX Cine 10 & Pizza Pub",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562708033,
-      "date": "2026-09-06+15:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Grand Prairie",
-      "zip": "75052",
-      "theater_name": "Grand Prairie Premiere LUX Cine 10 & Pizza Pub",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562708035,
-      "date": "2026-09-06+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Grand Prairie",
-      "zip": "75052",
-      "theater_name": "Grand Prairie Premiere LUX Cine 10 & Pizza Pub",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562708034,
-      "date": "2026-09-06+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Gun Barrel City",
       "zip": "75156",
       "theater_name": "Hometown Cinemas - Gun Barrel City",
@@ -20771,86 +19971,6 @@
     },
     {
       "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562856627,
-      "date": "2026-09-06+11:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562856667,
-      "date": "2026-09-06+13:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562856626,
-      "date": "2026-09-06+15:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562856625,
-      "date": "2026-09-06+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562856666,
-      "date": "2026-09-06+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Mineral Wells",
       "zip": "76067",
       "theater_name": "Hometown Cinemas - Mineral Wells",
@@ -20895,86 +20015,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562872475,
-      "date": "2026-09-06+17:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562872483,
-      "date": "2026-09-06+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562872487,
-      "date": "2026-09-06+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562872476,
-      "date": "2026-09-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562872477,
-      "date": "2026-09-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -21039,182 +20079,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Galveston",
-      "zip": "77554",
-      "theater_name": "Galveston Primetime Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 563154645,
-      "date": "2026-09-06+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Galveston",
-      "zip": "77554",
-      "theater_name": "Galveston Primetime Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 563154633,
-      "date": "2026-09-06+16:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Galveston",
-      "zip": "77554",
-      "theater_name": "Galveston Primetime Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 563154634,
-      "date": "2026-09-06+19:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Boerne",
-      "zip": "78006",
-      "theater_name": "AMC Boerne 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562756003,
-      "date": "2026-09-06+20:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78230",
-      "theater_name": "Regal Huebner Oaks & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562587691,
-      "date": "2026-09-06+11:35",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78230",
-      "theater_name": "Regal Huebner Oaks & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562991516,
-      "date": "2026-09-06+15:00",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78230",
-      "theater_name": "Regal Huebner Oaks & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562587693,
-      "date": "2026-09-06+18:35",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78230",
-      "theater_name": "Regal Huebner Oaks & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562587694,
-      "date": "2026-09-06+22:20",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78230",
-      "theater_name": "Regal Huebner Oaks & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562587821,
-      "date": "2026-09-06+11:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78230",
-      "theater_name": "Regal Huebner Oaks & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562587822,
-      "date": "2026-09-06+15:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78230",
-      "theater_name": "Regal Huebner Oaks & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562587823,
-      "date": "2026-09-06+21:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -21439,38 +20303,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Abilene",
-      "zip": "79606",
-      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 562691567,
-      "date": "2026-09-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79924",
-      "theater_name": "AMC El Paso 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562662321,
-      "date": "2026-09-06+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -21970,22 +20802,6 @@
       }
     },
     {
-      "state": "ID",
-      "city": "Meridian",
-      "zip": "83646",
-      "theater_name": "CinemaWest Village & VIP + Dine-In",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 562690587,
-      "date": "2026-09-06+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "WA",
       "city": "Spokane",
       "zip": "99218",
@@ -22207,54 +21023,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Glendale",
-      "zip": "85308",
-      "theater_name": "AMC Arrowhead 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562655610,
-      "date": "2026-09-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Glendale",
-      "zip": "85305",
-      "theater_name": "AMC Westgate 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563095423,
-      "date": "2026-09-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85044",
-      "theater_name": "AMC Ahwatukee 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563080942,
-      "date": "2026-09-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -22863,38 +21631,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92868",
-      "theater_name": "AMC Orange 30 (AMC Block 30)",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562644786,
-      "date": "2026-09-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Montclair",
-      "zip": "91763",
-      "theater_name": "AMC Montclair Place 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562579935,
-      "date": "2026-09-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -23667,22 +22403,6 @@
     },
     {
       "state": "CA",
-      "city": "San Jose",
-      "zip": "95122",
-      "theater_name": "AMC Eastridge 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563094485,
-      "date": "2026-09-06+20:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
       "city": "San Francisco",
       "zip": "94123",
       "theater_name": "Presidio Theatre",
@@ -23843,22 +22563,6 @@
     },
     {
       "state": "CA",
-      "city": "Brentwood",
-      "zip": "94513",
-      "theater_name": "AMC Brentwood 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562887849,
-      "date": "2026-09-06+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Lodi",
       "zip": "95240",
       "theater_name": "Lodi Stadium 12",
@@ -23983,22 +22687,6 @@
       "error": {
         "status": 0,
         "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562674923,
-      "date": "2026-09-06+20:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -25043,22 +23731,6 @@
     },
     {
       "state": "WA",
-      "city": "Tukwila",
-      "zip": "98188",
-      "theater_name": "AMC Southcenter 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562915022,
-      "date": "2026-09-06+17:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WA",
       "city": "Seattle",
       "zip": "98116",
       "theater_name": "Historic Admiral",
@@ -25247,22 +23919,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Bremerton",
-      "zip": "98337",
-      "theater_name": "SEEfilm Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562472322,
-      "date": "2026-09-06+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -25631,6 +24287,198 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662067,
+      "date": "2026-09-06+08:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662068,
+      "date": "2026-09-06+12:15",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560685280,
+      "date": "2026-09-06+19:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560685281,
+      "date": "2026-09-06+22:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662038,
+      "date": "2026-09-06+06:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662037,
+      "date": "2026-09-06+10:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662041,
+      "date": "2026-09-06+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662040,
+      "date": "2026-09-06+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662039,
+      "date": "2026-09-06+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662087,
+      "date": "2026-09-06+07:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 560685279,
+      "date": "2026-09-06+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90503",
+      "theater_name": "AMC Del Amo 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562662065,
+      "date": "2026-09-06+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 503,
+        "reason": "HTTP 503"
       }
     }
   ]
