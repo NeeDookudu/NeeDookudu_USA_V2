@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 02:35:16 AM",
+  "last_updated": "2026-09-07 04:18:20 AM",
   "errors": [
     {
       "state": "MA",
@@ -26,22 +26,6 @@
       "chainCode": "CNMK",
       "showtime_id": 562843869,
       "date": "2026-09-06+18:35",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Hadley",
-      "zip": "01035",
-      "theater_name": "Cinemark At Hampshire Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 562843870,
-      "date": "2026-09-06+22:00",
       "format": "Cinemark XD",
       "language": "Unknown",
       "error": {
@@ -8634,22 +8618,6 @@
       "chainCode": "RTSIND",
       "showtime_id": 563317764,
       "date": "2026-09-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Starke",
-      "zip": "32091",
-      "theater_name": "Florida Twin Theatre",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 563317765,
-      "date": "2026-09-06+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
