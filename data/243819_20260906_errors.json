@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 12:22:59 AM",
+  "last_updated": "2026-09-07 02:35:16 AM",
   "errors": [
     {
       "state": "MA",
@@ -14706,22 +14706,6 @@
       }
     },
     {
-      "state": "IA",
-      "city": "Ft. Dodge",
-      "zip": "50501",
-      "theater_name": "Fort 8 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562989091,
-      "date": "2026-09-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "MN",
       "city": "Fairmont",
       "zip": "56031",
@@ -23887,6 +23871,70 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hyattsville",
+      "zip": "20782",
+      "theater_name": "Regal Hyattsville Royale",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 563333040,
+      "date": "2026-09-06+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Milan",
+      "zip": "38358",
+      "theater_name": "Ritz 3 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563332433,
+      "date": "2026-09-06+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Milan",
+      "zip": "38358",
+      "theater_name": "Ritz 3 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563332434,
+      "date": "2026-09-06+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Capitola",
+      "zip": "95010",
+      "theater_name": "CineLux Capitola Cafe & Lounge",
+      "chainName": "Cinelux Theatres",
+      "chainCode": "CLUX",
+      "showtime_id": 563026807,
+      "date": "2026-09-06+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
