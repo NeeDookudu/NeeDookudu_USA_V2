@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06 10:14:15 PM",
+  "last_updated": "2026-09-07 12:22:59 AM",
   "errors": [
     {
       "state": "MA",
@@ -4770,22 +4770,6 @@
       }
     },
     {
-      "state": "NC",
-      "city": "Elizabeth City",
-      "zip": "27909",
-      "theater_name": "R/C Albemarle Movies 8",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562695035,
-      "date": "2026-09-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "VA",
       "city": "Roanoke",
       "zip": "24015",
@@ -5027,22 +5011,6 @@
     },
     {
       "state": "VA",
-      "city": "Covington",
-      "zip": "24426",
-      "theater_name": "R/C Covington Movies 3",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562416357,
-      "date": "2026-09-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
       "city": "Martinsville",
       "zip": "24112",
       "theater_name": "Movie Town Theatre",
@@ -5087,22 +5055,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Lexington",
-      "zip": "24450",
-      "theater_name": "R/C State Cinema 3",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465802,
-      "date": "2026-09-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -14770,38 +14722,6 @@
       }
     },
     {
-      "state": "IA",
-      "city": "Ottumwa",
-      "zip": "52501",
-      "theater_name": "Ottumwa 8",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562498235,
-      "date": "2026-09-06+15:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Ottumwa",
-      "zip": "52501",
-      "theater_name": "Ottumwa 8",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562498236,
-      "date": "2026-09-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
       "state": "MN",
       "city": "Fairmont",
       "zip": "56031",
@@ -14847,70 +14767,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Mason City",
-      "zip": "50401",
-      "theater_name": "CEC Theatres Cinema West 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562435263,
-      "date": "2026-09-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Mason City",
-      "zip": "50401",
-      "theater_name": "CEC Theatres Cinema West 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562435264,
-      "date": "2026-09-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Albert Lea",
-      "zip": "56007",
-      "theater_name": "Mall Cinema 7 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562435023,
-      "date": "2026-09-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Albert Lea",
-      "zip": "56007",
-      "theater_name": "Mall Cinema 7 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562435024,
-      "date": "2026-09-06+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -21715,118 +21571,6 @@
     },
     {
       "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778609,
-      "date": "2026-09-06+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778612,
-      "date": "2026-09-06+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778610,
-      "date": "2026-09-06+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778613,
-      "date": "2026-09-06+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778611,
-      "date": "2026-09-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778606,
-      "date": "2026-09-06+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778607,
-      "date": "2026-09-06+19:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Mammoth Lakes",
       "zip": "93546",
       "theater_name": "Minaret Cinemas is D'Place",
@@ -22031,118 +21775,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664660,
-      "date": "2026-09-06+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664663,
-      "date": "2026-09-06+18:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664661,
-      "date": "2026-09-06+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664664,
-      "date": "2026-09-06+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664662,
-      "date": "2026-09-06+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664688,
-      "date": "2026-09-06+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664675,
-      "date": "2026-09-06+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -24218,6 +23850,38 @@
       "chainCode": "RTSIND",
       "showtime_id": 563330201,
       "date": "2026-09-06+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Banning",
+      "zip": "92220",
+      "theater_name": "Fox Cineplex is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 563331377,
+      "date": "2026-09-06+13:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Banning",
+      "zip": "92220",
+      "theater_name": "Fox Cineplex is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 563331379,
+      "date": "2026-09-06+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
