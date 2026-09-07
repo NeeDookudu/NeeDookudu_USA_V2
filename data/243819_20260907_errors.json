@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 10:36:00 PM",
+  "last_updated": "2026-09-08 01:56:37 AM",
   "errors": [
     {
       "state": "MA",
@@ -12819,22 +12819,6 @@
     },
     {
       "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562594943,
-      "date": "2026-09-07+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "MI",
       "city": "Jackson",
       "zip": "49202",
       "theater_name": "GQT Jackson 10",
@@ -20538,6 +20522,310 @@
       "chainCode": "AMC",
       "showtime_id": 562787615,
       "date": "2026-09-07+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Agawam",
+      "zip": "01001",
+      "theater_name": "Agawam Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 563345811,
+      "date": "2026-09-07+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Agawam",
+      "zip": "01001",
+      "theater_name": "Agawam Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 563345813,
+      "date": "2026-09-07+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Agawam",
+      "zip": "01001",
+      "theater_name": "Agawam Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 563345816,
+      "date": "2026-09-07+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Altamonte Springs",
+      "zip": "32701",
+      "theater_name": "AMC Altamonte Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562816916,
+      "date": "2026-09-07+12:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Altamonte Springs",
+      "zip": "32701",
+      "theater_name": "AMC Altamonte Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562816912,
+      "date": "2026-09-07+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562654667,
+      "date": "2026-09-07+11:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562654666,
+      "date": "2026-09-07+15:00",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562654635,
+      "date": "2026-09-07+12:00",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562654637,
+      "date": "2026-09-07+15:30",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559422265,
+      "date": "2026-09-07+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 559422266,
+      "date": "2026-09-07+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 563346346,
+      "date": "2026-09-07+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Springfield",
+      "zip": "45505",
+      "theater_name": "UEC Theatres Springfield",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 563346063,
+      "date": "2026-09-07+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Sioux Center",
+      "zip": "51250",
+      "theater_name": "Cinema 5 Theatres",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 563343074,
+      "date": "2026-09-07+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Valley City",
+      "zip": "84119",
+      "theater_name": "Megaplex West Valley City at Valley Fair",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 563345060,
+      "date": "2026-09-07+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Valley City",
+      "zip": "84119",
+      "theater_name": "Megaplex West Valley City at Valley Fair",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 563345056,
+      "date": "2026-09-07+17:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Valley City",
+      "zip": "84119",
+      "theater_name": "Megaplex West Valley City at Valley Fair",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 563345055,
+      "date": "2026-09-07+19:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "HTTP 500 from seatmap API"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 563350071,
+      "date": "2026-09-07+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lakewood",
+      "zip": "98499",
+      "theater_name": "AMC Lakewood Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563349446,
+      "date": "2026-09-07+11:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
