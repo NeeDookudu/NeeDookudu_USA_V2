@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 04:49:52 PM",
+  "last_updated": "2026-09-07 10:36:00 PM",
   "errors": [
     {
       "state": "MA",
@@ -2568,104 +2568,8 @@
       "theater_name": "Marquee Cinemas Orchard 14",
       "chainName": "Marquee Cinemas",
       "chainCode": "MRQC",
-      "showtime_id": 562927447,
-      "date": "2026-09-07+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927448,
-      "date": "2026-09-07+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927449,
-      "date": "2026-09-07+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
       "showtime_id": 562927430,
       "date": "2026-09-07+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927431,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927432,
-      "date": "2026-09-07+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927433,
-      "date": "2026-09-07+21:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -3667,246 +3571,6 @@
     },
     {
       "state": "PA",
-      "city": "Hanover",
-      "zip": "17331",
-      "theater_name": "R/C Hanover Movies 16",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465703,
-      "date": "2026-09-07+13:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Hanover",
-      "zip": "17331",
-      "theater_name": "R/C Hanover Movies 16",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465704,
-      "date": "2026-09-07+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Hanover",
-      "zip": "17331",
-      "theater_name": "R/C Hanover Movies 16",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465705,
-      "date": "2026-09-07+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Hanover",
-      "zip": "17331",
-      "theater_name": "R/C Hanover Movies 16",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465700,
-      "date": "2026-09-07+12:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Hanover",
-      "zip": "17331",
-      "theater_name": "R/C Hanover Movies 16",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465701,
-      "date": "2026-09-07+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Hanover",
-      "zip": "17331",
-      "theater_name": "R/C Hanover Movies 16",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465702,
-      "date": "2026-09-07+19:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "York",
-      "zip": "17403",
-      "theater_name": "R/C Queensgate Movies 13 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562535070,
-      "date": "2026-09-07+12:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "York",
-      "zip": "17403",
-      "theater_name": "R/C Queensgate Movies 13 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562535068,
-      "date": "2026-09-07+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "York",
-      "zip": "17403",
-      "theater_name": "R/C Queensgate Movies 13 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562535069,
-      "date": "2026-09-07+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "York",
-      "zip": "17403",
-      "theater_name": "R/C Queensgate Movies 13 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562535071,
-      "date": "2026-09-07+13:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "York",
-      "zip": "17403",
-      "theater_name": "R/C Queensgate Movies 13 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562535079,
-      "date": "2026-09-07+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "York",
-      "zip": "17403",
-      "theater_name": "R/C Queensgate Movies 13 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562535078,
-      "date": "2026-09-07+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Westminster",
-      "zip": "21157",
-      "theater_name": "R/C Westminster Movies 9",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562499049,
-      "date": "2026-09-07+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Westminster",
-      "zip": "21157",
-      "theater_name": "R/C Westminster Movies 9",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562499039,
-      "date": "2026-09-07+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Westminster",
-      "zip": "21157",
-      "theater_name": "R/C Westminster Movies 9",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562499040,
-      "date": "2026-09-07+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
       "city": "Selinsgrove",
       "zip": "17870",
       "theater_name": "AMC CLASSIC Selinsgrove 12",
@@ -3983,22 +3647,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Reading",
-      "zip": "19601",
-      "theater_name": "R/C Reading Movies 11 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562498905,
-      "date": "2026-09-07+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
       }
     },
     {
@@ -4232,38 +3880,6 @@
       "theater_name": "R/C Wilkes Barre Movies 14",
       "chainName": "R/C Theatres",
       "chainCode": "RC",
-      "showtime_id": 562435796,
-      "date": "2026-09-07+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Wilkes-Barre",
-      "zip": "18701",
-      "theater_name": "R/C Wilkes Barre Movies 14",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435795,
-      "date": "2026-09-07+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Wilkes-Barre",
-      "zip": "18701",
-      "theater_name": "R/C Wilkes Barre Movies 14",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
       "showtime_id": 562435790,
       "date": "2026-09-07+13:30",
       "format": "Standard",
@@ -4282,22 +3898,6 @@
       "chainCode": "RC",
       "showtime_id": 562435791,
       "date": "2026-09-07+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Wilkes-Barre",
-      "zip": "18701",
-      "theater_name": "R/C Wilkes Barre Movies 14",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435788,
-      "date": "2026-09-07+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -4691,22 +4291,6 @@
     },
     {
       "state": "VA",
-      "city": "Richmond",
-      "zip": "23235",
-      "theater_name": "CMX CinéBistro Stony Point",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 563202907,
-      "date": "2026-09-07+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "VA",
       "city": "Roanoke",
       "zip": "24014",
       "theater_name": "AMC CLASSIC Roanoke 10",
@@ -4819,22 +4403,6 @@
     },
     {
       "state": "VA",
-      "city": "Blacksburg",
-      "zip": "24060",
-      "theater_name": "B&B Theatres Blacksburg 11",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 562522477,
-      "date": "2026-09-07+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "VA",
       "city": "Martinsville",
       "zip": "24112",
       "theater_name": "Movie Town Theatre",
@@ -4890,54 +4458,6 @@
       "chainCode": "GHTC",
       "showtime_id": 563257189,
       "date": "2026-09-07+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Lewisburg",
-      "zip": "24901",
-      "theater_name": "Lewisburg Cinema 8",
-      "chainName": "Greater Huntington Theatre Corp",
-      "chainCode": "GHTC",
-      "showtime_id": 563257190,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Lewisburg",
-      "zip": "24901",
-      "theater_name": "Lewisburg Cinema 8",
-      "chainName": "Greater Huntington Theatre Corp",
-      "chainCode": "GHTC",
-      "showtime_id": 563257191,
-      "date": "2026-09-07+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Lewisburg",
-      "zip": "24901",
-      "theater_name": "Lewisburg Cinema 8",
-      "chainName": "Greater Huntington Theatre Corp",
-      "chainCode": "GHTC",
-      "showtime_id": 563257192,
-      "date": "2026-09-07+21:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -5064,104 +4584,8 @@
       "theater_name": "Marquee Cinemas Pinnacle 12",
       "chainName": "Marquee Cinemas",
       "chainCode": "MRQC",
-      "showtime_id": 562926771,
-      "date": "2026-09-07+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926772,
-      "date": "2026-09-07+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926773,
-      "date": "2026-09-07+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
       "showtime_id": 562926764,
       "date": "2026-09-07+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926765,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926766,
-      "date": "2026-09-07+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926767,
-      "date": "2026-09-07+21:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -5395,54 +4819,6 @@
     },
     {
       "state": "WV",
-      "city": "Beckley",
-      "zip": "25801",
-      "theater_name": "Marquee Cinemas Galleria 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961393,
-      "date": "2026-09-07+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Beckley",
-      "zip": "25801",
-      "theater_name": "Marquee Cinemas Galleria 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961394,
-      "date": "2026-09-07+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Beckley",
-      "zip": "25801",
-      "theater_name": "Marquee Cinemas Galleria 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961395,
-      "date": "2026-09-07+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
       "city": "Charleston",
       "zip": "25301",
       "theater_name": "Park Place Cinemas",
@@ -5530,102 +4906,6 @@
       "chainCode": "MRQC",
       "showtime_id": 562961074,
       "date": "2026-09-07+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961100,
-      "date": "2026-09-07+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961075,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961101,
-      "date": "2026-09-07+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961076,
-      "date": "2026-09-07+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961102,
-      "date": "2026-09-07+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961077,
-      "date": "2026-09-07+21:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -6163,38 +5443,6 @@
     },
     {
       "state": "NC",
-      "city": "Cary",
-      "zip": "27518",
-      "theater_name": "CMX CinéBistro Waverly Place",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562634718,
-      "date": "2026-09-07+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Cary",
-      "zip": "27518",
-      "theater_name": "CMX CinéBistro Waverly Place",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562634673,
-      "date": "2026-09-07+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
       "city": "Raleigh",
       "zip": "27615",
       "theater_name": "Triangle Cinemas",
@@ -6314,102 +5562,6 @@
       "chainCode": "MRQC",
       "showtime_id": 562927108,
       "date": "2026-09-07+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927087,
-      "date": "2026-09-07+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927109,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927088,
-      "date": "2026-09-07+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927110,
-      "date": "2026-09-07+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927089,
-      "date": "2026-09-07+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927111,
-      "date": "2026-09-07+21:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -9619,22 +8771,6 @@
     },
     {
       "state": "FL",
-      "city": "Doral",
-      "zip": "33122",
-      "theater_name": "CMX CinéBistro CityPlace Doral",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562898374,
-      "date": "2026-09-07+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Miami",
       "zip": "33130",
       "theater_name": "CMX Brickell Dine-In",
@@ -9642,22 +8778,6 @@
       "chainCode": "COBB",
       "showtime_id": 563017447,
       "date": "2026-09-07+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33130",
-      "theater_name": "CMX Brickell Dine-In",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 563017494,
-      "date": "2026-09-07+19:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -9695,54 +8815,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Palm Beach Gardens",
-      "zip": "33410",
-      "theater_name": "CMX Downtown At The Gardens + IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562571639,
-      "date": "2026-09-07+22:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33606",
-      "theater_name": "CMX CinéBistro Hyde Park",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562879086,
-      "date": "2026-09-07+13:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33606",
-      "theater_name": "CMX CinéBistro Hyde Park",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562879117,
-      "date": "2026-09-07+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -9914,70 +8986,6 @@
       "chainCode": "COBB",
       "showtime_id": 562897897,
       "date": "2026-09-07+12:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Saint Petersburg",
-      "zip": "33710",
-      "theater_name": "CMX Tyrone 10",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562897913,
-      "date": "2026-09-07+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Saint Petersburg",
-      "zip": "33710",
-      "theater_name": "CMX Tyrone 10",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562897936,
-      "date": "2026-09-07+19:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Saint Petersburg",
-      "zip": "33710",
-      "theater_name": "CMX Tyrone 10",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562897960,
-      "date": "2026-09-07+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Saint Petersburg",
-      "zip": "33710",
-      "theater_name": "CMX Tyrone 10",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562897730,
-      "date": "2026-09-07+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -10259,102 +9267,6 @@
     },
     {
       "state": "FL",
-      "city": "Cape Coral",
-      "zip": "33990",
-      "theater_name": "Marquee Cinemas Coralwood 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562925239,
-      "date": "2026-09-07+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Cape Coral",
-      "zip": "33990",
-      "theater_name": "Marquee Cinemas Coralwood 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562925247,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Cape Coral",
-      "zip": "33990",
-      "theater_name": "Marquee Cinemas Coralwood 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562925240,
-      "date": "2026-09-07+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Cape Coral",
-      "zip": "33990",
-      "theater_name": "Marquee Cinemas Coralwood 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562925248,
-      "date": "2026-09-07+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Cape Coral",
-      "zip": "33990",
-      "theater_name": "Marquee Cinemas Coralwood 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562925241,
-      "date": "2026-09-07+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Cape Coral",
-      "zip": "33990",
-      "theater_name": "Marquee Cinemas Coralwood 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562925249,
-      "date": "2026-09-07+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Sarasota",
       "zip": "34239",
       "theater_name": "CMX CinéBistro Siesta Key",
@@ -10371,38 +9283,6 @@
     },
     {
       "state": "FL",
-      "city": "Sarasota",
-      "zip": "34239",
-      "theater_name": "CMX CinéBistro Siesta Key",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 563122560,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Sarasota",
-      "zip": "34239",
-      "theater_name": "CMX CinéBistro Siesta Key",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 563122571,
-      "date": "2026-09-07+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Naples",
       "zip": "34103",
       "theater_name": "CMX CinéBistro Coastland",
@@ -10415,22 +9295,6 @@
       "error": {
         "status": 0,
         "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Naples",
-      "zip": "34103",
-      "theater_name": "CMX CinéBistro Coastland",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 562764956,
-      "date": "2026-09-07+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -10735,22 +9599,6 @@
       "error": {
         "status": 500,
         "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37221",
-      "theater_name": "AMC Bellevue 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562490197,
-      "date": "2026-09-07+19:10",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -11551,22 +10399,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Pickerington",
-      "zip": "43147",
-      "theater_name": "Marcus Pickerington Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 562539059,
-      "date": "2026-09-07+17:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -13635,54 +12467,6 @@
     },
     {
       "state": "IL",
-      "city": "Chicago",
-      "zip": "60657",
-      "theater_name": "Landmark Century Centre Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562620928,
-      "date": "2026-09-07+12:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60657",
-      "theater_name": "Landmark Century Centre Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562620877,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60657",
-      "theater_name": "Landmark Century Centre Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562620946,
-      "date": "2026-09-07+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IL",
       "city": "Park Ridge",
       "zip": "60068",
       "theater_name": "Pickwick Theatre",
@@ -15171,118 +13955,6 @@
     },
     {
       "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534797,
-      "date": "2026-09-07+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534807,
-      "date": "2026-09-07+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534798,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534808,
-      "date": "2026-09-07+18:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534810,
-      "date": "2026-09-07+19:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534824,
-      "date": "2026-09-07+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534809,
-      "date": "2026-09-07+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
       "theater_name": "AMC CLASSIC Mounds View 15",
@@ -15647,70 +14319,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573621,
-      "date": "2026-09-07+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573622,
-      "date": "2026-09-07+15:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573624,
-      "date": "2026-09-07+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Baxter",
-      "zip": "56401",
-      "theater_name": "Mann Lakes 12",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562573623,
-      "date": "2026-09-07+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -16383,22 +14991,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Bloomington",
-      "zip": "61701",
-      "theater_name": "Marcus Bloomington Cinema + IMAX",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 562964220,
-      "date": "2026-09-07+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -17347,102 +15939,6 @@
     },
     {
       "state": "MO",
-      "city": "Springfield",
-      "zip": "65807",
-      "theater_name": "Alamo Drafthouse Cinema Springfield",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 562702978,
-      "date": "2026-09-07+13:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Springfield",
-      "zip": "65807",
-      "theater_name": "Alamo Drafthouse Cinema Springfield",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 563253190,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Springfield",
-      "zip": "65807",
-      "theater_name": "Alamo Drafthouse Cinema Springfield",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 562702856,
-      "date": "2026-09-07+15:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Springfield",
-      "zip": "65806",
-      "theater_name": "College Station Theaters",
-      "chainName": "College Station Theaters",
-      "chainCode": "COLL",
-      "showtime_id": 562875144,
-      "date": "2026-09-07+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Springfield",
-      "zip": "65806",
-      "theater_name": "College Station Theaters",
-      "chainName": "College Station Theaters",
-      "chainCode": "COLL",
-      "showtime_id": 562875146,
-      "date": "2026-09-07+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Springfield",
-      "zip": "65806",
-      "theater_name": "College Station Theaters",
-      "chainName": "College Station Theaters",
-      "chainCode": "COLL",
-      "showtime_id": 562875145,
-      "date": "2026-09-07+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MO",
       "city": "Ozark",
       "zip": "65721",
       "theater_name": "B&B TheatresOzark-Nixa 12 with Marquee Suites & GS",
@@ -18259,54 +16755,6 @@
     },
     {
       "state": "OK",
-      "city": "Edmond",
-      "zip": "73034",
-      "theater_name": "Icon Cinema Edmond",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562606235,
-      "date": "2026-09-07+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Edmond",
-      "zip": "73034",
-      "theater_name": "Icon Cinema Edmond",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562606236,
-      "date": "2026-09-07+15:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Edmond",
-      "zip": "73034",
-      "theater_name": "Icon Cinema Edmond",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562606237,
-      "date": "2026-09-07+18:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "OK",
       "city": "Ardmore",
       "zip": "73401",
       "theater_name": "AMC CLASSIC Ardmore 8",
@@ -19010,22 +17458,6 @@
       }
     },
     {
-      "state": "CO",
-      "city": "Grand Junction",
-      "zip": "81505",
-      "theater_name": "Picture Show at Grand Junction",
-      "chainName": "Picture Show Entertainment, LLC",
-      "chainCode": "PSE",
-      "showtime_id": 562917803,
-      "date": "2026-09-07+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
       "state": "ID",
       "city": "Chubbuck",
       "zip": "83202",
@@ -19487,22 +17919,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Mesquite",
-      "zip": "89027",
-      "theater_name": "Megaplex Mesquite",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 562495167,
-      "date": "2026-09-07+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -19999,118 +18415,6 @@
       "error": {
         "status": 410,
         "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Costa Mesa",
-      "zip": "92627",
-      "theater_name": "Triangle Square Cinemas",
-      "chainName": "Starlight Cinemas",
-      "chainCode": "STAR",
-      "showtime_id": 563032191,
-      "date": "2026-09-07+11:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Costa Mesa",
-      "zip": "92627",
-      "theater_name": "Triangle Square Cinemas",
-      "chainName": "Starlight Cinemas",
-      "chainCode": "STAR",
-      "showtime_id": 563032192,
-      "date": "2026-09-07+15:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Costa Mesa",
-      "zip": "92627",
-      "theater_name": "Triangle Square Cinemas",
-      "chainName": "Starlight Cinemas",
-      "chainCode": "STAR",
-      "showtime_id": 563032193,
-      "date": "2026-09-07+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Costa Mesa",
-      "zip": "92627",
-      "theater_name": "Triangle Square Cinemas",
-      "chainName": "Starlight Cinemas",
-      "chainCode": "STAR",
-      "showtime_id": 563032194,
-      "date": "2026-09-07+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 562802305,
-      "date": "2026-09-07+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 562802304,
-      "date": "2026-09-07+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 562802306,
-      "date": "2026-09-07+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -20895,246 +19199,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562925869,
-      "date": "2026-09-07+13:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562925870,
-      "date": "2026-09-07+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562925871,
-      "date": "2026-09-07+19:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562925860,
-      "date": "2026-09-07+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562925861,
-      "date": "2026-09-07+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562925862,
-      "date": "2026-09-07+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562925834,
-      "date": "2026-09-07+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702651,
-      "date": "2026-09-07+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702652,
-      "date": "2026-09-07+14:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702653,
-      "date": "2026-09-07+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702658,
-      "date": "2026-09-07+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702654,
-      "date": "2026-09-07+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702643,
-      "date": "2026-09-07+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702644,
-      "date": "2026-09-07+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702645,
-      "date": "2026-09-07+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -22431,6 +20495,54 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Morganton",
+      "zip": "28658",
+      "theater_name": "Marquee Cinemas Mimosa 7",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 562924150,
+      "date": "2026-09-07+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pembroke Pines",
+      "zip": "33026",
+      "theater_name": "AMC Pembroke Lakes 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562916497,
+      "date": "2026-09-07+09:30",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "South Miami",
+      "zip": "33143",
+      "theater_name": "AMC Sunset Place 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562787615,
+      "date": "2026-09-07+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
