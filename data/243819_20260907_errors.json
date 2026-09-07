@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 01:56:37 AM",
+  "last_updated": "2026-09-08 04:47:32 AM",
   "errors": [
     {
       "state": "MA",
@@ -2088,22 +2088,6 @@
       "theater_name": "R/C Richland Crossings Movies 12",
       "chainName": "R/C Theatres",
       "chainCode": "RC",
-      "showtime_id": 562465327,
-      "date": "2026-09-07+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Quakertown",
-      "zip": "18951",
-      "theater_name": "R/C Richland Crossings Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
       "showtime_id": 562604777,
       "date": "2026-09-07+13:00",
       "format": "Standard",
@@ -2122,22 +2106,6 @@
       "chainCode": "RC",
       "showtime_id": 562465328,
       "date": "2026-09-07+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Quakertown",
-      "zip": "18951",
-      "theater_name": "R/C Richland Crossings Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465329,
-      "date": "2026-09-07+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -4072,22 +4040,6 @@
       "theater_name": "R/C Lexington Exchange Movies 12",
       "chainName": "R/C Theatres",
       "chainCode": "RC",
-      "showtime_id": 562435536,
-      "date": "2026-09-07+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
       "showtime_id": 562435542,
       "date": "2026-09-07+13:30",
       "format": "Standard",
@@ -4106,22 +4058,6 @@
       "chainCode": "RC",
       "showtime_id": 562435537,
       "date": "2026-09-07+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435543,
-      "date": "2026-09-07+19:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -14088,38 +14024,6 @@
       "theater_name": "Mann Champlin Cinema 14",
       "chainName": "Mann Theatres",
       "chainCode": "MANN",
-      "showtime_id": 562572629,
-      "date": "2026-09-07+18:15",
-      "format": "XD",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562572630,
-      "date": "2026-09-07+21:25",
-      "format": "XD",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
       "showtime_id": 562572619,
       "date": "2026-09-07+12:30",
       "format": "Standard",
@@ -14138,38 +14042,6 @@
       "chainCode": "MANN",
       "showtime_id": 562572620,
       "date": "2026-09-07+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562572621,
-      "date": "2026-09-07+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562572622,
-      "date": "2026-09-07+21:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -14330,22 +14202,6 @@
       "chainCode": "MANN",
       "showtime_id": 562534460,
       "date": "2026-09-07+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Grand Rapids",
-      "zip": "55744",
-      "theater_name": "Mann Grand Rapids Cinema 8 ",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534461,
-      "date": "2026-09-07+18:45",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -16378,22 +16234,6 @@
       "chainCode": "CNMK",
       "showtime_id": 563137710,
       "date": "2026-09-07+19:00",
-      "format": "Cinemark XD",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Baton Rouge",
-      "zip": "70810",
-      "theater_name": "Cinemark Perkins Rowe and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563137711,
-      "date": "2026-09-07+22:25",
       "format": "Cinemark XD",
       "language": "Unknown",
       "error": {
@@ -20786,22 +20626,6 @@
       }
     },
     {
-      "state": "UT",
-      "city": "West Valley City",
-      "zip": "84119",
-      "theater_name": "Megaplex West Valley City at Valley Fair",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 563345055,
-      "date": "2026-09-07+19:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
       "state": "WA",
       "city": "Seattle",
       "zip": "98116",
@@ -20826,6 +20650,86 @@
       "chainCode": "AMC",
       "showtime_id": 563349446,
       "date": "2026-09-07+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Hot Springs",
+      "zip": "71913",
+      "theater_name": "Central City 10 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563361863,
+      "date": "2026-09-07+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Carson",
+      "zip": "90746",
+      "theater_name": "Cinemark Carson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563358790,
+      "date": "2026-09-07+13:10",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Carson",
+      "zip": "90746",
+      "theater_name": "Cinemark Carson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563358791,
+      "date": "2026-09-07+16:35",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Carson",
+      "zip": "90746",
+      "theater_name": "Cinemark Carson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563358792,
+      "date": "2026-09-07+20:00",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Carson",
+      "zip": "90746",
+      "theater_name": "Cinemark Carson and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563348224,
+      "date": "2026-09-07+13:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
