@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09 01:21:47 AM",
+  "last_updated": "2026-09-09 03:48:30 AM",
   "errors": [
     {
       "state": "MA",
@@ -16397,6 +16397,38 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Venice",
+      "zip": "34292",
+      "theater_name": "The Grand Luxury Cinema",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 563456307,
+      "date": "2026-09-08+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38117",
+      "theater_name": "Malco Paradiso Cinema Grill & IMAX",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 563474309,
+      "date": "2026-09-08+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
