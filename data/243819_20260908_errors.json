@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 10:33:08 PM",
+  "last_updated": "2026-09-09 01:21:47 AM",
   "errors": [
     {
       "state": "MA",
@@ -16290,22 +16290,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Poway",
-      "zip": "92064",
-      "theater_name": "AMC Poway 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562642127,
-      "date": "2026-09-08+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
       "state": "VA",
       "city": "Gainesville",
       "zip": "20155",
@@ -16318,21 +16302,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562882098/seat-map/'"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Gainesville",
-      "zip": "20155",
-      "theater_name": "Regal Virginia Gateway & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562882099,
-      "date": "2026-09-08+17:30",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562882099/seat-map/'"
       }
     },
     {
@@ -16383,48 +16352,51 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37214",
-      "theater_name": "Regal Opry Mills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563396093,
-      "date": "2026-09-08+15:40",
+      "state": "IL",
+      "city": "Litchfield",
+      "zip": "62056",
+      "theater_name": "Westside Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 562982831,
+      "date": "2026-09-08+18:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563396093/seat-map/'"
+        "status": 400,
+        "reason": "HTTP 400"
       }
     },
     {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37214",
-      "theater_name": "Regal Opry Mills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563396094,
-      "date": "2026-09-08+19:10",
+      "state": "TX",
+      "city": "Jacinto City",
+      "zip": "77029",
+      "theater_name": "Cinemark Tinseltown Jacinto City and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563418116,
+      "date": "2026-09-08+12:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563396094/seat-map/'"
+        "status": 404,
+        "reason": "HTTP 404"
       }
     },
     {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37214",
-      "theater_name": "Regal Opry Mills",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563396095,
-      "date": "2026-09-08+22:30",
+      "state": "CA",
+      "city": "Bonsall",
+      "zip": "92003",
+      "theater_name": "River Village Cinema is D'Place",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 563410469,
+      "date": "2026-09-08+16:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563396095/seat-map/'"
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
