@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 01:15:44 PM",
+  "last_updated": "2026-09-08 06:06:08 PM",
   "errors": [
     {
       "state": "MA",
@@ -575,86 +575,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Newington",
-      "zip": "03801",
-      "theater_name": "Regal Fox Run & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563193681,
-      "date": "2026-09-08+11:30",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Newington",
-      "zip": "03801",
-      "theater_name": "Regal Fox Run & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563193679,
-      "date": "2026-09-08+18:30",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Newington",
-      "zip": "03801",
-      "theater_name": "Regal Fox Run & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563193678,
-      "date": "2026-09-08+21:55",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Newington",
-      "zip": "03801",
-      "theater_name": "Regal Fox Run & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563193701,
-      "date": "2026-09-08+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Fall River",
-      "zip": "02721",
-      "theater_name": "Picture Show at SouthCoast Marketplace",
-      "chainName": "Picture Show Entertainment, LLC",
-      "chainCode": "PSE",
-      "showtime_id": 562917447,
-      "date": "2026-09-08+22:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -1631,38 +1551,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Closter",
-      "zip": "07624",
-      "theater_name": "Landmark Closter Plaza",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562553108,
-      "date": "2026-09-08+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Closter",
-      "zip": "07624",
-      "theater_name": "Landmark Closter Plaza",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562553084,
-      "date": "2026-09-08+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -5699,38 +5587,6 @@
     },
     {
       "state": "GA",
-      "city": "Atlanta",
-      "zip": "30308",
-      "theater_name": "Landmark Midtown Art Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562708799,
-      "date": "2026-09-08+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Atlanta",
-      "zip": "30308",
-      "theater_name": "Landmark Midtown Art Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562708800,
-      "date": "2026-09-08+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "GA",
       "city": "Canton",
       "zip": "30114",
       "theater_name": "AMC CLASSIC Riverstone 15",
@@ -7215,38 +7071,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Coconut Creek",
-      "zip": "33073",
-      "theater_name": "Silverspot Cinema Coconut Creek 11",
-      "chainName": "Silverspot Cinemas",
-      "chainCode": "SLVR",
-      "showtime_id": 562806803,
-      "date": "2026-09-08+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Coconut Creek",
-      "zip": "33073",
-      "theater_name": "Silverspot Cinema Coconut Creek 11",
-      "chainName": "Silverspot Cinemas",
-      "chainCode": "SLVR",
-      "showtime_id": 562806806,
-      "date": "2026-09-08+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
       }
     },
     {
@@ -9507,150 +9331,6 @@
     },
     {
       "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46240",
-      "theater_name": "Landmark Keystone Art Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562437811,
-      "date": "2026-09-08+12:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46240",
-      "theater_name": "Landmark Keystone Art Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562437827,
-      "date": "2026-09-08+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46240",
-      "theater_name": "Landmark Keystone Art Cinema",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562437717,
-      "date": "2026-09-08+18:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46220",
-      "theater_name": "Landmark Glendale 12",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562494819,
-      "date": "2026-09-08+13:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46220",
-      "theater_name": "Landmark Glendale 12",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562494925,
-      "date": "2026-09-08+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46220",
-      "theater_name": "Landmark Glendale 12",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562494801,
-      "date": "2026-09-08+16:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46220",
-      "theater_name": "Landmark Glendale 12",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562495021,
-      "date": "2026-09-08+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46220",
-      "theater_name": "Landmark Glendale 12",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 562495044,
-      "date": "2026-09-08+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46254",
-      "theater_name": "Alamo Drafthouse Indianapolis",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 562520840,
-      "date": "2026-09-08+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "IN",
       "city": "Mooresville",
       "zip": "46158",
       "theater_name": "Torchlight Cinema",
@@ -9759,22 +9439,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Lafayette",
-      "zip": "47905",
-      "theater_name": "GQT Eastside 10 IMAX",
-      "chainName": "GQT Movies",
-      "chainCode": "GOOD",
-      "showtime_id": 563029521,
-      "date": "2026-09-08+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -13747,38 +13411,6 @@
     },
     {
       "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 562872512,
-      "date": "2026-09-08+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Bryan",
-      "zip": "77808",
-      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563004689,
-      "date": "2026-09-08+12:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Schertz",
       "zip": "78154",
       "theater_name": "EVO Entertainment Schertz + EVX",
@@ -14479,22 +14111,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Payson",
-      "zip": "84651",
-      "theater_name": "Wayfarer Theater Payson",
-      "chainName": "INDY Cinema Group",
-      "chainCode": "INDY",
-      "showtime_id": 562559508,
-      "date": "2026-09-08+21:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -16655,6 +16271,38 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Fort Oglethorpe",
+      "zip": "30742",
+      "theater_name": "AMC CLASSIC Battlefield 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563390121,
+      "date": "2026-09-08+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Poway",
+      "zip": "92064",
+      "theater_name": "AMC Poway 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562642127,
+      "date": "2026-09-08+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403,
+        "reason": "HTTP 403"
       }
     }
   ]
