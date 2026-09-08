@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 06:06:08 PM",
+  "last_updated": "2026-09-08 10:33:08 PM",
   "errors": [
     {
       "state": "MA",
@@ -16303,6 +16303,128 @@
       "error": {
         "status": 403,
         "reason": "HTTP 403"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Gainesville",
+      "zip": "20155",
+      "theater_name": "Regal Virginia Gateway & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 562882098,
+      "date": "2026-09-08+14:15",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562882098/seat-map/'"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Gainesville",
+      "zip": "20155",
+      "theater_name": "Regal Virginia Gateway & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 562882099,
+      "date": "2026-09-08+17:30",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562882099/seat-map/'"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563397128,
+      "date": "2026-09-08+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563397127,
+      "date": "2026-09-08+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37214",
+      "theater_name": "Regal Opry Mills",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 563396092,
+      "date": "2026-09-08+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563396092/seat-map/'"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37214",
+      "theater_name": "Regal Opry Mills",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 563396093,
+      "date": "2026-09-08+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563396093/seat-map/'"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37214",
+      "theater_name": "Regal Opry Mills",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 563396094,
+      "date": "2026-09-08+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563396094/seat-map/'"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37214",
+      "theater_name": "Regal Opry Mills",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 563396095,
+      "date": "2026-09-08+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563396095/seat-map/'"
       }
     }
   ]
