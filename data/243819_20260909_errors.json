@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09 08:33:35 PM",
+  "last_updated": "2026-09-09 11:52:57 PM",
   "errors": [
     {
       "state": "MA",
@@ -2895,86 +2895,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Oxon Hill",
-      "zip": "20745",
-      "theater_name": "AMC Rivertowne 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562916057,
-      "date": "2026-09-09+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435595,
-      "date": "2026-09-09+16:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435596,
-      "date": "2026-09-09+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435597,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "California",
-      "zip": "20619",
-      "theater_name": "R/C Lexington Exchange Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435601,
-      "date": "2026-09-09+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -6351,86 +6271,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Dania Beach",
-      "zip": "33004",
-      "theater_name": "Regal Dania Pointe ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563515560,
-      "date": "2026-09-09+19:05",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Dania Beach",
-      "zip": "33004",
-      "theater_name": "Regal Dania Pointe ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563515559,
-      "date": "2026-09-09+22:30",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Dania Beach",
-      "zip": "33004",
-      "theater_name": "Regal Dania Pointe ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563515577,
-      "date": "2026-09-09+15:10",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Dania Beach",
-      "zip": "33004",
-      "theater_name": "Regal Dania Pointe ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563515576,
-      "date": "2026-09-09+18:35",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Dania Beach",
-      "zip": "33004",
-      "theater_name": "Regal Dania Pointe ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563515556,
-      "date": "2026-09-09+19:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -10451,22 +10291,6 @@
     },
     {
       "state": "MN",
-      "city": "Rosemount",
-      "zip": "55068",
-      "theater_name": "Marcus Rosemount Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 562482004,
-      "date": "2026-09-09+16:40",
-      "format": "UltraScreen DLX",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "MN",
       "city": "Minneapolis",
       "zip": "55414",
       "theater_name": "The Main Cinema",
@@ -12451,38 +12275,6 @@
     },
     {
       "state": "TX",
-      "city": "Austin",
-      "zip": "78752",
-      "theater_name": "Galaxy Austin",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 562622637,
-      "date": "2026-09-09+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78752",
-      "theater_name": "Galaxy Austin",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 562622638,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Webster",
       "zip": "77598",
       "theater_name": "Cinemark NASA and XD",
@@ -13779,22 +13571,6 @@
     },
     {
       "state": "CA",
-      "city": "Temecula",
-      "zip": "92591",
-      "theater_name": "Regal Edwards Temecula",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 562838126,
-      "date": "2026-09-09+11:10",
-      "format": "RPX",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Barstow",
       "zip": "92311",
       "theater_name": "Barstow Station Cinema is D'Place",
@@ -13935,38 +13711,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95125",
-      "theater_name": "CineLux Almaden Cafe & Lounge",
-      "chainName": "Cinelux Theatres",
-      "chainCode": "CLUX",
-      "showtime_id": 562667323,
-      "date": "2026-09-09+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95125",
-      "theater_name": "CineLux Almaden Cafe & Lounge",
-      "chainName": "Cinelux Theatres",
-      "chainCode": "CLUX",
-      "showtime_id": 562667329,
-      "date": "2026-09-09+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -15196,36 +14940,6 @@
       }
     },
     {
-      "state": "PA",
-      "city": "Quakertown",
-      "zip": "18951",
-      "theater_name": "R/C Richland Crossings Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465378,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562465378/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Quakertown",
-      "zip": "18951",
-      "theater_name": "R/C Richland Crossings Movies 12",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465379,
-      "date": "2026-09-09+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562465379/seat-map/'"
-      }
-    },
-    {
       "state": "NJ",
       "city": "Toms River",
       "zip": "08755",
@@ -15241,21 +14955,6 @@
       }
     },
     {
-      "state": "NJ",
-      "city": "Toms River",
-      "zip": "08755",
-      "theater_name": "Marquee Cinemas Orchard 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 563162911,
-      "date": "2026-09-09+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563162911/seat-map/'"
-      }
-    },
-    {
       "state": "NY",
       "city": "New Hartford",
       "zip": "13413",
@@ -15268,51 +14967,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562927558/seat-map/'"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927559,
-      "date": "2026-09-09+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562927559/seat-map/'"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927560,
-      "date": "2026-09-09+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562927560/seat-map/'"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Hartford",
-      "zip": "13413",
-      "theater_name": "Marquee Cinemas Orchard 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927561,
-      "date": "2026-09-09+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562927561/seat-map/'"
       }
     },
     {
@@ -15379,66 +15033,6 @@
     },
     {
       "state": "PA",
-      "city": "Carlisle",
-      "zip": "17013",
-      "theater_name": "R/C Carlisle Commons Movies 8",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562466364,
-      "date": "2026-09-09+16:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562466364/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Gettysburg",
-      "zip": "17325",
-      "theater_name": "R/C Gateway Theater 8",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465492,
-      "date": "2026-09-09+15:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562465492/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Gettysburg",
-      "zip": "17325",
-      "theater_name": "R/C Gateway Theater 8",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465493,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562465493/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "York",
-      "zip": "17403",
-      "theater_name": "R/C Queensgate Movies 13 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562535137,
-      "date": "2026-09-09+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562535137/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
       "city": "York",
       "zip": "17403",
       "theater_name": "R/C Queensgate Movies 13 & IMAX",
@@ -15454,66 +15048,6 @@
     },
     {
       "state": "PA",
-      "city": "York",
-      "zip": "17403",
-      "theater_name": "R/C Queensgate Movies 13 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562535146,
-      "date": "2026-09-09+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562535146/seat-map/'"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Westminster",
-      "zip": "21157",
-      "theater_name": "R/C Westminster Movies 9",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562436034,
-      "date": "2026-09-09+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562436034/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Reading",
-      "zip": "19601",
-      "theater_name": "R/C Reading Movies 11 & IMAX",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562466208,
-      "date": "2026-09-09+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562466208/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Wilkes-Barre",
-      "zip": "18701",
-      "theater_name": "R/C Wilkes Barre Movies 14",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435844,
-      "date": "2026-09-09+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562435844/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
       "city": "Wilkes-Barre",
       "zip": "18701",
       "theater_name": "R/C Wilkes Barre Movies 14",
@@ -15525,111 +15059,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562435837/seat-map/'"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Wilkes-Barre",
-      "zip": "18701",
-      "theater_name": "R/C Wilkes Barre Movies 14",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562435836,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562435836/seat-map/'"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Elizabeth City",
-      "zip": "27909",
-      "theater_name": "R/C Albemarle Movies 8",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562695083,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562695083/seat-map/'"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Elizabeth City",
-      "zip": "27909",
-      "theater_name": "R/C Albemarle Movies 8",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562695084,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562695084/seat-map/'"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Covington",
-      "zip": "24426",
-      "theater_name": "R/C Covington Movies 3",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562416370,
-      "date": "2026-09-09+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562416370/seat-map/'"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Lexington",
-      "zip": "24450",
-      "theater_name": "R/C State Cinema 3",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562465814,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562465814/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Lewisburg",
-      "zip": "24901",
-      "theater_name": "Lewisburg Cinema 8",
-      "chainName": "Greater Huntington Theatre Corp",
-      "chainCode": "GHTC",
-      "showtime_id": 563192661,
-      "date": "2026-09-09+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563192661/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Lewisburg",
-      "zip": "24901",
-      "theater_name": "Lewisburg Cinema 8",
-      "chainName": "Greater Huntington Theatre Corp",
-      "chainCode": "GHTC",
-      "showtime_id": 563192662,
-      "date": "2026-09-09+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563192662/seat-map/'"
       }
     },
     {
@@ -15699,87 +15128,12 @@
       "theater_name": "Marquee Cinemas Pinnacle 12",
       "chainName": "Marquee Cinemas",
       "chainCode": "MRQC",
-      "showtime_id": 562926869,
-      "date": "2026-09-09+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562926869/seat-map/'"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926870,
-      "date": "2026-09-09+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562926870/seat-map/'"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926871,
-      "date": "2026-09-09+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562926871/seat-map/'"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
       "showtime_id": 562926862,
       "date": "2026-09-09+12:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562926862/seat-map/'"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926864,
-      "date": "2026-09-09+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562926864/seat-map/'"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Bristol",
-      "zip": "37620",
-      "theater_name": "Marquee Cinemas Pinnacle 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562926865,
-      "date": "2026-09-09+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562926865/seat-map/'"
       }
     },
     {
@@ -15795,111 +15149,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961510/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Beckley",
-      "zip": "25801",
-      "theater_name": "Marquee Cinemas Galleria 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961513,
-      "date": "2026-09-09+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961513/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961180,
-      "date": "2026-09-09+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961180/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961181,
-      "date": "2026-09-09+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961181/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961182,
-      "date": "2026-09-09+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961182/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "South Charleston",
-      "zip": "25309",
-      "theater_name": "Marquee Cinemas Southridge 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562961157,
-      "date": "2026-09-09+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961157/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Logan",
-      "zip": "25601",
-      "theater_name": "Fountain Place Cinema 8",
-      "chainName": "Greater Huntington Theatre Corp",
-      "chainCode": "GHTC",
-      "showtime_id": 562690979,
-      "date": "2026-09-09+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562690979/seat-map/'"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Logan",
-      "zip": "25601",
-      "theater_name": "Fountain Place Cinema 8",
-      "chainName": "Greater Huntington Theatre Corp",
-      "chainCode": "GHTC",
-      "showtime_id": 562690981,
-      "date": "2026-09-09+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562690981/seat-map/'"
       }
     },
     {
@@ -15994,126 +15243,6 @@
       }
     },
     {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927208,
-      "date": "2026-09-09+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562927208/seat-map/'"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927187,
-      "date": "2026-09-09+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562927187/seat-map/'"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27614",
-      "theater_name": "Marquee Cinemas Wakefield Commons 12",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562927209,
-      "date": "2026-09-09+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562927209/seat-map/'"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Kill Devil Hills",
-      "zip": "27948",
-      "theater_name": "R/C Kill Devil Hills Movies 10",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562466084,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562466084/seat-map/'"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Kill Devil Hills",
-      "zip": "27948",
-      "theater_name": "R/C Kill Devil Hills Movies 10",
-      "chainName": "R/C Theatres",
-      "chainCode": "RC",
-      "showtime_id": 562466085,
-      "date": "2026-09-09+19:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562466085/seat-map/'"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Morganton",
-      "zip": "28658",
-      "theater_name": "Marquee Cinemas Mimosa 7",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562924179,
-      "date": "2026-09-09+18:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562924179/seat-map/'"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Morganton",
-      "zip": "28658",
-      "theater_name": "Marquee Cinemas Mimosa 7",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562924180,
-      "date": "2026-09-09+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562924180/seat-map/'"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Cape Coral",
-      "zip": "33990",
-      "theater_name": "Marquee Cinemas Coralwood 10",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 562925327,
-      "date": "2026-09-09+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562925327/seat-map/'"
-      }
-    },
-    {
       "state": "OH",
       "city": "Cleveland Heights",
       "zip": "44118",
@@ -16141,156 +15270,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562499229/seat-map/'"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Ft. Dodge",
-      "zip": "50501",
-      "theater_name": "Fort 8 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562989174,
-      "date": "2026-09-09+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562989174/seat-map/'"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Ft. Dodge",
-      "zip": "50501",
-      "theater_name": "Fort 8 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562989175,
-      "date": "2026-09-09+18:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562989175/seat-map/'"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Mason City",
-      "zip": "50401",
-      "theater_name": "CEC Theatres Cinema West 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562435362,
-      "date": "2026-09-09+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562435362/seat-map/'"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Mason City",
-      "zip": "50401",
-      "theater_name": "CEC Theatres Cinema West 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562435363,
-      "date": "2026-09-09+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562435363/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Albert Lea",
-      "zip": "56007",
-      "theater_name": "Mall Cinema 7 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562498459,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562498459/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Winona",
-      "zip": "55987",
-      "theater_name": "Winona 7 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562401056,
-      "date": "2026-09-09+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562401056/seat-map/'"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Ottumwa",
-      "zip": "52501",
-      "theater_name": "Ottumwa 8",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562498318,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562498318/seat-map/'"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Ottumwa",
-      "zip": "52501",
-      "theater_name": "Ottumwa 8",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562498319,
-      "date": "2026-09-09+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562498319/seat-map/'"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "West Burlington",
-      "zip": "52655",
-      "theater_name": "Westland Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562415979,
-      "date": "2026-09-09+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562415979/seat-map/'"
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Clinton",
-      "zip": "52732",
-      "theater_name": "Clinton 8 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562415769,
-      "date": "2026-09-09+18:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562415769/seat-map/'"
       }
     },
     {
@@ -16326,111 +15305,6 @@
     },
     {
       "state": "MN",
-      "city": "Edina",
-      "zip": "55424",
-      "theater_name": "Edina Cinema 4",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562498585,
-      "date": "2026-09-09+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562498585/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Edina",
-      "zip": "55424",
-      "theater_name": "Edina Cinema 4",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562498586,
-      "date": "2026-09-09+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562498586/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Andover",
-      "zip": "55304",
-      "theater_name": "Andover Cinema",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388799,
-      "date": "2026-09-09+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562388799/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Andover",
-      "zip": "55304",
-      "theater_name": "Andover Cinema",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562388798,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562388798/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 563362502,
-      "date": "2026-09-09+15:05",
-      "format": "XD",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563362502/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 563362504,
-      "date": "2026-09-09+21:25",
-      "format": "XD",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563362504/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Champlin",
-      "zip": "55316",
-      "theater_name": "Mann Champlin Cinema 14",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 563362499,
-      "date": "2026-09-09+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563362499/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
       "city": "Plymouth",
       "zip": "55447",
       "theater_name": "Mann Plymouth Grand 15",
@@ -16457,81 +15331,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563471523/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 563471533,
-      "date": "2026-09-09+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563471533/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 563471536,
-      "date": "2026-09-09+19:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563471536/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Plymouth",
-      "zip": "55447",
-      "theater_name": "Mann Plymouth Grand 15",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 563471535,
-      "date": "2026-09-09+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563471535/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Owatonna",
-      "zip": "55060",
-      "theater_name": "Northwoods Cinema 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562389244,
-      "date": "2026-09-09+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562389244/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Owatonna",
-      "zip": "55060",
-      "theater_name": "Northwoods Cinema 10",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562389243,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562389243/seat-map/'"
       }
     },
     {
@@ -16566,36 +15365,6 @@
       }
     },
     {
-      "state": "MN",
-      "city": "Grand Rapids",
-      "zip": "55744",
-      "theater_name": "Mann Grand Rapids Cinema 8 ",
-      "chainName": "Mann Theatres",
-      "chainCode": "MANN",
-      "showtime_id": 562534505,
-      "date": "2026-09-09+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562534505/seat-map/'"
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Alexandria",
-      "zip": "56308",
-      "theater_name": "Midway 9 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562379362,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562379362/seat-map/'"
-      }
-    },
-    {
       "state": "MO",
       "city": "Springfield",
       "zip": "65806",
@@ -16611,216 +15380,6 @@
       }
     },
     {
-      "state": "MO",
-      "city": "Springfield",
-      "zip": "65806",
-      "theater_name": "College Station Theaters",
-      "chainName": "College Station Theaters",
-      "chainCode": "COLL",
-      "showtime_id": 562924729,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562924729/seat-map/'"
-      }
-    },
-    {
-      "state": "NE",
-      "city": "Columbus",
-      "zip": "68601",
-      "theater_name": "Center 7 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562572362,
-      "date": "2026-09-09+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562572362/seat-map/'"
-      }
-    },
-    {
-      "state": "NE",
-      "city": "Norfolk",
-      "zip": "68701",
-      "theater_name": "Norfolk 7 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562572502,
-      "date": "2026-09-09+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562572502/seat-map/'"
-      }
-    },
-    {
-      "state": "NE",
-      "city": "Norfolk",
-      "zip": "68701",
-      "theater_name": "Norfolk 7 Theatre",
-      "chainName": "CEC Theatres",
-      "chainCode": "CEC",
-      "showtime_id": 562572503,
-      "date": "2026-09-09+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562572503/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Burbank",
-      "zip": "91502",
-      "theater_name": "AMC Burbank 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563090025,
-      "date": "2026-09-09+11:30",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563090025/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tustin",
-      "zip": "92782",
-      "theater_name": "AMC Tustin 14 @ The District",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563651277,
-      "date": "2026-09-09+14:20",
-      "format": "Dolby Cinema",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563651277/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tustin",
-      "zip": "92782",
-      "theater_name": "AMC Tustin 14 @ The District",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563651271,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563651271/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tustin",
-      "zip": "92782",
-      "theater_name": "AMC Tustin 14 @ The District",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563651275,
-      "date": "2026-09-09+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563651275/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tustin",
-      "zip": "92782",
-      "theater_name": "AMC Tustin 14 @ The District",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563651278,
-      "date": "2026-09-09+18:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563651278/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tustin",
-      "zip": "92782",
-      "theater_name": "AMC Tustin 14 @ The District",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563651279,
-      "date": "2026-09-09+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563651279/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Camarillo",
-      "zip": "93012",
-      "theater_name": "Roxy Stadium 11",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562831006,
-      "date": "2026-09-09+14:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562831006/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Camarillo",
-      "zip": "93012",
-      "theater_name": "Roxy Stadium 11",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562831030,
-      "date": "2026-09-09+14:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562831030/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Camarillo",
-      "zip": "93012",
-      "theater_name": "Roxy Stadium 11",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562831031,
-      "date": "2026-09-09+17:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562831031/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Camarillo",
-      "zip": "93012",
-      "theater_name": "Roxy Stadium 11",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562831032,
-      "date": "2026-09-09+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562831032/seat-map/'"
-      }
-    },
-    {
       "state": "CA",
       "city": "San Diego",
       "zip": "92126",
@@ -16833,36 +15392,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563837921/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92126",
-      "theater_name": "Regal Edwards Mira Mesa ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563837920,
-      "date": "2026-09-09+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563837920/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92126",
-      "theater_name": "Regal Edwards Mira Mesa ",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563837919,
-      "date": "2026-09-09+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563837919/seat-map/'"
       }
     },
     {
@@ -16944,261 +15473,6 @@
     },
     {
       "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778818,
-      "date": "2026-09-09+12:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562778818/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778819,
-      "date": "2026-09-09+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562778819/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778823,
-      "date": "2026-09-09+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562778823/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778821,
-      "date": "2026-09-09+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562778821/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Clovis",
-      "zip": "93612",
-      "theater_name": "Sierra Vista Cinemas 16",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562778816,
-      "date": "2026-09-09+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562778816/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664776,
-      "date": "2026-09-09+12:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562664776/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664777,
-      "date": "2026-09-09+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562664777/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664780,
-      "date": "2026-09-09+18:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562664780/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664778,
-      "date": "2026-09-09+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562664778/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664779,
-      "date": "2026-09-09+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562664779/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lodi",
-      "zip": "95240",
-      "theater_name": "Lodi Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562664805,
-      "date": "2026-09-09+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562664805/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562961839,
-      "date": "2026-09-09+13:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961839/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562961840,
-      "date": "2026-09-09+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961840/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562961830,
-      "date": "2026-09-09+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961830/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562961831,
-      "date": "2026-09-09+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961831/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562961832,
-      "date": "2026-09-09+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961832/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562961806,
-      "date": "2026-09-09+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562961806/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
       "city": "Santa Rosa",
       "zip": "95403",
       "theater_name": "Airport Stadium 12",
@@ -17213,93 +15487,131 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702764,
-      "date": "2026-09-09+14:10",
+      "state": "MA",
+      "city": "West Springfield",
+      "zip": "01089",
+      "theater_name": "Cinemark West Springfield 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563923402,
+      "date": "2026-09-09+12:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562702764/seat-map/'"
+        "status": 404,
+        "reason": "HTTP 404"
       }
     },
     {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702765,
-      "date": "2026-09-09+17:30",
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562884728,
+      "date": "2026-09-09+12:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562884741,
+      "date": "2026-09-09+14:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562702765/seat-map/'"
+        "status": 404,
+        "reason": "HTTP 404"
       }
     },
     {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702808,
-      "date": "2026-09-09+19:30",
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 563920759,
+      "date": "2026-09-09+15:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562702808/seat-map/'"
+        "status": 400,
+        "reason": "HTTP 400"
       }
     },
     {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702755,
-      "date": "2026-09-09+16:00",
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 563920758,
+      "date": "2026-09-09+18:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562702755/seat-map/'"
+        "status": 400,
+        "reason": "HTTP 400"
       }
     },
     {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95403",
-      "theater_name": "Airport Stadium 12",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "showtime_id": 562702756,
-      "date": "2026-09-09+18:15",
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562572979,
+      "date": "2026-09-09+15:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/562702756/seat-map/'"
+        "status": 400,
+        "reason": "HTTP 400"
       }
     },
     {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99504",
-      "theater_name": "Regal Tikahtnu IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563865777,
-      "date": "2026-09-09+16:20",
-      "format": "ScreenX",
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562572980,
+      "date": "2026-09-09+18:30",
+      "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563865777/seat-map/'"
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 562572981,
+      "date": "2026-09-09+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
       }
     }
   ]
