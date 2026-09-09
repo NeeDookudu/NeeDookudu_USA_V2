@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09 03:48:30 AM",
+  "last_updated": "2026-09-09 06:30:22 AM",
   "errors": [
     {
       "state": "MA",
@@ -16424,6 +16424,118 @@
       "chainCode": "MALCO",
       "showtime_id": 563474309,
       "date": "2026-09-08+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Bangor",
+      "zip": "04401",
+      "theater_name": "Bangor Mall 10",
+      "chainName": "Your Neighborhood Theatre",
+      "chainCode": "NBHT",
+      "showtime_id": 562426944,
+      "date": "2026-09-08+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Bangor",
+      "zip": "04401",
+      "theater_name": "Bangor Mall 10",
+      "chainName": "Your Neighborhood Theatre",
+      "chainCode": "NBHT",
+      "showtime_id": 562426945,
+      "date": "2026-09-08+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Bangor",
+      "zip": "04401",
+      "theater_name": "Bangor Mall 10",
+      "chainName": "Your Neighborhood Theatre",
+      "chainCode": "NBHT",
+      "showtime_id": 562426946,
+      "date": "2026-09-08+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562686429,
+      "date": "2026-09-08+18:45",
+      "format": "Dolby Cinema",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562686423,
+      "date": "2026-09-08+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562686425,
+      "date": "2026-09-08+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 562686428,
+      "date": "2026-09-08+16:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
