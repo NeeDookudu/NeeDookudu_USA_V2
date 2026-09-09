@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09 11:52:57 PM",
+  "last_updated": "2026-09-10 03:01:53 AM",
   "errors": [
     {
       "state": "MA",
@@ -6943,22 +6943,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Cookeville",
-      "zip": "38506",
-      "theater_name": "AMC Highland 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 562559315,
-      "date": "2026-09-09+16:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -15612,6 +15596,54 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Canandaigua",
+      "zip": "14424",
+      "theater_name": "Canandaigua Theaters",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563954296,
+      "date": "2026-09-09+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "New Bern",
+      "zip": "28560",
+      "theater_name": "Bear Town Cinema 6",
+      "chainName": "Eastern NC Cinemas",
+      "chainCode": "ENCC",
+      "showtime_id": 562916306,
+      "date": "2026-09-09+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60657",
+      "theater_name": "Landmark Century Centre Cinema",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 562621005,
+      "date": "2026-09-09+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
