@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 01:18:22 PM",
+  "last_updated": "2026-09-10 06:12:10 PM",
   "errors": [
     {
       "state": "MA",
@@ -3119,22 +3119,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "DC",
-      "city": "Washington",
-      "zip": "20002",
-      "theater_name": "Alamo Drafthouse Cinema DC Bryant Street",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 563921207,
-      "date": "2026-09-10+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -6735,22 +6719,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Wesley Chapel",
-      "zip": "33544",
-      "theater_name": "B&B Theatres Wesley Chapel - The Grove 16",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 563769710,
-      "date": "2026-09-10+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -11555,22 +11523,6 @@
     },
     {
       "state": "MO",
-      "city": "Arnold",
-      "zip": "63010",
-      "theater_name": "Marcus Arnold Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 563398201,
-      "date": "2026-09-10+13:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "MO",
       "city": "Wentzville",
       "zip": "63385",
       "theater_name": "B&B Theatres Wentzville Tower 12",
@@ -13235,22 +13187,6 @@
     },
     {
       "state": "UT",
-      "city": "Pleasant Grove",
-      "zip": "84062",
-      "theater_name": "Megaplex Pleasant Grove",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 562641335,
-      "date": "2026-09-10+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "UT",
       "city": "Tooele",
       "zip": "84074",
       "theater_name": "UEC Theatres Tooele",
@@ -14831,22 +14767,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Lynnwood",
-      "zip": "98037",
-      "theater_name": "Regal Alderwood",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 563857277,
-      "date": "2026-09-10+14:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
