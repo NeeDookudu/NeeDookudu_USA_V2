@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 10:22:56 PM",
+  "last_updated": "2026-09-11 12:59:56 AM",
   "errors": [
     {
       "state": "MA",
@@ -1615,22 +1615,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Princeton",
-      "zip": "08540",
-      "theater_name": "AMC MarketFair 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563431023,
-      "date": "2026-09-10+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -9523,38 +9507,6 @@
     },
     {
       "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563446817,
-      "date": "2026-09-10+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago Ridge",
-      "zip": "60415",
-      "theater_name": "AMC Chicago Ridge 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563446818,
-      "date": "2026-09-10+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "IL",
       "city": "Park Ridge",
       "zip": "60068",
       "theater_name": "Pickwick Theatre",
@@ -11491,54 +11443,6 @@
     },
     {
       "state": "MO",
-      "city": "Wentzville",
-      "zip": "63385",
-      "theater_name": "B&B Theatres Wentzville Tower 12",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 563833666,
-      "date": "2026-09-10+14:30",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Wentzville",
-      "zip": "63385",
-      "theater_name": "B&B Theatres Wentzville Tower 12",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 563833665,
-      "date": "2026-09-10+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Wentzville",
-      "zip": "63385",
-      "theater_name": "B&B Theatres Wentzville Tower 12",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 563833664,
-      "date": "2026-09-10+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "MO",
       "city": "Union",
       "zip": "63084",
       "theater_name": "Great 8 Cinema",
@@ -12611,54 +12515,6 @@
     },
     {
       "state": "TX",
-      "city": "Granbury",
-      "zip": "76048",
-      "theater_name": "Cinergy Cinemas Granbury",
-      "chainName": "Cinergy Entertainment",
-      "chainCode": "CNRGY",
-      "showtime_id": 562609430,
-      "date": "2026-09-10+14:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Granbury",
-      "zip": "76048",
-      "theater_name": "Cinergy Cinemas Granbury",
-      "chainName": "Cinergy Entertainment",
-      "chainCode": "CNRGY",
-      "showtime_id": 562609431,
-      "date": "2026-09-10+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Granbury",
-      "zip": "76048",
-      "theater_name": "Cinergy Cinemas Granbury",
-      "chainName": "Cinergy Entertainment",
-      "chainCode": "CNRGY",
-      "showtime_id": 563128250,
-      "date": "2026-09-10+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Webster",
       "zip": "77598",
       "theater_name": "Cinemark NASA and XD",
@@ -12671,22 +12527,6 @@
       "error": {
         "status": 404,
         "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Galveston",
-      "zip": "77554",
-      "theater_name": "Galveston Primetime Cinema",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 563601936,
-      "date": "2026-09-10+16:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -13242,70 +13082,6 @@
       "chainCode": "ROAD",
       "showtime_id": 562600689,
       "date": "2026-09-10+10:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85712",
-      "theater_name": "RoadHouse Cinemas Crossroads",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 562600690,
-      "date": "2026-09-10+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85712",
-      "theater_name": "RoadHouse Cinemas Crossroads",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 563287689,
-      "date": "2026-09-10+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85712",
-      "theater_name": "RoadHouse Cinemas Crossroads",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 563287682,
-      "date": "2026-09-10+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85712",
-      "theater_name": "RoadHouse Cinemas Crossroads",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 563287690,
-      "date": "2026-09-10+21:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -14058,38 +13834,6 @@
       "chainCode": "CLUX",
       "showtime_id": 563026891,
       "date": "2026-09-10+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Capitola",
-      "zip": "95010",
-      "theater_name": "CineLux Capitola Cafe & Lounge",
-      "chainName": "Cinelux Theatres",
-      "chainCode": "CLUX",
-      "showtime_id": 563026893,
-      "date": "2026-09-10+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Capitola",
-      "zip": "95010",
-      "theater_name": "CineLux Capitola Cafe & Lounge",
-      "chainName": "Cinelux Theatres",
-      "chainCode": "CLUX",
-      "showtime_id": 563026892,
-      "date": "2026-09-10+18:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -15062,57 +14806,12 @@
       "theater_name": "Regal Deer Park",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "showtime_id": 564013838,
-      "date": "2026-09-10+22:30",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564013838/seat-map/'"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
       "showtime_id": 564013814,
       "date": "2026-09-10+13:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564013814/seat-map/'"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 564013813,
-      "date": "2026-09-10+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564013813/seat-map/'"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 564013812,
-      "date": "2026-09-10+20:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564013812/seat-map/'"
       }
     },
     {
@@ -15128,21 +14827,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564018020/seat-map/'"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Anderson",
-      "zip": "29621",
-      "theater_name": "Regal Starlight - Anderson",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 564019112,
-      "date": "2026-09-10+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564019112/seat-map/'"
       }
     },
     {
@@ -15253,21 +14937,6 @@
     },
     {
       "state": "MI",
-      "city": "Flint",
-      "zip": "48532",
-      "theater_name": "Cinemark Flint West 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 564021396,
-      "date": "2026-09-10+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564021396/seat-map/'"
-      }
-    },
-    {
-      "state": "MI",
       "city": "Birch Run",
       "zip": "48415",
       "theater_name": "Emagine Birch Run ",
@@ -15279,36 +14948,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563580193/seat-map/'"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Birch Run",
-      "zip": "48415",
-      "theater_name": "Emagine Birch Run ",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 563580194,
-      "date": "2026-09-10+18:00",
-      "format": "EMX",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563580194/seat-map/'"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Birch Run",
-      "zip": "48415",
-      "theater_name": "Emagine Birch Run ",
-      "chainName": "Emagine",
-      "chainCode": "EMAG",
-      "showtime_id": 563580195,
-      "date": "2026-09-10+21:35",
-      "format": "EMX",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563580195/seat-map/'"
       }
     },
     {
@@ -15387,36 +15026,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Baton Rouge",
-      "zip": "70836",
-      "theater_name": "AMC Mall of Louisiana 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 564020923,
-      "date": "2026-09-10+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564020923/seat-map/'"
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Baton Rouge",
-      "zip": "70836",
-      "theater_name": "AMC Mall of Louisiana 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 564020920,
-      "date": "2026-09-10+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564020920/seat-map/'"
-      }
-    },
-    {
       "state": "TX",
       "city": "Roanoke",
       "zip": "76262",
@@ -15448,36 +15057,6 @@
     },
     {
       "state": "TX",
-      "city": "Roanoke",
-      "zip": "76262",
-      "theater_name": "Cinemark Roanoke and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 564018550,
-      "date": "2026-09-10+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564018550/seat-map/'"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Roanoke",
-      "zip": "76262",
-      "theater_name": "Cinemark Roanoke and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 564018549,
-      "date": "2026-09-10+22:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564018549/seat-map/'"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Frisco",
       "zip": "75033",
       "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
@@ -15504,51 +15083,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564015210/seat-map/'"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75033",
-      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 564015207,
-      "date": "2026-09-10+15:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564015207/seat-map/'"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75033",
-      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 564015208,
-      "date": "2026-09-10+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564015208/seat-map/'"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75033",
-      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 564015209,
-      "date": "2026-09-10+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564015209/seat-map/'"
       }
     },
     {
@@ -15782,21 +15316,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Schertz",
-      "zip": "78154",
-      "theater_name": "EVO Entertainment Schertz + EVX",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 564014061,
-      "date": "2026-09-10+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564014061/seat-map/'"
-      }
-    },
-    {
       "state": "CA",
       "city": "Apple Valley",
       "zip": "92308",
@@ -15809,21 +15328,6 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564016014/seat-map/'"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Apple Valley",
-      "zip": "92308",
-      "theater_name": "Cinemark Jess Ranch",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 564016015,
-      "date": "2026-09-10+14:55",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/564016015/seat-map/'"
       }
     },
     {
@@ -15884,6 +15388,70 @@
       "language": "Unknown",
       "error": {
         "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://usa.needookudu.workers.dev/?target=https://tickets.fandango.com/checkoutapi/showtimes/v2/563740323/seat-map/'"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Manchester",
+      "zip": "06042",
+      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564020071,
+      "date": "2026-09-10+11:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Manchester",
+      "zip": "06042",
+      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564020072,
+      "date": "2026-09-10+14:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Newport News",
+      "zip": "23606",
+      "theater_name": "Cinemark City Center and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564025902,
+      "date": "2026-09-10+11:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Tullahoma",
+      "zip": "37388",
+      "theater_name": "Regal Tullahoma",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 564028401,
+      "date": "2026-09-10+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
