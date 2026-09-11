@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 06:17:29 AM",
+  "last_updated": "2026-09-11 11:00:38 AM",
   "errors": [
     {
       "state": "MA",
@@ -15823,6 +15823,70 @@
       "chainCode": "CNMK",
       "showtime_id": 563663394,
       "date": "2026-09-10+14:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "theater_name": "Cinemark Boynton Beach 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564061178,
+      "date": "2026-09-10+11:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "theater_name": "Cinemark Boynton Beach 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564061179,
+      "date": "2026-09-10+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "theater_name": "Cinemark Boynton Beach 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564061180,
+      "date": "2026-09-10+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "theater_name": "Cinemark Boynton Beach 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564061181,
+      "date": "2026-09-10+21:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
