@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 11:39:45 PM",
+  "last_updated": "2026-09-12 03:03:44 AM",
   "errors": [
     {
       "state": "MA",
@@ -7327,38 +7327,6 @@
       "error": {
         "status": 0,
         "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33609",
-      "theater_name": "AMC West Shore 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563898771,
-      "date": "2026-09-11+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33609",
-      "theater_name": "AMC West Shore 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563898772,
-      "date": "2026-09-11+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 410,
-        "reason": "HTTP 410"
       }
     },
     {
@@ -17995,6 +17963,134 @@
       "showtime_id": 563505854,
       "date": "2026-09-11+12:30",
       "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Wellfleet",
+      "zip": "02667",
+      "theater_name": "Wellfleet Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 564084852,
+      "date": "2026-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Wellfleet",
+      "zip": "02667",
+      "theater_name": "Wellfleet Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 564084851,
+      "date": "2026-09-11+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rome",
+      "zip": "13440",
+      "theater_name": "Rome Cinemas",
+      "chainName": "Zurich Cinemas",
+      "chainCode": "ZURC",
+      "showtime_id": 564081969,
+      "date": "2026-09-11+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rome",
+      "zip": "13440",
+      "theater_name": "Rome Cinemas",
+      "chainName": "Zurich Cinemas",
+      "chainCode": "ZURC",
+      "showtime_id": 564081970,
+      "date": "2026-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Gurnee",
+      "zip": "60031",
+      "theater_name": "Marcus Gurnee Mills Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 564078949,
+      "date": "2026-09-11+14:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78223",
+      "theater_name": "Cinemark McCreless Market",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564073751,
+      "date": "2026-09-11+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78223",
+      "theater_name": "Cinemark McCreless Market",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 564073752,
+      "date": "2026-09-11+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Brentwood",
+      "zip": "94513",
+      "theater_name": "AMC Brentwood 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 563554453,
+      "date": "2026-09-11+13:30",
+      "format": "Standard",
       "language": "Unknown",
       "error": {
         "status": 404,
