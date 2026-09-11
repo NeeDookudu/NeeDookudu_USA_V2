@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 08:21:29 PM",
+  "last_updated": "2026-09-11 11:39:45 PM",
   "errors": [
     {
       "state": "MA",
@@ -7331,54 +7331,6 @@
     },
     {
       "state": "FL",
-      "city": "Greenacres",
-      "zip": "33463",
-      "theater_name": "Phoenix Theatres Lake Worth 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563768779,
-      "date": "2026-09-11+14:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Greenacres",
-      "zip": "33463",
-      "theater_name": "Phoenix Theatres Lake Worth 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563768780,
-      "date": "2026-09-11+17:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Greenacres",
-      "zip": "33463",
-      "theater_name": "Phoenix Theatres Lake Worth 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563768781,
-      "date": "2026-09-11+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Tampa",
       "zip": "33609",
       "theater_name": "AMC West Shore 14",
@@ -8115,70 +8067,6 @@
     },
     {
       "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Empire 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563986238,
-      "date": "2026-09-11+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Empire 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563986239,
-      "date": "2026-09-11+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Empire 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563986240,
-      "date": "2026-09-11+19:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Empire 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563986241,
-      "date": "2026-09-11+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TN",
       "city": "Paris",
       "zip": "38242",
       "theater_name": "Parisian Theatre",
@@ -8799,54 +8687,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mount Vernon",
-      "zip": "43050",
-      "theater_name": "UEC Theaters Mt Vernon",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 563631281,
-      "date": "2026-09-11+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mount Vernon",
-      "zip": "43050",
-      "theater_name": "UEC Theaters Mt Vernon",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 563631280,
-      "date": "2026-09-11+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mount Vernon",
-      "zip": "43050",
-      "theater_name": "UEC Theaters Mt Vernon",
-      "chainName": "UEC Theatres",
-      "chainCode": "UEC",
-      "showtime_id": 563631279,
-      "date": "2026-09-11+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -17587,36 +17427,6 @@
     },
     {
       "state": "WV",
-      "city": "Beckley",
-      "zip": "25801",
-      "theater_name": "Marquee Cinemas Galleria 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 563569033,
-      "date": "2026-09-11+15:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "Response payload is not completed: <TransferEncodingError: 400, message='Not enough data to satisfy transfer length header.'>. ConnectionResetError(104, 'Connection reset by peer')"
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Beckley",
-      "zip": "25801",
-      "theater_name": "Marquee Cinemas Galleria 14",
-      "chainName": "Marquee Cinemas",
-      "chainCode": "MRQC",
-      "showtime_id": 563569035,
-      "date": "2026-09-11+21:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": "Response payload is not completed: <TransferEncodingError: 400, message='Not enough data to satisfy transfer length header.'>. ConnectionResetError(104, 'Connection reset by peer')"
-      }
-    },
-    {
-      "state": "WV",
       "city": "Summersville",
       "zip": "26651",
       "theater_name": "Marquee Cinemas Nicholas Showplace",
@@ -18061,6 +17871,134 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakewood Ranch",
+      "zip": "34202",
+      "theater_name": "Lakewood Ranch Cinemas",
+      "chainName": "Sarasota Film Society",
+      "chainCode": "SFS",
+      "showtime_id": 564067581,
+      "date": "2026-09-11+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakewood Ranch",
+      "zip": "34202",
+      "theater_name": "Lakewood Ranch Cinemas",
+      "chainName": "Sarasota Film Society",
+      "chainCode": "SFS",
+      "showtime_id": 564067582,
+      "date": "2026-09-11+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakewood Ranch",
+      "zip": "34202",
+      "theater_name": "Lakewood Ranch Cinemas",
+      "chainName": "Sarasota Film Society",
+      "chainCode": "SFS",
+      "showtime_id": 564067583,
+      "date": "2026-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakewood Ranch",
+      "zip": "34202",
+      "theater_name": "Lakewood Ranch Cinemas",
+      "chainName": "Sarasota Film Society",
+      "chainCode": "SFS",
+      "showtime_id": 564067584,
+      "date": "2026-09-11+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76177",
+      "theater_name": "Cinemark Alliance Town Center and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563505825,
+      "date": "2026-09-11+09:15",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76177",
+      "theater_name": "Cinemark Alliance Town Center and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563505826,
+      "date": "2026-09-11+12:30",
+      "format": "ScreenX",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76177",
+      "theater_name": "Cinemark Alliance Town Center and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563505853,
+      "date": "2026-09-11+09:15",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76177",
+      "theater_name": "Cinemark Alliance Town Center and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 563505854,
+      "date": "2026-09-11+12:30",
+      "format": "D-Box",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
       }
     }
   ]
