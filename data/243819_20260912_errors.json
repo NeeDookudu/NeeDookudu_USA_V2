@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 01:08:03 PM",
+  "last_updated": "2026-09-12 05:27:53 PM",
   "errors": [
     {
       "state": "MA",
@@ -3551,134 +3551,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Leesburg",
-      "zip": "20175",
-      "theater_name": "Village 14 + PTX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563972986,
-      "date": "2026-09-12+12:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Leesburg",
-      "zip": "20175",
-      "theater_name": "Village 14 + PTX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563972985,
-      "date": "2026-09-12+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Leesburg",
-      "zip": "20175",
-      "theater_name": "Village 14 + PTX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563972984,
-      "date": "2026-09-12+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Leesburg",
-      "zip": "20175",
-      "theater_name": "Village 14 + PTX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563972983,
-      "date": "2026-09-12+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Leesburg",
-      "zip": "20175",
-      "theater_name": "Village 14 + PTX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563973006,
-      "date": "2026-09-12+12:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Leesburg",
-      "zip": "20175",
-      "theater_name": "Village 14 + PTX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563973005,
-      "date": "2026-09-12+15:10",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Leesburg",
-      "zip": "20175",
-      "theater_name": "Village 14 + PTX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563973004,
-      "date": "2026-09-12+18:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Leesburg",
-      "zip": "20175",
-      "theater_name": "Village 14 + PTX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 563973003,
-      "date": "2026-09-12+21:20",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -8243,22 +8115,6 @@
     },
     {
       "state": "FL",
-      "city": "Port St. Lucie",
-      "zip": "34986",
-      "theater_name": "AMC Port St. Lucie 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563552491,
-      "date": "2026-09-12+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Winter Haven",
       "zip": "33881",
       "theater_name": "CMX Grand 10",
@@ -8335,22 +8191,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Wellington",
-      "zip": "33414",
-      "theater_name": "CMX Wellington",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 563836292,
-      "date": "2026-09-12+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -12543,22 +12383,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Owosso",
-      "zip": "48867",
-      "theater_name": "NCG Owosso Cinemas",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 563939525,
-      "date": "2026-09-12+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -16803,22 +16627,6 @@
     },
     {
       "state": "TX",
-      "city": "Austin",
-      "zip": "78704",
-      "theater_name": "Alamo Drafthouse Cinema South Lamar",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 563591242,
-      "date": "2026-09-12+12:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "TX",
       "city": "Borger",
       "zip": "79008",
       "theater_name": "Mitchell Theatres Morley Theatre",
@@ -16847,214 +16655,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753579,
-      "date": "2026-09-12+12:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753580,
-      "date": "2026-09-12+15:10",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753567,
-      "date": "2026-09-12+18:20",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563774319,
-      "date": "2026-09-12+21:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753578,
-      "date": "2026-09-12+09:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753577,
-      "date": "2026-09-12+12:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753576,
-      "date": "2026-09-12+13:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753575,
-      "date": "2026-09-12+15:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753574,
-      "date": "2026-09-12+16:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753573,
-      "date": "2026-09-12+18:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563753572,
-      "date": "2026-09-12+19:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563774318,
-      "date": "2026-09-12+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 563774317,
-      "date": "2026-09-12+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -17167,22 +16767,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "ID",
-      "city": "Twin Falls",
-      "zip": "83301",
-      "theater_name": "CinemaWest Magic Valley & Giant Screen with Laser",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 563594474,
-      "date": "2026-09-12+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
       }
     },
     {
@@ -17475,22 +17059,6 @@
     },
     {
       "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84101",
-      "theater_name": "Megaplex Salt Lake City at The Gateway",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 563598191,
-      "date": "2026-09-12+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "UT",
       "city": "Ogden",
       "zip": "84405",
       "theater_name": "Cinemark Tinseltown Ogden 14",
@@ -17599,54 +17167,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Scottsdale",
-      "zip": "85260",
-      "theater_name": "Harkins Shea 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 563941731,
-      "date": "2026-09-12+19:25",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Peoria",
-      "zip": "85345",
-      "theater_name": "Harkins Park West 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 563951419,
-      "date": "2026-09-12+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Peoria",
-      "zip": "85345",
-      "theater_name": "Harkins Park West 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 563951420,
-      "date": "2026-09-12+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404,
-        "reason": "HTTP 404"
       }
     },
     {
@@ -17971,22 +17491,6 @@
     },
     {
       "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87120",
-      "theater_name": "Flix Brewhouse Albuquerque",
-      "chainName": "Flix Brewhouse",
-      "chainCode": "FLIX",
-      "showtime_id": 563573180,
-      "date": "2026-09-12+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "HTTP 500 from seatmap API"
-      }
-    },
-    {
-      "state": "NM",
       "city": "Espanola",
       "zip": "87532",
       "theater_name": "Dreamcatcher Cinema 10",
@@ -18031,38 +17535,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89119",
-      "theater_name": "AMC Town Square 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563652830,
-      "date": "2026-09-12+22:30",
-      "format": "ScreenX",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89119",
-      "theater_name": "AMC Town Square 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563652859,
-      "date": "2026-09-12+12:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 0,
-        "reason": "Timeout"
       }
     },
     {
@@ -18351,22 +17823,6 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Palmdale",
-      "zip": "93551",
-      "theater_name": "Cinemark at Antelope Valley Mall",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 563591068,
-      "date": "2026-09-12+13:15",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 403,
-        "reason": "HTTP 403"
       }
     },
     {
@@ -19850,6 +19306,614 @@
       "chainCode": "CATT",
       "showtime_id": 563686650,
       "date": "2026-09-12+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Ridgefield",
+      "zip": "06877",
+      "theater_name": "Prospector Theater",
+      "chainName": "Prospector Theater",
+      "chainCode": "PRSP",
+      "showtime_id": 563340410,
+      "date": "2026-09-12+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Ridgefield",
+      "zip": "06877",
+      "theater_name": "Prospector Theater",
+      "chainName": "Prospector Theater",
+      "chainCode": "PRSP",
+      "showtime_id": 563340404,
+      "date": "2026-09-12+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Ridgefield",
+      "zip": "06877",
+      "theater_name": "Prospector Theater",
+      "chainName": "Prospector Theater",
+      "chainCode": "PRSP",
+      "showtime_id": 563340407,
+      "date": "2026-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563631674,
+      "date": "2026-09-12+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563631675,
+      "date": "2026-09-12+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563631676,
+      "date": "2026-09-12+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Triadelphia",
+      "zip": "26059",
+      "theater_name": "Marquee Cinemas Highlands 14",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563631677,
+      "date": "2026-09-12+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Wytheville",
+      "zip": "24382",
+      "theater_name": "Marquee Cinemas Wytheville 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563630922,
+      "date": "2026-09-12+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Wytheville",
+      "zip": "24382",
+      "theater_name": "Marquee Cinemas Wytheville 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563630923,
+      "date": "2026-09-12+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Wytheville",
+      "zip": "24382",
+      "theater_name": "Marquee Cinemas Wytheville 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563630924,
+      "date": "2026-09-12+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Wytheville",
+      "zip": "24382",
+      "theater_name": "Marquee Cinemas Wytheville 8",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563630925,
+      "date": "2026-09-12+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 563908552,
+      "date": "2026-09-12+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 563908553,
+      "date": "2026-09-12+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 563908554,
+      "date": "2026-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Charleston",
+      "zip": "25301",
+      "theater_name": "Park Place Cinemas",
+      "chainName": "Park Place Cinemas",
+      "chainCode": "PPC",
+      "showtime_id": 563908555,
+      "date": "2026-09-12+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Summersville",
+      "zip": "26651",
+      "theater_name": "Marquee Cinemas Nicholas Showplace",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563567175,
+      "date": "2026-09-12+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Summersville",
+      "zip": "26651",
+      "theater_name": "Marquee Cinemas Nicholas Showplace",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563567166,
+      "date": "2026-09-12+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Summersville",
+      "zip": "26651",
+      "theater_name": "Marquee Cinemas Nicholas Showplace",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563567167,
+      "date": "2026-09-12+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Summersville",
+      "zip": "26651",
+      "theater_name": "Marquee Cinemas Nicholas Showplace",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563567168,
+      "date": "2026-09-12+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Huntington",
+      "zip": "25701",
+      "theater_name": "Marquee Cinemas Pullman Square 16",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563792970,
+      "date": "2026-09-12+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Huntington",
+      "zip": "25701",
+      "theater_name": "Marquee Cinemas Pullman Square 16",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563751223,
+      "date": "2026-09-12+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Huntington",
+      "zip": "25701",
+      "theater_name": "Marquee Cinemas Pullman Square 16",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563751224,
+      "date": "2026-09-12+18:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Huntington",
+      "zip": "25701",
+      "theater_name": "Marquee Cinemas Pullman Square 16",
+      "chainName": "Marquee Cinemas",
+      "chainCode": "MRQC",
+      "showtime_id": 563751225,
+      "date": "2026-09-12+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cleveland Heights",
+      "zip": "44118",
+      "theater_name": "Cedar Lee Theatre",
+      "chainName": "Cleveland Cinemas",
+      "chainCode": "CLEV",
+      "showtime_id": 563405592,
+      "date": "2026-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cleveland Heights",
+      "zip": "44118",
+      "theater_name": "Cedar Lee Theatre",
+      "chainName": "Cleveland Cinemas",
+      "chainCode": "CLEV",
+      "showtime_id": 563405593,
+      "date": "2026-09-12+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cleveland Heights",
+      "zip": "44118",
+      "theater_name": "Cedar Lee Theatre",
+      "chainName": "Cleveland Cinemas",
+      "chainCode": "CLEV",
+      "showtime_id": 563405594,
+      "date": "2026-09-12+18:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Cleveland Heights",
+      "zip": "44118",
+      "theater_name": "Cedar Lee Theatre",
+      "chainName": "Cleveland Cinemas",
+      "chainCode": "CLEV",
+      "showtime_id": 563405595,
+      "date": "2026-09-12+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Scottsbluff",
+      "zip": "69361",
+      "theater_name": "Golden Ticket Cinemas Reel Lux 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 563489050,
+      "date": "2026-09-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Scottsbluff",
+      "zip": "69361",
+      "theater_name": "Golden Ticket Cinemas Reel Lux 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 563489046,
+      "date": "2026-09-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Scottsbluff",
+      "zip": "69361",
+      "theater_name": "Golden Ticket Cinemas Reel Lux 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 563489037,
+      "date": "2026-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Scottsbluff",
+      "zip": "69361",
+      "theater_name": "Golden Ticket Cinemas Reel Lux 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 563489039,
+      "date": "2026-09-12+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 0,
+        "reason": "Timeout"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 563702954,
+      "date": "2026-09-12+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 563702960,
+      "date": "2026-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 563702955,
+      "date": "2026-09-12+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 563702961,
+      "date": "2026-09-12+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 563702956,
+      "date": "2026-09-12+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 563702970,
+      "date": "2026-09-12+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 563702957,
+      "date": "2026-09-12+21:25",
       "format": "Standard",
       "language": "Unknown",
       "error": {
