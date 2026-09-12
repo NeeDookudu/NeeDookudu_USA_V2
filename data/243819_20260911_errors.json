@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 05:18:38 AM",
+  "last_updated": "2026-09-12 07:55:45 AM",
   "errors": [
     {
       "state": "MA",
@@ -1386,22 +1386,6 @@
       "chainCode": "AMC",
       "showtime_id": 563352433,
       "date": "2026-09-11+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 503,
-        "reason": "HTTP 503"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10023",
-      "theater_name": "AMC Lincoln Square 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 563352434,
-      "date": "2026-09-11+22:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -18442,6 +18426,22 @@
       "chainCode": "FAE",
       "showtime_id": 564098823,
       "date": "2026-09-11+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85033",
+      "theater_name": "America Cinemas Phoenix",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 564102312,
+      "date": "2026-09-11+15:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
