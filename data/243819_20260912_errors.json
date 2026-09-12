@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 05:27:53 PM",
+  "last_updated": "2026-09-12 08:20:46 PM",
   "errors": [
     {
       "state": "MA",
@@ -19919,6 +19919,358 @@
       "error": {
         "status": 400,
         "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cranford",
+      "zip": "07016",
+      "theater_name": "Cranford Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563488919,
+      "date": "2026-09-12+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cranford",
+      "zip": "07016",
+      "theater_name": "Cranford Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563488920,
+      "date": "2026-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cranford",
+      "zip": "07016",
+      "theater_name": "Cranford Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563488921,
+      "date": "2026-09-12+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563333313,
+      "date": "2026-09-12+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563333311,
+      "date": "2026-09-12+17:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563333310,
+      "date": "2026-09-12+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 563333312,
+      "date": "2026-09-12+20:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 563593927,
+      "date": "2026-09-12+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 563593917,
+      "date": "2026-09-12+13:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 563593916,
+      "date": "2026-09-12+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 563593935,
+      "date": "2026-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563353835,
+      "date": "2026-09-12+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563353802,
+      "date": "2026-09-12+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563353803,
+      "date": "2026-09-12+15:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563353804,
+      "date": "2026-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563353828,
+      "date": "2026-09-12+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Albemarle",
+      "zip": "28001",
+      "theater_name": "Eastgate Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563365119,
+      "date": "2026-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Albemarle",
+      "zip": "28001",
+      "theater_name": "Eastgate Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563365123,
+      "date": "2026-09-12+15:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Albemarle",
+      "zip": "28001",
+      "theater_name": "Eastgate Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563365124,
+      "date": "2026-09-12+18:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Albemarle",
+      "zip": "28001",
+      "theater_name": "Eastgate Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 563365120,
+      "date": "2026-09-12+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "reason": "HTTP 400"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Mooresville",
+      "zip": "46158",
+      "theater_name": "Torchlight Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 564119914,
+      "date": "2026-09-12+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404,
+        "reason": "HTTP 404"
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Aberdeen",
+      "zip": "57401",
+      "theater_name": "Golden Ticket Cinemas Aberdeen 9",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 564066207,
+      "date": "2026-09-12+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 410,
+        "reason": "HTTP 410"
       }
     }
   ]
